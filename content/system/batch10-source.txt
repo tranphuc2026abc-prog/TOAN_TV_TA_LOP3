@@ -39,3 +39,44 @@ Có 623 ảnh, mỗi trang tối đa 6 ảnh. Trang cuối có mấy ảnh nếu
 Một phép chia cho 9 có thương 105, dư 4. Bớt ít nhất mấy khỏi số bị chia để chia hết cho 9?|4|Bớt đúng phần dư 4; số còn lại là 9 × 105 = 945.|5;9;105
 Có 816 que làm các khung rời, mỗi khung 4 que. Đã làm 150 khung, còn đủ làm mấy khung?|54|816 : 4 = 204; 204 - 150 = 54 khung.|204;44;64
 Có 729 vé phát đều cho 6 tổ, còn dư. Muốn mỗi tổ nhận 122 vé cần thêm mấy vé vào tổng ban đầu?|3|122 × 6 = 732; 732 - 729 = 3 vé.|6;2;1
+Bài 38
+Biểu thức 18 + 7 có giá trị mấy?|25|Cộng 18 với 7 được 25.|11;24;26
+Trong biểu thức có ngoặc, tính ở đâu trước?|trong ngoặc|Thực hiện phần trong ngoặc trước phần ngoài ngoặc.|bên trái luôn luôn;bên phải luôn luôn;phép cộng ngoài ngoặc
+Biểu thức chỉ có cộng và trừ được tính theo chiều nào?|trái sang phải|Cộng và trừ cùng mức ưu tiên, tính từ trái sang phải.|phải sang trái;trừ trước luôn;cộng trước luôn
+Tính 36 : 6 × 2.|12|36 : 6 = 6; 6 × 2 = 12.|3;6;18
+Tính 40 - 8 + 3.|35|40 - 8 = 32; 32 + 3 = 35.|29;32;51
+Trong 9 + 4 × 3, phép nào làm trước?|4 × 3|Nhân thực hiện trước cộng.|9 + 4;9 × 3;4 + 3
+Tính 7 × (8 - 3).|35|Trong ngoặc được 5; 7 × 5 = 35.|53;56;32
+Tính 63 : (4 + 5).|7|Trong ngoặc được 9; 63 : 9 = 7.|20;9;12
+Giá trị biểu thức là kết quả sau khi tính đúng các phép tính phải không? Trả lời có hoặc không.|có|Giá trị là số tìm được khi thực hiện biểu thức đúng thứ tự.|không;chỉ số đầu;chỉ số cuối
+Tính 28 + 12 : 4.|31|12 : 4 = 3; 28 + 3 = 31.|10;40;7
+Bạn tính 6 + 5 × 4 bằng 44. Giá trị đúng mấy?|26|5 × 4 = 20; 6 + 20 = 26. Bạn đã cộng trước nhân.|44;30;24
+So sánh 24 - 6 : 3 với (24 - 6) : 3. Giá trị thứ nhất hơn thứ hai mấy?|16|Biểu thức đầu được 22, biểu thức sau được 6; 22 - 6 = 16.|0;6;22
+Tính 72 : 8 × 3, có cần nhân 8 với 3 trước không? Trả lời có hoặc không.|không|Chỉ có nhân chia thì làm trái sang phải: 72 : 8 = 9; 9 × 3 = 27.|có;luôn nhân trước;luôn chia cuối
+Biểu thức 50 - (12 + 8) có giá trị mấy?|30|12 + 8 = 20; 50 - 20 = 30.|46;70;38
+Muốn nhóm hai số để tính nhanh 46 + 27 + 73, nên cộng 27 với số nào trước?|73|27 + 73 = 100, rồi 46 + 100 = 146.|46;20;7
+Tính (36 + 24) : 6.|10|36 + 24 = 60; 60 : 6 = 10.|40;60;6
+Tính 80 - 7 × 9.|17|7 × 9 = 63; 80 - 63 = 17.|657;73;63
+Trong 48 : (10 - 4), số chia sau khi tính ngoặc bằng mấy?|6|10 - 4 = 6, nên lấy 48 chia 6.|10;4;14
+Tính 100 - 35 - 15.|50|100 - 35 = 65; 65 - 15 = 50.|80;65;150
+Hai biểu thức 8 × (2 + 3) và 8 × 2 + 3 có bằng nhau không? Trả lời có hoặc không.|không|Biểu thức đầu được 40, biểu thức sau được 19; ngoặc làm thay đổi thứ tự.|có;luôn bằng;đều bằng 40
+Có 5 túi mỗi túi 8 viên, cho đi 7 viên. Biểu thức 5 × 8 - 7 có giá trị mấy?|33|5 × 8 = 40; 40 - 7 = 33 viên.|5;47;13
+Có 48 bút, mua thêm 12 bút rồi chia đều 6 bạn. Mỗi bạn mấy bút?|10|Gộp trước: 48 + 12 = 60; 60 : 6 = 10.|50;8;12
+Có 70 quả, xếp 4 hộp mỗi hộp 9 quả. Ngoài hộp còn mấy quả?|34|4 × 9 = 36; 70 - 36 = 34 quả.|594;61;36
+Có 3 đội, mỗi đội 6 bạn nam và 4 bạn nữ. Tổng mấy bạn?|30|Mỗi đội có 6 + 4 = 10; 3 × 10 = 30 bạn.|22;18;12
+Dây dài 90 cm, cắt 3 đoạn mỗi đoạn 15 cm. Còn mấy cm?|45|3 × 15 = 45; 90 - 45 = 45 cm.|75;225;60
+Có 24 bánh, chia đều 4 bạn rồi mỗi bạn được thêm 2 bánh. Một bạn mấy bánh?|8|24 : 4 = 6; 6 + 2 = 8 bánh.|4;26;12
+Có 6 hộp mỗi hộp 10 nhãn, chia cho 5 nhóm. Mỗi nhóm mấy nhãn?|12|6 × 10 = 60; 60 : 5 = 12 nhãn.|60;30;2
+Một bình có 100 ml, rót thêm 3 lần mỗi lần 25 ml. Có mấy ml?|175|3 × 25 = 75; 100 + 75 = 175 ml.|325;128;75
+Có 72 que, giữ riêng 8 que, chia số còn lại thành 8 phần. Mỗi phần mấy que?|8|72 - 8 = 64; 64 : 8 = 8 que.|71;9;64
+Mỗi túi 7 hạt, có 4 túi đỏ và 5 túi xanh. Tổng mấy hạt?|63|4 + 5 = 9 túi; 7 × 9 = 63 hạt.|33;28;35
+Một số bằng 9 × 6 + 18 : 3. Số đó mấy?|60|9 × 6 = 54; 18 : 3 = 6; 54 + 6 = 60.|24;72;216
+Mỗi hàng 12 ghế, có 3 hàng, thêm 8 ghế rời. Có mấy ghế?|44|12 × 3 = 36; 36 + 8 = 44 ghế.|132;23;36
+Có 80 trang, đọc 15 trang rồi 25 trang. Còn mấy trang?|40|15 + 25 = 40 trang đã đọc; 80 - 40 = 40 trang.|90;65;55
+Hai thùng có 125 và 175 quả, chia đều 5 giỏ. Mỗi giỏ mấy quả?|60|125 + 175 = 300; 300 : 5 = 60 quả.|160;300;35
+Có 4 đoạn dây mỗi đoạn 18 cm, cắt bớt tổng 12 cm. Tổng còn mấy cm?|60|4 × 18 = 72; 72 - 12 = 60 cm.|24;72;84
+Có 96 viên, mỗi túi 8 viên, sau đó ghép hai túi thành một bộ. Được mấy bộ?|6|96 : 8 = 12 túi; 12 : 2 = 6 bộ.|24;12;48
+Một túi có 30 thẻ, bỏ vào thêm 8 thẻ đỏ và 12 thẻ xanh. Tổng mấy thẻ?|50|8 + 12 = 20; 30 + 20 = 50 thẻ.|34;42;38
+Có 7 hộp mỗi hộp 9 bánh. Tặng 3 hộp nguyên thì còn mấy bánh?|36|7 - 3 = 4 hộp; 4 × 9 = 36 bánh.|60;63;27
+Một nhóm có 5 bạn, nhóm khác có 7 bạn. Mỗi bạn làm 3 thiệp. Tổng mấy thiệp?|36|5 + 7 = 12 bạn; 12 × 3 = 36 thiệp.|26;15;21
+Tổng 135 + 65 + 200 tính thuận tiện được mấy?|400|135 + 65 = 200; 200 + 200 = 400.|300;265;335
