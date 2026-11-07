@@ -1,0 +1,783 @@
+{
+  "id": "TOAN3_T1_B37",
+  "subject": "toan",
+  "grade": 3,
+  "book": "Kết nối tri thức với cuộc sống",
+  "volume": 1,
+  "lesson_no": 37,
+  "title": "Chia số có ba chữ số cho số có một chữ số",
+  "topic": "Chia ba chữ số",
+  "source": {
+    "pdf": "03-sgk-toan-3-tap-mot.pdf",
+    "printed_pages": [
+      99,
+      103
+    ],
+    "pdf_pages": [
+      100,
+      104
+    ],
+    "review": "Đã đọc trực quan toàn bộ trang nguồn cho bài này; nội dung và bài tập mới do AI biên soạn."
+  },
+  "objectives": [
+    "Hiểu và giải thích được quy tắc của chủ đề chia ba chữ số.",
+    "Vận dụng vào câu hỏi có dữ kiện đầy đủ, kiểm tra kết quả và sửa lỗi."
+  ],
+  "knowledge": {
+    "introduction": "Đọc rõ điều cần tìm trước khi tính. Chia lần lượt từ trái sang phải, mỗi lượt chia, nhân, trừ rồi hạ chữ số. Hãy xem ví dụ rồi tự làm bài; sau mỗi câu, đọc lời giải để kiểm tra cả cách làm.",
+    "rules": [
+      "Chia lần lượt từ trái sang phải, mỗi lượt chia, nhân, trừ rồi hạ chữ số.",
+      "Nếu lượt đầu một chữ số chưa đủ chia, lấy hai chữ số.",
+      "Phải ghi 0 trong thương ở lượt chưa đủ chia sau khi đã bắt đầu thương.",
+      "Kiểm tra: số chia nhân thương cộng phần dư bằng số bị chia; dư nhỏ hơn số chia."
+    ],
+    "steps": [
+      "Xác định dữ kiện, đơn vị và câu hỏi.",
+      "Chọn quy tắc phù hợp; viết từng bước tính.",
+      "Tính cẩn thận, giữ đúng hàng và thứ tự.",
+      "Kiểm tra lại bằng phép tính ngược hoặc ý nghĩa tình huống."
+    ],
+    "common_errors": [
+      "Bỏ chữ số 0 trong thương.",
+      "Chấp nhận số dư lớn hơn số chia."
+    ]
+  },
+  "examples": [
+    {
+      "question": "Tính 816 chia 4.",
+      "steps": [
+        "8 chia 4 được 2; hạ 1 chưa đủ chia nên ghi 0.",
+        "Hạ 6 thành 16, chia 4 được 4. Thương là 204."
+      ]
+    },
+    {
+      "question": "827 vật xếp hộp tối đa 4 vật. Cần mấy hộp?",
+      "steps": [
+        "4 × 206 + 3 = 827.",
+        "206 hộp đầy và 3 vật cần thêm một hộp: 207 hộp."
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "question_id": "TOAN3_T1_B37_Q01",
+      "type": "mcq",
+      "question": "Tính 648 : 3.",
+      "options": [
+        "216",
+        "206",
+        "218",
+        "226"
+      ],
+      "correct_answer": "216",
+      "distractors": [
+        "206",
+        "218",
+        "226"
+      ],
+      "explanation": "648 : 3 = 216.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T1_B37_Q02",
+      "type": "fill",
+      "question": "Tính nhẩm 800 : 4.",
+      "correct_answer": "200",
+      "distractors": [
+        "20",
+        "204",
+        "400"
+      ],
+      "explanation": "8 trăm chia 4 được 2 trăm.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T1_B37_Q03",
+      "type": "mcq",
+      "question": "Chia số ba chữ số bắt đầu từ bên nào?",
+      "options": [
+        "trái",
+        "phải",
+        "giữa",
+        "đơn vị"
+      ],
+      "correct_answer": "trái",
+      "distractors": [
+        "phải",
+        "giữa",
+        "đơn vị"
+      ],
+      "explanation": "Bắt đầu từ hàng cao nhất bên trái.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T1_B37_Q04",
+      "type": "fill",
+      "question": "Tính 909 : 9.",
+      "correct_answer": "101",
+      "distractors": [
+        "11",
+        "100",
+        "109"
+      ],
+      "explanation": "9 chia 9 được 1; hạ 0 ghi 0; hạ 9 chia được 1.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T1_B37_Q05",
+      "type": "mcq",
+      "question": "Tính 560 : 7.",
+      "options": [
+        "80",
+        "8",
+        "70",
+        "87"
+      ],
+      "correct_answer": "80",
+      "distractors": [
+        "8",
+        "70",
+        "87"
+      ],
+      "explanation": "56 chia 7 được 8, hạ 0 ghi 0.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T1_B37_Q06",
+      "type": "fill",
+      "question": "Chia 425 cho 4 được thương 106. Số dư mấy?",
+      "correct_answer": "1",
+      "distractors": [
+        "2",
+        "3",
+        "4"
+      ],
+      "explanation": "4 × 106 + 1 = 425.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T1_B37_Q07",
+      "type": "mcq",
+      "question": "Khi chia cho 6, số dư phải bé hơn mấy?",
+      "options": [
+        "6",
+        "5",
+        "7",
+        "0"
+      ],
+      "correct_answer": "6",
+      "distractors": [
+        "5",
+        "7",
+        "0"
+      ],
+      "explanation": "Phần dư phải nhỏ hơn số chia 6.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T1_B37_Q08",
+      "type": "fill",
+      "question": "Tính 735 : 5.",
+      "correct_answer": "147",
+      "distractors": [
+        "145",
+        "137",
+        "157"
+      ],
+      "explanation": "7 chia 5 được 1 dư 2; hạ 3 thành 23 được 4 dư 3; hạ 5 thành 35 được 7.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T1_B37_Q09",
+      "type": "mcq",
+      "question": "Trong 603 : 3, chữ số hàng chục của thương là mấy?",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "correct_answer": "0",
+      "distractors": [
+        "1",
+        "2",
+        "3"
+      ],
+      "explanation": "603 : 3 = 201; thương cần giữ chữ số 0 ở hàng chục.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T1_B37_Q10",
+      "type": "fill",
+      "question": "Tính 484 : 4.",
+      "correct_answer": "121",
+      "distractors": [
+        "111",
+        "120",
+        "124"
+      ],
+      "explanation": "4 chia 4 được 1; hạ 8 chia được 2; hạ 4 chia được 1.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T1_B37_Q11",
+      "type": "mcq",
+      "question": "Bạn tính 824 : 4 bằng 26 do bỏ chữ số 0. Thương đúng mấy?",
+      "options": [
+        "206",
+        "26",
+        "204",
+        "216"
+      ],
+      "correct_answer": "206",
+      "distractors": [
+        "26",
+        "204",
+        "216"
+      ],
+      "explanation": "8 chia 4 được 2; hạ 2 chưa đủ chia nên ghi 0; hạ 4 thành 24 được 6.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T1_B37_Q12",
+      "type": "fill",
+      "question": "Muốn kiểm tra thương 107 dư 2 khi chia cho 5, cần tính lại số bị chia mấy?",
+      "correct_answer": "537",
+      "distractors": [
+        "535",
+        "533",
+        "542"
+      ],
+      "explanation": "5 × 107 + 2 = 537.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T1_B37_Q13",
+      "type": "mcq",
+      "question": "Chia 315 cho 6, lượt đầu lấy hai chữ số nào? Điền số.",
+      "options": [
+        "31",
+        "3",
+        "15",
+        "315"
+      ],
+      "correct_answer": "31",
+      "distractors": [
+        "3",
+        "15",
+        "315"
+      ],
+      "explanation": "3 nhỏ hơn 6 nên lấy 31 để chia ở lượt đầu.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T1_B37_Q14",
+      "type": "fill",
+      "question": "Từ 7 × 124 = 868, suy ra 868 : 7 bằng mấy?",
+      "correct_answer": "124",
+      "distractors": [
+        "123",
+        "125",
+        "134"
+      ],
+      "explanation": "Phép chia tìm một thừa số khi biết tích và thừa số kia.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T1_B37_Q15",
+      "type": "mcq",
+      "question": "Chia 713 cho 7, thương là 101. Phần dư mấy?",
+      "options": [
+        "6",
+        "7",
+        "3",
+        "1"
+      ],
+      "correct_answer": "6",
+      "distractors": [
+        "7",
+        "3",
+        "1"
+      ],
+      "explanation": "7 × 101 + 6 = 713; 6 bé hơn 7.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T1_B37_Q16",
+      "type": "fill",
+      "question": "Bạn ghi 431 chia 4 thương 106 dư 7. Cần tăng thương mấy để có kết quả đúng?",
+      "correct_answer": "1",
+      "distractors": [
+        "2",
+        "3",
+        "4"
+      ],
+      "explanation": "Phần dư 7 còn chứa một nhóm 4. Thương đúng 107, dư 3.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T1_B37_Q17",
+      "type": "mcq",
+      "question": "Tìm số bị chia biết số chia 3, thương 208, dư 1.",
+      "options": [
+        "625",
+        "624",
+        "623",
+        "628"
+      ],
+      "correct_answer": "625",
+      "distractors": [
+        "624",
+        "623",
+        "628"
+      ],
+      "explanation": "3 × 208 + 1 = 625.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T1_B37_Q18",
+      "type": "fill",
+      "question": "Hai phép 936 : 3 và 936 : 4, phép nào có thương lớn hơn? Chọn số chia.",
+      "correct_answer": "3",
+      "distractors": [
+        "4",
+        "7",
+        "1"
+      ],
+      "explanation": "936 : 3 = 312; 936 : 4 = 234; 312 lớn hơn 234.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T1_B37_Q19",
+      "type": "mcq",
+      "question": "Thương 120 dư 4 khi chia cho 5 có hợp lệ không? Trả lời có hoặc không.",
+      "options": [
+        "có",
+        "không",
+        "dư quá lớn",
+        "thương phải 124"
+      ],
+      "correct_answer": "có",
+      "distractors": [
+        "không",
+        "dư quá lớn",
+        "thương phải 124"
+      ],
+      "explanation": "Số bị chia là 5 × 120 + 4 = 604, số dư 4 nhỏ hơn 5.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T1_B37_Q20",
+      "type": "fill",
+      "question": "Một số chia cho 8 được thương 109 dư 3. Cần thêm ít nhất mấy để chia hết cho 8?",
+      "correct_answer": "5",
+      "distractors": [
+        "3",
+        "8",
+        "1"
+      ],
+      "explanation": "Phần dư 3 cần thêm 5 để đủ nhóm 8.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T1_B37_Q21",
+      "type": "mcq",
+      "question": "Có 672 hạt chia đều 4 luống. Mỗi luống mấy hạt?",
+      "options": [
+        "168",
+        "166",
+        "178",
+        "158"
+      ],
+      "correct_answer": "168",
+      "distractors": [
+        "166",
+        "178",
+        "158"
+      ],
+      "explanation": "672 : 4 = 168 hạt.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B37_Q22",
+      "type": "fill",
+      "question": "Có 538 nhãn, mỗi gói đầy 5 nhãn. Đóng được mấy gói đầy?",
+      "correct_answer": "107",
+      "distractors": [
+        "108",
+        "106",
+        "103"
+      ],
+      "explanation": "5 × 107 + 3 = 538; có 107 gói đầy.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B37_Q23",
+      "type": "mcq",
+      "question": "Có 538 nhãn cần chứa hết trong các gói tối đa 5 nhãn. Ít nhất mấy gói?",
+      "options": [
+        "108",
+        "107",
+        "109",
+        "105"
+      ],
+      "correct_answer": "108",
+      "distractors": [
+        "107",
+        "109",
+        "105"
+      ],
+      "explanation": "107 gói đầy chứa 535 nhãn; 3 nhãn còn lại cần thêm một gói.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B37_Q24",
+      "type": "fill",
+      "question": "Một dây 945 mm chia đều 9 đoạn. Mỗi đoạn mấy mm?",
+      "correct_answer": "105",
+      "distractors": [
+        "15",
+        "104",
+        "115"
+      ],
+      "explanation": "945 : 9 = 105 mm; không bỏ 0 trong thương.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B37_Q25",
+      "type": "mcq",
+      "question": "Có 756 quyển chia đều vào 6 tủ. Mỗi tủ chuyển đi 20 quyển thì còn mấy quyển?",
+      "options": [
+        "106",
+        "126",
+        "116",
+        "96"
+      ],
+      "correct_answer": "106",
+      "distractors": [
+        "126",
+        "116",
+        "96"
+      ],
+      "explanation": "756 : 6 = 126; 126 - 20 = 106 quyển.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B37_Q26",
+      "type": "fill",
+      "question": "Có 827 quả, mỗi hộp 4 quả. Phần ngoài các hộp đầy có mấy quả?",
+      "correct_answer": "3",
+      "distractors": [
+        "2",
+        "4",
+        "1"
+      ],
+      "explanation": "4 × 206 + 3 = 827.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B37_Q27",
+      "type": "mcq",
+      "question": "Một tổ có 864 thẻ, chia đều 8 bạn. Hai bạn góp lại phần của mình được mấy thẻ?",
+      "options": [
+        "216",
+        "108",
+        "208",
+        "218"
+      ],
+      "correct_answer": "216",
+      "distractors": [
+        "108",
+        "208",
+        "218"
+      ],
+      "explanation": "864 : 8 = 108; 108 × 2 = 216 thẻ.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B37_Q28",
+      "type": "fill",
+      "question": "Có 936 cây chia đều 3 vườn. Đã chuyển đến mỗi vườn 200 cây. Mỗi vườn còn thiếu mấy cây?",
+      "correct_answer": "112",
+      "distractors": [
+        "312",
+        "102",
+        "122"
+      ],
+      "explanation": "936 : 3 = 312; 312 - 200 = 112 cây.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B37_Q29",
+      "type": "mcq",
+      "question": "Cửa hàng có 725 kg đậu, mỗi túi 6 kg. Còn mấy kg chưa đủ túi?",
+      "options": [
+        "5",
+        "6",
+        "4",
+        "2"
+      ],
+      "correct_answer": "5",
+      "distractors": [
+        "6",
+        "4",
+        "2"
+      ],
+      "explanation": "6 × 120 + 5 = 725, còn 5 kg.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B37_Q30",
+      "type": "fill",
+      "question": "Có 425 học sinh, mỗi xe tối đa 8 em. Ít nhất mấy xe để chở hết?",
+      "correct_answer": "54",
+      "distractors": [
+        "53",
+        "55",
+        "52"
+      ],
+      "explanation": "8 × 53 + 1 = 425; cần xe thứ 54 cho em còn lại.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B37_Q31",
+      "type": "mcq",
+      "question": "Có 648 ml nước chia đều 3 ca. Rót thêm 24 ml vào một ca. Ca đó có mấy ml?",
+      "options": [
+        "240",
+        "216",
+        "232",
+        "224"
+      ],
+      "correct_answer": "240",
+      "distractors": [
+        "216",
+        "232",
+        "224"
+      ],
+      "explanation": "648 : 3 = 216; 216 + 24 = 240 ml.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B37_Q32",
+      "type": "fill",
+      "question": "Một số chia 4 thương 203 dư 2. Số đó ít hơn 900 bao nhiêu?",
+      "correct_answer": "86",
+      "distractors": [
+        "814",
+        "88",
+        "76"
+      ],
+      "explanation": "4 × 203 + 2 = 814; 900 - 814 = 86.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B37_Q33",
+      "type": "mcq",
+      "question": "Có 975 g hạt chia đều 5 túi. Lấy 75 g từ một túi, túi đó còn mấy gam?",
+      "options": [
+        "120",
+        "195",
+        "150",
+        "100"
+      ],
+      "correct_answer": "120",
+      "distractors": [
+        "195",
+        "150",
+        "100"
+      ],
+      "explanation": "975 : 5 = 195; 195 - 75 = 120 g.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B37_Q34",
+      "type": "fill",
+      "question": "Có 854 viên, bớt 2 viên rồi chia đều 4 hộp. Mỗi hộp mấy viên?",
+      "correct_answer": "213",
+      "distractors": [
+        "212",
+        "214",
+        "852"
+      ],
+      "explanation": "854 - 2 = 852; 852 : 4 = 213 viên.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B37_Q35",
+      "type": "mcq",
+      "question": "Một cuốn có 936 trang, đọc đều trong 9 ngày. Sau ngày đầu còn mấy trang?",
+      "options": [
+        "832",
+        "104",
+        "822",
+        "842"
+      ],
+      "correct_answer": "832",
+      "distractors": [
+        "104",
+        "822",
+        "842"
+      ],
+      "explanation": "936 : 9 = 104; 936 - 104 = 832 trang.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B37_Q36",
+      "type": "fill",
+      "question": "Có 707 cây chia đều 7 luống. Ba luống có tổng mấy cây?",
+      "correct_answer": "303",
+      "distractors": [
+        "101",
+        "300",
+        "313"
+      ],
+      "explanation": "707 : 7 = 101; 101 × 3 = 303 cây.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B37_Q37",
+      "type": "mcq",
+      "question": "Có 623 ảnh, mỗi trang tối đa 6 ảnh. Trang cuối có mấy ảnh nếu các trang trước đầy?",
+      "options": [
+        "5",
+        "3",
+        "6",
+        "1"
+      ],
+      "correct_answer": "5",
+      "distractors": [
+        "3",
+        "6",
+        "1"
+      ],
+      "explanation": "6 × 103 + 5 = 623; trang cuối có 5 ảnh.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B37_Q38",
+      "type": "fill",
+      "question": "Một phép chia cho 9 có thương 105, dư 4. Bớt ít nhất mấy khỏi số bị chia để chia hết cho 9?",
+      "correct_answer": "4",
+      "distractors": [
+        "5",
+        "9",
+        "105"
+      ],
+      "explanation": "Bớt đúng phần dư 4; số còn lại là 9 × 105 = 945.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B37_Q39",
+      "type": "mcq",
+      "question": "Có 816 que làm các khung rời, mỗi khung 4 que. Đã làm 150 khung, còn đủ làm mấy khung?",
+      "options": [
+        "54",
+        "204",
+        "44",
+        "64"
+      ],
+      "correct_answer": "54",
+      "distractors": [
+        "204",
+        "44",
+        "64"
+      ],
+      "explanation": "816 : 4 = 204; 204 - 150 = 54 khung.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B37_Q40",
+      "type": "fill",
+      "question": "Có 729 vé phát đều cho 6 tổ, còn dư. Muốn mỗi tổ nhận 122 vé cần thêm mấy vé vào tổng ban đầu?",
+      "correct_answer": "3",
+      "distractors": [
+        "6",
+        "2",
+        "1"
+      ],
+      "explanation": "122 × 6 = 732; 732 - 729 = 3 vé.",
+      "difficulty": "van_dung"
+    }
+  ],
+  "games": [
+    {
+      "id": "TOAN3_T1_B37_GAME1",
+      "title": "Thử thách chia ba chữ số",
+      "mode": "treasure",
+      "objective": "Luyện câu hỏi đúng phạm vi bài và đọc phản hồi sau khi trả lời.",
+      "rules": [
+        "Mỗi lượt lấy 10 câu từ bài học.",
+        "Chọn đáp án, đọc lời giải rồi sang câu tiếp theo.",
+        "Mỗi câu đúng được 10 điểm; tối đa 100 điểm."
+      ],
+      "question_ids": [
+        "TOAN3_T1_B37_Q01",
+        "TOAN3_T1_B37_Q02",
+        "TOAN3_T1_B37_Q03",
+        "TOAN3_T1_B37_Q04",
+        "TOAN3_T1_B37_Q05",
+        "TOAN3_T1_B37_Q06",
+        "TOAN3_T1_B37_Q07",
+        "TOAN3_T1_B37_Q08",
+        "TOAN3_T1_B37_Q09",
+        "TOAN3_T1_B37_Q10",
+        "TOAN3_T1_B37_Q11",
+        "TOAN3_T1_B37_Q12",
+        "TOAN3_T1_B37_Q13",
+        "TOAN3_T1_B37_Q14",
+        "TOAN3_T1_B37_Q15",
+        "TOAN3_T1_B37_Q16",
+        "TOAN3_T1_B37_Q17",
+        "TOAN3_T1_B37_Q18",
+        "TOAN3_T1_B37_Q19",
+        "TOAN3_T1_B37_Q20",
+        "TOAN3_T1_B37_Q21",
+        "TOAN3_T1_B37_Q22",
+        "TOAN3_T1_B37_Q23",
+        "TOAN3_T1_B37_Q24",
+        "TOAN3_T1_B37_Q25",
+        "TOAN3_T1_B37_Q26",
+        "TOAN3_T1_B37_Q27",
+        "TOAN3_T1_B37_Q28",
+        "TOAN3_T1_B37_Q29",
+        "TOAN3_T1_B37_Q30",
+        "TOAN3_T1_B37_Q31",
+        "TOAN3_T1_B37_Q32",
+        "TOAN3_T1_B37_Q33",
+        "TOAN3_T1_B37_Q34",
+        "TOAN3_T1_B37_Q35",
+        "TOAN3_T1_B37_Q36",
+        "TOAN3_T1_B37_Q37",
+        "TOAN3_T1_B37_Q38",
+        "TOAN3_T1_B37_Q39",
+        "TOAN3_T1_B37_Q40"
+      ],
+      "answer_source": "practice.correct_answer",
+      "feedback_source": "practice.explanation",
+      "max_score": 100
+    }
+  ],
+  "assessment": {
+    "session_size": 10,
+    "distribution": {
+      "nhan_biet": 3,
+      "thong_hieu": 3,
+      "van_dung": 4
+    },
+    "scoring": "Đúng lần đầu: 1 điểm; đúng sau một gợi ý: 0,5 điểm. Từ 90%: 3 sao; từ 60%: 2 sao; còn lại: 1 sao.",
+    "review_advice": "Xem lời giải các câu sai, đọc lại quy tắc, rồi làm một lượt mới."
+  },
+  "feedback": {
+    "correct": "Chính xác! Hãy đọc lời giải để củng cố cách làm.",
+    "incorrect": "Em thử lại một lần. Sau đó xem đáp án và cách giải."
+  },
+  "verification": {
+    "ai_authored": true,
+    "structure_checked": true,
+    "answer_reviewed": true,
+    "source_reviewed": true,
+    "teacher_approved": false
+  },
+  "status": "AI_CHECKED_AWAITING_TEACHER"
+}

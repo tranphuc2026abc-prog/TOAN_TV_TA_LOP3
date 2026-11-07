@@ -1,0 +1,784 @@
+{
+  "id": "TOAN3_T1_B39",
+  "subject": "toan",
+  "grade": 3,
+  "book": "Kết nối tri thức với cuộc sống",
+  "volume": 1,
+  "lesson_no": 39,
+  "title": "So sánh số lớn gấp mấy lần số bé",
+  "topic": "So sánh số lần",
+  "source": {
+    "pdf": "03-sgk-toan-3-tap-mot.pdf",
+    "printed_pages": [
+      109,
+      110
+    ],
+    "pdf_pages": [
+      110,
+      111
+    ],
+    "review": "Đã đọc trực quan toàn bộ trang nguồn cho bài này; nội dung và bài tập mới do AI biên soạn."
+  },
+  "objectives": [
+    "Hiểu và giải thích được quy tắc của chủ đề so sánh số lần.",
+    "Vận dụng vào câu hỏi có dữ kiện đầy đủ, kiểm tra kết quả và sửa lỗi."
+  ],
+  "knowledge": {
+    "introduction": "Đọc rõ điều cần tìm trước khi tính. Muốn tìm số lớn gấp mấy lần số bé, lấy số lớn chia số bé. Hãy xem ví dụ rồi tự làm bài; sau mỗi câu, đọc lời giải để kiểm tra cả cách làm.",
+    "rules": [
+      "Muốn tìm số lớn gấp mấy lần số bé, lấy số lớn chia số bé.",
+      "Hỏi hơn bao nhiêu đơn vị thì lấy số lớn trừ số bé.",
+      "Số đo phải cùng đơn vị trước khi chia.",
+      "Trả lời số lần bằng đơn vị lần; khi hai nhóm thay đổi phải tìm số mới trước."
+    ],
+    "steps": [
+      "Xác định dữ kiện, đơn vị và câu hỏi.",
+      "Chọn quy tắc phù hợp; viết từng bước tính.",
+      "Tính cẩn thận, giữ đúng hàng và thứ tự.",
+      "Kiểm tra lại bằng phép tính ngược hoặc ý nghĩa tình huống."
+    ],
+    "common_errors": [
+      "Lấy hiệu thay thương.",
+      "Đảo số lớn và số bé.",
+      "Chia hai số đo chưa đổi cùng đơn vị."
+    ]
+  },
+  "examples": [
+    {
+      "question": "45 thẻ gấp 9 thẻ mấy lần?",
+      "steps": [
+        "45 : 9 = 5.",
+        "Đáp số 5 lần; hiệu là 36 thẻ, không phải 36 lần."
+      ]
+    },
+    {
+      "question": "Dây 8 cm so với dây 20 mm gấp mấy lần?",
+      "steps": [
+        "8 cm bằng 80 mm.",
+        "80 : 20 = 4. Đáp số 4 lần."
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "question_id": "TOAN3_T1_B39_Q01",
+      "type": "mcq",
+      "question": "Muốn tìm số lớn gấp mấy lần số bé, dùng phép gì?",
+      "options": [
+        "chia",
+        "trừ",
+        "cộng",
+        "nhân"
+      ],
+      "correct_answer": "chia",
+      "distractors": [
+        "trừ",
+        "cộng",
+        "nhân"
+      ],
+      "explanation": "Lấy số lớn chia cho số bé.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T1_B39_Q02",
+      "type": "fill",
+      "question": "24 gấp mấy lần 6?",
+      "correct_answer": "4",
+      "distractors": [
+        "18",
+        "30",
+        "6"
+      ],
+      "explanation": "24 : 6 = 4 lần.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T1_B39_Q03",
+      "type": "mcq",
+      "question": "35 gấp mấy lần 7?",
+      "options": [
+        "5",
+        "28",
+        "42",
+        "7"
+      ],
+      "correct_answer": "5",
+      "distractors": [
+        "28",
+        "42",
+        "7"
+      ],
+      "explanation": "35 : 7 = 5 lần.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T1_B39_Q04",
+      "type": "fill",
+      "question": "Tìm 28 hơn 4 bao nhiêu đơn vị dùng phép gì?",
+      "correct_answer": "trừ",
+      "distractors": [
+        "chia",
+        "nhân",
+        "cộng"
+      ],
+      "explanation": "Hỏi hơn bao nhiêu dùng trừ, khác hỏi gấp mấy lần.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T1_B39_Q05",
+      "type": "mcq",
+      "question": "Kết quả so sánh số lớn gấp mấy lần số bé ghi đơn vị gì?",
+      "options": [
+        "lần",
+        "cm",
+        "kg",
+        "quả"
+      ],
+      "correct_answer": "lần",
+      "distractors": [
+        "cm",
+        "kg",
+        "quả"
+      ],
+      "explanation": "Thương cho biết số lần, không phải số đồ vật.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T1_B39_Q06",
+      "type": "fill",
+      "question": "Đoạn đỏ 18 cm, xanh 3 cm. Đỏ gấp xanh mấy lần?",
+      "correct_answer": "6",
+      "distractors": [
+        "15",
+        "21",
+        "3"
+      ],
+      "explanation": "18 : 3 = 6 lần.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T1_B39_Q07",
+      "type": "mcq",
+      "question": "Hai số bằng nhau và khác 0 thì số này gấp số kia mấy lần?",
+      "options": [
+        "1",
+        "0",
+        "2",
+        "10"
+      ],
+      "correct_answer": "1",
+      "distractors": [
+        "0",
+        "2",
+        "10"
+      ],
+      "explanation": "Một số khác 0 chia chính nó bằng 1.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T1_B39_Q08",
+      "type": "fill",
+      "question": "40 viên so với 8 viên là gấp mấy lần?",
+      "correct_answer": "5",
+      "distractors": [
+        "32",
+        "48",
+        "8"
+      ],
+      "explanation": "40 : 8 = 5 lần.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T1_B39_Q09",
+      "type": "mcq",
+      "question": "So sánh 60 mm với 2 cm, cần đổi 2 cm ra mấy mm?",
+      "options": [
+        "20",
+        "2",
+        "200",
+        "12"
+      ],
+      "correct_answer": "20",
+      "distractors": [
+        "2",
+        "200",
+        "12"
+      ],
+      "explanation": "2 cm bằng 20 mm, cần cùng đơn vị trước khi chia.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T1_B39_Q10",
+      "type": "fill",
+      "question": "54 gấp mấy lần 9?",
+      "correct_answer": "6",
+      "distractors": [
+        "45",
+        "63",
+        "9"
+      ],
+      "explanation": "54 : 9 = 6 lần.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T1_B39_Q11",
+      "type": "mcq",
+      "question": "Bạn lấy 36 - 6 để trả lời 36 gấp mấy lần 6. Đáp án đúng mấy lần?",
+      "options": [
+        "6",
+        "30",
+        "42",
+        "5"
+      ],
+      "correct_answer": "6",
+      "distractors": [
+        "30",
+        "42",
+        "5"
+      ],
+      "explanation": "Phải tính 36 : 6 = 6 lần, không lấy hiệu 30.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T1_B39_Q12",
+      "type": "fill",
+      "question": "Hai túi 48 g và 12 g. Túi lớn gấp túi bé mấy lần?",
+      "correct_answer": "4",
+      "distractors": [
+        "36",
+        "60",
+        "12"
+      ],
+      "explanation": "48 : 12 = 4 lần.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T1_B39_Q13",
+      "type": "mcq",
+      "question": "Đỏ 8 cm, xanh 20 mm. Đỏ gấp xanh mấy lần?",
+      "options": [
+        "4",
+        "6",
+        "12",
+        "40"
+      ],
+      "correct_answer": "4",
+      "distractors": [
+        "6",
+        "12",
+        "40"
+      ],
+      "explanation": "8 cm bằng 80 mm; 80 : 20 = 4 lần.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T1_B39_Q14",
+      "type": "fill",
+      "question": "Một nhóm 21 bạn, nhóm khác 7 bạn. Nhóm lớn hơn nhóm bé mấy bạn?",
+      "correct_answer": "14",
+      "distractors": [
+        "3",
+        "28",
+        "7"
+      ],
+      "explanation": "21 - 7 = 14 bạn; đây là hiệu, không phải số lần.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T1_B39_Q15",
+      "type": "mcq",
+      "question": "Số lớn gấp 5 lần số bé 8. Số lớn là mấy?",
+      "options": [
+        "40",
+        "13",
+        "3",
+        "45"
+      ],
+      "correct_answer": "40",
+      "distractors": [
+        "13",
+        "3",
+        "45"
+      ],
+      "explanation": "8 × 5 = 40.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T1_B39_Q16",
+      "type": "fill",
+      "question": "Số lớn 72 gấp 8 lần số bé. Số bé mấy?",
+      "correct_answer": "9",
+      "distractors": [
+        "64",
+        "80",
+        "8"
+      ],
+      "explanation": "72 : 8 = 9.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T1_B39_Q17",
+      "type": "mcq",
+      "question": "So sánh 1 l với 250 ml, bình lớn gấp bình bé mấy lần?",
+      "options": [
+        "4",
+        "250",
+        "750",
+        "5"
+      ],
+      "correct_answer": "4",
+      "distractors": [
+        "250",
+        "750",
+        "5"
+      ],
+      "explanation": "1 l bằng 1000 ml; 1000 : 250 = 4 lần.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T1_B39_Q18",
+      "type": "fill",
+      "question": "Có 32 hình ở hàng trên, hàng dưới 8 hình. Hàng trên hơn hàng dưới mấy hình?",
+      "correct_answer": "24",
+      "distractors": [
+        "4",
+        "40",
+        "8"
+      ],
+      "explanation": "32 - 8 = 24 hình; số lần lại là 4.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T1_B39_Q19",
+      "type": "mcq",
+      "question": "Hai dây 45 mm và 9 mm. Hiệu độ dài là 36 mm, còn số lần là mấy?",
+      "options": [
+        "5",
+        "36",
+        "54",
+        "9"
+      ],
+      "correct_answer": "5",
+      "distractors": [
+        "36",
+        "54",
+        "9"
+      ],
+      "explanation": "45 : 9 = 5 lần, không nhầm hiệu 36 với thương.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T1_B39_Q20",
+      "type": "fill",
+      "question": "Bạn lấy số bé chia số lớn để tìm số lớn gấp mấy lần số bé. Cách đó đúng không? Trả lời có hoặc không.",
+      "correct_answer": "không",
+      "distractors": [
+        "có",
+        "luôn đúng",
+        "chỉ cần trừ"
+      ],
+      "explanation": "Cần lấy số lớn chia số bé, không đảo hai số.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T1_B39_Q21",
+      "type": "mcq",
+      "question": "An có 8 tem, Bình có 40 tem. Bình gấp An mấy lần?",
+      "options": [
+        "5",
+        "32",
+        "48",
+        "8"
+      ],
+      "correct_answer": "5",
+      "distractors": [
+        "32",
+        "48",
+        "8"
+      ],
+      "explanation": "40 : 8 = 5 lần.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B39_Q22",
+      "type": "fill",
+      "question": "Buổi sáng trồng 9 cây, chiều trồng 54 cây. Chiều gấp sáng mấy lần?",
+      "correct_answer": "6",
+      "distractors": [
+        "45",
+        "63",
+        "9"
+      ],
+      "explanation": "54 : 9 = 6 lần.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B39_Q23",
+      "type": "mcq",
+      "question": "Bình lớn 900 ml, bình nhỏ 300 ml. Lớn gấp nhỏ mấy lần?",
+      "options": [
+        "3",
+        "600",
+        "1200",
+        "30"
+      ],
+      "correct_answer": "3",
+      "distractors": [
+        "600",
+        "1200",
+        "30"
+      ],
+      "explanation": "900 : 300 = 3 lần.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B39_Q24",
+      "type": "fill",
+      "question": "Một túi 1 kg, túi nhỏ 200 g. Lớn gấp nhỏ mấy lần?",
+      "correct_answer": "5",
+      "distractors": [
+        "800",
+        "200",
+        "50"
+      ],
+      "explanation": "1 kg bằng 1000 g; 1000 : 200 = 5 lần.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B39_Q25",
+      "type": "mcq",
+      "question": "Một dây dài 12 cm, dây ngắn 30 mm. Dài gấp ngắn mấy lần?",
+      "options": [
+        "4",
+        "18",
+        "42",
+        "40"
+      ],
+      "correct_answer": "4",
+      "distractors": [
+        "18",
+        "42",
+        "40"
+      ],
+      "explanation": "12 cm bằng 120 mm; 120 : 30 = 4 lần.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B39_Q26",
+      "type": "fill",
+      "question": "Có 3 hộp mỗi hộp 8 bút, so với một nhóm 6 bút thì tổng ấy gấp mấy lần?",
+      "correct_answer": "4",
+      "distractors": [
+        "18",
+        "6",
+        "24"
+      ],
+      "explanation": "3 × 8 = 24; 24 : 6 = 4 lần.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B39_Q27",
+      "type": "mcq",
+      "question": "Kho có 80 kg, lấy đi 20 kg. Số còn lại gấp 10 kg mấy lần?",
+      "options": [
+        "6",
+        "8",
+        "60",
+        "10"
+      ],
+      "correct_answer": "6",
+      "distractors": [
+        "8",
+        "60",
+        "10"
+      ],
+      "explanation": "80 - 20 = 60; 60 : 10 = 6 lần.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B39_Q28",
+      "type": "fill",
+      "question": "Hai đội làm 56 và 8 cờ. Đội ít làm thêm 6 cờ. Đội nhiều gấp số cờ mới của đội ít mấy lần?",
+      "correct_answer": "4",
+      "distractors": [
+        "7",
+        "42",
+        "14"
+      ],
+      "explanation": "8 + 6 = 14; 56 : 14 = 4 lần.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B39_Q29",
+      "type": "mcq",
+      "question": "Một nhóm có 7 bạn, nhóm khác gấp 3 lần. Tổng hai nhóm mấy bạn?",
+      "options": [
+        "28",
+        "21",
+        "10",
+        "14"
+      ],
+      "correct_answer": "28",
+      "distractors": [
+        "21",
+        "10",
+        "14"
+      ],
+      "explanation": "7 × 3 = 21; 7 + 21 = 28 bạn.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B39_Q30",
+      "type": "fill",
+      "question": "Một túi 15 g, túi khác gấp 6 lần. Túi kia nặng hơn túi đầu mấy gam?",
+      "correct_answer": "75",
+      "distractors": [
+        "90",
+        "21",
+        "9"
+      ],
+      "explanation": "15 × 6 = 90; 90 - 15 = 75 g.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B39_Q31",
+      "type": "mcq",
+      "question": "Thùng lớn 96 quả, thùng nhỏ bằng lớn giảm 4 lần. Thùng nhỏ có mấy quả?",
+      "options": [
+        "24",
+        "92",
+        "100",
+        "4"
+      ],
+      "correct_answer": "24",
+      "distractors": [
+        "92",
+        "100",
+        "4"
+      ],
+      "explanation": "96 : 4 = 24 quả; thùng lớn gấp thùng nhỏ 4 lần.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B39_Q32",
+      "type": "fill",
+      "question": "Có 72 nhãn chia đều 3 bạn. Một bạn có 6 nhãn khác. Phần mỗi bạn được chia gấp 6 nhãn mấy lần?",
+      "correct_answer": "4",
+      "distractors": [
+        "12",
+        "24",
+        "18"
+      ],
+      "explanation": "72 : 3 = 24; 24 : 6 = 4 lần.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B39_Q33",
+      "type": "mcq",
+      "question": "Dây A 90 cm, dây B 15 cm. Cắt A bớt 30 cm. A còn gấp B mấy lần?",
+      "options": [
+        "4",
+        "6",
+        "75",
+        "60"
+      ],
+      "correct_answer": "4",
+      "distractors": [
+        "6",
+        "75",
+        "60"
+      ],
+      "explanation": "90 - 30 = 60; 60 : 15 = 4 lần.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B39_Q34",
+      "type": "fill",
+      "question": "Buổi đầu làm 12 bánh, buổi sau 36 bánh. Tổng hai buổi gấp buổi đầu mấy lần?",
+      "correct_answer": "4",
+      "distractors": [
+        "3",
+        "24",
+        "48"
+      ],
+      "explanation": "12 + 36 = 48; 48 : 12 = 4 lần.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B39_Q35",
+      "type": "mcq",
+      "question": "Một số gấp 7 lần 6. Giảm số đó 3 lần được mấy?",
+      "options": [
+        "14",
+        "39",
+        "42",
+        "13"
+      ],
+      "correct_answer": "14",
+      "distractors": [
+        "39",
+        "42",
+        "13"
+      ],
+      "explanation": "7 × 6 = 42; 42 : 3 = 14.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B39_Q36",
+      "type": "fill",
+      "question": "Cây cao 180 cm, cây thấp 60 cm. Cây cao hơn cây thấp mấy cm?",
+      "correct_answer": "120",
+      "distractors": [
+        "3",
+        "240",
+        "60"
+      ],
+      "explanation": "180 - 60 = 120 cm; số lần là 3 nhưng đề hỏi hiệu.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B39_Q37",
+      "type": "mcq",
+      "question": "Đội A có 5 bạn, đội B 20 bạn. Nếu A thêm 5 bạn thì B gấp A mới mấy lần?",
+      "options": [
+        "2",
+        "4",
+        "15",
+        "10"
+      ],
+      "correct_answer": "2",
+      "distractors": [
+        "4",
+        "15",
+        "10"
+      ],
+      "explanation": "5 + 5 = 10; 20 : 10 = 2 lần.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B39_Q38",
+      "type": "fill",
+      "question": "Có 200 ml ở cốc, chai có 800 ml. Rót bớt chai 200 ml ra nơi khác. Chai còn gấp cốc mấy lần?",
+      "correct_answer": "3",
+      "distractors": [
+        "4",
+        "600",
+        "2"
+      ],
+      "explanation": "800 - 200 = 600; 600 : 200 = 3 lần.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B39_Q39",
+      "type": "mcq",
+      "question": "Số lớn 63, số bé 9. Nếu thêm 9 vào số lớn, số mới gấp số bé mấy lần?",
+      "options": [
+        "8",
+        "7",
+        "54",
+        "9"
+      ],
+      "correct_answer": "8",
+      "distractors": [
+        "7",
+        "54",
+        "9"
+      ],
+      "explanation": "63 + 9 = 72; 72 : 9 = 8 lần.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B39_Q40",
+      "type": "fill",
+      "question": "Một nhóm 6 bạn, nhóm khác 30 bạn. Chuyển 6 bạn từ nhóm lớn sang nhóm nhỏ. Nhóm lớn còn gấp nhóm nhỏ mấy lần?",
+      "correct_answer": "2",
+      "distractors": [
+        "5",
+        "4",
+        "18"
+      ],
+      "explanation": "30 - 6 = 24; 6 + 6 = 12; 24 : 12 = 2 lần.",
+      "difficulty": "van_dung"
+    }
+  ],
+  "games": [
+    {
+      "id": "TOAN3_T1_B39_GAME1",
+      "title": "Thử thách so sánh số lần",
+      "mode": "match",
+      "objective": "Luyện câu hỏi đúng phạm vi bài và đọc phản hồi sau khi trả lời.",
+      "rules": [
+        "Mỗi lượt chọn 5 câu có 5 đáp án khác nhau.",
+        "Chọn câu hỏi bên trái rồi đáp án bên phải. Sai thì thử lại.",
+        "Mỗi cặp đúng 10 điểm; tối đa 50 điểm."
+      ],
+      "question_ids": [
+        "TOAN3_T1_B39_Q01",
+        "TOAN3_T1_B39_Q02",
+        "TOAN3_T1_B39_Q03",
+        "TOAN3_T1_B39_Q04",
+        "TOAN3_T1_B39_Q05",
+        "TOAN3_T1_B39_Q06",
+        "TOAN3_T1_B39_Q07",
+        "TOAN3_T1_B39_Q08",
+        "TOAN3_T1_B39_Q09",
+        "TOAN3_T1_B39_Q10",
+        "TOAN3_T1_B39_Q11",
+        "TOAN3_T1_B39_Q12",
+        "TOAN3_T1_B39_Q13",
+        "TOAN3_T1_B39_Q14",
+        "TOAN3_T1_B39_Q15",
+        "TOAN3_T1_B39_Q16",
+        "TOAN3_T1_B39_Q17",
+        "TOAN3_T1_B39_Q18",
+        "TOAN3_T1_B39_Q19",
+        "TOAN3_T1_B39_Q20",
+        "TOAN3_T1_B39_Q21",
+        "TOAN3_T1_B39_Q22",
+        "TOAN3_T1_B39_Q23",
+        "TOAN3_T1_B39_Q24",
+        "TOAN3_T1_B39_Q25",
+        "TOAN3_T1_B39_Q26",
+        "TOAN3_T1_B39_Q27",
+        "TOAN3_T1_B39_Q28",
+        "TOAN3_T1_B39_Q29",
+        "TOAN3_T1_B39_Q30",
+        "TOAN3_T1_B39_Q31",
+        "TOAN3_T1_B39_Q32",
+        "TOAN3_T1_B39_Q33",
+        "TOAN3_T1_B39_Q34",
+        "TOAN3_T1_B39_Q35",
+        "TOAN3_T1_B39_Q36",
+        "TOAN3_T1_B39_Q37",
+        "TOAN3_T1_B39_Q38",
+        "TOAN3_T1_B39_Q39",
+        "TOAN3_T1_B39_Q40"
+      ],
+      "answer_source": "practice.correct_answer",
+      "feedback_source": "practice.explanation",
+      "max_score": 50
+    }
+  ],
+  "assessment": {
+    "session_size": 10,
+    "distribution": {
+      "nhan_biet": 3,
+      "thong_hieu": 3,
+      "van_dung": 4
+    },
+    "scoring": "Đúng lần đầu: 1 điểm; đúng sau một gợi ý: 0,5 điểm. Từ 90%: 3 sao; từ 60%: 2 sao; còn lại: 1 sao.",
+    "review_advice": "Xem lời giải các câu sai, đọc lại quy tắc, rồi làm một lượt mới."
+  },
+  "feedback": {
+    "correct": "Chính xác! Hãy đọc lời giải để củng cố cách làm.",
+    "incorrect": "Em thử lại một lần. Sau đó xem đáp án và cách giải."
+  },
+  "verification": {
+    "ai_authored": true,
+    "structure_checked": true,
+    "answer_reviewed": true,
+    "source_reviewed": true,
+    "teacher_approved": false
+  },
+  "status": "AI_CHECKED_AWAITING_TEACHER"
+}

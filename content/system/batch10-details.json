@@ -1,0 +1,184 @@
+[
+  {
+    "topic": "Chia ba chữ số",
+    "objectives": [
+      "Hiểu và giải thích được quy tắc của chủ đề chia ba chữ số.",
+      "Vận dụng vào câu hỏi có dữ kiện đầy đủ, kiểm tra kết quả và sửa lỗi."
+    ],
+    "intro": "Đọc rõ điều cần tìm trước khi tính. Chia lần lượt từ trái sang phải, mỗi lượt chia, nhân, trừ rồi hạ chữ số. Hãy xem ví dụ rồi tự làm bài; sau mỗi câu, đọc lời giải để kiểm tra cả cách làm.",
+    "rules": [
+      "Chia lần lượt từ trái sang phải, mỗi lượt chia, nhân, trừ rồi hạ chữ số.",
+      "Nếu lượt đầu một chữ số chưa đủ chia, lấy hai chữ số.",
+      "Phải ghi 0 trong thương ở lượt chưa đủ chia sau khi đã bắt đầu thương.",
+      "Kiểm tra: số chia nhân thương cộng phần dư bằng số bị chia; dư nhỏ hơn số chia."
+    ],
+    "steps": [
+      "Xác định dữ kiện, đơn vị và câu hỏi.",
+      "Chọn quy tắc phù hợp; viết từng bước tính.",
+      "Tính cẩn thận, giữ đúng hàng và thứ tự.",
+      "Kiểm tra lại bằng phép tính ngược hoặc ý nghĩa tình huống."
+    ],
+    "errors": [
+      "Bỏ chữ số 0 trong thương.",
+      "Chấp nhận số dư lớn hơn số chia."
+    ],
+    "examples": [
+      [
+        "Tính 816 chia 4.",
+        [
+          "8 chia 4 được 2; hạ 1 chưa đủ chia nên ghi 0.",
+          "Hạ 6 thành 16, chia 4 được 4. Thương là 204."
+        ]
+      ],
+      [
+        "827 vật xếp hộp tối đa 4 vật. Cần mấy hộp?",
+        [
+          "4 × 206 + 3 = 827.",
+          "206 hộp đầy và 3 vật cần thêm một hộp: 207 hộp."
+        ]
+      ]
+    ],
+    "game": [
+      "Thử thách chia ba chữ số",
+      "Luyện câu hỏi đúng phạm vi bài và đọc phản hồi sau khi trả lời."
+    ],
+    "mode": "treasure"
+  },
+  {
+    "topic": "Biểu thức và thứ tự tính",
+    "objectives": [
+      "Hiểu và giải thích được quy tắc của chủ đề biểu thức và thứ tự tính.",
+      "Vận dụng vào câu hỏi có dữ kiện đầy đủ, kiểm tra kết quả và sửa lỗi."
+    ],
+    "intro": "Đọc rõ điều cần tìm trước khi tính. Có ngoặc thì tính trong ngoặc trước. Hãy xem ví dụ rồi tự làm bài; sau mỗi câu, đọc lời giải để kiểm tra cả cách làm.",
+    "rules": [
+      "Có ngoặc thì tính trong ngoặc trước.",
+      "Chỉ cộng/trừ hoặc chỉ nhân/chia: làm từ trái sang phải.",
+      "Có cả hai nhóm phép tính: nhân/chia trước, cộng/trừ sau.",
+      "Giá trị biểu thức là kết quả tính đúng thứ tự; không tự đổi thứ tự phép trừ hoặc chia."
+    ],
+    "steps": [
+      "Xác định dữ kiện, đơn vị và câu hỏi.",
+      "Chọn quy tắc phù hợp; viết từng bước tính.",
+      "Tính cẩn thận, giữ đúng hàng và thứ tự.",
+      "Kiểm tra lại bằng phép tính ngược hoặc ý nghĩa tình huống."
+    ],
+    "errors": [
+      "Làm mọi phép tính từ trái sang phải dù có nhân/chia.",
+      "Quên ngoặc hoặc mặc định nhân trước chia."
+    ],
+    "examples": [
+      [
+        "Tính 54 - 18 : 3.",
+        [
+          "18 : 3 = 6.",
+          "54 - 6 = 48."
+        ]
+      ],
+      [
+        "Tính (54 - 18) : 3.",
+        [
+          "54 - 18 = 36.",
+          "36 : 3 = 12. Ngoặc làm thay đổi thứ tự."
+        ]
+      ]
+    ],
+    "game": [
+      "Thử thách biểu thức và thứ tự tính",
+      "Luyện câu hỏi đúng phạm vi bài và đọc phản hồi sau khi trả lời."
+    ],
+    "mode": "tf"
+  },
+  {
+    "topic": "So sánh số lần",
+    "objectives": [
+      "Hiểu và giải thích được quy tắc của chủ đề so sánh số lần.",
+      "Vận dụng vào câu hỏi có dữ kiện đầy đủ, kiểm tra kết quả và sửa lỗi."
+    ],
+    "intro": "Đọc rõ điều cần tìm trước khi tính. Muốn tìm số lớn gấp mấy lần số bé, lấy số lớn chia số bé. Hãy xem ví dụ rồi tự làm bài; sau mỗi câu, đọc lời giải để kiểm tra cả cách làm.",
+    "rules": [
+      "Muốn tìm số lớn gấp mấy lần số bé, lấy số lớn chia số bé.",
+      "Hỏi hơn bao nhiêu đơn vị thì lấy số lớn trừ số bé.",
+      "Số đo phải cùng đơn vị trước khi chia.",
+      "Trả lời số lần bằng đơn vị lần; khi hai nhóm thay đổi phải tìm số mới trước."
+    ],
+    "steps": [
+      "Xác định dữ kiện, đơn vị và câu hỏi.",
+      "Chọn quy tắc phù hợp; viết từng bước tính.",
+      "Tính cẩn thận, giữ đúng hàng và thứ tự.",
+      "Kiểm tra lại bằng phép tính ngược hoặc ý nghĩa tình huống."
+    ],
+    "errors": [
+      "Lấy hiệu thay thương.",
+      "Đảo số lớn và số bé.",
+      "Chia hai số đo chưa đổi cùng đơn vị."
+    ],
+    "examples": [
+      [
+        "45 thẻ gấp 9 thẻ mấy lần?",
+        [
+          "45 : 9 = 5.",
+          "Đáp số 5 lần; hiệu là 36 thẻ, không phải 36 lần."
+        ]
+      ],
+      [
+        "Dây 8 cm so với dây 20 mm gấp mấy lần?",
+        [
+          "8 cm bằng 80 mm.",
+          "80 : 20 = 4. Đáp số 4 lần."
+        ]
+      ]
+    ],
+    "game": [
+      "Thử thách so sánh số lần",
+      "Luyện câu hỏi đúng phạm vi bài và đọc phản hồi sau khi trả lời."
+    ],
+    "mode": "match"
+  },
+  {
+    "topic": "Ôn nhân chia, biểu thức và số lần",
+    "objectives": [
+      "Hiểu và giải thích được quy tắc của chủ đề ôn nhân chia, biểu thức và số lần.",
+      "Vận dụng vào câu hỏi có dữ kiện đầy đủ, kiểm tra kết quả và sửa lỗi."
+    ],
+    "intro": "Đọc rõ điều cần tìm trước khi tính. Nhân đủ đơn vị, chục, trăm và cộng số nhớ. Hãy xem ví dụ rồi tự làm bài; sau mỗi câu, đọc lời giải để kiểm tra cả cách làm.",
+    "rules": [
+      "Nhân đủ đơn vị, chục, trăm và cộng số nhớ.",
+      "Chia từ trái sang phải, giữ chữ số 0 trong thương.",
+      "Ngoặc trước; nhân/chia trước cộng/trừ; cùng mức làm từ trái sang phải.",
+      "Tìm dữ kiện trung gian trước khi giải tổng, chênh lệch hoặc số lần."
+    ],
+    "steps": [
+      "Xác định dữ kiện, đơn vị và câu hỏi.",
+      "Chọn quy tắc phù hợp; viết từng bước tính.",
+      "Tính cẩn thận, giữ đúng hàng và thứ tự.",
+      "Kiểm tra lại bằng phép tính ngược hoặc ý nghĩa tình huống."
+    ],
+    "errors": [
+      "Quên số nhớ hoặc chữ số 0.",
+      "Dừng ở kết quả trung gian.",
+      "Nhầm số nhóm đầy với số chỗ chứa hết."
+    ],
+    "examples": [
+      [
+        "Ba túi mỗi túi 135 hạt, thêm 95 hạt rời. Tổng mấy hạt?",
+        [
+          "135 × 3 = 405.",
+          "405 + 95 = 500 hạt."
+        ]
+      ],
+      [
+        "Tính 7 × (4 × 5).",
+        [
+          "4 × 5 = 20.",
+          "7 × 20 = 140. Nhóm các thừa số phù hợp giúp tính nhanh."
+        ]
+      ]
+    ],
+    "game": [
+      "Thử thách ôn nhân chia, biểu thức và số lần",
+      "Luyện câu hỏi đúng phạm vi bài và đọc phản hồi sau khi trả lời."
+    ],
+    "mode": "treasure"
+  }
+]

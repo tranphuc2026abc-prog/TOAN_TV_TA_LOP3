@@ -1,3 +1,9 @@
+# Batch 10 hoàn tất — 08/11/2026
+
+Đã tích hợp Toán 37–40: 4 JSON, 4 Markdown, 160 câu (10/10/20 mỗi bài), 4 trò chơi; lượt 10 câu 3/3/4. Nguồn trang 99–112 đã đọc trực quan ở lượt trước. Các câu đủ dữ kiện chữ, không phụ thuộc hình. npm test đạt trên 40 bài, 1600 câu, 1581 đẳng thức; DOM và hồi quy cũ đạt. Chưa kiểm thử Chromium thật; kiểm tra tự động chưa bao quát mọi biểu thức có ngoặc. Giáo viên duyệt 4 bài, 36 chờ duyệt; mọi bài mới AI_CHECKED_AWAITING_TEACHER. Tổng 40/168; còn 128 mục (Toán 41, Tiếng Việt 62, Tiếng Anh 25). Tiếp Toán 41–44; đọc nguồn trước khi biên soạn.
+
+## Lịch sử
+
 ## Checkpoint đủ câu nguồn Batch 10 — 08/11/2026
 
 Đã bổ sung 40 câu Bài 40; batch10-source.txt hiện đủ 160 câu nguồn Bài 37–40, mỗi bài theo thứ tự 10 nhận biết/10 thông hiểu/20 vận dụng. Chưa đóng gói JSON/Markdown, phần kiến thức và trò chơi, chưa kiểm thử tích hợp bài mới. Không tăng tiến độ: vẫn 36/168 mục đang tích hợp, 1440 câu, 36 trò chơi, 4 bài giáo viên duyệt và 32 chờ duyệt. Bước tiếp theo phải hoàn tất batch10-details.json, build_batch10.py, kiểm tra đáp án/biểu thức ngoặc và hồi quy toàn bộ, rồi commit batch hoàn chỉnh. Không tạo lại 160 câu nguồn đã có.
