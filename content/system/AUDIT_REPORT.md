@@ -1,3 +1,7 @@
+## Kiểm thử tổng hợp — 08/11/2026
+
+Đã đưa kiểm tra dữ liệu/cú pháp và các hồi quy Batch 7–9 vào `npm test`, trước bước DOM, để tránh bỏ sót khi chạy một lệnh. Toàn bộ kiểm tra đạt trên 36 bài/1440 câu. Lượt này chưa bổ sung bài mới; checkpoint vẫn Toán 37–40 (trang in 99–112). Chỉ Toán 1–4 được giáo viên duyệt; 32 bài chờ duyệt, còn 132 mục nháp. Chưa kiểm thử Chromium thật.
+
 ## Batch 9 — Toán 33–36, 07/11/2026
 
 - Đã render và đọc trực quan toàn bộ trang PDF 92–99 (trang in 91–98) bản Toán tập 1 có sẵn trong môi trường. Chưa xác minh hash với PDF trong repo.

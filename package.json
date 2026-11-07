@@ -3,8 +3,10 @@
   "private": true,
   "description": "Phụ thuộc phát triển để kiểm thử luồng học; website vẫn dùng HTML/CSS/JS thuần.",
   "scripts": {
-    "test": "node scripts/test_content_dom.cjs",
-    "validate": "python3 scripts/validate_site.py"
+    "test": "npm run validate && npm run test:regressions && npm run test:dom",
+    "validate": "python3 scripts/validate_site.py",
+    "test:dom": "node scripts/test_content_dom.cjs",
+    "test:regressions": "python3 scripts/test_batch7.py && python3 scripts/test_batch8.py && python3 scripts/test_batch9.py"
   },
   "devDependencies": {
     "jsdom": "31.0.0"
