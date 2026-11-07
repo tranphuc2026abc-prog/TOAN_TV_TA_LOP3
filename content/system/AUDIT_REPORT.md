@@ -1,3 +1,7 @@
+## Checkpoint đủ câu nguồn Batch 10 — 08/11/2026
+
+Đã bổ sung 40 câu Bài 40; batch10-source.txt hiện đủ 160 câu nguồn Bài 37–40, mỗi bài theo thứ tự 10 nhận biết/10 thông hiểu/20 vận dụng. Chưa đóng gói JSON/Markdown, phần kiến thức và trò chơi, chưa kiểm thử tích hợp bài mới. Không tăng tiến độ: vẫn 36/168 mục đang tích hợp, 1440 câu, 36 trò chơi, 4 bài giáo viên duyệt và 32 chờ duyệt. Bước tiếp theo phải hoàn tất batch10-details.json, build_batch10.py, kiểm tra đáp án/biểu thức ngoặc và hồi quy toàn bộ, rồi commit batch hoàn chỉnh. Không tạo lại 160 câu nguồn đã có.
+
 ## Checkpoint Bài 39 — 08/11/2026
 
 Đã nối thêm 40 câu Bài 39 vào batch10-source.txt: phân biệt hiệu với số lần, đổi cùng đơn vị, tình huống thay đổi hai nhóm. Kiểm tra 40 câu không trùng trong bài, lựa chọn khác nhau và tính lại 48 đẳng thức đạt. Nguồn Batch 10 hiện 120/160 câu (Bài 37–39), chưa tích hợp vào website. Tiếp tục Bài 40 và phần kiến thức/ví dụ/game/JSON/Markdown cả batch; chưa tăng số hoàn thiện. Tổng tích hợp giữ 36/168 mục, 1440 câu, 36 game; giáo viên duyệt 4, chờ duyệt 32. Không tạo lại 120 câu đã lưu.

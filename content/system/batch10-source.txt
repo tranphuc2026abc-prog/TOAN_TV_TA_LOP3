@@ -121,3 +121,44 @@ Cây cao 180 cm, cây thấp 60 cm. Cây cao hơn cây thấp mấy cm?|120|180 
 Có 200 ml ở cốc, chai có 800 ml. Rót bớt chai 200 ml ra nơi khác. Chai còn gấp cốc mấy lần?|3|800 - 200 = 600; 600 : 200 = 3 lần.|4;600;2
 Số lớn 63, số bé 9. Nếu thêm 9 vào số lớn, số mới gấp số bé mấy lần?|8|63 + 9 = 72; 72 : 9 = 8 lần.|7;54;9
 Một nhóm 6 bạn, nhóm khác 30 bạn. Chuyển 6 bạn từ nhóm lớn sang nhóm nhỏ. Nhóm lớn còn gấp nhóm nhỏ mấy lần?|2|30 - 6 = 24; 6 + 6 = 12; 24 : 12 = 2 lần.|5;4;18
+Bài 40
+Tính 214 × 3.|642|214 × 3 = 642.|632;624;217
+Tính 828 : 4.|207|828 : 4 = 207, giữ 0 ở hàng chục.|27;206;217
+Giảm 63 đi 7 lần còn mấy?|9|63 : 7 = 9.|56;70;7
+Gấp 125 lên 4 lần được mấy?|500|125 × 4 = 500.|129;121;450
+36 gấp mấy lần 9?|4|36 : 9 = 4 lần.|27;45;9
+Tính 18 + 6 × 3.|36|6 × 3 = 18; 18 + 18 = 36.|72;24;54
+Tính (18 + 6) × 3.|72|18 + 6 = 24; 24 × 3 = 72.|36;54;24
+Tính 48 : 6 × 2.|16|48 : 6 = 8; 8 × 2 = 16.|4;8;24
+Hỏi hơn bao nhiêu đơn vị dùng phép gì?|trừ|Tìm hiệu bằng phép trừ.|chia;nhân;cộng
+Trong phép chia cho 5, dư lớn nhất mấy?|4|Số dư bé hơn 5.|5;6;0
+Bạn tính 912 : 3 bằng 34 vì bỏ 0. Thương đúng mấy?|304|912 : 3 = 304.|34;302;314
+So 6 cm với 15 mm, đoạn dài gấp đoạn ngắn mấy lần?|4|6 cm bằng 60 mm; 60 : 15 = 4.|9;21;40
+Tính 90 - 24 : 6.|86|24 : 6 = 4; 90 - 4 = 86.|11;66;94
+Tính (90 - 24) : 6.|11|90 - 24 = 66; 66 : 6 = 11.|86;66;15
+Nhóm 25 × 4 trước để tính 7 × 25 × 4 được mấy?|700|25 × 4 = 100; 7 × 100 = 700.|175;179;728
+Hai số 48 và 8 có hiệu 40, số lần là mấy?|6|48 : 8 = 6 lần.|40;56;8
+Chia 619 cho 6 thương 103. Dư mấy?|1|6 × 103 + 1 = 619.|2;3;6
+Tính 200 - 45 - 55.|100|200 - 45 = 155; 155 - 55 = 100.|190;155;300
+Muốn tính nhanh 136 + 28 + 72, ghép 28 với số nào?|72|28 + 72 = 100; 136 + 100 = 236.|136;36;8
+Một số giảm 5 lần còn 18. Ban đầu mấy?|90|18 × 5 = 90.|23;13;80
+Mỗi giỏ 126 quả, 3 giỏ có mấy quả?|378|126 × 3 = 378 quả.|368;348;129
+Có 864 hạt chia đều 4 luống. Mỗi luống mấy hạt?|216|864 : 4 = 216 hạt.|206;226;214
+Có 735 ml chia 5 cốc, mỗi cốc uống 47 ml. Mỗi cốc còn mấy ml?|100|735 : 5 = 147; 147 - 47 = 100 ml.|147;688;194
+Một nhóm 8 bạn, nhóm khác gấp 4 lần. Tổng mấy bạn?|40|8 × 4 = 32; 8 + 32 = 40 bạn.|32;12;24
+Có 4 thùng mỗi thùng 215 kg, bán 350 kg. Còn mấy kg?|510|215 × 4 = 860; 860 - 350 = 510 kg.|860;565;610
+Có 437 ảnh, mỗi trang 6 ảnh. Cần ít nhất mấy trang chứa hết?|73|6 × 72 + 5 = 437; phần dư cần trang thứ 73.|72;74;71
+Có 437 ảnh, dán mỗi trang đúng 6 ảnh. Dán được mấy trang đầy?|72|6 × 72 + 5 = 437, có 72 trang đầy.|73;71;5
+Dây 96 cm, dây ngắn bằng dây dài giảm 6 lần. Tổng hai dây mấy cm?|112|96 : 6 = 16; 96 + 16 = 112 cm.|16;80;102
+Có 72 bút, cho 12 rồi chia đều 5 bạn. Mỗi bạn mấy bút?|12|72 - 12 = 60; 60 : 5 = 12 bút.|60;15;14
+Mỗi hộp 9 viên, có 3 hộp đỏ và 5 hộp xanh. Tổng mấy viên?|72|3 + 5 = 8 hộp; 9 × 8 = 72 viên.|32;27;45
+Buổi đầu làm 15 sản phẩm, sau làm 60. Tổng gấp buổi đầu mấy lần?|5|15 + 60 = 75; 75 : 15 = 5 lần.|4;45;75
+Một túi 125 g, túi khác gấp 3 lần. Túi sau hơn trước mấy gam?|250|125 × 3 = 375; 375 - 125 = 250 g.|375;500;128
+Có 816 que làm khung rời 4 que mỗi khung. Bán 104 khung, còn mấy khung?|100|816 : 4 = 204; 204 - 104 = 100 khung.|204;712;110
+Bình 1 l, rót 4 cốc mỗi cốc 175 ml. Còn mấy ml?|300|175 × 4 = 700; 1000 - 700 = 300 ml.|700;825;400
+Có 6 đội mỗi đội 12 bạn, chia lại thành 9 nhóm. Mỗi nhóm mấy bạn?|8|6 × 12 = 72; 72 : 9 = 8 bạn.|72;18;9
+Dây 9 cm, cắt 18 mm rồi chia phần còn lại làm 4. Mỗi phần mấy mm?|18|9 cm bằng 90 mm; 90 - 18 = 72; 72 : 4 = 18 mm.|72;22;27
+Hai túi 630 g và 90 g. Túi lớn bớt 180 g thì còn gấp túi nhỏ mấy lần?|5|630 - 180 = 450; 450 : 90 = 5 lần.|7;450;6
+Một số bằng 8 × (15 - 6) + 28. Số ấy mấy?|100|15 - 6 = 9; 8 × 9 = 72; 72 + 28 = 100.|142;72;94
+Có 28 học sinh, thêm 8 rồi chia đội 6 bạn. Có mấy đội?|6|28 + 8 = 36; 36 : 6 = 6 đội.|36;9;4
+Có 5 gói mỗi gói 148 hạt, dùng 240 hạt. Còn mấy hạt?|500|148 × 5 = 740; 740 - 240 = 500 hạt.|740;600;388
