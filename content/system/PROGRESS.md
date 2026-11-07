@@ -1,3 +1,7 @@
+## Checkpoint biên soạn Batch 10 — 08/11/2026
+
+Đã biên soạn và lưu 40 câu nguồn Toán 37 trong batch10-source.txt, kèm đáp án, lời giải, ba phương án nhiễu; phân mức theo thứ tự 10/10/20. Đã kiểm tra không trùng nguyên câu trong bài, bốn lựa chọn khác nhau, tính lại 39 đẳng thức. Đây là nguồn soạn dở, chưa có JSON/Markdown bài, chưa tích hợp hoặc kiểm thử DOM cho bài mới. Không tăng số bài hoàn thiện: vẫn 36/168, 1440 câu đang tích hợp, 36 trò chơi; giáo viên duyệt 4, chờ duyệt 32. Cần tiếp tục 120 câu Bài 38–40, phần hướng dẫn/ví dụ/trò chơi của cả bốn bài rồi đóng gói, kiểm thử và commit Batch 10. Không tạo lại 40 câu Bài 37 đã lưu.
+
 ## Đối chiếu nguồn kế tiếp — 08/11/2026
 
 Đã đọc trực quan nguồn Toán 37–40, trang in 99–112 (PDF 100–113); ghi chú tại BATCH10_SOURCE_REVIEW.md. Chưa biên soạn đủ 160 câu nên chưa tạo batch học liệu và không tăng tiến độ. Tổng giữ 36/168 mục, 1440 câu, 36 trò chơi; 4 bài giáo viên duyệt, 32 chờ duyệt, 132 mục nháp. Nối tiếp biên soạn Toán 37–40, không cần đọc lại trừ khi nguồn thay đổi.
