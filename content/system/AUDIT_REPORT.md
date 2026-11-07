@@ -1,3 +1,7 @@
+## Đối chiếu nguồn kế tiếp — 08/11/2026
+
+Đã đọc trực quan nguồn Toán 37–40, trang in 99–112 (PDF 100–113); ghi chú tại BATCH10_SOURCE_REVIEW.md. Chưa biên soạn đủ 160 câu nên chưa tạo batch học liệu và không tăng tiến độ. Tổng giữ 36/168 mục, 1440 câu, 36 trò chơi; 4 bài giáo viên duyệt, 32 chờ duyệt, 132 mục nháp. Nối tiếp biên soạn Toán 37–40, không cần đọc lại trừ khi nguồn thay đổi.
+
 ## Kiểm thử tổng hợp — 08/11/2026
 
 Đã đưa kiểm tra dữ liệu/cú pháp và các hồi quy Batch 7–9 vào `npm test`, trước bước DOM, để tránh bỏ sót khi chạy một lệnh. Toàn bộ kiểm tra đạt trên 36 bài/1440 câu. Lượt này chưa bổ sung bài mới; checkpoint vẫn Toán 37–40 (trang in 99–112). Chỉ Toán 1–4 được giáo viên duyệt; 32 bài chờ duyệt, còn 132 mục nháp. Chưa kiểm thử Chromium thật.
