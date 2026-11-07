@@ -1,3 +1,7 @@
+## Checkpoint Bài 39 — 08/11/2026
+
+Đã nối thêm 40 câu Bài 39 vào batch10-source.txt: phân biệt hiệu với số lần, đổi cùng đơn vị, tình huống thay đổi hai nhóm. Kiểm tra 40 câu không trùng trong bài, lựa chọn khác nhau và tính lại 48 đẳng thức đạt. Nguồn Batch 10 hiện 120/160 câu (Bài 37–39), chưa tích hợp vào website. Tiếp tục Bài 40 và phần kiến thức/ví dụ/game/JSON/Markdown cả batch; chưa tăng số hoàn thiện. Tổng tích hợp giữ 36/168 mục, 1440 câu, 36 game; giáo viên duyệt 4, chờ duyệt 32. Không tạo lại 120 câu đã lưu.
+
 ## Checkpoint Bài 38 — 08/11/2026
 
 Đã thêm 40 câu nguồn Bài 38 nối sau 40 câu Bài 37 trong batch10-source.txt. Tổng nguồn Batch 10 hiện 80/160 câu; chưa tích hợp bài mới. Bài 38 có thứ tự cùng mức từ trái sang phải, nhân/chia trước, ngoặc trước, lỗi sai và tình huống thực tế. Đã kiểm tra số dòng, không trùng trong bài, bốn lựa chọn khác nhau; chưa kiểm thử DOM hay validator biểu thức đầy đủ. Tiếp tục 80 câu Bài 39–40 cùng phần kiến thức/ví dụ/game, rồi đóng gói cả batch. Tiến độ đang tích hợp vẫn 36/168, 1440 câu, 36 game; giáo viên duyệt 4, chờ duyệt 32. Không tạo lại nguồn Bài 37–38.

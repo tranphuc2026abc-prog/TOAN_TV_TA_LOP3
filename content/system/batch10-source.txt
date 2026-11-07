@@ -80,3 +80,44 @@ Một túi có 30 thẻ, bỏ vào thêm 8 thẻ đỏ và 12 thẻ xanh. Tổng
 Có 7 hộp mỗi hộp 9 bánh. Tặng 3 hộp nguyên thì còn mấy bánh?|36|7 - 3 = 4 hộp; 4 × 9 = 36 bánh.|60;63;27
 Một nhóm có 5 bạn, nhóm khác có 7 bạn. Mỗi bạn làm 3 thiệp. Tổng mấy thiệp?|36|5 + 7 = 12 bạn; 12 × 3 = 36 thiệp.|26;15;21
 Tổng 135 + 65 + 200 tính thuận tiện được mấy?|400|135 + 65 = 200; 200 + 200 = 400.|300;265;335
+Bài 39
+Muốn tìm số lớn gấp mấy lần số bé, dùng phép gì?|chia|Lấy số lớn chia cho số bé.|trừ;cộng;nhân
+24 gấp mấy lần 6?|4|24 : 6 = 4 lần.|18;30;6
+35 gấp mấy lần 7?|5|35 : 7 = 5 lần.|28;42;7
+Tìm 28 hơn 4 bao nhiêu đơn vị dùng phép gì?|trừ|Hỏi hơn bao nhiêu dùng trừ, khác hỏi gấp mấy lần.|chia;nhân;cộng
+Kết quả so sánh số lớn gấp mấy lần số bé ghi đơn vị gì?|lần|Thương cho biết số lần, không phải số đồ vật.|cm;kg;quả
+Đoạn đỏ 18 cm, xanh 3 cm. Đỏ gấp xanh mấy lần?|6|18 : 3 = 6 lần.|15;21;3
+Hai số bằng nhau và khác 0 thì số này gấp số kia mấy lần?|1|Một số khác 0 chia chính nó bằng 1.|0;2;10
+40 viên so với 8 viên là gấp mấy lần?|5|40 : 8 = 5 lần.|32;48;8
+So sánh 60 mm với 2 cm, cần đổi 2 cm ra mấy mm?|20|2 cm bằng 20 mm, cần cùng đơn vị trước khi chia.|2;200;12
+54 gấp mấy lần 9?|6|54 : 9 = 6 lần.|45;63;9
+Bạn lấy 36 - 6 để trả lời 36 gấp mấy lần 6. Đáp án đúng mấy lần?|6|Phải tính 36 : 6 = 6 lần, không lấy hiệu 30.|30;42;5
+Hai túi 48 g và 12 g. Túi lớn gấp túi bé mấy lần?|4|48 : 12 = 4 lần.|36;60;12
+Đỏ 8 cm, xanh 20 mm. Đỏ gấp xanh mấy lần?|4|8 cm bằng 80 mm; 80 : 20 = 4 lần.|6;12;40
+Một nhóm 21 bạn, nhóm khác 7 bạn. Nhóm lớn hơn nhóm bé mấy bạn?|14|21 - 7 = 14 bạn; đây là hiệu, không phải số lần.|3;28;7
+Số lớn gấp 5 lần số bé 8. Số lớn là mấy?|40|8 × 5 = 40.|13;3;45
+Số lớn 72 gấp 8 lần số bé. Số bé mấy?|9|72 : 8 = 9.|64;80;8
+So sánh 1 l với 250 ml, bình lớn gấp bình bé mấy lần?|4|1 l bằng 1000 ml; 1000 : 250 = 4 lần.|250;750;5
+Có 32 hình ở hàng trên, hàng dưới 8 hình. Hàng trên hơn hàng dưới mấy hình?|24|32 - 8 = 24 hình; số lần lại là 4.|4;40;8
+Hai dây 45 mm và 9 mm. Hiệu độ dài là 36 mm, còn số lần là mấy?|5|45 : 9 = 5 lần, không nhầm hiệu 36 với thương.|36;54;9
+Bạn lấy số bé chia số lớn để tìm số lớn gấp mấy lần số bé. Cách đó đúng không? Trả lời có hoặc không.|không|Cần lấy số lớn chia số bé, không đảo hai số.|có;luôn đúng;chỉ cần trừ
+An có 8 tem, Bình có 40 tem. Bình gấp An mấy lần?|5|40 : 8 = 5 lần.|32;48;8
+Buổi sáng trồng 9 cây, chiều trồng 54 cây. Chiều gấp sáng mấy lần?|6|54 : 9 = 6 lần.|45;63;9
+Bình lớn 900 ml, bình nhỏ 300 ml. Lớn gấp nhỏ mấy lần?|3|900 : 300 = 3 lần.|600;1200;30
+Một túi 1 kg, túi nhỏ 200 g. Lớn gấp nhỏ mấy lần?|5|1 kg bằng 1000 g; 1000 : 200 = 5 lần.|800;200;50
+Một dây dài 12 cm, dây ngắn 30 mm. Dài gấp ngắn mấy lần?|4|12 cm bằng 120 mm; 120 : 30 = 4 lần.|18;42;40
+Có 3 hộp mỗi hộp 8 bút, so với một nhóm 6 bút thì tổng ấy gấp mấy lần?|4|3 × 8 = 24; 24 : 6 = 4 lần.|18;6;24
+Kho có 80 kg, lấy đi 20 kg. Số còn lại gấp 10 kg mấy lần?|6|80 - 20 = 60; 60 : 10 = 6 lần.|8;60;10
+Hai đội làm 56 và 8 cờ. Đội ít làm thêm 6 cờ. Đội nhiều gấp số cờ mới của đội ít mấy lần?|4|8 + 6 = 14; 56 : 14 = 4 lần.|7;42;14
+Một nhóm có 7 bạn, nhóm khác gấp 3 lần. Tổng hai nhóm mấy bạn?|28|7 × 3 = 21; 7 + 21 = 28 bạn.|21;10;14
+Một túi 15 g, túi khác gấp 6 lần. Túi kia nặng hơn túi đầu mấy gam?|75|15 × 6 = 90; 90 - 15 = 75 g.|90;21;9
+Thùng lớn 96 quả, thùng nhỏ bằng lớn giảm 4 lần. Thùng nhỏ có mấy quả?|24|96 : 4 = 24 quả; thùng lớn gấp thùng nhỏ 4 lần.|92;100;4
+Có 72 nhãn chia đều 3 bạn. Một bạn có 6 nhãn khác. Phần mỗi bạn được chia gấp 6 nhãn mấy lần?|4|72 : 3 = 24; 24 : 6 = 4 lần.|12;24;18
+Dây A 90 cm, dây B 15 cm. Cắt A bớt 30 cm. A còn gấp B mấy lần?|4|90 - 30 = 60; 60 : 15 = 4 lần.|6;75;60
+Buổi đầu làm 12 bánh, buổi sau 36 bánh. Tổng hai buổi gấp buổi đầu mấy lần?|4|12 + 36 = 48; 48 : 12 = 4 lần.|3;24;48
+Một số gấp 7 lần 6. Giảm số đó 3 lần được mấy?|14|7 × 6 = 42; 42 : 3 = 14.|39;42;13
+Cây cao 180 cm, cây thấp 60 cm. Cây cao hơn cây thấp mấy cm?|120|180 - 60 = 120 cm; số lần là 3 nhưng đề hỏi hiệu.|3;240;60
+Đội A có 5 bạn, đội B 20 bạn. Nếu A thêm 5 bạn thì B gấp A mới mấy lần?|2|5 + 5 = 10; 20 : 10 = 2 lần.|4;15;10
+Có 200 ml ở cốc, chai có 800 ml. Rót bớt chai 200 ml ra nơi khác. Chai còn gấp cốc mấy lần?|3|800 - 200 = 600; 600 : 200 = 3 lần.|4;600;2
+Số lớn 63, số bé 9. Nếu thêm 9 vào số lớn, số mới gấp số bé mấy lần?|8|63 + 9 = 72; 72 : 9 = 8 lần.|7;54;9
+Một nhóm 6 bạn, nhóm khác 30 bạn. Chuyển 6 bạn từ nhóm lớn sang nhóm nhỏ. Nhóm lớn còn gấp nhóm nhỏ mấy lần?|2|30 - 6 = 24; 6 + 6 = 12; 24 : 12 = 2 lần.|5;4;18
