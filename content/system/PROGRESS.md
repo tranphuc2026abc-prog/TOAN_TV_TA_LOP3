@@ -1,3 +1,11 @@
+# SVG Batch 20 — 09/11/2026
+
+Đã bổ sung bộ dựng 11 SVG mới và ánh xạ batch20-figures.json: chu vi/diện tích hình chữ nhật, hình vuông, vườn, cắt bìa, hai hình vuông ghép, cạnh chung tam giác, đường kính và bảng lượt mượn. XML hợp lệ; đã xuất và xem trực quan riêng hình cắt bìa Q23. Những SVG còn lại cần xem trực quan trước khi đánh dấu đã kiểm tra hình toàn bộ. Chưa gắn vào câu hỏi trên luồng học.
+
+Tiếp tạo builder Batch 20 đọc ánh xạ để gắn figure vào từng câu JSON và Markdown, hoàn thiện hình cần thiết còn thiếu, rà đáp án độc lập rồi chạy hồi quy/DOM và tích hợp 4 bài. INDEX vẫn 76/168 mục, 3040 câu, 76 trò chơi; giáo viên duyệt 4, 72 chờ duyệt, 92 mục nháp. Không tạo lại 160 câu và kiến thức đã lưu.
+
+## Lịch sử
+
 # Kiến thức và ví dụ Batch 20 — 09/11/2026
 
 Đã lưu batch20-details.json gồm mục tiêu, giải thích kiến thức, quy tắc, hướng dẫn, lỗi thường gặp, hai ví dụ có lời giải và cấu hình trò chơi riêng cho mỗi Bài 77–80. Giữ nguyên 160 câu nguồn. JSON chi tiết hợp lệ. Đây là nội dung chuẩn bị đóng gói, chưa có học liệu mới trong luồng học chính.
