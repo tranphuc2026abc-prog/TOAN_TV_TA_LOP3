@@ -1,0 +1,41 @@
+Bài 61
+Làm tròn 23418 đến hàng nghìn.|23000|Hàng trăm là 4 nên làm xuống.|24000;23400;20000
+Làm tròn 56721 đến hàng nghìn.|57000|Hàng trăm là 7 nên làm lên.|56000;56700;60000
+Làm tròn 48500 đến hàng nghìn.|49000|Hàng trăm bằng 5 nên làm lên.|48000;48500;50000
+Làm tròn 72000 đến hàng nghìn.|72000|Số đã tròn nghìn được giữ nguyên.|70000;73000;72100
+Làm tròn 63128 đến hàng chục nghìn.|60000|Hàng nghìn là 3 bé hơn 5.|63000;70000;63100
+Làm tròn 87832 đến hàng chục nghìn.|90000|Hàng nghìn là 7 nên làm lên.|80000;88000;87000
+Làm tròn 35000 đến hàng chục nghìn.|40000|Hàng nghìn bằng 5 nên làm lên.|30000;35000;36000
+Làm tròn 90000 đến hàng chục nghìn.|90000|Số đã tròn chục nghìn được giữ nguyên.|100000;91000;80000
+Làm tròn đến nghìn cần xét hàng nào?|trăm|Hàng ngay bên phải hàng nghìn là hàng trăm.|chục;nghìn;đơn vị
+Làm tròn đến chục nghìn cần xét hàng nào?|nghìn|Hàng ngay bên phải chục nghìn là nghìn.|trăm;chục;đơn vị
+Vì sao 32490 làm tròn đến nghìn được 32000? Ghi chữ số quyết định.|4|Hàng trăm là 4, không xét hàng chục 9.|9;2;3
+Làm tròn 99999 đến nghìn.|100000|Hàng trăm 9 nên tăng qua mốc 100000.|99000;99900;90000
+Số 74520 làm tròn đến nghìn và chục nghìn có cùng kết quả không?|không|Đến nghìn được 75000, đến chục nghìn được 70000.|có;74500;74000
+Làm tròn trực tiếp 44999 đến chục nghìn.|40000|Hàng nghìn là 4; không làm tròn qua hàng nghìn trước.|50000;45000;44000
+Trong 28499 và 28500, số nào làm tròn đến nghìn được 29000?|28500|28500 có hàng trăm 5; 28499 có hàng trăm 4.|28499;28000;27499
+Trong 64999 và 65000, số nào làm tròn đến chục nghìn được 70000?|65000|65000 ở điểm giữa nên làm lên; 64999 xuống 60000.|64999;64000;60000
+Một bạn làm tròn 52786 đến nghìn thành 52800. Kết quả đúng là gì?|53000|52800 là kết quả đến trăm; đến nghìn xét hàng trăm 7.|52800;52000;50000
+Số nằm đúng giữa 18000 và 19000 là số nào?|18500|18500 cách mỗi mốc 500 đơn vị.|18050;18400;18600
+Số nằm đúng giữa 80000 và 90000 là số nào?|85000|85000 cách mỗi mốc 5000 đơn vị.|80500;84000;86000
+Làm tròn 10501 đến nghìn.|11000|Hàng trăm 5 nên làm lên 11000.|10000;10500;20000
+Kho có 24681 kg thóc. Báo cáo đến nghìn ghi khoảng bao nhiêu ki-lô-gam?|25000|Hàng trăm 6 nên làm lên 25000.|24000;24700;20000
+Một huyện giả định có 83129 người. Làm tròn đến chục nghìn được bao nhiêu người?|80000|Hàng nghìn 3 nên làm xuống 80000.|83000;90000;83100
+Thư viện có 38412 sách. Bạn nói khoảng 38000 sách. Bạn đã làm tròn đến hàng nào?|nghìn|Đến nghìn xét hàng trăm 4, được 38000.|trăm;chục;chục nghìn
+Một báo cáo làm tròn 68412 thành 70000. Báo cáo làm tròn đến hàng nào?|chục nghìn|Hàng nghìn 8 nên làm lên chục nghìn kế tiếp.|nghìn;trăm;chục
+Số nguyên nhỏ nhất làm tròn đến nghìn được 42000 là gì?|41500|41500 là điểm bắt đầu làm lên 42000; 41499 xuống 41000.|41499;41000;42000
+Số nguyên lớn nhất làm tròn đến nghìn được 42000 là gì?|42499|42499 xuống 42000; 42500 đã lên 43000.|42500;42999;41999
+Số nguyên nhỏ nhất làm tròn đến chục nghìn được 60000 là gì?|55000|55000 ở giữa 50000 và 60000 nên làm lên.|54999;50000;60000
+Số nguyên lớn nhất làm tròn đến chục nghìn được 60000 là gì?|64999|64999 xuống 60000; 65000 lên 70000.|65000;69999;59999
+Một số 27?18 làm tròn đến nghìn được 28000. Chữ số nhỏ nhất thay dấu hỏi là mấy?|5|Hàng trăm phải từ 5 trở lên, nhỏ nhất là 5.|4;0;9
+Một số 8?321 làm tròn đến chục nghìn được 80000. Chữ số lớn nhất thay dấu hỏi là mấy?|4|Hàng nghìn phải bé hơn 5, lớn nhất là 4.|5;9;8
+Có 19450 vé. Làm tròn trực tiếp đến nghìn được bao nhiêu vé?|19000|Hàng trăm là 4; không lấy kết quả đến trăm trước.|20000;19500;19400
+Hai kho có 12480 và 12520 hộp. Làm tròn từng lượng đến nghìn rồi cộng được bao nhiêu hộp?|25000|Hai kết quả là 12000 và 13000, tổng 25000.|24000;26000;20000
+Đường dài 45999 m. Làm tròn đến chục nghìn rồi so với số thực, số gần đúng hơn bao nhiêu mét?|4001|Kết quả là 50000; 50000 - 45999 = 4001 m.|4999;1;1000
+Máy làm tròn đến nghìn biến 71382 thành 71000. Đưa 75612 vào máy được số nào?|76000|Hàng trăm 6 nên làm lên 76000.|75000;75600;80000
+Trong 31499, 31500, 32500, số nào làm tròn đến nghìn được 32000?|31500|31499 xuống 31000; 31500 lên 32000; 32500 lên 33000.|31499;32500;33000
+Trong 94999, 95000, 94000, số nào làm tròn đến chục nghìn được 100000?|95000|95000 có hàng nghìn 5 nên làm lên 100000.|94999;94000;90000
+Một số 61500 được làm tròn đến nghìn. Kết quả hơn số ban đầu bao nhiêu?|500|Kết quả 62000; 62000 - 61500 = 500.|1000;1500;50
+Bản tin ghi khoảng 30000 sau làm tròn đến chục nghìn. Số thực có thể là 24999, 25000 hay 35000?|25000|25000 lên 30000; 24999 xuống 20000; 35000 lên 40000.|24999;35000;40000
+Một số có năm chữ số, hàng chục nghìn 6, hàng nghìn 4, hàng trăm 9, hai hàng cuối 0. Làm tròn trực tiếp đến chục nghìn được gì?|60000|Số là 64900; hàng nghìn 4 quyết định làm xuống.|70000;65000;64000
+Đếm số gần đúng không thay số chính xác: có 22840 cuốn, báo cáo làm tròn đến nghìn. Số ghi báo cáo là gì?|23000|Hàng trăm 8 nên ghi khoảng 23000; số đếm thực vẫn 22840.|22800;22000;20000

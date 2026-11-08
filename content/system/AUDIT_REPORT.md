@@ -1,3 +1,11 @@
+# Checkpoint nguồn Batch 16 — 08/11/2026
+
+Đã đọc trực quan trang in 64–75 (PDF 65–76) Toán tập 2 bản sẵn có cho Bài 61–64; chưa đối chiếu hash PDF với repo. Đã soạn 40 câu nguồn riêng Bài 61 trong batch16-source.txt (thứ tự 10/10/20), kiểm tra số dòng, câu không trùng và bốn phương án khác nhau. Chưa đóng gói JSON/Markdown/game hay tích hợp; không tăng INDEX. Tiếp theo soạn Bài 62–64 và hoàn thiện cả batch rồi kiểm thử. Không tạo lại 40 câu nguồn Bài 61.
+
+Tổng tích hợp vẫn 60/168 mục, 2400 câu, 60 trò chơi; giáo viên duyệt 4, chờ duyệt 56, còn 108 mục. Không tự duyệt bài mới. Đây là checkpoint nguồn, không phải batch hoàn chỉnh.
+
+## Lịch sử
+
 # Batch 15 đã tích hợp — 08/11/2026
 
 Toán 57–60: 4 JSON/Markdown, 160 câu mới phân mức 10/10/20, 4 trò chơi, 2 SVG mới đã render và xem. Đã đọc trực quan toàn bộ trang in 47–63 (PDF 48–64) Toán tập 2 bản sẵn có; chưa đối chiếu hash PDF với repo. Nội dung: chia số bốn chữ số, chia có dư và thương có 0; ôn bốn phép tính/ngoặc; số năm chữ số và 100000; so sánh trong phạm vi 100000. Câu hỏi/tình huống/lời giải biên soạn mới.
