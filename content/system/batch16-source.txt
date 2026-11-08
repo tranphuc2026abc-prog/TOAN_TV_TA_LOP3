@@ -31,7 +31,7 @@ Một số 27?18 làm tròn đến nghìn được 28000. Chữ số nhỏ nhấ
 Một số 8?321 làm tròn đến chục nghìn được 80000. Chữ số lớn nhất thay dấu hỏi là mấy?|4|Hàng nghìn phải bé hơn 5, lớn nhất là 4.|5;9;8
 Có 19450 vé. Làm tròn trực tiếp đến nghìn được bao nhiêu vé?|19000|Hàng trăm là 4; không lấy kết quả đến trăm trước.|20000;19500;19400
 Hai kho có 12480 và 12520 hộp. Làm tròn từng lượng đến nghìn rồi cộng được bao nhiêu hộp?|25000|Hai kết quả là 12000 và 13000, tổng 25000.|24000;26000;20000
-Đường dài 45999 m. Làm tròn đến chục nghìn rồi so với số thực, số gần đúng hơn bao nhiêu mét?|4001|Kết quả là 50000; 50000 - 45999 = 4001 m.|4999;1;1000
+Đường dài 45999 m. Làm tròn đến chục nghìn rồi so với số thực, số gần đúng lớn hơn số thực bao nhiêu mét?|4001|Kết quả là 50000; 50000 - 45999 = 4001 m.|4999;1;1000
 Máy làm tròn đến nghìn biến 71382 thành 71000. Đưa 75612 vào máy được số nào?|76000|Hàng trăm 6 nên làm lên 76000.|75000;75600;80000
 Trong 31499, 31500, 32500, số nào làm tròn đến nghìn được 32000?|31500|31499 xuống 31000; 31500 lên 32000; 32500 lên 33000.|31499;32500;33000
 Trong 94999, 95000, 94000, số nào làm tròn đến chục nghìn được 100000?|95000|95000 có hàng nghìn 5 nên làm lên 100000.|94999;94000;90000
@@ -39,3 +39,126 @@ Một số 61500 được làm tròn đến nghìn. Kết quả hơn số ban đ
 Bản tin ghi khoảng 30000 sau làm tròn đến chục nghìn. Số thực có thể là 24999, 25000 hay 35000?|25000|25000 lên 30000; 24999 xuống 20000; 35000 lên 40000.|24999;35000;40000
 Một số có năm chữ số, hàng chục nghìn 6, hàng nghìn 4, hàng trăm 9, hai hàng cuối 0. Làm tròn trực tiếp đến chục nghìn được gì?|60000|Số là 64900; hàng nghìn 4 quyết định làm xuống.|70000;65000;64000
 Đếm số gần đúng không thay số chính xác: có 22840 cuốn, báo cáo làm tròn đến nghìn. Số ghi báo cáo là gì?|23000|Hàng trăm 8 nên ghi khoảng 23000; số đếm thực vẫn 22840.|22800;22000;20000
+Bài 62
+Số gồm 4 chục nghìn, 2 nghìn, 6 trăm, 3 chục và 1 đơn vị là số nào?|42631|Ghép các chữ số theo thứ tự hàng: 4, 2, 6, 3, 1.|46231;42613;420631
+Trong số 70846, chữ số hàng nghìn là mấy?|0|Các hàng lần lượt là 7 chục nghìn, 0 nghìn, 8 trăm, 4 chục, 6 đơn vị.|7;8;4
+Chữ số 5 trong 35218 có giá trị bao nhiêu?|5000|Chữ số 5 đứng ở hàng nghìn.|5;500;50000
+Viết số: tám mươi nghìn không trăm linh sáu.|80006|Có 8 chục nghìn và 6 đơn vị; ba hàng giữa là 0.|80060;80600;8006
+Số liền sau của 89999 là gì?|90000|Thêm 1 vào 89999 được 90000.|89998;90001;89000
+Số liền trước của 60000 là gì?|59999|Bớt 1 ở 60000 được 59999.|60001;59000;59990
+Điền số còn thiếu: 43200, 43300, 43400, ...|43500|Mỗi số sau hơn số trước 100.|43401;44400;43600
+Số nào lớn hơn: 71908 hay 71890?|71908|Hai số cùng 71 nghìn; hàng trăm 9 lớn hơn 8.|71890;71098;71980
+Làm tròn 67280 đến hàng nghìn.|67000|Hàng trăm 2 bé hơn 5 nên làm xuống.|68000;67300;70000
+Làm tròn 76400 đến hàng chục nghìn.|80000|Hàng nghìn 6 lớn hơn 5 nên làm lên.|70000;76000;77000
+Trong 45070 và 40570, số nào có 5 nghìn?|45070|45070 có chữ số 5 ở hàng nghìn, còn 40570 có 5 trăm.|40570;45007;40057
+Số 63005 được tách thành 60000 + 3000 + bao nhiêu?|5|Hai hàng trăm và chục là 0; phần còn lại là 5 đơn vị.|50;500;3005
+Dãy 38970, 38980, 38990 còn thiếu số tiếp theo nào?|39000|Mỗi bước thêm 10, đi qua mốc nghìn.|38991;38000;39010
+Trong 52049, 52094, 52904, số bé nhất là gì?|52049|Cùng 52 nghìn; so hàng trăm rồi hàng chục được 52049 bé nhất.|52094;52904;52409
+Số 58210 làm tròn đến trăm được 58200. Làm tròn đến nghìn được gì?|58000|Đến nghìn xét hàng trăm 2, không xét hàng chục.|58200;59000;60000
+Một bạn đọc 90408 là chín mươi nghìn bốn trăm tám mươi. Số mà bạn vừa đọc thực ra là gì?|90480|Bốn trăm tám mươi ứng với ba hàng cuối 480.|90408;94080;90048
+Trong 39999 và 40000, số nào gần 40000 hơn?|40000|40000 đúng bằng mốc; 39999 còn cách mốc 1 đơn vị.|39999;39000;41000
+Điền dấu >, < hoặc =: 50000 + 700 + 2 ... 50720.|<|Vế trái là 50702, bé hơn 50720.|>;=;+
+Giữ nguyên các chữ số khác của 28416, thay hàng nghìn 8 bằng 3 được số nào?|23416|Số giảm 5000 vì đổi từ 8 nghìn xuống 3 nghìn.|28316;28413;33416
+Trong 34499 và 34500, số nào làm tròn đến nghìn được 35000?|34500|34500 có hàng trăm 5 nên làm lên; 34499 làm xuống.|34499;34000;35500
+Kho A có 48320 hộp, B có 48023 hộp, C có 48230 hộp. Kho nào có nhiều nhất?|A|Cùng 48 nghìn; A có hàng trăm 3, lớn hơn 2 và 0.|B;C;cả ba bằng nhau
+Ba xe ghi 60215, 62015, 62150. Xe nào khớp bảng 60000 + 2000 + 10 + 5?|62015|Bảng có 6 chục nghìn, 2 nghìn, 1 chục, 5 đơn vị.|60215;62150;62051
+Từ các chữ số 0, 2, 5, 7, 9 dùng mỗi chữ số một lần, số lớn nhất có năm chữ số là gì?|97520|Xếp các chữ số từ lớn đến bé, 0 ở cuối.|97502;95720;97521
+Từ các chữ số 0, 2, 5, 7, 9 dùng mỗi chữ số một lần, số nhỏ nhất có năm chữ số là gì?|20579|Hàng đầu lấy 2, rồi 0, 5, 7, 9 theo thứ tự tăng.|02579;25079;20597
+Một máy đếm đang ở 39800, mỗi lần tăng 100. Sau 3 lần tăng, máy ghi số nào?|40100|39800 thêm 300 được 40100.|40000;39803;42800
+Có 58460 cây giống. Bảng tin làm tròn đến nghìn cần ghi khoảng bao nhiêu cây?|58000|Hàng trăm 4 bé hơn 5 nên ghi khoảng 58000.|59000;58500;60000
+Bảng có 731?2 lớn hơn 73162. Chữ số nhỏ nhất thay ? là mấy?|7|Cùng các hàng trước hàng chục; hàng chục phải lớn hơn 6.|6;5;9
+Số 4?980 bé hơn 45000. Chữ số lớn nhất thay ? là mấy?|4|Nếu hàng nghìn là 4 thì 44980 bé hơn 45000; từ 5 trở lên thì không.|5;0;9
+Một vé có số nằm giữa 65080 và 65100, các số vé liên tiếp cách nhau 10. Vé ở giữa ghi gì?|65090|65090 cách mỗi đầu 10 đơn vị.|65081;65110;65900
+Sắp 37240, 37024, 37402 theo thứ tự tăng. Số ở giữa là gì?|37240|Thứ tự là 37024, 37240, 37402.|37024;37402;37420
+Hai điểm trên trục số là 56000 và 57000; điểm chính giữa mang số nào?|56500|Khoảng cách hai mốc là 1000, nửa khoảng là 500.|56050;56400;56600
+Một số gồm 8 chục nghìn, 12 trăm và 4 đơn vị. Số đó là gì?|81204|12 trăm là 1200; 80000 + 1200 + 4 = 81204.|80124;81240;82104
+Ba bạn viết 30608, 36008, 30806. Mai có hàng nghìn 6; An có hàng trăm 8; Bình viết số còn lại. Bình viết số nào?|30608|Mai viết 36008, An viết 30806, còn 30608 cho Bình.|36008;30806;30680
+Số 45949 làm tròn trực tiếp đến chục nghìn được gì?|50000|Hàng nghìn 5 quyết định làm lên, không làm tròn nhiều bước.|40000;46000;45900
+Hai cửa hàng cùng báo khoảng 24000 hộp khi làm tròn đến nghìn. Trong 23490, 23510, 24510, số nào phù hợp?|23510|23510 lên 24000; 23490 xuống 23000; 24510 lên 25000.|23490;24510;25000
+Số có năm chữ số lớn nhất mà tổng các chữ số bằng 1 là gì?|10000|Chữ số 1 phải ở hàng chục nghìn, các hàng sau là 0.|1000;10001;90000
+Số có năm chữ số nhỏ nhất mà mọi chữ số đều khác 0 là gì?|11111|Mỗi hàng chọn chữ số khác 0 nhỏ nhất là 1.|10000;10111;11110
+Một dãy tăng đều 1000 có số đầu 97500. Số thứ ba là gì?|99500|Số thứ hai 98500, số thứ ba 99500; chỉ tăng hai lần.|100500;98500;99501
+Bốn số 82501, 82499, 83000, 81999 cùng làm tròn đến nghìn. Có mấy số cho kết quả 82000?|2|82499 và 81999 về 82000; hai số còn lại về 83000.|1;3;4
+Khoảng cách từ trạm đến A là 21840 m, đến B là 21480 m, đến C là 24180 m. Điểm gần trạm nhất là gì?|B|21480 nhỏ hơn 21840 và 24180.|A;C;cả ba như nhau
+Bài 63
+Tính 23000 + 14000.|37000|23 nghìn cộng 14 nghìn bằng 37 nghìn.|36000;47000;23014
+Tính 41235 + 20314.|61549|Cộng các chữ số cùng hàng từ phải sang trái.|61539;61449;61559
+Tính 56000 + 8000.|64000|56 nghìn cộng 8 nghìn bằng 64 nghìn.|58000;63000;6400
+Tính 30000 + 70000.|100000|3 chục nghìn cộng 7 chục nghìn bằng 10 chục nghìn.|10000;90000;1000
+Trong phép cộng đặt dọc, chữ số hàng đơn vị viết thẳng với hàng nào của số kia?|đơn vị|Các chữ số cùng hàng phải thẳng cột.|chục;trăm;nghìn
+Tính 2436 + 51000.|53436|2436 viết thẳng hàng đơn vị dưới 51000.|75360;53406;52436
+Tính 72510 + 80.|72590|Cộng 8 chục vào 1 chục thành 9 chục.|73310;72518;72690
+Tính 34827 + 6.|34833|7 cộng 6 bằng 13, viết 3 nhớ 1 sang chục.|34823;34832;34893
+Tính 18000 + 27000.|45000|18 nghìn cộng 27 nghìn bằng 45 nghìn.|44000;35000;4500
+Tính 60005 + 10004.|70009|Cộng từng hàng được 70009.|70090;71009;60009
+Tính 28976 + 11358.|40334|Hàng đơn vị, chục và nghìn có nhớ; kết quả 40334.|39334;40234;40434
+Bạn cộng 47508 + 92 được 47590. Kết quả đúng là gì?|47600|508 cộng 92 bằng 600, nên tổng là 47600.|47590;47510;48428
+Tính 39500 + 500.|40000|5 trăm thêm 5 trăm thành 1 nghìn, chuyển qua mốc 40000.|39000;40500;39505
+Đổi chỗ hai số hạng của 16342 + 25108, tổng có thay đổi không?|không|Đổi vị trí hai số hạng vẫn được tổng 41450.|có;chỉ khi có nhớ;chỉ khi không nhớ
+Tính 20000 + 3000 + 400.|23400|Gộp các hàng: 2 chục nghìn, 3 nghìn, 4 trăm.|27000;20340;23004
+Tính 72890 + 0.|72890|Cộng thêm 0 thì số không đổi.|0;72891;72900
+Tính 99990 + 10.|100000|Thêm 1 chục vào 9999 chục được 10000 chục.|99991;10000;99999
+Trong phép cộng 23648 + 15237, ở hàng đơn vị phải nhớ mấy sang hàng chục?|1|8 cộng 7 bằng 15, viết 5 nhớ 1.|0;5;2
+Tính 18400 + 2600 bằng cách gộp tròn nghìn.|21000|18400 thêm 1600 được 20000, thêm 1000 nữa được 21000.|20000;21100;20800
+Một bạn đặt 32140 + 75 thành cộng 750. Kết quả đúng cần là gì?|32215|75 phải thẳng hàng đơn vị; 32140 + 75 = 32215.|32890;32115;32915
+Ngày đầu thư viện nhận 12460 sách, ngày sau nhận 8315 sách. Cả hai ngày nhận bao nhiêu sách?|20775|12460 + 8315 = 20775 quyển.|19775;20765;20875
+Vườn ươm có 16400 cây; lô mới có nhiều hơn vườn cũ 2500 cây. Lô mới có bao nhiêu cây?|18900|Lấy 16400 cộng 2500 được 18900.|13900;21400;16425
+Kho có 12500 bút, 8900 vở, 3600 thước. Tổng ba loại là bao nhiêu đồ dùng?|25000|12500 + 8900 = 21400; thêm 3600 được 25000.|24000;24900;26000
+Một quãng đường gồm đoạn đầu 18350 m và đoạn sau 12680 m. Cả đường dài bao nhiêu mét?|31030|18350 + 12680 = 31030 m.|30030;31020;32030
+Đợt đầu bán 14800 vé, đợt sau nhiều hơn 1200 vé. Cả hai đợt bán bao nhiêu vé?|30800|Đợt sau 16000 vé; 14800 + 16000 = 30800.|16000;29600;32000
+Một ví có 50000 đồng, được thêm 20000 đồng và 15000 đồng. Ví có bao nhiêu đồng?|85000|50000 + 20000 + 15000 = 85000 đồng.|75000;80000;95000
+Tìm chữ số ?: 24?35 + 12340 = 36875.|5|36875 trừ 12340 được 24535 nên ? là 5.|4;6;3
+Một phép cộng có hai số hạng 41826 và 27154. Tổng có chữ số hàng trăm là mấy?|9|Tổng là 68980, hàng trăm là 9.|8;7;6
+Cửa hàng đóng 4 thùng, mỗi thùng 5000 nhãn vở, rồi thêm 1850 nhãn lẻ. Có tất cả bao nhiêu nhãn?|21850|Bốn thùng có 20000 nhãn; thêm 1850 được 21850.|20000;21805;23500
+Một xe đã đi 24575 km, sau chuyến đi thêm 425 km. Đồng hồ ghi bao nhiêu ki-lô-mét?|25000|24575 + 425 = 25000 km.|24900;25010;24600
+Tổng ban đầu là 36000. Tăng số hạng thứ nhất 1200, giữ số hạng kia, tổng mới là gì?|37200|Một số hạng tăng 1200 thì tổng tăng 1200.|34800;38400;36120
+Tổng của 28400 và 19600 được làm tròn đến chục nghìn thành số nào?|50000|Tính chính xác được 48000; làm tròn đến chục nghìn được 50000.|40000;48000;49000
+Một đoàn có 15860 người dự ngày thứ nhất và 17240 người ngày thứ hai. Sức chứa tổng cộng 35000 lượt. Hai ngày dùng bao nhiêu lượt?|33100|15860 + 17240 = 33100 lượt, chưa vượt sức chứa.|32100;33000;34100
+Ba tổ trồng lần lượt 12050, 13950, 8000 cây. Ghép hai tổ đầu rồi cộng tổ cuối được bao nhiêu cây?|34000|12050 + 13950 = 26000; 26000 + 8000 = 34000.|33000;26000;35000
+Tính 17500 + 8250 + 2250 bằng cách ghép hai số cuối.|28000|8250 + 2250 = 10500; 17500 + 10500 = 28000.|27000;28500;29000
+Một bảng thu ghi 23680 đồng và 17450 đồng. Bạn cộng được 40130 đồng do quên nhớ ở hàng nghìn. Tổng đúng là gì?|41130|23680 + 17450 = 41130 đồng.|40130;41230;42130
+Một số được cộng thêm 9999. Nếu thay 9999 bằng 10000 thì tổng lớn hơn kết quả đúng bao nhiêu?|1|10000 lớn hơn 9999 đúng 1 nên tổng tăng 1.|10;100;9999
+Hàng ghế khu A có 12480 chỗ, khu B hơn khu A 1520 chỗ. Hai khu có bao nhiêu chỗ?|26480|Khu B có 14000 chỗ; cộng khu A được 26480.|14000;24960;28000
+Một số có năm chữ số cộng với 1 được số nhỏ nhất có sáu chữ số. Số đó là gì?|99999|Số nhỏ nhất có sáu chữ số là 100000; trước đó là 99999.|99990;10000;100001
+Tính tổng nhỏ nhất từ một số thuộc 21400, 24100 và một số thuộc 18500, 15800.|37200|Chọn số nhỏ nhất mỗi nhóm: 21400 + 15800 = 37200.|39900;42600;40000
+Bài 64
+Tính 78000 - 23000.|55000|78 nghìn bớt 23 nghìn còn 55 nghìn.|45000;56000;51000
+Tính 68475 - 23124.|45351|Trừ các chữ số cùng hàng từ phải sang trái.|45341;45451;45361
+Tính 90000 - 40000.|50000|9 chục nghìn bớt 4 chục nghìn còn 5 chục nghìn.|60000;40000;5000
+Tính 52380 - 70.|52310|8 chục bớt 7 chục còn 1 chục.|51680;52373;52450
+Tính 40008 - 8.|40000|8 đơn vị bớt 8 đơn vị còn 0.|40008;40080;39990
+Tính 37520 - 0.|37520|Trừ đi 0 thì số không đổi.|0;37519;37500
+Tính 62135 - 62135.|0|Một số trừ chính nó bằng 0.|1;62135;10000
+Khi đặt tính trừ, chữ số hàng trăm thẳng với hàng nào của số kia?|trăm|Chữ số cùng hàng phải nằm cùng cột.|chục;nghìn;đơn vị
+Tính 100000 - 1.|99999|Số đứng ngay trước 100000 là 99999.|99990;9999;100001
+Tính 35000 - 8000.|27000|35 nghìn bớt 8 nghìn còn 27 nghìn.|28000;33000;43000
+Tính 50302 - 17856.|32446|Đổi hàng khi cần rồi trừ, được 32446.|33446;32456;32546
+Bạn tính 42000 - 6000 được 48000. Hiệu đúng là gì?|36000|Phải bớt 6 nghìn khỏi 42 nghìn, còn 36 nghìn.|48000;38000;42006
+Tính 70000 - 25001.|44999|70000 bớt 25000 còn 45000, bớt thêm 1 còn 44999.|45001;45000;44990
+Phép trừ 58432 - 17321 = 41111 được thử lại bằng phép cộng nào? Ghi tổng thử lại.|58432|Lấy hiệu 41111 cộng số trừ 17321 được số bị trừ 58432.|41111;17321;75753
+Tính 63040 - 95.|62945|63040 bớt 100 rồi thêm lại 5 được 62945.|62955;63035;63945
+Tính 80000 - 79999.|1|Hai số liên tiếp có hiệu bằng 1.|0;10;79999
+Một bạn đặt 56120 - 48 thành trừ 480. Hiệu đúng là gì?|56072|48 phải thẳng hàng đơn vị; 56120 - 48 = 56072.|55640;56082;56168
+Tính 45300 - 2800 bằng cách bớt 300 rồi bớt tiếp.|42500|45300 bớt 300 còn 45000, bớt 2500 còn 42500.|43500;42800;42600
+Tính 60005 - 29999 bằng cách bớt 30000 rồi điều chỉnh.|30006|Bớt 30000 được 30005; đã bớt thừa 1 nên thêm lại 1.|30004;30005;40006
+Nếu số bị trừ bằng số trừ, hiệu bằng bao nhiêu?|0|Bớt hết lượng ban đầu thì không còn gì.|1;10;số bị trừ
+Kho có 45280 kg gạo, xuất 18750 kg. Còn bao nhiêu ki-lô-gam?|26530|45280 - 18750 = 26530 kg.|27530;26430;25530
+Một cuốn sổ ghi quãng đường lúc đầu 32480 km, lúc cuối 35820 km. Xe đã đi bao nhiêu ki-lô-mét?|3340|35820 - 32480 = 3340 km.|3240;3430;3480
+Một điểm bán có 24000 vé, buổi sáng bán 8500 vé, chiều bán 6700 vé. Còn bao nhiêu vé?|8800|Đã bán 15200 vé; 24000 - 15200 = 8800 vé.|9800;15200;8700
+Đội A làm 18640 sản phẩm, đội B ít hơn 2350 sản phẩm. Đội B làm bao nhiêu sản phẩm?|16290|18640 - 2350 = 16290 sản phẩm.|20990;16390;15290
+Một đường dài 12500 m gồm đoạn nhựa 7800 m và đoạn đất. Đoạn đất dài bao nhiêu mét?|4700|12500 - 7800 = 4700 m.|5700;4800;20300
+Mẹ có 100000 đồng, mua sách 36500 đồng và bút 12500 đồng. Còn bao nhiêu đồng?|51000|Đã chi 49000 đồng, còn 51000 đồng.|49000;50000;61000
+Tìm chữ số ?: 52?14 - 23102 = 29512.|6|29512 + 23102 = 52614 nên ? là 6.|5;7;9
+Một số giảm 1200 rồi giảm tiếp 800 thì còn 35000. Số ban đầu là gì?|37000|Đã giảm 2000; ban đầu là 35000 + 2000 = 37000.|33000;36200;35800
+Hiệu hai số là 18000. Giữ số trừ, tăng số bị trừ 500 thì hiệu mới là gì?|18500|Số bị trừ tăng 500 thì hiệu tăng 500.|17500;19000;18050
+Hiệu hai số là 24000. Giữ số bị trừ, tăng số trừ 600 thì hiệu mới là gì?|23400|Trừ nhiều hơn 600 thì hiệu giảm 600.|24600;24060;22800
+Một nhà máy làm 38200 đồ chơi, đã giao 17450 và 8650 đồ chơi. Còn bao nhiêu đồ chơi?|12100|Đã giao 26100; 38200 - 26100 = 12100.|13100;12000;26100
+Một tuyến dài 21800 m. Đoạn sau ngắn hơn đoạn đầu 4600 m; đoạn đầu dài 13200 m. Đoạn sau dài bao nhiêu mét?|8600|13200 - 4600 = 8600 m; tổng hai đoạn đúng 21800 m.|17800;9600;8400
+Kho A có 65000 chai, kho B có 42750 chai. Cần thêm vào B bao nhiêu chai để bằng A?|22250|65000 - 42750 = 22250 chai.|23250;21250;22750
+Một bạn tính 50000 - 17890 được 32210. Kết quả đúng là gì?|32110|50000 - 17890 = 32110; cộng lại 17890 được 50000.|32210;33110;32010
+So sánh 80000 - 12500 và 70000 - 3500. Biểu thức thứ nhất lớn hơn bao nhiêu?|1000|Hai kết quả là 67500 và 66500, chênh 1000.|10000;2000;0
+Mục tiêu là 30000 cây; đã trồng 12450 cây rồi thêm 9875 cây. Cần trồng thêm bao nhiêu cây?|7675|Đã trồng 22325; 30000 - 22325 = 7675 cây.|8675;7775;22325
+Hai số cùng tăng 2500 thì hiệu ban đầu 16700 thành bao nhiêu?|16700|Cùng thêm một lượng vào hai số thì hiệu không đổi.|19200;14200;21700
+Một số lớn nhất có năm chữ số trừ số nhỏ nhất có bốn chữ số. Hiệu là gì?|98999|99999 - 1000 = 98999.|99000;89999;99998
+Một đơn hàng cần 45000 nhãn; thùng nguyên có 28000 nhãn và gói lẻ có 9400 nhãn. Còn thiếu bao nhiêu nhãn?|7600|Đang có 37400; 45000 - 37400 = 7600.|6600;8600;37400
+Hiệu 70400 - 25600 làm tròn đến nghìn được bao nhiêu?|45000|Hiệu chính xác là 44800, hàng trăm 8 nên làm lên 45000.|44000;44800;40000

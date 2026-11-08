@@ -1,3 +1,11 @@
+# Tiến độ mới nhất — 08/11/2026
+
+**64/168 mục đã có học liệu riêng: Toán 1–64, 2560 câu và 64 trò chơi.** Toán 1–4 đã được thầy thẩm định; 60 bài mới chờ thầy thẩm định. Còn Toán 65–81, Tiếng Việt 62 bài và Tiếng Anh 25 mục. Nhóm mới nhất: Toán 61–64, làm tròn số và cộng/trừ trong phạm vi 100000. Bộ kiểm tra dữ liệu, hồi quy và DOM đạt; chưa kiểm thử Chromium thật.
+
+Xem [tiến độ chi tiết](content/system/PROGRESS.md) và [báo cáo kiểm tra](content/system/AUDIT_REPORT.md). Tiếp tục theo thứ tự Toán → Tiếng Việt → Tiếng Anh.
+
+---
+
 # Cập nhật Batch 6 — 07/11/2026
 
 **24 bài Toán có học liệu riêng, 960 câu và 24 trò chơi**. Bổ sung Bài 21–24 và năm SVG mới. Toán 1–4 đã được thầy thẩm định; Toán 5–24 chờ thẩm định; còn 144 mục bản nháp. [Tiến độ chi tiết](content/system/PROGRESS.md).

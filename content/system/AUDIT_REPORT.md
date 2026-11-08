@@ -1,3 +1,13 @@
+# Batch 16 đã tích hợp — 08/11/2026
+
+Toán 61–64: 4 JSON/Markdown, 160 câu phân mức 10/10/20 và 4 trò chơi. Đã đọc trực quan trang in 64–75 (PDF 65–76) của chính PDF Toán tập 2 trong repo; Git blob SHA kiểm tra tại máy là 1a55eb09c9cf573935fa38911d48a5311575b09c, khớp tree GitHub. Nội dung: làm tròn nghìn/chục nghìn, ôn cấu tạo và thứ tự số, cộng/trừ trong 100000. Câu hỏi mới biên soạn riêng, không sao chép hệ thống bài tập sách. Không có câu thiếu dữ kiện hình; các bài này dùng dữ kiện chữ đầy đủ.
+
+Kiểm tra toàn bộ 64 bài/2560 câu: cấu trúc, ID, đáp án, phân mức, Markdown và 2092 đẳng thức lời giải đạt. Hồi quy Batch 16 có 26 phép tính trực tiếp và 119 đáp án neo tính độc lập, biên làm tròn, làm trực tiếp khác nhiều bước, chuyển hàng qua 0 và bài toán hai bước. npm test gồm hồi quy cũ và DOM đạt: luyện tập 10 câu 3/3/4, trò chơi, lời giải, lưu/nạp wl3 và fallback. Chưa kiểm thử Chromium thật do môi trường chưa có trình duyệt; chưa xác nhận bố cục/âm thanh/cảm ứng thực tế. Không thay giao diện hay khóa dữ liệu học sinh.
+
+Tổng tích hợp 64/168 mục: 2560 câu, 64 trò chơi. Giáo viên đã duyệt 4 bài Toán 1–4; 60 bài AI_CHECKED_AWAITING_TEACHER. Còn 104 mục: Toán 65–81 (17), Tiếng Việt 62 và Tiếng Anh 25. Tiếp Batch 17 Toán 65–68; đọc nguồn tương ứng trước biên soạn. Không làm lại Batch 16. Hai workflow Pages của checkpoint trước 8c5ec712a578b3b51588e94df3102b828599cfcf đã success; commit Batch 16 cần xác minh sau khi ghi.
+
+## Lịch sử
+
 # Checkpoint nguồn Batch 16 — 08/11/2026
 
 Đã đọc trực quan trang in 64–75 (PDF 65–76) Toán tập 2 bản sẵn có cho Bài 61–64; chưa đối chiếu hash PDF với repo. Đã soạn 40 câu nguồn riêng Bài 61 trong batch16-source.txt (thứ tự 10/10/20), kiểm tra số dòng, câu không trùng và bốn phương án khác nhau. Chưa đóng gói JSON/Markdown/game hay tích hợp; không tăng INDEX. Tiếp theo soạn Bài 62–64 và hoàn thiện cả batch rồi kiểm thử. Không tạo lại 40 câu nguồn Bài 61.

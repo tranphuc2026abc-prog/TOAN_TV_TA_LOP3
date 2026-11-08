@@ -1,0 +1,196 @@
+[
+  {
+    "topic": "Làm tròn và diễn đạt số gần đúng",
+    "objectives": [
+      "Làm tròn trực tiếp đến nghìn, chục nghìn.",
+      "Giải thích chữ số quyết định và xử lí trường hợp bằng 5.",
+      "Dùng số gần đúng trong báo cáo, phân biệt với số đếm chính xác."
+    ],
+    "intro": "Khi cần nói nhanh một số lượng lớn, em có thể dùng số tròn nghìn hoặc tròn chục nghìn gần số đó. Hãy ghi khoảng để người đọc biết đây là số gần đúng.",
+    "rules": [
+      "Đến hàng nghìn: xét chữ số hàng trăm; bé hơn 5 thì làm xuống, từ 5 trở lên thì làm lên.",
+      "Đến hàng chục nghìn: xét chữ số hàng nghìn theo cùng quy tắc.",
+      "Các chữ số phía sau hàng cần làm tròn trở thành 0. Số đã tròn ở hàng đó giữ nguyên.",
+      "Làm tròn trực tiếp từ số ban đầu; không đi qua một hàng trung gian."
+    ],
+    "steps": [
+      "Xác định hàng cần làm tròn.",
+      "Đọc chữ số ngay bên phải hàng đó.",
+      "Giữ hoặc tăng phần đứng trước rồi viết các chữ số phía sau thành 0.",
+      "Đọc lại kết quả kèm từ khoảng nếu là số lượng thực tế."
+    ],
+    "errors": [
+      "Nhìn hàng chục thay hàng trăm khi làm tròn đến nghìn.",
+      "Làm xuống khi chữ số quyết định bằng 5.",
+      "Làm tròn nhiều bước dẫn đến kết quả khác làm trực tiếp."
+    ],
+    "examples": [
+      [
+        "Làm tròn 43650 đến hàng nghìn.",
+        [
+          "Hàng trăm là 6, lớn hơn 5.",
+          "Tăng 43 nghìn lên 44 nghìn; kết quả 44000."
+        ]
+      ],
+      [
+        "Làm tròn trực tiếp 44960 đến hàng chục nghìn.",
+        [
+          "Hàng nghìn là 4 nên làm xuống.",
+          "Kết quả 40000; không đổi 44960 thành 45000 trước."
+        ]
+      ]
+    ],
+    "game": [
+      "Trạm báo cáo gần đúng",
+      "Chọn đúng số gần đúng và nhận biết hàng cần làm tròn."
+    ],
+    "mode": "treasure"
+  },
+  {
+    "topic": "Ôn cấu tạo, thứ tự và làm tròn số đến 100000",
+    "objectives": [
+      "Đọc, viết và phân tích các hàng của số.",
+      "So sánh, sắp xếp và tiếp tục dãy số theo quy luật.",
+      "Vận dụng cấu tạo số và làm tròn để giải tình huống."
+    ],
+    "intro": "Một chữ số thay đổi giá trị khi đổi vị trí. Hãy dùng bảng hàng để hiểu số, so sánh từ trái sang phải và xác định bước nhảy trước khi điền dãy.",
+    "rules": [
+      "Các hàng từ trái sang phải: chục nghìn, nghìn, trăm, chục, đơn vị.",
+      "So hai số cùng số chữ số từ hàng cao nhất; hàng khác nhau đầu tiên quyết định.",
+      "Số liền sau hơn 1, nhưng dãy cách đều có thể tăng 10, 100 hoặc 1000.",
+      "Khi lập số có năm chữ số, hàng đầu không được là 0."
+    ],
+    "steps": [
+      "Đọc đủ dữ kiện và xác định nhiệm vụ.",
+      "Lập bảng hàng hoặc tìm bước nhảy của dãy.",
+      "So sánh hoặc tính số tiếp theo, chú ý qua mốc tròn nghìn.",
+      "Kiểm tra đáp án với mọi điều kiện."
+    ],
+    "errors": [
+      "Nhầm 5 nghìn với 5 trăm.",
+      "Cho 0 đứng đầu số có năm chữ số.",
+      "Đếm số lần tăng bằng số lượng phần tử thay vì số khoảng."
+    ],
+    "examples": [
+      [
+        "Viết số gồm 6 chục nghìn, 4 trăm và 9 đơn vị.",
+        [
+          "Hàng nghìn và hàng chục bằng 0.",
+          "Số cần viết là 60409."
+        ]
+      ],
+      [
+        "Dãy 56800, 56900, ... có số tiếp theo nào?",
+        [
+          "Hai số đầu hơn kém nhau 100.",
+          "56900 thêm 100 được 57000."
+        ]
+      ]
+    ],
+    "game": [
+      "Ghép bảng hàng",
+      "Ghép mô tả cấu tạo số với số hoặc đáp án phù hợp."
+    ],
+    "mode": "match"
+  },
+  {
+    "topic": "Cộng các số trong phạm vi 100000",
+    "objectives": [
+      "Đặt tính thẳng hàng và cộng có nhớ.",
+      "Tính nhẩm tổng tròn nghìn, tròn chục nghìn.",
+      "Giải bài toán tổng và bài toán hai bước có phép cộng."
+    ],
+    "intro": "Phép cộng gộp các lượng lại với nhau. Với số nhiều chữ số, mỗi cột là một hàng; cộng từ đơn vị rồi chuyển phần nhớ sang cột tiếp theo.",
+    "rules": [
+      "Viết các chữ số cùng hàng thẳng cột, dù hai số có số chữ số khác nhau.",
+      "Cộng từ phải sang trái; 10 đơn vị của một hàng đổi thành 1 đơn vị ở hàng bên trái.",
+      "Đổi chỗ hai số hạng không đổi tổng; cộng 0 giữ nguyên số.",
+      "Bài toán hỏi cả hai đợt và cho đợt sau nhiều hơn cần tìm đợt sau trước khi tính tổng."
+    ],
+    "steps": [
+      "Xác định các lượng cần gộp.",
+      "Đặt tính thẳng hàng đơn vị.",
+      "Cộng từng cột và thêm phần nhớ từ cột trước.",
+      "Kiểm tra độ lớn, ghi đáp số đúng đơn vị."
+    ],
+    "errors": [
+      "Viết số ngắn lệch sang trái.",
+      "Quên cộng phần nhớ ở cột tiếp theo.",
+      "Chỉ tìm lượng đợt sau trong khi đề hỏi cả hai đợt."
+    ],
+    "examples": [
+      [
+        "Tính 26748 + 18567.",
+        [
+          "8 cộng 7 bằng 15, viết 5 nhớ 1.",
+          "4 cộng 6 thêm 1 bằng 11, viết 1 nhớ 1.",
+          "7 cộng 5 thêm 1 bằng 13, viết 3 nhớ 1.",
+          "6 cộng 8 thêm 1 bằng 15, viết 5 nhớ 1.",
+          "2 cộng 1 thêm 1 bằng 4; tổng 45315."
+        ]
+      ],
+      [
+        "Ngày đầu nhận 13200 quyển vở; ngày sau nhiều hơn 1800 quyển. Cả hai ngày nhận bao nhiêu?",
+        [
+          "Ngày sau nhận 13200 + 1800 = 15000 quyển.",
+          "Hai ngày nhận 13200 + 15000 = 28200 quyển."
+        ]
+      ]
+    ],
+    "game": [
+      "Chuyền số cộng",
+      "Luyện cộng thẳng hàng và tìm tổng trong 60 giây."
+    ],
+    "mode": "speed"
+  },
+  {
+    "topic": "Trừ các số trong phạm vi 100000",
+    "objectives": [
+      "Đặt tính và trừ có đổi hàng, kể cả qua nhiều hàng 0.",
+      "Thử lại phép trừ bằng phép cộng.",
+      "Giải bài toán còn lại, chênh lệch và hai bước."
+    ],
+    "intro": "Phép trừ giúp tìm phần còn lại hoặc mức chênh lệch. Khi chữ số trên nhỏ hơn chữ số dưới, cần đổi một đơn vị của hàng bên trái thành mười đơn vị của hàng đang xét.",
+    "rules": [
+      "Đặt các chữ số cùng hàng thẳng cột, trừ từ phải sang trái.",
+      "Sau khi đổi hàng, giảm đúng một đơn vị ở hàng đã cho đổi; qua hàng 0 phải tiếp tục đổi từ hàng cao hơn.",
+      "Thử lại: hiệu cộng số trừ phải bằng số bị trừ.",
+      "Giữ số trừ mà tăng số bị trừ thì hiệu tăng; giữ số bị trừ mà tăng số trừ thì hiệu giảm."
+    ],
+    "steps": [
+      "Xác định lượng ban đầu và lượng bớt hoặc hai lượng cần so.",
+      "Đặt tính thẳng hàng đơn vị.",
+      "Trừ từng cột, theo dõi hàng đã đổi.",
+      "Cộng hiệu với số trừ để thử lại; ghi đơn vị."
+    ],
+    "errors": [
+      "Lấy chữ số dưới trừ chữ số trên cho tiện.",
+      "Đổi hàng nhưng quên giảm hàng đã cho đổi.",
+      "Coi một hàng 0 sau đổi vẫn là 0.",
+      "Cộng số trừ vào số bị trừ để thử thay vì cộng vào hiệu."
+    ],
+    "examples": [
+      [
+        "Tính 50020 - 18475.",
+        [
+          "Ở hàng đơn vị phải đổi từ chục: 10 trừ 5 bằng 5.",
+          "Hàng chục còn 1, cần đổi qua hai hàng 0 từ chục nghìn: hàng nghìn và trăm sau chuyển lần lượt còn 9, hàng chục thành 11.",
+          "11 trừ 7 bằng 4; 9 trừ 4 bằng 5; 9 trừ 8 bằng 1; 4 trừ 1 bằng 3.",
+          "Hiệu 31545; thử 31545 + 18475 = 50020."
+        ]
+      ],
+      [
+        "Có 32000 nhãn, đã dùng 14500 rồi 8200 nhãn. Còn bao nhiêu?",
+        [
+          "Tổng đã dùng 14500 + 8200 = 22700 nhãn.",
+          "Còn 32000 - 22700 = 9300 nhãn."
+        ]
+      ]
+    ],
+    "game": [
+      "Kiểm chứng hiệu",
+      "Xét một kết quả đúng hay sai và đọc cách thử lại."
+    ],
+    "mode": "tf"
+  }
+]

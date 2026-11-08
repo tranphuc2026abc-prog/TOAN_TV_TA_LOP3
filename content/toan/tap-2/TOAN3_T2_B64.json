@@ -1,0 +1,788 @@
+{
+  "id": "TOAN3_T2_B64",
+  "subject": "toan",
+  "grade": 3,
+  "book": "Kết nối tri thức với cuộc sống",
+  "volume": 2,
+  "lesson_no": 64,
+  "title": "Phép trừ trong phạm vi 100 000",
+  "topic": "Trừ các số trong phạm vi 100000",
+  "source": {
+    "pdf": "03-sgk-toan-3-tap-hai.pdf",
+    "printed_pages": [
+      73,
+      75
+    ],
+    "pdf_pages": [
+      74,
+      76
+    ],
+    "review": "Đã đọc trực quan toàn bộ trang nguồn cho bài này; nội dung và bài tập mới do AI biên soạn."
+  },
+  "objectives": [
+    "Đặt tính và trừ có đổi hàng, kể cả qua nhiều hàng 0.",
+    "Thử lại phép trừ bằng phép cộng.",
+    "Giải bài toán còn lại, chênh lệch và hai bước."
+  ],
+  "knowledge": {
+    "introduction": "Phép trừ giúp tìm phần còn lại hoặc mức chênh lệch. Khi chữ số trên nhỏ hơn chữ số dưới, cần đổi một đơn vị của hàng bên trái thành mười đơn vị của hàng đang xét.",
+    "rules": [
+      "Đặt các chữ số cùng hàng thẳng cột, trừ từ phải sang trái.",
+      "Sau khi đổi hàng, giảm đúng một đơn vị ở hàng đã cho đổi; qua hàng 0 phải tiếp tục đổi từ hàng cao hơn.",
+      "Thử lại: hiệu cộng số trừ phải bằng số bị trừ.",
+      "Giữ số trừ mà tăng số bị trừ thì hiệu tăng; giữ số bị trừ mà tăng số trừ thì hiệu giảm."
+    ],
+    "steps": [
+      "Xác định lượng ban đầu và lượng bớt hoặc hai lượng cần so.",
+      "Đặt tính thẳng hàng đơn vị.",
+      "Trừ từng cột, theo dõi hàng đã đổi.",
+      "Cộng hiệu với số trừ để thử lại; ghi đơn vị."
+    ],
+    "common_errors": [
+      "Lấy chữ số dưới trừ chữ số trên cho tiện.",
+      "Đổi hàng nhưng quên giảm hàng đã cho đổi.",
+      "Coi một hàng 0 sau đổi vẫn là 0.",
+      "Cộng số trừ vào số bị trừ để thử thay vì cộng vào hiệu."
+    ]
+  },
+  "examples": [
+    {
+      "question": "Tính 50020 - 18475.",
+      "steps": [
+        "Ở hàng đơn vị phải đổi từ chục: 10 trừ 5 bằng 5.",
+        "Hàng chục còn 1, cần đổi qua hai hàng 0 từ chục nghìn: hàng nghìn và trăm sau chuyển lần lượt còn 9, hàng chục thành 11.",
+        "11 trừ 7 bằng 4; 9 trừ 4 bằng 5; 9 trừ 8 bằng 1; 4 trừ 1 bằng 3.",
+        "Hiệu 31545; thử 31545 + 18475 = 50020."
+      ]
+    },
+    {
+      "question": "Có 32000 nhãn, đã dùng 14500 rồi 8200 nhãn. Còn bao nhiêu?",
+      "steps": [
+        "Tổng đã dùng 14500 + 8200 = 22700 nhãn.",
+        "Còn 32000 - 22700 = 9300 nhãn."
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "question_id": "TOAN3_T2_B64_Q01",
+      "type": "mcq",
+      "question": "Tính 78000 - 23000.",
+      "options": [
+        "55000",
+        "45000",
+        "56000",
+        "51000"
+      ],
+      "correct_answer": "55000",
+      "distractors": [
+        "45000",
+        "56000",
+        "51000"
+      ],
+      "explanation": "78 nghìn bớt 23 nghìn còn 55 nghìn.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B64_Q02",
+      "type": "fill",
+      "question": "Tính 68475 - 23124.",
+      "correct_answer": "45351",
+      "distractors": [
+        "45341",
+        "45451",
+        "45361"
+      ],
+      "explanation": "Trừ các chữ số cùng hàng từ phải sang trái.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B64_Q03",
+      "type": "mcq",
+      "question": "Tính 90000 - 40000.",
+      "options": [
+        "50000",
+        "60000",
+        "40000",
+        "5000"
+      ],
+      "correct_answer": "50000",
+      "distractors": [
+        "60000",
+        "40000",
+        "5000"
+      ],
+      "explanation": "9 chục nghìn bớt 4 chục nghìn còn 5 chục nghìn.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B64_Q04",
+      "type": "fill",
+      "question": "Tính 52380 - 70.",
+      "correct_answer": "52310",
+      "distractors": [
+        "51680",
+        "52373",
+        "52450"
+      ],
+      "explanation": "8 chục bớt 7 chục còn 1 chục.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B64_Q05",
+      "type": "mcq",
+      "question": "Tính 40008 - 8.",
+      "options": [
+        "40000",
+        "40008",
+        "40080",
+        "39990"
+      ],
+      "correct_answer": "40000",
+      "distractors": [
+        "40008",
+        "40080",
+        "39990"
+      ],
+      "explanation": "8 đơn vị bớt 8 đơn vị còn 0.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B64_Q06",
+      "type": "fill",
+      "question": "Tính 37520 - 0.",
+      "correct_answer": "37520",
+      "distractors": [
+        "0",
+        "37519",
+        "37500"
+      ],
+      "explanation": "Trừ đi 0 thì số không đổi.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B64_Q07",
+      "type": "mcq",
+      "question": "Tính 62135 - 62135.",
+      "options": [
+        "0",
+        "1",
+        "62135",
+        "10000"
+      ],
+      "correct_answer": "0",
+      "distractors": [
+        "1",
+        "62135",
+        "10000"
+      ],
+      "explanation": "Một số trừ chính nó bằng 0.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B64_Q08",
+      "type": "fill",
+      "question": "Khi đặt tính trừ, chữ số hàng trăm thẳng với hàng nào của số kia?",
+      "correct_answer": "trăm",
+      "distractors": [
+        "chục",
+        "nghìn",
+        "đơn vị"
+      ],
+      "explanation": "Chữ số cùng hàng phải nằm cùng cột.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B64_Q09",
+      "type": "mcq",
+      "question": "Tính 100000 - 1.",
+      "options": [
+        "99999",
+        "99990",
+        "9999",
+        "100001"
+      ],
+      "correct_answer": "99999",
+      "distractors": [
+        "99990",
+        "9999",
+        "100001"
+      ],
+      "explanation": "Số đứng ngay trước 100000 là 99999.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B64_Q10",
+      "type": "fill",
+      "question": "Tính 35000 - 8000.",
+      "correct_answer": "27000",
+      "distractors": [
+        "28000",
+        "33000",
+        "43000"
+      ],
+      "explanation": "35 nghìn bớt 8 nghìn còn 27 nghìn.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B64_Q11",
+      "type": "mcq",
+      "question": "Tính 50302 - 17856.",
+      "options": [
+        "32446",
+        "33446",
+        "32456",
+        "32546"
+      ],
+      "correct_answer": "32446",
+      "distractors": [
+        "33446",
+        "32456",
+        "32546"
+      ],
+      "explanation": "Đổi hàng khi cần rồi trừ, được 32446.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B64_Q12",
+      "type": "fill",
+      "question": "Bạn tính 42000 - 6000 được 48000. Hiệu đúng là gì?",
+      "correct_answer": "36000",
+      "distractors": [
+        "48000",
+        "38000",
+        "42006"
+      ],
+      "explanation": "Phải bớt 6 nghìn khỏi 42 nghìn, còn 36 nghìn.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B64_Q13",
+      "type": "mcq",
+      "question": "Tính 70000 - 25001.",
+      "options": [
+        "44999",
+        "45001",
+        "45000",
+        "44990"
+      ],
+      "correct_answer": "44999",
+      "distractors": [
+        "45001",
+        "45000",
+        "44990"
+      ],
+      "explanation": "70000 bớt 25000 còn 45000, bớt thêm 1 còn 44999.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B64_Q14",
+      "type": "fill",
+      "question": "Phép trừ 58432 - 17321 = 41111 được thử lại bằng phép cộng nào? Ghi tổng thử lại.",
+      "correct_answer": "58432",
+      "distractors": [
+        "41111",
+        "17321",
+        "75753"
+      ],
+      "explanation": "Lấy hiệu 41111 cộng số trừ 17321 được số bị trừ 58432.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B64_Q15",
+      "type": "mcq",
+      "question": "Tính 63040 - 95.",
+      "options": [
+        "62945",
+        "62955",
+        "63035",
+        "63945"
+      ],
+      "correct_answer": "62945",
+      "distractors": [
+        "62955",
+        "63035",
+        "63945"
+      ],
+      "explanation": "63040 bớt 100 rồi thêm lại 5 được 62945.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B64_Q16",
+      "type": "fill",
+      "question": "Tính 80000 - 79999.",
+      "correct_answer": "1",
+      "distractors": [
+        "0",
+        "10",
+        "79999"
+      ],
+      "explanation": "Hai số liên tiếp có hiệu bằng 1.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B64_Q17",
+      "type": "mcq",
+      "question": "Một bạn đặt 56120 - 48 thành trừ 480. Hiệu đúng là gì?",
+      "options": [
+        "56072",
+        "55640",
+        "56082",
+        "56168"
+      ],
+      "correct_answer": "56072",
+      "distractors": [
+        "55640",
+        "56082",
+        "56168"
+      ],
+      "explanation": "48 phải thẳng hàng đơn vị; 56120 - 48 = 56072.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B64_Q18",
+      "type": "fill",
+      "question": "Tính 45300 - 2800 bằng cách bớt 300 rồi bớt tiếp.",
+      "correct_answer": "42500",
+      "distractors": [
+        "43500",
+        "42800",
+        "42600"
+      ],
+      "explanation": "45300 bớt 300 còn 45000, bớt 2500 còn 42500.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B64_Q19",
+      "type": "mcq",
+      "question": "Tính 60005 - 29999 bằng cách bớt 30000 rồi điều chỉnh.",
+      "options": [
+        "30006",
+        "30004",
+        "30005",
+        "40006"
+      ],
+      "correct_answer": "30006",
+      "distractors": [
+        "30004",
+        "30005",
+        "40006"
+      ],
+      "explanation": "Bớt 30000 được 30005; đã bớt thừa 1 nên thêm lại 1.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B64_Q20",
+      "type": "fill",
+      "question": "Nếu số bị trừ bằng số trừ, hiệu bằng bao nhiêu?",
+      "correct_answer": "0",
+      "distractors": [
+        "1",
+        "10",
+        "số bị trừ"
+      ],
+      "explanation": "Bớt hết lượng ban đầu thì không còn gì.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B64_Q21",
+      "type": "mcq",
+      "question": "Kho có 45280 kg gạo, xuất 18750 kg. Còn bao nhiêu ki-lô-gam?",
+      "options": [
+        "26530",
+        "27530",
+        "26430",
+        "25530"
+      ],
+      "correct_answer": "26530",
+      "distractors": [
+        "27530",
+        "26430",
+        "25530"
+      ],
+      "explanation": "45280 - 18750 = 26530 kg.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B64_Q22",
+      "type": "fill",
+      "question": "Một cuốn sổ ghi quãng đường lúc đầu 32480 km, lúc cuối 35820 km. Xe đã đi bao nhiêu ki-lô-mét?",
+      "correct_answer": "3340",
+      "distractors": [
+        "3240",
+        "3430",
+        "3480"
+      ],
+      "explanation": "35820 - 32480 = 3340 km.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B64_Q23",
+      "type": "mcq",
+      "question": "Một điểm bán có 24000 vé, buổi sáng bán 8500 vé, chiều bán 6700 vé. Còn bao nhiêu vé?",
+      "options": [
+        "8800",
+        "9800",
+        "15200",
+        "8700"
+      ],
+      "correct_answer": "8800",
+      "distractors": [
+        "9800",
+        "15200",
+        "8700"
+      ],
+      "explanation": "Đã bán 15200 vé; 24000 - 15200 = 8800 vé.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B64_Q24",
+      "type": "fill",
+      "question": "Đội A làm 18640 sản phẩm, đội B ít hơn 2350 sản phẩm. Đội B làm bao nhiêu sản phẩm?",
+      "correct_answer": "16290",
+      "distractors": [
+        "20990",
+        "16390",
+        "15290"
+      ],
+      "explanation": "18640 - 2350 = 16290 sản phẩm.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B64_Q25",
+      "type": "mcq",
+      "question": "Một đường dài 12500 m gồm đoạn nhựa 7800 m và đoạn đất. Đoạn đất dài bao nhiêu mét?",
+      "options": [
+        "4700",
+        "5700",
+        "4800",
+        "20300"
+      ],
+      "correct_answer": "4700",
+      "distractors": [
+        "5700",
+        "4800",
+        "20300"
+      ],
+      "explanation": "12500 - 7800 = 4700 m.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B64_Q26",
+      "type": "fill",
+      "question": "Mẹ có 100000 đồng, mua sách 36500 đồng và bút 12500 đồng. Còn bao nhiêu đồng?",
+      "correct_answer": "51000",
+      "distractors": [
+        "49000",
+        "50000",
+        "61000"
+      ],
+      "explanation": "Đã chi 49000 đồng, còn 51000 đồng.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B64_Q27",
+      "type": "mcq",
+      "question": "Tìm chữ số ?: 52?14 - 23102 = 29512.",
+      "options": [
+        "6",
+        "5",
+        "7",
+        "9"
+      ],
+      "correct_answer": "6",
+      "distractors": [
+        "5",
+        "7",
+        "9"
+      ],
+      "explanation": "29512 + 23102 = 52614 nên ? là 6.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B64_Q28",
+      "type": "fill",
+      "question": "Một số giảm 1200 rồi giảm tiếp 800 thì còn 35000. Số ban đầu là gì?",
+      "correct_answer": "37000",
+      "distractors": [
+        "33000",
+        "36200",
+        "35800"
+      ],
+      "explanation": "Đã giảm 2000; ban đầu là 35000 + 2000 = 37000.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B64_Q29",
+      "type": "mcq",
+      "question": "Hiệu hai số là 18000. Giữ số trừ, tăng số bị trừ 500 thì hiệu mới là gì?",
+      "options": [
+        "18500",
+        "17500",
+        "19000",
+        "18050"
+      ],
+      "correct_answer": "18500",
+      "distractors": [
+        "17500",
+        "19000",
+        "18050"
+      ],
+      "explanation": "Số bị trừ tăng 500 thì hiệu tăng 500.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B64_Q30",
+      "type": "fill",
+      "question": "Hiệu hai số là 24000. Giữ số bị trừ, tăng số trừ 600 thì hiệu mới là gì?",
+      "correct_answer": "23400",
+      "distractors": [
+        "24600",
+        "24060",
+        "22800"
+      ],
+      "explanation": "Trừ nhiều hơn 600 thì hiệu giảm 600.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B64_Q31",
+      "type": "mcq",
+      "question": "Một nhà máy làm 38200 đồ chơi, đã giao 17450 và 8650 đồ chơi. Còn bao nhiêu đồ chơi?",
+      "options": [
+        "12100",
+        "13100",
+        "12000",
+        "26100"
+      ],
+      "correct_answer": "12100",
+      "distractors": [
+        "13100",
+        "12000",
+        "26100"
+      ],
+      "explanation": "Đã giao 26100; 38200 - 26100 = 12100.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B64_Q32",
+      "type": "fill",
+      "question": "Một tuyến dài 21800 m. Đoạn sau ngắn hơn đoạn đầu 4600 m; đoạn đầu dài 13200 m. Đoạn sau dài bao nhiêu mét?",
+      "correct_answer": "8600",
+      "distractors": [
+        "17800",
+        "9600",
+        "8400"
+      ],
+      "explanation": "13200 - 4600 = 8600 m; tổng hai đoạn đúng 21800 m.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B64_Q33",
+      "type": "mcq",
+      "question": "Kho A có 65000 chai, kho B có 42750 chai. Cần thêm vào B bao nhiêu chai để bằng A?",
+      "options": [
+        "22250",
+        "23250",
+        "21250",
+        "22750"
+      ],
+      "correct_answer": "22250",
+      "distractors": [
+        "23250",
+        "21250",
+        "22750"
+      ],
+      "explanation": "65000 - 42750 = 22250 chai.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B64_Q34",
+      "type": "fill",
+      "question": "Một bạn tính 50000 - 17890 được 32210. Kết quả đúng là gì?",
+      "correct_answer": "32110",
+      "distractors": [
+        "32210",
+        "33110",
+        "32010"
+      ],
+      "explanation": "50000 - 17890 = 32110; cộng lại 17890 được 50000.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B64_Q35",
+      "type": "mcq",
+      "question": "So sánh 80000 - 12500 và 70000 - 3500. Biểu thức thứ nhất lớn hơn bao nhiêu?",
+      "options": [
+        "1000",
+        "10000",
+        "2000",
+        "0"
+      ],
+      "correct_answer": "1000",
+      "distractors": [
+        "10000",
+        "2000",
+        "0"
+      ],
+      "explanation": "Hai kết quả là 67500 và 66500, chênh 1000.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B64_Q36",
+      "type": "fill",
+      "question": "Mục tiêu là 30000 cây; đã trồng 12450 cây rồi thêm 9875 cây. Cần trồng thêm bao nhiêu cây?",
+      "correct_answer": "7675",
+      "distractors": [
+        "8675",
+        "7775",
+        "22325"
+      ],
+      "explanation": "Đã trồng 22325; 30000 - 22325 = 7675 cây.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B64_Q37",
+      "type": "mcq",
+      "question": "Hai số cùng tăng 2500 thì hiệu ban đầu 16700 thành bao nhiêu?",
+      "options": [
+        "16700",
+        "19200",
+        "14200",
+        "21700"
+      ],
+      "correct_answer": "16700",
+      "distractors": [
+        "19200",
+        "14200",
+        "21700"
+      ],
+      "explanation": "Cùng thêm một lượng vào hai số thì hiệu không đổi.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B64_Q38",
+      "type": "fill",
+      "question": "Một số lớn nhất có năm chữ số trừ số nhỏ nhất có bốn chữ số. Hiệu là gì?",
+      "correct_answer": "98999",
+      "distractors": [
+        "99000",
+        "89999",
+        "99998"
+      ],
+      "explanation": "99999 - 1000 = 98999.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B64_Q39",
+      "type": "mcq",
+      "question": "Một đơn hàng cần 45000 nhãn; thùng nguyên có 28000 nhãn và gói lẻ có 9400 nhãn. Còn thiếu bao nhiêu nhãn?",
+      "options": [
+        "7600",
+        "6600",
+        "8600",
+        "37400"
+      ],
+      "correct_answer": "7600",
+      "distractors": [
+        "6600",
+        "8600",
+        "37400"
+      ],
+      "explanation": "Đang có 37400; 45000 - 37400 = 7600.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B64_Q40",
+      "type": "fill",
+      "question": "Hiệu 70400 - 25600 làm tròn đến nghìn được bao nhiêu?",
+      "correct_answer": "45000",
+      "distractors": [
+        "44000",
+        "44800",
+        "40000"
+      ],
+      "explanation": "Hiệu chính xác là 44800, hàng trăm 8 nên làm lên 45000.",
+      "difficulty": "van_dung"
+    }
+  ],
+  "games": [
+    {
+      "id": "TOAN3_T2_B64_GAME1",
+      "title": "Kiểm chứng hiệu",
+      "mode": "tf",
+      "objective": "Xét một kết quả đúng hay sai và đọc cách thử lại.",
+      "rules": [
+        "Mỗi lượt lấy 10 câu trong bài và đưa ra một kết quả để kiểm chứng.",
+        "Chọn Đúng nếu kết quả phù hợp, chọn Sai nếu không phù hợp; đọc lời giải trước khi sang câu.",
+        "Mỗi câu đúng được 10 điểm; tối đa 100 điểm."
+      ],
+      "question_ids": [
+        "TOAN3_T2_B64_Q01",
+        "TOAN3_T2_B64_Q02",
+        "TOAN3_T2_B64_Q03",
+        "TOAN3_T2_B64_Q04",
+        "TOAN3_T2_B64_Q05",
+        "TOAN3_T2_B64_Q06",
+        "TOAN3_T2_B64_Q07",
+        "TOAN3_T2_B64_Q08",
+        "TOAN3_T2_B64_Q09",
+        "TOAN3_T2_B64_Q10",
+        "TOAN3_T2_B64_Q11",
+        "TOAN3_T2_B64_Q12",
+        "TOAN3_T2_B64_Q13",
+        "TOAN3_T2_B64_Q14",
+        "TOAN3_T2_B64_Q15",
+        "TOAN3_T2_B64_Q16",
+        "TOAN3_T2_B64_Q17",
+        "TOAN3_T2_B64_Q18",
+        "TOAN3_T2_B64_Q19",
+        "TOAN3_T2_B64_Q20",
+        "TOAN3_T2_B64_Q21",
+        "TOAN3_T2_B64_Q22",
+        "TOAN3_T2_B64_Q23",
+        "TOAN3_T2_B64_Q24",
+        "TOAN3_T2_B64_Q25",
+        "TOAN3_T2_B64_Q26",
+        "TOAN3_T2_B64_Q27",
+        "TOAN3_T2_B64_Q28",
+        "TOAN3_T2_B64_Q29",
+        "TOAN3_T2_B64_Q30",
+        "TOAN3_T2_B64_Q31",
+        "TOAN3_T2_B64_Q32",
+        "TOAN3_T2_B64_Q33",
+        "TOAN3_T2_B64_Q34",
+        "TOAN3_T2_B64_Q35",
+        "TOAN3_T2_B64_Q36",
+        "TOAN3_T2_B64_Q37",
+        "TOAN3_T2_B64_Q38",
+        "TOAN3_T2_B64_Q39",
+        "TOAN3_T2_B64_Q40"
+      ],
+      "answer_source": "practice.correct_answer",
+      "feedback_source": "practice.explanation",
+      "max_score": 100
+    }
+  ],
+  "assessment": {
+    "session_size": 10,
+    "distribution": {
+      "nhan_biet": 3,
+      "thong_hieu": 3,
+      "van_dung": 4
+    },
+    "scoring": "Đúng lần đầu: 1 điểm; đúng sau một gợi ý: 0,5 điểm. Từ 90%: 3 sao; từ 60%: 2 sao; còn lại: 1 sao.",
+    "review_advice": "Xem lời giải các câu sai, đọc lại quy tắc, rồi làm một lượt mới."
+  },
+  "feedback": {
+    "correct": "Chính xác! Hãy đọc lời giải để củng cố cách làm.",
+    "incorrect": "Em thử lại một lần. Sau đó xem đáp án và cách giải."
+  },
+  "verification": {
+    "ai_authored": true,
+    "structure_checked": true,
+    "answer_reviewed": true,
+    "source_reviewed": true,
+    "teacher_approved": false
+  },
+  "status": "AI_CHECKED_AWAITING_TEACHER"
+}

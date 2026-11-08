@@ -1,0 +1,785 @@
+{
+  "id": "TOAN3_T2_B61",
+  "subject": "toan",
+  "grade": 3,
+  "book": "Kết nối tri thức với cuộc sống",
+  "volume": 2,
+  "lesson_no": 61,
+  "title": "Làm tròn số đến hàng nghìn, hàng chục nghìn",
+  "topic": "Làm tròn và diễn đạt số gần đúng",
+  "source": {
+    "pdf": "03-sgk-toan-3-tap-hai.pdf",
+    "printed_pages": [
+      64,
+      65
+    ],
+    "pdf_pages": [
+      65,
+      66
+    ],
+    "review": "Đã đọc trực quan toàn bộ trang nguồn cho bài này; nội dung và bài tập mới do AI biên soạn."
+  },
+  "objectives": [
+    "Làm tròn trực tiếp đến nghìn, chục nghìn.",
+    "Giải thích chữ số quyết định và xử lí trường hợp bằng 5.",
+    "Dùng số gần đúng trong báo cáo, phân biệt với số đếm chính xác."
+  ],
+  "knowledge": {
+    "introduction": "Khi cần nói nhanh một số lượng lớn, em có thể dùng số tròn nghìn hoặc tròn chục nghìn gần số đó. Hãy ghi khoảng để người đọc biết đây là số gần đúng.",
+    "rules": [
+      "Đến hàng nghìn: xét chữ số hàng trăm; bé hơn 5 thì làm xuống, từ 5 trở lên thì làm lên.",
+      "Đến hàng chục nghìn: xét chữ số hàng nghìn theo cùng quy tắc.",
+      "Các chữ số phía sau hàng cần làm tròn trở thành 0. Số đã tròn ở hàng đó giữ nguyên.",
+      "Làm tròn trực tiếp từ số ban đầu; không đi qua một hàng trung gian."
+    ],
+    "steps": [
+      "Xác định hàng cần làm tròn.",
+      "Đọc chữ số ngay bên phải hàng đó.",
+      "Giữ hoặc tăng phần đứng trước rồi viết các chữ số phía sau thành 0.",
+      "Đọc lại kết quả kèm từ khoảng nếu là số lượng thực tế."
+    ],
+    "common_errors": [
+      "Nhìn hàng chục thay hàng trăm khi làm tròn đến nghìn.",
+      "Làm xuống khi chữ số quyết định bằng 5.",
+      "Làm tròn nhiều bước dẫn đến kết quả khác làm trực tiếp."
+    ]
+  },
+  "examples": [
+    {
+      "question": "Làm tròn 43650 đến hàng nghìn.",
+      "steps": [
+        "Hàng trăm là 6, lớn hơn 5.",
+        "Tăng 43 nghìn lên 44 nghìn; kết quả 44000."
+      ]
+    },
+    {
+      "question": "Làm tròn trực tiếp 44960 đến hàng chục nghìn.",
+      "steps": [
+        "Hàng nghìn là 4 nên làm xuống.",
+        "Kết quả 40000; không đổi 44960 thành 45000 trước."
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "question_id": "TOAN3_T2_B61_Q01",
+      "type": "mcq",
+      "question": "Làm tròn 23418 đến hàng nghìn.",
+      "options": [
+        "23000",
+        "24000",
+        "23400",
+        "20000"
+      ],
+      "correct_answer": "23000",
+      "distractors": [
+        "24000",
+        "23400",
+        "20000"
+      ],
+      "explanation": "Hàng trăm là 4 nên làm xuống.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B61_Q02",
+      "type": "fill",
+      "question": "Làm tròn 56721 đến hàng nghìn.",
+      "correct_answer": "57000",
+      "distractors": [
+        "56000",
+        "56700",
+        "60000"
+      ],
+      "explanation": "Hàng trăm là 7 nên làm lên.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B61_Q03",
+      "type": "mcq",
+      "question": "Làm tròn 48500 đến hàng nghìn.",
+      "options": [
+        "49000",
+        "48000",
+        "48500",
+        "50000"
+      ],
+      "correct_answer": "49000",
+      "distractors": [
+        "48000",
+        "48500",
+        "50000"
+      ],
+      "explanation": "Hàng trăm bằng 5 nên làm lên.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B61_Q04",
+      "type": "fill",
+      "question": "Làm tròn 72000 đến hàng nghìn.",
+      "correct_answer": "72000",
+      "distractors": [
+        "70000",
+        "73000",
+        "72100"
+      ],
+      "explanation": "Số đã tròn nghìn được giữ nguyên.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B61_Q05",
+      "type": "mcq",
+      "question": "Làm tròn 63128 đến hàng chục nghìn.",
+      "options": [
+        "60000",
+        "63000",
+        "70000",
+        "63100"
+      ],
+      "correct_answer": "60000",
+      "distractors": [
+        "63000",
+        "70000",
+        "63100"
+      ],
+      "explanation": "Hàng nghìn là 3 bé hơn 5.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B61_Q06",
+      "type": "fill",
+      "question": "Làm tròn 87832 đến hàng chục nghìn.",
+      "correct_answer": "90000",
+      "distractors": [
+        "80000",
+        "88000",
+        "87000"
+      ],
+      "explanation": "Hàng nghìn là 7 nên làm lên.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B61_Q07",
+      "type": "mcq",
+      "question": "Làm tròn 35000 đến hàng chục nghìn.",
+      "options": [
+        "40000",
+        "30000",
+        "35000",
+        "36000"
+      ],
+      "correct_answer": "40000",
+      "distractors": [
+        "30000",
+        "35000",
+        "36000"
+      ],
+      "explanation": "Hàng nghìn bằng 5 nên làm lên.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B61_Q08",
+      "type": "fill",
+      "question": "Làm tròn 90000 đến hàng chục nghìn.",
+      "correct_answer": "90000",
+      "distractors": [
+        "100000",
+        "91000",
+        "80000"
+      ],
+      "explanation": "Số đã tròn chục nghìn được giữ nguyên.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B61_Q09",
+      "type": "mcq",
+      "question": "Làm tròn đến nghìn cần xét hàng nào?",
+      "options": [
+        "trăm",
+        "chục",
+        "nghìn",
+        "đơn vị"
+      ],
+      "correct_answer": "trăm",
+      "distractors": [
+        "chục",
+        "nghìn",
+        "đơn vị"
+      ],
+      "explanation": "Hàng ngay bên phải hàng nghìn là hàng trăm.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B61_Q10",
+      "type": "fill",
+      "question": "Làm tròn đến chục nghìn cần xét hàng nào?",
+      "correct_answer": "nghìn",
+      "distractors": [
+        "trăm",
+        "chục",
+        "đơn vị"
+      ],
+      "explanation": "Hàng ngay bên phải chục nghìn là nghìn.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B61_Q11",
+      "type": "mcq",
+      "question": "Vì sao 32490 làm tròn đến nghìn được 32000? Ghi chữ số quyết định.",
+      "options": [
+        "4",
+        "9",
+        "2",
+        "3"
+      ],
+      "correct_answer": "4",
+      "distractors": [
+        "9",
+        "2",
+        "3"
+      ],
+      "explanation": "Hàng trăm là 4, không xét hàng chục 9.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B61_Q12",
+      "type": "fill",
+      "question": "Làm tròn 99999 đến nghìn.",
+      "correct_answer": "100000",
+      "distractors": [
+        "99000",
+        "99900",
+        "90000"
+      ],
+      "explanation": "Hàng trăm 9 nên tăng qua mốc 100000.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B61_Q13",
+      "type": "mcq",
+      "question": "Số 74520 làm tròn đến nghìn và chục nghìn có cùng kết quả không?",
+      "options": [
+        "không",
+        "có",
+        "74500",
+        "74000"
+      ],
+      "correct_answer": "không",
+      "distractors": [
+        "có",
+        "74500",
+        "74000"
+      ],
+      "explanation": "Đến nghìn được 75000, đến chục nghìn được 70000.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B61_Q14",
+      "type": "fill",
+      "question": "Làm tròn trực tiếp 44999 đến chục nghìn.",
+      "correct_answer": "40000",
+      "distractors": [
+        "50000",
+        "45000",
+        "44000"
+      ],
+      "explanation": "Hàng nghìn là 4; không làm tròn qua hàng nghìn trước.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B61_Q15",
+      "type": "mcq",
+      "question": "Trong 28499 và 28500, số nào làm tròn đến nghìn được 29000?",
+      "options": [
+        "28500",
+        "28499",
+        "28000",
+        "27499"
+      ],
+      "correct_answer": "28500",
+      "distractors": [
+        "28499",
+        "28000",
+        "27499"
+      ],
+      "explanation": "28500 có hàng trăm 5; 28499 có hàng trăm 4.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B61_Q16",
+      "type": "fill",
+      "question": "Trong 64999 và 65000, số nào làm tròn đến chục nghìn được 70000?",
+      "correct_answer": "65000",
+      "distractors": [
+        "64999",
+        "64000",
+        "60000"
+      ],
+      "explanation": "65000 ở điểm giữa nên làm lên; 64999 xuống 60000.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B61_Q17",
+      "type": "mcq",
+      "question": "Một bạn làm tròn 52786 đến nghìn thành 52800. Kết quả đúng là gì?",
+      "options": [
+        "53000",
+        "52800",
+        "52000",
+        "50000"
+      ],
+      "correct_answer": "53000",
+      "distractors": [
+        "52800",
+        "52000",
+        "50000"
+      ],
+      "explanation": "52800 là kết quả đến trăm; đến nghìn xét hàng trăm 7.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B61_Q18",
+      "type": "fill",
+      "question": "Số nằm đúng giữa 18000 và 19000 là số nào?",
+      "correct_answer": "18500",
+      "distractors": [
+        "18050",
+        "18400",
+        "18600"
+      ],
+      "explanation": "18500 cách mỗi mốc 500 đơn vị.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B61_Q19",
+      "type": "mcq",
+      "question": "Số nằm đúng giữa 80000 và 90000 là số nào?",
+      "options": [
+        "85000",
+        "80500",
+        "84000",
+        "86000"
+      ],
+      "correct_answer": "85000",
+      "distractors": [
+        "80500",
+        "84000",
+        "86000"
+      ],
+      "explanation": "85000 cách mỗi mốc 5000 đơn vị.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B61_Q20",
+      "type": "fill",
+      "question": "Làm tròn 10501 đến nghìn.",
+      "correct_answer": "11000",
+      "distractors": [
+        "10000",
+        "10500",
+        "20000"
+      ],
+      "explanation": "Hàng trăm 5 nên làm lên 11000.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B61_Q21",
+      "type": "mcq",
+      "question": "Kho có 24681 kg thóc. Báo cáo đến nghìn ghi khoảng bao nhiêu ki-lô-gam?",
+      "options": [
+        "25000",
+        "24000",
+        "24700",
+        "20000"
+      ],
+      "correct_answer": "25000",
+      "distractors": [
+        "24000",
+        "24700",
+        "20000"
+      ],
+      "explanation": "Hàng trăm 6 nên làm lên 25000.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B61_Q22",
+      "type": "fill",
+      "question": "Một huyện giả định có 83129 người. Làm tròn đến chục nghìn được bao nhiêu người?",
+      "correct_answer": "80000",
+      "distractors": [
+        "83000",
+        "90000",
+        "83100"
+      ],
+      "explanation": "Hàng nghìn 3 nên làm xuống 80000.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B61_Q23",
+      "type": "mcq",
+      "question": "Thư viện có 38412 sách. Bạn nói khoảng 38000 sách. Bạn đã làm tròn đến hàng nào?",
+      "options": [
+        "nghìn",
+        "trăm",
+        "chục",
+        "chục nghìn"
+      ],
+      "correct_answer": "nghìn",
+      "distractors": [
+        "trăm",
+        "chục",
+        "chục nghìn"
+      ],
+      "explanation": "Đến nghìn xét hàng trăm 4, được 38000.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B61_Q24",
+      "type": "fill",
+      "question": "Một báo cáo làm tròn 68412 thành 70000. Báo cáo làm tròn đến hàng nào?",
+      "correct_answer": "chục nghìn",
+      "distractors": [
+        "nghìn",
+        "trăm",
+        "chục"
+      ],
+      "explanation": "Hàng nghìn 8 nên làm lên chục nghìn kế tiếp.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B61_Q25",
+      "type": "mcq",
+      "question": "Số nguyên nhỏ nhất làm tròn đến nghìn được 42000 là gì?",
+      "options": [
+        "41500",
+        "41499",
+        "41000",
+        "42000"
+      ],
+      "correct_answer": "41500",
+      "distractors": [
+        "41499",
+        "41000",
+        "42000"
+      ],
+      "explanation": "41500 là điểm bắt đầu làm lên 42000; 41499 xuống 41000.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B61_Q26",
+      "type": "fill",
+      "question": "Số nguyên lớn nhất làm tròn đến nghìn được 42000 là gì?",
+      "correct_answer": "42499",
+      "distractors": [
+        "42500",
+        "42999",
+        "41999"
+      ],
+      "explanation": "42499 xuống 42000; 42500 đã lên 43000.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B61_Q27",
+      "type": "mcq",
+      "question": "Số nguyên nhỏ nhất làm tròn đến chục nghìn được 60000 là gì?",
+      "options": [
+        "55000",
+        "54999",
+        "50000",
+        "60000"
+      ],
+      "correct_answer": "55000",
+      "distractors": [
+        "54999",
+        "50000",
+        "60000"
+      ],
+      "explanation": "55000 ở giữa 50000 và 60000 nên làm lên.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B61_Q28",
+      "type": "fill",
+      "question": "Số nguyên lớn nhất làm tròn đến chục nghìn được 60000 là gì?",
+      "correct_answer": "64999",
+      "distractors": [
+        "65000",
+        "69999",
+        "59999"
+      ],
+      "explanation": "64999 xuống 60000; 65000 lên 70000.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B61_Q29",
+      "type": "mcq",
+      "question": "Một số 27?18 làm tròn đến nghìn được 28000. Chữ số nhỏ nhất thay dấu hỏi là mấy?",
+      "options": [
+        "5",
+        "4",
+        "0",
+        "9"
+      ],
+      "correct_answer": "5",
+      "distractors": [
+        "4",
+        "0",
+        "9"
+      ],
+      "explanation": "Hàng trăm phải từ 5 trở lên, nhỏ nhất là 5.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B61_Q30",
+      "type": "fill",
+      "question": "Một số 8?321 làm tròn đến chục nghìn được 80000. Chữ số lớn nhất thay dấu hỏi là mấy?",
+      "correct_answer": "4",
+      "distractors": [
+        "5",
+        "9",
+        "8"
+      ],
+      "explanation": "Hàng nghìn phải bé hơn 5, lớn nhất là 4.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B61_Q31",
+      "type": "mcq",
+      "question": "Có 19450 vé. Làm tròn trực tiếp đến nghìn được bao nhiêu vé?",
+      "options": [
+        "19000",
+        "20000",
+        "19500",
+        "19400"
+      ],
+      "correct_answer": "19000",
+      "distractors": [
+        "20000",
+        "19500",
+        "19400"
+      ],
+      "explanation": "Hàng trăm là 4; không lấy kết quả đến trăm trước.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B61_Q32",
+      "type": "fill",
+      "question": "Hai kho có 12480 và 12520 hộp. Làm tròn từng lượng đến nghìn rồi cộng được bao nhiêu hộp?",
+      "correct_answer": "25000",
+      "distractors": [
+        "24000",
+        "26000",
+        "20000"
+      ],
+      "explanation": "Hai kết quả là 12000 và 13000, tổng 25000.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B61_Q33",
+      "type": "mcq",
+      "question": "Đường dài 45999 m. Làm tròn đến chục nghìn rồi so với số thực, số gần đúng lớn hơn số thực bao nhiêu mét?",
+      "options": [
+        "4001",
+        "4999",
+        "1",
+        "1000"
+      ],
+      "correct_answer": "4001",
+      "distractors": [
+        "4999",
+        "1",
+        "1000"
+      ],
+      "explanation": "Kết quả là 50000; 50000 - 45999 = 4001 m.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B61_Q34",
+      "type": "fill",
+      "question": "Máy làm tròn đến nghìn biến 71382 thành 71000. Đưa 75612 vào máy được số nào?",
+      "correct_answer": "76000",
+      "distractors": [
+        "75000",
+        "75600",
+        "80000"
+      ],
+      "explanation": "Hàng trăm 6 nên làm lên 76000.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B61_Q35",
+      "type": "mcq",
+      "question": "Trong 31499, 31500, 32500, số nào làm tròn đến nghìn được 32000?",
+      "options": [
+        "31500",
+        "31499",
+        "32500",
+        "33000"
+      ],
+      "correct_answer": "31500",
+      "distractors": [
+        "31499",
+        "32500",
+        "33000"
+      ],
+      "explanation": "31499 xuống 31000; 31500 lên 32000; 32500 lên 33000.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B61_Q36",
+      "type": "fill",
+      "question": "Trong 94999, 95000, 94000, số nào làm tròn đến chục nghìn được 100000?",
+      "correct_answer": "95000",
+      "distractors": [
+        "94999",
+        "94000",
+        "90000"
+      ],
+      "explanation": "95000 có hàng nghìn 5 nên làm lên 100000.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B61_Q37",
+      "type": "mcq",
+      "question": "Một số 61500 được làm tròn đến nghìn. Kết quả hơn số ban đầu bao nhiêu?",
+      "options": [
+        "500",
+        "1000",
+        "1500",
+        "50"
+      ],
+      "correct_answer": "500",
+      "distractors": [
+        "1000",
+        "1500",
+        "50"
+      ],
+      "explanation": "Kết quả 62000; 62000 - 61500 = 500.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B61_Q38",
+      "type": "fill",
+      "question": "Bản tin ghi khoảng 30000 sau làm tròn đến chục nghìn. Số thực có thể là 24999, 25000 hay 35000?",
+      "correct_answer": "25000",
+      "distractors": [
+        "24999",
+        "35000",
+        "40000"
+      ],
+      "explanation": "25000 lên 30000; 24999 xuống 20000; 35000 lên 40000.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B61_Q39",
+      "type": "mcq",
+      "question": "Một số có năm chữ số, hàng chục nghìn 6, hàng nghìn 4, hàng trăm 9, hai hàng cuối 0. Làm tròn trực tiếp đến chục nghìn được gì?",
+      "options": [
+        "60000",
+        "70000",
+        "65000",
+        "64000"
+      ],
+      "correct_answer": "60000",
+      "distractors": [
+        "70000",
+        "65000",
+        "64000"
+      ],
+      "explanation": "Số là 64900; hàng nghìn 4 quyết định làm xuống.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B61_Q40",
+      "type": "fill",
+      "question": "Đếm số gần đúng không thay số chính xác: có 22840 cuốn, báo cáo làm tròn đến nghìn. Số ghi báo cáo là gì?",
+      "correct_answer": "23000",
+      "distractors": [
+        "22800",
+        "22000",
+        "20000"
+      ],
+      "explanation": "Hàng trăm 8 nên ghi khoảng 23000; số đếm thực vẫn 22840.",
+      "difficulty": "van_dung"
+    }
+  ],
+  "games": [
+    {
+      "id": "TOAN3_T2_B61_GAME1",
+      "title": "Trạm báo cáo gần đúng",
+      "mode": "treasure",
+      "objective": "Chọn đúng số gần đúng và nhận biết hàng cần làm tròn.",
+      "rules": [
+        "Mỗi lượt lấy 10 câu từ bài học.",
+        "Chọn đáp án, đọc lời giải rồi sang câu tiếp theo.",
+        "Mỗi câu đúng được 10 điểm; tối đa 100 điểm."
+      ],
+      "question_ids": [
+        "TOAN3_T2_B61_Q01",
+        "TOAN3_T2_B61_Q02",
+        "TOAN3_T2_B61_Q03",
+        "TOAN3_T2_B61_Q04",
+        "TOAN3_T2_B61_Q05",
+        "TOAN3_T2_B61_Q06",
+        "TOAN3_T2_B61_Q07",
+        "TOAN3_T2_B61_Q08",
+        "TOAN3_T2_B61_Q09",
+        "TOAN3_T2_B61_Q10",
+        "TOAN3_T2_B61_Q11",
+        "TOAN3_T2_B61_Q12",
+        "TOAN3_T2_B61_Q13",
+        "TOAN3_T2_B61_Q14",
+        "TOAN3_T2_B61_Q15",
+        "TOAN3_T2_B61_Q16",
+        "TOAN3_T2_B61_Q17",
+        "TOAN3_T2_B61_Q18",
+        "TOAN3_T2_B61_Q19",
+        "TOAN3_T2_B61_Q20",
+        "TOAN3_T2_B61_Q21",
+        "TOAN3_T2_B61_Q22",
+        "TOAN3_T2_B61_Q23",
+        "TOAN3_T2_B61_Q24",
+        "TOAN3_T2_B61_Q25",
+        "TOAN3_T2_B61_Q26",
+        "TOAN3_T2_B61_Q27",
+        "TOAN3_T2_B61_Q28",
+        "TOAN3_T2_B61_Q29",
+        "TOAN3_T2_B61_Q30",
+        "TOAN3_T2_B61_Q31",
+        "TOAN3_T2_B61_Q32",
+        "TOAN3_T2_B61_Q33",
+        "TOAN3_T2_B61_Q34",
+        "TOAN3_T2_B61_Q35",
+        "TOAN3_T2_B61_Q36",
+        "TOAN3_T2_B61_Q37",
+        "TOAN3_T2_B61_Q38",
+        "TOAN3_T2_B61_Q39",
+        "TOAN3_T2_B61_Q40"
+      ],
+      "answer_source": "practice.correct_answer",
+      "feedback_source": "practice.explanation",
+      "max_score": 100
+    }
+  ],
+  "assessment": {
+    "session_size": 10,
+    "distribution": {
+      "nhan_biet": 3,
+      "thong_hieu": 3,
+      "van_dung": 4
+    },
+    "scoring": "Đúng lần đầu: 1 điểm; đúng sau một gợi ý: 0,5 điểm. Từ 90%: 3 sao; từ 60%: 2 sao; còn lại: 1 sao.",
+    "review_advice": "Xem lời giải các câu sai, đọc lại quy tắc, rồi làm một lượt mới."
+  },
+  "feedback": {
+    "correct": "Chính xác! Hãy đọc lời giải để củng cố cách làm.",
+    "incorrect": "Em thử lại một lần. Sau đó xem đáp án và cách giải."
+  },
+  "verification": {
+    "ai_authored": true,
+    "structure_checked": true,
+    "answer_reviewed": true,
+    "source_reviewed": true,
+    "teacher_approved": false
+  },
+  "status": "AI_CHECKED_AWAITING_TEACHER"
+}
