@@ -1,3 +1,11 @@
+# Kiến thức và ví dụ Batch 20 — 09/11/2026
+
+Đã lưu batch20-details.json gồm mục tiêu, giải thích kiến thức, quy tắc, hướng dẫn, lỗi thường gặp, hai ví dụ có lời giải và cấu hình trò chơi riêng cho mỗi Bài 77–80. Giữ nguyên 160 câu nguồn. JSON chi tiết hợp lệ. Đây là nội dung chuẩn bị đóng gói, chưa có học liệu mới trong luồng học chính.
+
+Tiếp dựng SVG cần thiết, tạo builder Batch 20 và JSON/Markdown cho 4 bài, kiểm tra đáp án độc lập và hồi quy toàn kho, chạy DOM, sau đó mới tăng INDEX và commit tích hợp. Tổng vẫn 76/168 mục, 3040 câu, 76 trò chơi; giáo viên duyệt 4, 72 chờ duyệt; 92 mục nháp. Không tạo lại câu hỏi hoặc phần kiến thức đã lưu.
+
+## Lịch sử
+
 # Nguồn Batch 20 đủ 160 câu — 09/11/2026
 
 Đã đọc trực quan trang in 123–124 (PDF 124–125), Toán tập 2: đọc bảng hai chiều, tổng lượt theo hàng/cột, tiền theo mệnh giá, đủ tiền mua, chọn hộp quà và lấy hai vật không bỏ lại. Bổ sung 40 câu mới Bài 80; giữ nguyên Bài 77–79. batch20-source.txt hiện đủ 160 câu, mỗi bài theo thứ tự 10/10/20; kiểm tra số dòng, câu không trùng trong bài và bốn lựa chọn khác nhau đạt.
