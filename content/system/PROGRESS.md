@@ -1,3 +1,11 @@
+# Đối chiếu nguồn Bài 77 — 09/11/2026
+
+Đã đọc trực quan trang in 115–117 (PDF 116–118) của Toán tập 2 từ PDF truy cập được: ôn đặt tính cộng/trừ đến 100000, so sánh kết quả theo ngưỡng, biểu thức có ngoặc, tìm chữ số theo số nhớ/đổi, tiền trả lại, so sánh độ dài đường đi và tình huống trừ liên tiếp. Bài tập về năm cần nêu mốc năm cụ thể khi biên soạn, tránh đáp án phụ thuộc “năm nay”. Hình đường đi cần dựng SVG mới với đủ các đoạn và đơn vị nếu dùng tình huống tương tự; không dùng ảnh SGK.
+
+Chưa biên soạn/đóng gói Bài 77; chưa đọc nguồn Bài 78–80 trong lượt này. Tiếp biên soạn riêng Bài 77, đọc nguồn Bài 78–80, hoàn thiện đủ Batch 20 rồi kiểm thử và tích hợp. Không tính việc đọc nguồn là hoàn thành học liệu. INDEX giữ 76/168, 3040 câu, 76 trò chơi; giáo viên duyệt 4, 72 chờ duyệt; 92 mục còn nháp.
+
+## Lịch sử
+
 # Xác minh triển khai Batch 19 — 09/11/2026
 
 Commit học liệu: [6dbd1a8](https://github.com/tranphuc2026abc-prog/TOAN_TV_TA_LOP3/commit/6dbd1a8789a431befcf51d1bb9bd58a28be457a3). Đã đọc lại head main đúng commit. Cả hai workflow “Publish class 3 website to GitHub Pages” và “pages build and deployment” của commit đều completed/success.
