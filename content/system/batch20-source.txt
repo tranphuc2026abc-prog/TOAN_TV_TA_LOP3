@@ -121,3 +121,44 @@ Bình có 1800 ml nước, uống 300 ml rồi chia đều phần còn lại và
 Hai hình tam giác ghép theo một cạnh chung dài 5 cm, không chồng phần bên trong. Tổng chu vi hai tam giác là 32 cm. Chu vi đường bao ngoài bằng bao nhiêu cm?|22|Cạnh chung nằm bên trong và bị tính hai lần; bỏ 10 cm khỏi 32 cm còn 22 cm.|27;32;42
 Đường kính hình tròn dài 16 cm. Hai bán kính nối tiếp từ đầu này qua tâm đến đầu kia có tổng độ dài bao nhiêu cm?|16|Hai bán kính tạo thành đường kính nên tổng bằng 16 cm.|8;32;4
 Một chuyến đi bắt đầu lúc 7 giờ 50 phút, đi 25 phút rồi nghỉ 10 phút, tiếp tục đi 15 phút. Kết thúc lúc nào?|8 giờ 40 phút|Tổng thời gian là 50 phút; thêm vào 7 giờ 50 phút được 8 giờ 40 phút.|8 giờ 30 phút;8 giờ 20 phút;9 giờ
+Bài 80
+Bảng lượt khách có cột Thứ Hai, Thứ Ba và hai hàng Sáng, Chiều. Muốn biết chiều Thứ Ba đọc giao của hàng nào và cột nào?|Chiều và Thứ Ba|Chọn đúng buổi ở hàng và ngày ở cột.|Sáng và Thứ Ba;Chiều và Thứ Hai;Sáng và Thứ Hai
+Bảng số sách: truyện 14, thơ 8, khoa học 11. Có mấy loại sách?|3|Ba loại được nêu là truyện, thơ và khoa học.|14;33;2
+Sổ khách ghi buổi sáng 23 lượt, chiều 17 lượt. Buổi nào nhiều lượt hơn?|sáng|23 lớn hơn 17 nên sáng nhiều lượt hơn.|chiều;bằng nhau;chưa biết
+Hộp chỉ có bóng vàng. Lấy một bóng được vàng là sự kiện gì?|chắc chắn|Mọi bóng đều vàng nên lấy bóng nào cũng vàng.|có thể;không thể;chưa rõ
+Ba thẻ ghi số 1, 4, 7. Rút một thẻ có thể được số nào trong 2, 4, 6, 8?|4|Chỉ 4 có trong ba thẻ của túi.|2;6;8
+Hộp có bút xanh và bút đen, không có bút đỏ. Lấy bút đỏ là sự kiện gì?|không thể|Không có bút đỏ để lấy.|chắc chắn;có thể;luôn xảy ra
+Bảng đơn vị là lượt mượn, ô ghi 12. Số này chỉ 12 lượt hay chắc chắn 12 người khác nhau?|12 lượt|Một người có thể mượn nhiều lần, bảng chỉ đếm lượt.|chắc chắn 12 người;12 quyển mỗi người;12 ngày
+Túi có thẻ hoa và lá. Lấy một thẻ, sự kiện được hoa thuộc loại nào?|có thể|Có thẻ hoa nhưng cũng có thể lấy lá.|chắc chắn;không thể;luôn xảy ra
+Bảng quỹ ghi An 12000 đồng, Hà 15000 đồng. Ai có nhiều tiền hơn?|Hà|15000 lớn hơn 12000.|An;hai bạn bằng nhau;không biết
+Đồng xu có mặt chim và mặt cá. Tung nằm phẳng, có thể thấy mặt mèo ở trên không?|không|Không mặt nào của xu có hình mèo.|có;chắc chắn;luôn thấy mèo
+Bảng khách: Thứ Hai sáng 18 chiều 22; Thứ Ba sáng 25 chiều 15. Thứ Hai có tất cả bao nhiêu lượt?|40|Cộng hai buổi cùng ngày: 18 cộng 22 bằng 40.|43;37;80
+Bảng khách: Thứ Tư sáng 21 chiều 14; Thứ Năm sáng 19 chiều 26. Hai buổi chiều có tổng bao nhiêu lượt?|40|Chọn đúng hàng chiều: 14 cộng 26 bằng 40.|35;45;80
+Bảng số phiếu: xanh 9, đỏ 12, trắng 7. Đỏ hơn trắng bao nhiêu phiếu?|5|Lấy 12 trừ 7 bằng 5 phiếu.|3;19;21
+Một bạn có hai tờ 5000 đồng và ba tờ 2000 đồng. Tổng tiền bao nhiêu đồng?|16000|Hai tờ 5000 là 10000, ba tờ 2000 là 6000, tổng 16000.|10000;14000;7000
+Hộp có 1 bi tím, 2 bi trắng. Lấy 2 bi không bỏ lại có thể được hai tím không?|không|Chỉ có một bi tím nên không đủ hai viên.|có;chắc chắn;luôn được
+Có 2 thẻ tròn, 1 thẻ vuông. Lấy cả ba thẻ có chắc được thẻ vuông không?|có|Lấy hết túi thì có cả thẻ vuông.|không;chỉ có tròn;chưa rõ
+Một bảng ghi tổng 30 bạn nhưng các nhóm một lựa chọn là 11, 10, 8. Còn thiếu mấy phiếu?|1|Ba nhóm có 29 phiếu, thiếu 1 để đủ 30.|2;8;0
+Có 3 hộp quà: một đựng sách, một đựng bút, một đựng bóng. Chọn ngẫu nhiên một hộp, có chắc được sách không?|không|Có thể chọn hộp bút hoặc bóng nên sách không chắc chắn.|có;luôn được sách;không thể được sách
+Bảng tiền: Bình 18000, Nam 14000, Vy 20000 đồng. Sách giá 17000 đồng. Có mấy bạn đủ tiền mua?|2|Bình và Vy có ít nhất 17000 đồng; Nam chưa đủ.|1;3;0
+Túi có 4 thẻ đều ghi số nhỏ hơn 10. Rút một thẻ được số lớn hơn 20 là sự kiện gì?|không thể|Mọi thẻ đều nhỏ hơn 10 nên không thể lớn hơn 20.|có thể;chắc chắn;luôn xảy ra
+Bảng mượn sách: sáng Hai 16, Ba 24, Tư 20; chiều Hai 18, Ba 21, Tư 15. Tổng lượt buổi sáng ba ngày là bao nhiêu?|60|Cộng đúng hàng sáng: 16 cộng 24 cộng 20 bằng 60.|54;114;62
+Bảng lượt đọc: Hai sáng 12 chiều 18; Ba sáng 20 chiều 10; Tư sáng 15 chiều 16. Ngày nào tổng nhiều nhất?|Thứ Tư|Hai và Ba đều 30 lượt; Tư 31 lượt, nhiều nhất.|Thứ Hai;Thứ Ba;cả ba bằng nhau
+Bảng số tiền: Lan có 4 tờ 2000 và 1 tờ 10000 đồng. Mua bút 13000 đồng thì còn mấy đồng?|5000|Lan có 18000 đồng; mua bút còn 5000 đồng.|18000;8000;3000
+Tổ A góp 12500 đồng, tổ B góp gấp đôi A, tổ C góp 15000 đồng. Tổng ba tổ góp bao nhiêu đồng?|52500|B góp 25000; tổng là 12500 cộng 25000 cộng 15000 bằng 52500.|40000;42500;65000
+Bảng phiếu 24 bạn, mỗi bạn chọn một: đá cầu 8, cầu lông 10, bóng bàn 6. Hai bạn đổi từ cầu lông sang bóng bàn. Lúc này mấy môn cùng nhiều nhất?|3|Ba môn đều có 8 phiếu nên cả ba cùng đứng đầu.|1;2;0
+Có ba thẻ số 2, 5, 8. Rút hai thẻ không bỏ lại. Tổng lớn nhất có thể là bao nhiêu?|13|Hai số lớn nhất là 5 và 8, tổng 13.|16;10;7
+Một túi có 2 bóng xanh, 1 bóng cam. Lấy 2 bóng không bỏ lại. Có chắc ít nhất một xanh không?|có|Chỉ có một cam, nên không thể lấy hai bóng mà không có xanh.|không;chắc chắn hai cam;không thể có xanh
+Có hai thẻ 1 và 3. Rút một, bỏ lại rồi rút tiếp. Tổng có thể bằng 6 không?|có|Có thể rút thẻ 3 hai lần vì thẻ được bỏ lại.|không;chỉ được 4;luôn bằng 2
+Bảng trồng cây ghi 3A 16, 3B 12, 3C 20 cây. Mỗi cây cần 2 lít nước. Cần bao nhiêu lít tưới tất cả?|96|Tổng 48 cây, mỗi cây 2 lít nên cần 96 lít.|48;72;104
+Bảng khách ghi sáng 34 chiều 28 lượt, nhưng 9 người có mặt cả hai buổi và mỗi người chỉ đến tối đa một lần mỗi buổi. Có mấy người khác nhau?|53|Cộng được 62 lượt, trừ 9 người bị đếm hai lần còn 53 người.|62;71;43
+Ba hộp lần lượt có một chiếc xe, một búp bê, một bộ xếp hình. Lấy hai hộp khác nhau. Có thể được hai chiếc xe không?|không|Chỉ có một hộp đựng xe nên không thể có hai chiếc xe.|có;chắc chắn;luôn được
+Bảng tiết kiệm: An có 3 tờ 5000, Bình có 2 tờ 10000, Hà có 8 tờ 2000 đồng. Ai có nhiều tiền nhất?|Bình|An có 15000, Bình 20000, Hà 16000 đồng; Bình nhiều nhất.|An;Hà;ba bạn bằng nhau
+Bảng chọn nơi đi: vườn hoa 11, bảo tàng 9, công viên 8. Thêm 4 bạn chọn bảo tàng. Nơi nào đứng đầu sau khi thêm?|bảo tàng|Bảo tàng có 13 phiếu, lớn hơn 11 và 8.|vườn hoa;công viên;không đổi thứ tự
+Một túi có 5 thẻ đỏ, 1 thẻ xanh. Đã lấy thẻ xanh và giữ ngoài túi. Lấy tiếp một thẻ được đỏ là sự kiện gì?|chắc chắn|Trong túi chỉ còn năm thẻ đỏ.|có thể;không thể;chưa rõ
+Một bảng ghi số đã nảy mầm đến ngày Hai là 12, đến ngày Ba là 19. Từ Hai sang Ba có thêm mấy hạt nảy mầm?|7|Số tăng thêm là 19 trừ 12 bằng 7, không cộng hai số tích lũy.|31;19;12
+Bảng số bánh còn lại: đầu ngày 50, sau sáng 32, cuối ngày 11. Chiều bán nhiều hơn sáng mấy bánh?|3|Sáng bán 18, chiều bán 21, chiều nhiều hơn 3 bánh.|21;18;39
+Một hộp có ba thẻ A, B, C. Chọn hết ba thẻ không bỏ lại, thứ tự có thể thay đổi. Có chắc nhận đủ A, B, C không?|có|Lấy hết ba thẻ nên luôn đủ ba kí hiệu.|không;chỉ được A;chỉ được C
+Bảng số áo: nhỏ 7, vừa 9, lớn 8. Mỗi gói đóng 4 áo, không phân biệt cỡ. Đóng được mấy gói đủ?|6|Tổng 24 áo, chia 4 được 6 gói.|4;24;5
+Hai bạn ghi kết quả tung cùng một xu có hai mặt sao và lá. Sau 5 lượt toàn sao, có được ghi chắc lượt 6 là lá không?|không|Kết quả trước không buộc lần tiếp ra lá; cả sao và lá vẫn có thể xảy ra.|có;chắc chắn lá;không thể sao
+Khảo sát 30 bạn, mỗi bạn một phiếu. Bảng ghi bóng đá 16, cờ vua 9, bơi 5. Bóng đá có hơn một nửa số phiếu không?|có|Một nửa 30 là 15; 16 lớn hơn 15.|không;bằng một nửa;chỉ có 9 phiếu

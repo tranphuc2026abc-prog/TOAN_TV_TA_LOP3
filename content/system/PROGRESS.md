@@ -1,3 +1,11 @@
+# Nguồn Batch 20 đủ 160 câu — 09/11/2026
+
+Đã đọc trực quan trang in 123–124 (PDF 124–125), Toán tập 2: đọc bảng hai chiều, tổng lượt theo hàng/cột, tiền theo mệnh giá, đủ tiền mua, chọn hộp quà và lấy hai vật không bỏ lại. Bổ sung 40 câu mới Bài 80; giữ nguyên Bài 77–79. batch20-source.txt hiện đủ 160 câu, mỗi bài theo thứ tự 10/10/20; kiểm tra số dòng, câu không trùng trong bài và bốn lựa chọn khác nhau đạt.
+
+Chưa đóng gói và chưa tích hợp Batch 20. Tiếp hoàn thiện mục tiêu/kiến thức/hướng dẫn/lỗi/ví dụ/game cho 77–80, dựng SVG cần thiết cho Bài 79 và bảng Bài 80, tạo JSON/Markdown, rà đáp án độc lập rồi chạy validate_site.py, validate_content.py, hồi quy và DOM. Không tạo lại 160 câu nguồn đã lưu. Chưa tăng INDEX: tổng vẫn 76/168 mục, 3040 câu, 76 trò chơi; giáo viên duyệt 4, 72 chờ duyệt, 92 mục nháp.
+
+## Lịch sử
+
 # Checkpoint Bài 79 — 09/11/2026
 
 Đã đọc trực quan trang in 121–122 (PDF 122–123), Toán tập 2: trung điểm/bán kính/góc vuông, chu vi tam giác/tứ giác, cạnh chung, diện tích ghép, đơn vị độ dài/khối lượng/dung tích, đồng hồ/lịch và tiền. Đã bổ sung 40 câu mới Bài 79 vào batch20-source.txt; giữ nguồn Bài 77–78. Hiện có 120 câu, mỗi bài 10/10/20; số dòng và bốn phương án khác nhau đạt.
