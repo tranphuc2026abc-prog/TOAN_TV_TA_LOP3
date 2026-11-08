@@ -1,3 +1,13 @@
+# Xác minh triển khai Batch 19 — 09/11/2026
+
+Commit học liệu: [6dbd1a8](https://github.com/tranphuc2026abc-prog/TOAN_TV_TA_LOP3/commit/6dbd1a8789a431befcf51d1bb9bd58a28be457a3). Đã đọc lại head main đúng commit. Cả hai workflow “Publish class 3 website to GitHub Pages” và “pages build and deployment” của commit đều completed/success.
+
+Đã tải trực tiếp từ Pages 12 tài nguyên (INDEX.json, 4 JSON, 4 Markdown, 3 SVG): HTTP 200 và SHA-256 khớp từng tệp đã kiểm thử. Kiểm tra bổ sung: không có câu nguyên văn Batch 19 trùng với kho Toán 1–72. Đây là kiểm tra tài nguyên triển khai và DOM, chưa phải kiểm thử bố cục bằng Chromium.
+
+Giữ checkpoint 76/168 mục tích hợp, 3040 câu, 76 trò chơi; giáo viên duyệt 4, chờ duyệt 72, còn 92 mục nháp. Tiếp Batch 20 Toán 77–80 (trang in 115–124, PDF 116–125); các trang này chưa đọc trong lượt Batch 19, cần đọc trước khi biên soạn. Sau đó Toán 81, rồi Tiếng Việt và Tiếng Anh. Không tuyên bố hoàn tất 168 mục.
+
+## Lịch sử
+
 # Batch 19 đã tích hợp — 09/11/2026
 
 Toán 73–76 đã có 4 JSON và 4 Markdown riêng, 160 câu (mỗi bài 10 nhận biết, 10 thông hiểu, 20 vận dụng), 4 trò chơi và 3 SVG mới hiển thị trực tiếp trong câu hỏi. Đã đọc trực quan toàn bộ trang in 103–114 (PDF 104–115) Toán tập 2 trước khi biên soạn: thu thập/phân loại/ghi chép, bảng số liệu, khả năng của sự kiện, thực hành khảo sát và ôn số đến 100 000. Câu hỏi mới, dữ kiện đầy đủ; không sao chép hệ thống bài tập SGK.
