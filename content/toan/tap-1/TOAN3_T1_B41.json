@@ -1,0 +1,782 @@
+{
+  "id": "TOAN3_T1_B41",
+  "subject": "toan",
+  "grade": 3,
+  "book": "Kết nối tri thức với cuộc sống",
+  "volume": 1,
+  "lesson_no": 41,
+  "title": "Ôn tập phép nhân, phép chia trong phạm vi 100, 1 000",
+  "topic": "Ôn nhân và chia",
+  "source": {
+    "pdf": "03-sgk-toan-3-tap-mot.pdf",
+    "printed_pages": [
+      113,
+      115
+    ],
+    "pdf_pages": [
+      114,
+      116
+    ],
+    "review": "Đã đọc trực quan toàn bộ trang nguồn cho bài này; nội dung và bài tập mới do AI biên soạn."
+  },
+  "objectives": [
+    "Giải thích và vận dụng được các quy tắc trong ôn nhân và chia.",
+    "Chọn đúng phép tính, kiểm tra kết quả và sửa lỗi."
+  ],
+  "knowledge": {
+    "introduction": "Bài ôn tập giúp kết nối những điều đã học. Đọc điều cần tìm, chọn quy tắc rồi làm từng bước. Nhân đủ hàng và cộng số nhớ; chia từ trái sang phải, giữ chữ số 0 trong thương.",
+    "rules": [
+      "Nhân đủ hàng và cộng số nhớ; chia từ trái sang phải, giữ chữ số 0 trong thương.",
+      "Số dư bé hơn số chia; hỏi chứa hết phải thêm một chỗ nếu còn dư.",
+      "Tìm một phần của số dùng chia cho số phần; tìm số ban đầu dùng nhân."
+    ],
+    "steps": [
+      "Đọc dữ kiện và điều cần tìm.",
+      "Chọn quy tắc, đổi đơn vị nếu cần.",
+      "Thực hiện từng bước, ghi đơn vị.",
+      "Kiểm tra bằng phép tính ngược hoặc dụng cụ phù hợp."
+    ],
+    "common_errors": [
+      "Quên số nhớ hoặc bỏ 0.",
+      "Nhầm lượng đã dùng với lượng còn lại."
+    ]
+  },
+  "examples": [
+    {
+      "question": "Tìm một phần tư của 120.",
+      "steps": [
+        "120 : 4 = 30.",
+        "Kết quả là 30."
+      ]
+    },
+    {
+      "question": "Có 83 vật, hộp tối đa 4 vật. Cần mấy hộp?",
+      "steps": [
+        "4 × 20 + 3 = 83.",
+        "20 hộp đầy và thêm một hộp: cần 21 hộp."
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "question_id": "TOAN3_T1_B41_Q01",
+      "type": "mcq",
+      "question": "Tính nhẩm 30 × 2.",
+      "options": [
+        "60",
+        "6",
+        "32",
+        "50"
+      ],
+      "correct_answer": "60",
+      "distractors": [
+        "6",
+        "32",
+        "50"
+      ],
+      "explanation": "3 chục nhân 2 bằng 6 chục.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T1_B41_Q02",
+      "type": "fill",
+      "question": "Tính nhẩm 600 : 2.",
+      "correct_answer": "300",
+      "distractors": [
+        "30",
+        "200",
+        "400"
+      ],
+      "explanation": "6 trăm chia 2 bằng 3 trăm.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T1_B41_Q03",
+      "type": "mcq",
+      "question": "Tính 42 × 2.",
+      "options": [
+        "84",
+        "82",
+        "44",
+        "86"
+      ],
+      "correct_answer": "84",
+      "distractors": [
+        "82",
+        "44",
+        "86"
+      ],
+      "explanation": "2 × 2 = 4; 2 × 4 = 8 chục.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T1_B41_Q04",
+      "type": "fill",
+      "question": "Tính 96 : 8.",
+      "correct_answer": "12",
+      "distractors": [
+        "11",
+        "14",
+        "88"
+      ],
+      "explanation": "8 × 12 = 96.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T1_B41_Q05",
+      "type": "mcq",
+      "question": "Tính 203 × 3.",
+      "options": [
+        "609",
+        "69",
+        "606",
+        "209"
+      ],
+      "correct_answer": "609",
+      "distractors": [
+        "69",
+        "606",
+        "209"
+      ],
+      "explanation": "3 × 3 = 9; 3 × 0 = 0; 3 × 2 = 6 trăm.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T1_B41_Q06",
+      "type": "fill",
+      "question": "Tính 824 : 2.",
+      "correct_answer": "412",
+      "distractors": [
+        "402",
+        "422",
+        "414"
+      ],
+      "explanation": "824 : 2 = 412.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T1_B41_Q07",
+      "type": "mcq",
+      "question": "Chia 97 cho 6 có thương 16. Số dư mấy?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "6"
+      ],
+      "correct_answer": "1",
+      "distractors": [
+        "2",
+        "3",
+        "6"
+      ],
+      "explanation": "6 × 16 + 1 = 97.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T1_B41_Q08",
+      "type": "fill",
+      "question": "Một phần tư của 28 bằng mấy?",
+      "correct_answer": "7",
+      "distractors": [
+        "24",
+        "4",
+        "32"
+      ],
+      "explanation": "28 : 4 = 7.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T1_B41_Q09",
+      "type": "mcq",
+      "question": "Tìm thừa số còn thiếu: số đó nhân 3 bằng 72.",
+      "options": [
+        "24",
+        "69",
+        "75",
+        "21"
+      ],
+      "correct_answer": "24",
+      "distractors": [
+        "69",
+        "75",
+        "21"
+      ],
+      "explanation": "72 : 3 = 24.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T1_B41_Q10",
+      "type": "fill",
+      "question": "Tìm số bị chia, biết chia hết cho 4 được 125.",
+      "correct_answer": "500",
+      "distractors": [
+        "129",
+        "121",
+        "450"
+      ],
+      "explanation": "125 × 4 = 500.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T1_B41_Q11",
+      "type": "mcq",
+      "question": "Bạn tính 116 × 4 được 444 vì quên nhớ. Tích đúng mấy?",
+      "options": [
+        "464",
+        "444",
+        "446",
+        "466"
+      ],
+      "correct_answer": "464",
+      "distractors": [
+        "444",
+        "446",
+        "466"
+      ],
+      "explanation": "4 × 6 = 24, viết 4 nhớ 2; hàng chục thêm 2 được 6; hàng trăm được 4.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T1_B41_Q12",
+      "type": "fill",
+      "question": "Bạn tính 618 : 3 được 26 do bỏ 0. Thương đúng mấy?",
+      "correct_answer": "206",
+      "distractors": [
+        "26",
+        "216",
+        "204"
+      ],
+      "explanation": "6 chia 3 được 2; hạ 1 chưa đủ chia ghi 0; hạ 8 thành 18 được 6.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T1_B41_Q13",
+      "type": "mcq",
+      "question": "Tìm số chia: 84 chia số đó được 7.",
+      "options": [
+        "12",
+        "77",
+        "91",
+        "6"
+      ],
+      "correct_answer": "12",
+      "distractors": [
+        "77",
+        "91",
+        "6"
+      ],
+      "explanation": "84 : 7 = 12; kiểm tra 84 : 12 = 7.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T1_B41_Q14",
+      "type": "fill",
+      "question": "Chia một số cho 7 được thương 105 dư 3. Số bị chia mấy?",
+      "correct_answer": "738",
+      "distractors": [
+        "735",
+        "732",
+        "742"
+      ],
+      "explanation": "7 × 105 + 3 = 738.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T1_B41_Q15",
+      "type": "mcq",
+      "question": "Một phần năm của 45 so với một phần ba của 45, phần nào lớn hơn? Chọn mẫu số.",
+      "options": [
+        "3",
+        "5",
+        "8",
+        "1"
+      ],
+      "correct_answer": "3",
+      "distractors": [
+        "5",
+        "8",
+        "1"
+      ],
+      "explanation": "45 : 5 = 9; 45 : 3 = 15, phần ba lớn hơn.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T1_B41_Q16",
+      "type": "fill",
+      "question": "Tính 125 × 6 bằng tách 100 và 25. Phần 25 nhân 6 được mấy?",
+      "correct_answer": "150",
+      "distractors": [
+        "125",
+        "600",
+        "750"
+      ],
+      "explanation": "25 × 6 = 150; cộng 600 được tích 750.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T1_B41_Q17",
+      "type": "mcq",
+      "question": "Có thể có phép chia cho 8 mà số dư bằng 8 không? Trả lời có hoặc không.",
+      "options": [
+        "không",
+        "có",
+        "luôn được",
+        "thương bằng 8"
+      ],
+      "correct_answer": "không",
+      "distractors": [
+        "có",
+        "luôn được",
+        "thương bằng 8"
+      ],
+      "explanation": "Dư 8 còn đủ một nhóm 8 nên phải chia tiếp; dư phải bé hơn 8.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T1_B41_Q18",
+      "type": "fill",
+      "question": "Một phép chia hết có số bị chia 936, số chia 3. Thương có mấy chữ số?",
+      "correct_answer": "3",
+      "distractors": [
+        "1",
+        "2",
+        "4"
+      ],
+      "explanation": "936 : 3 = 312, thương có ba chữ số.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T1_B41_Q19",
+      "type": "mcq",
+      "question": "Một số nhân 5 được 85. Nếu nhân số đó với 4 thì được mấy?",
+      "options": [
+        "68",
+        "80",
+        "89",
+        "340"
+      ],
+      "correct_answer": "68",
+      "distractors": [
+        "80",
+        "89",
+        "340"
+      ],
+      "explanation": "85 : 5 = 17; 17 × 4 = 68.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T1_B41_Q20",
+      "type": "fill",
+      "question": "Trong phép nhân 1?4 × 2 = 328, chữ số còn thiếu mấy?",
+      "correct_answer": "6",
+      "distractors": [
+        "2",
+        "4",
+        "8"
+      ],
+      "explanation": "328 : 2 = 164 nên chữ số hàng chục là 6.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T1_B41_Q21",
+      "type": "mcq",
+      "question": "Mỗi khay 24 bánh, có 3 khay. Có mấy bánh?",
+      "options": [
+        "72",
+        "27",
+        "62",
+        "48"
+      ],
+      "correct_answer": "72",
+      "distractors": [
+        "27",
+        "62",
+        "48"
+      ],
+      "explanation": "24 × 3 = 72 bánh.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B41_Q22",
+      "type": "fill",
+      "question": "Có 560 hạt chia đều 7 luống. Mỗi luống mấy hạt?",
+      "correct_answer": "80",
+      "distractors": [
+        "8",
+        "70",
+        "87"
+      ],
+      "explanation": "560 : 7 = 80 hạt.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B41_Q23",
+      "type": "mcq",
+      "question": "Có 94 lít nước cần chứa hết trong can tối đa 6 lít. Ít nhất mấy can?",
+      "options": [
+        "16",
+        "15",
+        "17",
+        "14"
+      ],
+      "correct_answer": "16",
+      "distractors": [
+        "15",
+        "17",
+        "14"
+      ],
+      "explanation": "6 × 15 + 4 = 94; còn 4 lít cần can thứ 16.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B41_Q24",
+      "type": "fill",
+      "question": "Có 94 lít nước, chỉ tính các can đầy đúng 6 lít. Được mấy can đầy?",
+      "correct_answer": "15",
+      "distractors": [
+        "16",
+        "14",
+        "4"
+      ],
+      "explanation": "6 × 15 + 4 = 94 nên có 15 can đầy.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B41_Q25",
+      "type": "mcq",
+      "question": "Có 144 thẻ, tặng một phần sáu số thẻ. Tặng mấy thẻ?",
+      "options": [
+        "24",
+        "138",
+        "6",
+        "150"
+      ],
+      "correct_answer": "24",
+      "distractors": [
+        "138",
+        "6",
+        "150"
+      ],
+      "explanation": "144 : 6 = 24 thẻ.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B41_Q26",
+      "type": "fill",
+      "question": "Có 144 thẻ, tặng một phần sáu. Còn mấy thẻ?",
+      "correct_answer": "120",
+      "distractors": [
+        "24",
+        "138",
+        "168"
+      ],
+      "explanation": "144 : 6 = 24; 144 - 24 = 120 thẻ.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B41_Q27",
+      "type": "mcq",
+      "question": "Một đội làm 138 cờ, đội khác làm gấp 4 lần. Hai đội làm mấy cờ?",
+      "options": [
+        "690",
+        "552",
+        "142",
+        "414"
+      ],
+      "correct_answer": "690",
+      "distractors": [
+        "552",
+        "142",
+        "414"
+      ],
+      "explanation": "138 × 4 = 552; 138 + 552 = 690 cờ.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B41_Q28",
+      "type": "fill",
+      "question": "Có 795 quả, mỗi giỏ 5 quả. Bán 100 giỏ thì còn mấy giỏ?",
+      "correct_answer": "59",
+      "distractors": [
+        "159",
+        "58",
+        "69"
+      ],
+      "explanation": "795 : 5 = 159; 159 - 100 = 59 giỏ.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B41_Q29",
+      "type": "mcq",
+      "question": "Mỗi chuyến chuyển 216 kg, có 3 chuyến. Cần chuyển 700 kg thì còn thiếu mấy kg?",
+      "options": [
+        "52",
+        "648",
+        "62",
+        "42"
+      ],
+      "correct_answer": "52",
+      "distractors": [
+        "648",
+        "62",
+        "42"
+      ],
+      "explanation": "216 × 3 = 648; 700 - 648 = 52 kg.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B41_Q30",
+      "type": "fill",
+      "question": "Có 875 g hạt chia đều 5 túi. Một túi lấy ra 75 g, túi đó còn mấy gam?",
+      "correct_answer": "100",
+      "distractors": [
+        "175",
+        "800",
+        "250"
+      ],
+      "explanation": "875 : 5 = 175; 175 - 75 = 100 g.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B41_Q31",
+      "type": "mcq",
+      "question": "Có 7 hộp mỗi hộp 108 nhãn. Dùng 256 nhãn thì còn mấy nhãn?",
+      "options": [
+        "500",
+        "756",
+        "608",
+        "600"
+      ],
+      "correct_answer": "500",
+      "distractors": [
+        "756",
+        "608",
+        "600"
+      ],
+      "explanation": "108 × 7 = 756; 756 - 256 = 500 nhãn.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B41_Q32",
+      "type": "fill",
+      "question": "Một phần tám của 96 viên bi được chia tiếp đều cho 3 bạn. Mỗi bạn mấy viên?",
+      "correct_answer": "4",
+      "distractors": [
+        "12",
+        "32",
+        "8"
+      ],
+      "explanation": "96 : 8 = 12; 12 : 3 = 4 viên.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B41_Q33",
+      "type": "mcq",
+      "question": "Có 639 cây, thêm 9 cây rồi chia đều 6 vườn. Mỗi vườn mấy cây?",
+      "options": [
+        "108",
+        "106",
+        "648",
+        "118"
+      ],
+      "correct_answer": "108",
+      "distractors": [
+        "106",
+        "648",
+        "118"
+      ],
+      "explanation": "639 + 9 = 648; 648 : 6 = 108 cây.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B41_Q34",
+      "type": "fill",
+      "question": "Một đoạn 72 mm gấp 3 lần đoạn khác. Hai đoạn tổng dài mấy mm?",
+      "correct_answer": "96",
+      "distractors": [
+        "24",
+        "75",
+        "48"
+      ],
+      "explanation": "72 : 3 = 24; 72 + 24 = 96 mm.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B41_Q35",
+      "type": "mcq",
+      "question": "Có 848 ảnh, mỗi trang 4 ảnh. Đã dán đầy 112 trang. Còn đủ ảnh cho mấy trang?",
+      "options": [
+        "100",
+        "212",
+        "102",
+        "736"
+      ],
+      "correct_answer": "100",
+      "distractors": [
+        "212",
+        "102",
+        "736"
+      ],
+      "explanation": "848 : 4 = 212; 212 - 112 = 100 trang.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B41_Q36",
+      "type": "fill",
+      "question": "Một số chia 9 thương 107 dư 2. Thêm mấy để chia hết cho 9 gần nhất phía trên?",
+      "correct_answer": "7",
+      "distractors": [
+        "2",
+        "9",
+        "5"
+      ],
+      "explanation": "Phần dư 2 cần thêm 7 để đủ một nhóm 9.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B41_Q37",
+      "type": "mcq",
+      "question": "Có 35 bạn, mỗi xe tối đa 4 bạn. Xe cuối chở mấy bạn nếu các xe trước đều đủ?",
+      "options": [
+        "3",
+        "4",
+        "8",
+        "9"
+      ],
+      "correct_answer": "3",
+      "distractors": [
+        "4",
+        "8",
+        "9"
+      ],
+      "explanation": "4 × 8 + 3 = 35, xe thứ 9 chở 3 bạn.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B41_Q38",
+      "type": "fill",
+      "question": "Một phần ba của một số bằng 125. Số ban đầu mấy?",
+      "correct_answer": "375",
+      "distractors": [
+        "128",
+        "122",
+        "250"
+      ],
+      "explanation": "125 × 3 = 375.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B41_Q39",
+      "type": "mcq",
+      "question": "Hai nhóm mỗi nhóm 48 thẻ. Gộp lại rồi chia đều 8 bạn. Mỗi bạn mấy thẻ?",
+      "options": [
+        "12",
+        "6",
+        "96",
+        "16"
+      ],
+      "correct_answer": "12",
+      "distractors": [
+        "6",
+        "96",
+        "16"
+      ],
+      "explanation": "48 × 2 = 96; 96 : 8 = 12 thẻ.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B41_Q40",
+      "type": "fill",
+      "question": "Một túi có 132 hạt, lấy 5 túi rồi bớt 60 hạt. Số còn lại chia đều 3 luống, mỗi luống mấy hạt?",
+      "correct_answer": "200",
+      "distractors": [
+        "600",
+        "220",
+        "180"
+      ],
+      "explanation": "132 × 5 = 660; 660 - 60 = 600; 600 : 3 = 200 hạt.",
+      "difficulty": "van_dung"
+    }
+  ],
+  "games": [
+    {
+      "id": "TOAN3_T1_B41_GAME1",
+      "title": "Thử thách ôn nhân và chia",
+      "mode": "treasure",
+      "objective": "Luyện câu hỏi đúng bài, xem phản hồi để sửa cách làm.",
+      "rules": [
+        "Mỗi lượt lấy 10 câu từ bài học.",
+        "Chọn đáp án, đọc lời giải rồi sang câu tiếp theo.",
+        "Mỗi câu đúng được 10 điểm; tối đa 100 điểm."
+      ],
+      "question_ids": [
+        "TOAN3_T1_B41_Q01",
+        "TOAN3_T1_B41_Q02",
+        "TOAN3_T1_B41_Q03",
+        "TOAN3_T1_B41_Q04",
+        "TOAN3_T1_B41_Q05",
+        "TOAN3_T1_B41_Q06",
+        "TOAN3_T1_B41_Q07",
+        "TOAN3_T1_B41_Q08",
+        "TOAN3_T1_B41_Q09",
+        "TOAN3_T1_B41_Q10",
+        "TOAN3_T1_B41_Q11",
+        "TOAN3_T1_B41_Q12",
+        "TOAN3_T1_B41_Q13",
+        "TOAN3_T1_B41_Q14",
+        "TOAN3_T1_B41_Q15",
+        "TOAN3_T1_B41_Q16",
+        "TOAN3_T1_B41_Q17",
+        "TOAN3_T1_B41_Q18",
+        "TOAN3_T1_B41_Q19",
+        "TOAN3_T1_B41_Q20",
+        "TOAN3_T1_B41_Q21",
+        "TOAN3_T1_B41_Q22",
+        "TOAN3_T1_B41_Q23",
+        "TOAN3_T1_B41_Q24",
+        "TOAN3_T1_B41_Q25",
+        "TOAN3_T1_B41_Q26",
+        "TOAN3_T1_B41_Q27",
+        "TOAN3_T1_B41_Q28",
+        "TOAN3_T1_B41_Q29",
+        "TOAN3_T1_B41_Q30",
+        "TOAN3_T1_B41_Q31",
+        "TOAN3_T1_B41_Q32",
+        "TOAN3_T1_B41_Q33",
+        "TOAN3_T1_B41_Q34",
+        "TOAN3_T1_B41_Q35",
+        "TOAN3_T1_B41_Q36",
+        "TOAN3_T1_B41_Q37",
+        "TOAN3_T1_B41_Q38",
+        "TOAN3_T1_B41_Q39",
+        "TOAN3_T1_B41_Q40"
+      ],
+      "answer_source": "practice.correct_answer",
+      "feedback_source": "practice.explanation",
+      "max_score": 100
+    }
+  ],
+  "assessment": {
+    "session_size": 10,
+    "distribution": {
+      "nhan_biet": 3,
+      "thong_hieu": 3,
+      "van_dung": 4
+    },
+    "scoring": "Đúng lần đầu: 1 điểm; đúng sau một gợi ý: 0,5 điểm. Từ 90%: 3 sao; từ 60%: 2 sao; còn lại: 1 sao.",
+    "review_advice": "Xem lời giải các câu sai, đọc lại quy tắc, rồi làm một lượt mới."
+  },
+  "feedback": {
+    "correct": "Chính xác! Hãy đọc lời giải để củng cố cách làm.",
+    "incorrect": "Em thử lại một lần. Sau đó xem đáp án và cách giải."
+  },
+  "verification": {
+    "ai_authored": true,
+    "structure_checked": true,
+    "answer_reviewed": true,
+    "source_reviewed": true,
+    "teacher_approved": false
+  },
+  "status": "AI_CHECKED_AWAITING_TEACHER"
+}

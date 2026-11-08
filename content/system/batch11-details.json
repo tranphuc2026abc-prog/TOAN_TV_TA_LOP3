@@ -1,0 +1,180 @@
+[
+  {
+    "topic": "Ôn nhân và chia",
+    "objectives": [
+      "Giải thích và vận dụng được các quy tắc trong ôn nhân và chia.",
+      "Chọn đúng phép tính, kiểm tra kết quả và sửa lỗi."
+    ],
+    "intro": "Bài ôn tập giúp kết nối những điều đã học. Đọc điều cần tìm, chọn quy tắc rồi làm từng bước. Nhân đủ hàng và cộng số nhớ; chia từ trái sang phải, giữ chữ số 0 trong thương.",
+    "rules": [
+      "Nhân đủ hàng và cộng số nhớ; chia từ trái sang phải, giữ chữ số 0 trong thương.",
+      "Số dư bé hơn số chia; hỏi chứa hết phải thêm một chỗ nếu còn dư.",
+      "Tìm một phần của số dùng chia cho số phần; tìm số ban đầu dùng nhân."
+    ],
+    "steps": [
+      "Đọc dữ kiện và điều cần tìm.",
+      "Chọn quy tắc, đổi đơn vị nếu cần.",
+      "Thực hiện từng bước, ghi đơn vị.",
+      "Kiểm tra bằng phép tính ngược hoặc dụng cụ phù hợp."
+    ],
+    "errors": [
+      "Quên số nhớ hoặc bỏ 0.",
+      "Nhầm lượng đã dùng với lượng còn lại."
+    ],
+    "examples": [
+      [
+        "Tìm một phần tư của 120.",
+        [
+          "120 : 4 = 30.",
+          "Kết quả là 30."
+        ]
+      ],
+      [
+        "Có 83 vật, hộp tối đa 4 vật. Cần mấy hộp?",
+        [
+          "4 × 20 + 3 = 83.",
+          "20 hộp đầy và thêm một hộp: cần 21 hộp."
+        ]
+      ]
+    ],
+    "game": [
+      "Thử thách ôn nhân và chia",
+      "Luyện câu hỏi đúng bài, xem phản hồi để sửa cách làm."
+    ],
+    "mode": "treasure"
+  },
+  {
+    "topic": "Ôn biểu thức",
+    "objectives": [
+      "Giải thích và vận dụng được các quy tắc trong ôn biểu thức.",
+      "Chọn đúng phép tính, kiểm tra kết quả và sửa lỗi."
+    ],
+    "intro": "Bài ôn tập giúp kết nối những điều đã học. Đọc điều cần tìm, chọn quy tắc rồi làm từng bước. Có ngoặc thì tính trong ngoặc trước.",
+    "rules": [
+      "Có ngoặc thì tính trong ngoặc trước.",
+      "Nhân/chia trước cộng/trừ; cùng mức thực hiện trái sang phải.",
+      "Có thể nhóm các số hạng hoặc thừa số để tính thuận tiện, không tự đổi thứ tự phép trừ/chia."
+    ],
+    "steps": [
+      "Đọc dữ kiện và điều cần tìm.",
+      "Chọn quy tắc, đổi đơn vị nếu cần.",
+      "Thực hiện từng bước, ghi đơn vị.",
+      "Kiểm tra bằng phép tính ngược hoặc dụng cụ phù hợp."
+    ],
+    "errors": [
+      "Cộng trước nhân.",
+      "Bỏ ngoặc hoặc làm chia từ phải sang trái."
+    ],
+    "examples": [
+      [
+        "Tính 84 : (9 - 2).",
+        [
+          "9 - 2 = 7.",
+          "84 : 7 = 12."
+        ]
+      ],
+      [
+        "Tính 158 + 36 + 64.",
+        [
+          "36 + 64 = 100.",
+          "158 + 100 = 258."
+        ]
+      ]
+    ],
+    "game": [
+      "Thử thách ôn biểu thức",
+      "Luyện câu hỏi đúng bài, xem phản hồi để sửa cách làm."
+    ],
+    "mode": "tf"
+  },
+  {
+    "topic": "Ôn hình học và đo lường",
+    "objectives": [
+      "Giải thích và vận dụng được các quy tắc trong ôn hình học và đo lường.",
+      "Chọn đúng phép tính, kiểm tra kết quả và sửa lỗi."
+    ],
+    "intro": "Bài ôn tập giúp kết nối những điều đã học. Đọc điều cần tìm, chọn quy tắc rồi làm từng bước. Trung điểm nằm giữa và cách đều hai đầu đoạn; bán kính nối tâm với đường tròn, đường kính gấp đôi bán kính.",
+    "rules": [
+      "Trung điểm nằm giữa và cách đều hai đầu đoạn; bán kính nối tâm với đường tròn, đường kính gấp đôi bán kính.",
+      "Khối lập phương/hộp chữ nhật có 6 mặt, 8 đỉnh, 12 cạnh; tính cả bộ phận khuất.",
+      "Đổi cùng đơn vị trước khi tính: 1 cm bằng 10 mm, 1 kg bằng 1000 g, 1 l bằng 1000 ml.",
+      "Khối nhỏ tại góc khối lớn được sơn ba mặt khi sơn toàn bộ mặt ngoài."
+    ],
+    "steps": [
+      "Đọc dữ kiện và điều cần tìm.",
+      "Chọn quy tắc, đổi đơn vị nếu cần.",
+      "Thực hiện từng bước, ghi đơn vị.",
+      "Kiểm tra bằng phép tính ngược hoặc dụng cụ phù hợp."
+    ],
+    "errors": [
+      "Nhầm mặt, cạnh, đỉnh.",
+      "Quên trừ vỏ lọ hoặc quên đổi đơn vị."
+    ],
+    "examples": [
+      [
+        "Đoạn dài 22 cm, M là trung điểm. Tìm một nửa đoạn.",
+        [
+          "22 : 2 = 11.",
+          "Mỗi nửa dài 11 cm."
+        ]
+      ],
+      [
+        "Lọ và hạt 580 g, lọ rỗng 80 g. Hạt nặng mấy gam?",
+        [
+          "580 - 80 = 500.",
+          "Hạt nặng 500 g."
+        ]
+      ]
+    ],
+    "game": [
+      "Thử thách ôn hình học và đo lường",
+      "Luyện câu hỏi đúng bài, xem phản hồi để sửa cách làm."
+    ],
+    "mode": "match"
+  },
+  {
+    "topic": "Ôn tập chung",
+    "objectives": [
+      "Giải thích và vận dụng được các quy tắc trong ôn tập chung.",
+      "Chọn đúng phép tính, kiểm tra kết quả và sửa lỗi."
+    ],
+    "intro": "Bài ôn tập giúp kết nối những điều đã học. Đọc điều cần tìm, chọn quy tắc rồi làm từng bước. Chọn phép tính theo điều đề hỏi: tổng, hiệu, số lần hoặc số phần.",
+    "rules": [
+      "Chọn phép tính theo điều đề hỏi: tổng, hiệu, số lần hoặc số phần.",
+      "Giải từng bước; ghi đơn vị theo đại lượng.",
+      "Áp dụng đúng số nhớ, chữ số 0 và thứ tự biểu thức.",
+      "Kiểm tra hình bằng thước/ê ke; không đo màn hình như vật thật."
+    ],
+    "steps": [
+      "Đọc dữ kiện và điều cần tìm.",
+      "Chọn quy tắc, đổi đơn vị nếu cần.",
+      "Thực hiện từng bước, ghi đơn vị.",
+      "Kiểm tra bằng phép tính ngược hoặc dụng cụ phù hợp."
+    ],
+    "errors": [
+      "Dừng ở dữ kiện trung gian.",
+      "Nhầm tổng với số lần và nhầm đơn vị."
+    ],
+    "examples": [
+      [
+        "Ba túi mỗi túi 124 hạt, dùng 72 hạt. Còn bao nhiêu?",
+        [
+          "124 × 3 = 372.",
+          "372 - 72 = 300 hạt."
+        ]
+      ],
+      [
+        "Một dây 6 cm bớt 18 mm. Còn bao nhiêu?",
+        [
+          "6 cm bằng 60 mm.",
+          "60 - 18 = 42 mm."
+        ]
+      ]
+    ],
+    "game": [
+      "Thử thách ôn tập chung",
+      "Luyện câu hỏi đúng bài, xem phản hồi để sửa cách làm."
+    ],
+    "mode": "treasure"
+  }
+]

@@ -1,0 +1,782 @@
+{
+  "id": "TOAN3_T1_B42",
+  "subject": "toan",
+  "grade": 3,
+  "book": "Kết nối tri thức với cuộc sống",
+  "volume": 1,
+  "lesson_no": 42,
+  "title": "Ôn tập biểu thức số",
+  "topic": "Ôn biểu thức",
+  "source": {
+    "pdf": "03-sgk-toan-3-tap-mot.pdf",
+    "printed_pages": [
+      116,
+      117
+    ],
+    "pdf_pages": [
+      117,
+      118
+    ],
+    "review": "Đã đọc trực quan toàn bộ trang nguồn cho bài này; nội dung và bài tập mới do AI biên soạn."
+  },
+  "objectives": [
+    "Giải thích và vận dụng được các quy tắc trong ôn biểu thức.",
+    "Chọn đúng phép tính, kiểm tra kết quả và sửa lỗi."
+  ],
+  "knowledge": {
+    "introduction": "Bài ôn tập giúp kết nối những điều đã học. Đọc điều cần tìm, chọn quy tắc rồi làm từng bước. Có ngoặc thì tính trong ngoặc trước.",
+    "rules": [
+      "Có ngoặc thì tính trong ngoặc trước.",
+      "Nhân/chia trước cộng/trừ; cùng mức thực hiện trái sang phải.",
+      "Có thể nhóm các số hạng hoặc thừa số để tính thuận tiện, không tự đổi thứ tự phép trừ/chia."
+    ],
+    "steps": [
+      "Đọc dữ kiện và điều cần tìm.",
+      "Chọn quy tắc, đổi đơn vị nếu cần.",
+      "Thực hiện từng bước, ghi đơn vị.",
+      "Kiểm tra bằng phép tính ngược hoặc dụng cụ phù hợp."
+    ],
+    "common_errors": [
+      "Cộng trước nhân.",
+      "Bỏ ngoặc hoặc làm chia từ phải sang trái."
+    ]
+  },
+  "examples": [
+    {
+      "question": "Tính 84 : (9 - 2).",
+      "steps": [
+        "9 - 2 = 7.",
+        "84 : 7 = 12."
+      ]
+    },
+    {
+      "question": "Tính 158 + 36 + 64.",
+      "steps": [
+        "36 + 64 = 100.",
+        "158 + 100 = 258."
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "question_id": "TOAN3_T1_B42_Q01",
+      "type": "mcq",
+      "question": "Tính 45 + 18 - 23.",
+      "options": [
+        "40",
+        "86",
+        "63",
+        "22"
+      ],
+      "correct_answer": "40",
+      "distractors": [
+        "86",
+        "63",
+        "22"
+      ],
+      "explanation": "45 + 18 = 63; 63 - 23 = 40.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T1_B42_Q02",
+      "type": "fill",
+      "question": "Tính 56 : 7 × 3.",
+      "correct_answer": "24",
+      "distractors": [
+        "8",
+        "2",
+        "21"
+      ],
+      "explanation": "56 : 7 = 8; 8 × 3 = 24.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T1_B42_Q03",
+      "type": "mcq",
+      "question": "Tính 8 × 9 - 16.",
+      "options": [
+        "56",
+        "64",
+        "72",
+        "88"
+      ],
+      "correct_answer": "56",
+      "distractors": [
+        "64",
+        "72",
+        "88"
+      ],
+      "explanation": "8 × 9 = 72; 72 - 16 = 56.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T1_B42_Q04",
+      "type": "fill",
+      "question": "Tính 120 + 36 : 6.",
+      "correct_answer": "126",
+      "distractors": [
+        "26",
+        "156",
+        "114"
+      ],
+      "explanation": "36 : 6 = 6; 120 + 6 = 126.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T1_B42_Q05",
+      "type": "mcq",
+      "question": "Trong biểu thức có ngoặc, phần nào tính trước?",
+      "options": [
+        "trong ngoặc",
+        "ngoài ngoặc",
+        "phía phải luôn",
+        "phía trái luôn"
+      ],
+      "correct_answer": "trong ngoặc",
+      "distractors": [
+        "ngoài ngoặc",
+        "phía phải luôn",
+        "phía trái luôn"
+      ],
+      "explanation": "Ngoặc chỉ rõ phần cần tính trước.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T1_B42_Q06",
+      "type": "fill",
+      "question": "Tính (26 + 14) : 5.",
+      "correct_answer": "8",
+      "distractors": [
+        "40",
+        "28",
+        "5"
+      ],
+      "explanation": "26 + 14 = 40; 40 : 5 = 8.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T1_B42_Q07",
+      "type": "mcq",
+      "question": "Tính 9 × (17 - 12).",
+      "options": [
+        "45",
+        "141",
+        "153",
+        "54"
+      ],
+      "correct_answer": "45",
+      "distractors": [
+        "141",
+        "153",
+        "54"
+      ],
+      "explanation": "17 - 12 = 5; 9 × 5 = 45.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T1_B42_Q08",
+      "type": "fill",
+      "question": "Chỉ có nhân và chia thì tính theo thứ tự nào?",
+      "correct_answer": "trái sang phải",
+      "distractors": [
+        "nhân luôn trước",
+        "chia luôn trước",
+        "phải sang trái"
+      ],
+      "explanation": "Nhân và chia cùng mức ưu tiên.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T1_B42_Q09",
+      "type": "mcq",
+      "question": "Tính 63 - 18 - 15.",
+      "options": [
+        "30",
+        "60",
+        "45",
+        "96"
+      ],
+      "correct_answer": "30",
+      "distractors": [
+        "60",
+        "45",
+        "96"
+      ],
+      "explanation": "63 - 18 = 45; 45 - 15 = 30.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T1_B42_Q10",
+      "type": "fill",
+      "question": "Tính 4 × 25 + 9.",
+      "correct_answer": "109",
+      "distractors": [
+        "136",
+        "100",
+        "91"
+      ],
+      "explanation": "4 × 25 = 100; 100 + 9 = 109.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T1_B42_Q11",
+      "type": "mcq",
+      "question": "Bạn tính 20 + 8 × 5 bằng 140. Giá trị đúng mấy?",
+      "options": [
+        "60",
+        "140",
+        "100",
+        "33"
+      ],
+      "correct_answer": "60",
+      "distractors": [
+        "140",
+        "100",
+        "33"
+      ],
+      "explanation": "8 × 5 = 40; 20 + 40 = 60, phải nhân trước.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T1_B42_Q12",
+      "type": "fill",
+      "question": "Tính 84 : (9 - 2).",
+      "correct_answer": "12",
+      "distractors": [
+        "12 dư 2",
+        "82",
+        "10"
+      ],
+      "explanation": "9 - 2 = 7; 84 : 7 = 12.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T1_B42_Q13",
+      "type": "mcq",
+      "question": "Hai biểu thức 50 - 8 + 2 và 50 - (8 + 2) chênh nhau mấy?",
+      "options": [
+        "4",
+        "0",
+        "2",
+        "10"
+      ],
+      "correct_answer": "4",
+      "distractors": [
+        "0",
+        "2",
+        "10"
+      ],
+      "explanation": "Biểu thức đầu bằng 44, biểu thức sau bằng 40; 44 - 40 = 4.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T1_B42_Q14",
+      "type": "fill",
+      "question": "Để tính thuận tiện 158 + 36 + 64, ghép 36 với số nào?",
+      "correct_answer": "64",
+      "distractors": [
+        "158",
+        "58",
+        "6"
+      ],
+      "explanation": "36 + 64 = 100, rồi 158 + 100 = 258.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T1_B42_Q15",
+      "type": "mcq",
+      "question": "Tính 5 × 7 × 2 bằng cách nhóm 7 × 2 trước, kết quả mấy?",
+      "options": [
+        "70",
+        "35",
+        "49",
+        "72"
+      ],
+      "correct_answer": "70",
+      "distractors": [
+        "35",
+        "49",
+        "72"
+      ],
+      "explanation": "7 × 2 = 14; 5 × 14 = 70.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T1_B42_Q16",
+      "type": "fill",
+      "question": "Điền dấu + hoặc - vào 12 ... 6 - 6 để được 12.",
+      "correct_answer": "+",
+      "distractors": [
+        "-",
+        "×",
+        ":"
+      ],
+      "explanation": "12 + 6 - 6 = 12; nếu dùng trừ thì được 0.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T1_B42_Q17",
+      "type": "mcq",
+      "question": "Tính 72 : 9 × 2. Nhân 9 với 2 trước có đúng không? Trả lời có hoặc không.",
+      "options": [
+        "không",
+        "có",
+        "luôn đúng",
+        "được 4"
+      ],
+      "correct_answer": "không",
+      "distractors": [
+        "có",
+        "luôn đúng",
+        "được 4"
+      ],
+      "explanation": "Cùng mức nên tính trái sang phải: 72 : 9 = 8; 8 × 2 = 16.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T1_B42_Q18",
+      "type": "fill",
+      "question": "Biểu thức nào lớn hơn: 6 × (5 + 3) hay 6 × 5 + 3? Chọn giá trị lớn hơn.",
+      "correct_answer": "48",
+      "distractors": [
+        "33",
+        "30",
+        "18"
+      ],
+      "explanation": "Biểu thức có ngoặc bằng 48, biểu thức kia bằng 33.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T1_B42_Q19",
+      "type": "mcq",
+      "question": "Tính 300 - (125 - 25).",
+      "options": [
+        "200",
+        "150",
+        "175",
+        "400"
+      ],
+      "correct_answer": "200",
+      "distractors": [
+        "150",
+        "175",
+        "400"
+      ],
+      "explanation": "125 - 25 = 100; 300 - 100 = 200.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T1_B42_Q20",
+      "type": "fill",
+      "question": "Tính 7 × (6 : 3).",
+      "correct_answer": "14",
+      "distractors": [
+        "42",
+        "21",
+        "9"
+      ],
+      "explanation": "6 : 3 = 2; 7 × 2 = 14.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T1_B42_Q21",
+      "type": "mcq",
+      "question": "Có 3 bao mỗi bao 25 kg, thêm một túi 15 kg. Tổng mấy kg?",
+      "options": [
+        "90",
+        "120",
+        "75",
+        "43"
+      ],
+      "correct_answer": "90",
+      "distractors": [
+        "120",
+        "75",
+        "43"
+      ],
+      "explanation": "25 × 3 = 75; 75 + 15 = 90 kg.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B42_Q22",
+      "type": "fill",
+      "question": "Có 320 nhãn, mỗi hộp 4 nhãn, mỗi thùng 8 hộp. Đóng được mấy thùng?",
+      "correct_answer": "10",
+      "distractors": [
+        "80",
+        "40",
+        "20"
+      ],
+      "explanation": "320 : 4 = 80 hộp; 80 : 8 = 10 thùng.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B42_Q23",
+      "type": "mcq",
+      "question": "Một cửa hàng có 90 bánh, bán 6 hộp mỗi hộp 8 bánh. Còn mấy bánh?",
+      "options": [
+        "42",
+        "48",
+        "672",
+        "76"
+      ],
+      "correct_answer": "42",
+      "distractors": [
+        "48",
+        "672",
+        "76"
+      ],
+      "explanation": "6 × 8 = 48; 90 - 48 = 42 bánh.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B42_Q24",
+      "type": "fill",
+      "question": "Có 24 bạn nam và 16 bạn nữ, chia đều 5 nhóm. Mỗi nhóm mấy bạn?",
+      "correct_answer": "8",
+      "distractors": [
+        "40",
+        "27",
+        "10"
+      ],
+      "explanation": "24 + 16 = 40; 40 : 5 = 8 bạn.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B42_Q25",
+      "type": "mcq",
+      "question": "Mỗi túi 12 viên, có 4 túi đỏ và 3 túi xanh. Tổng mấy viên?",
+      "options": [
+        "84",
+        "51",
+        "48",
+        "36"
+      ],
+      "correct_answer": "84",
+      "distractors": [
+        "51",
+        "48",
+        "36"
+      ],
+      "explanation": "4 + 3 = 7 túi; 12 × 7 = 84 viên.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B42_Q26",
+      "type": "fill",
+      "question": "Bình có 1 lít, rót 3 cốc mỗi cốc 250 ml. Còn mấy ml?",
+      "correct_answer": "250",
+      "distractors": [
+        "750",
+        "997",
+        "500"
+      ],
+      "explanation": "250 × 3 = 750; 1000 - 750 = 250 ml.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B42_Q27",
+      "type": "mcq",
+      "question": "Có 96 que, cho đi 24 que rồi chia đều 8 bạn. Mỗi bạn mấy que?",
+      "options": [
+        "9",
+        "93",
+        "12",
+        "72"
+      ],
+      "correct_answer": "9",
+      "distractors": [
+        "93",
+        "12",
+        "72"
+      ],
+      "explanation": "96 - 24 = 72; 72 : 8 = 9 que.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B42_Q28",
+      "type": "fill",
+      "question": "Sợi dây dài 150 cm, cắt 4 đoạn mỗi đoạn 25 cm. Còn mấy cm?",
+      "correct_answer": "50",
+      "distractors": [
+        "100",
+        "125",
+        "75"
+      ],
+      "explanation": "4 × 25 = 100; 150 - 100 = 50 cm.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B42_Q29",
+      "type": "mcq",
+      "question": "Có 5 hộp mỗi hộp 18 thẻ. Chia tất cả thành 9 phần bằng nhau. Mỗi phần mấy thẻ?",
+      "options": [
+        "10",
+        "90",
+        "27",
+        "6"
+      ],
+      "correct_answer": "10",
+      "distractors": [
+        "90",
+        "27",
+        "6"
+      ],
+      "explanation": "5 × 18 = 90; 90 : 9 = 10 thẻ.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B42_Q30",
+      "type": "fill",
+      "question": "Đội một làm 32 cờ, đội hai làm 48 cờ. Mỗi bó 8 cờ. Đóng được mấy bó?",
+      "correct_answer": "10",
+      "distractors": [
+        "38",
+        "80",
+        "6"
+      ],
+      "explanation": "32 + 48 = 80; 80 : 8 = 10 bó.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B42_Q31",
+      "type": "mcq",
+      "question": "Có 7 bạn mỗi bạn góp 15 hạt, sau đó được tặng 45 hạt. Có mấy hạt?",
+      "options": [
+        "150",
+        "105",
+        "420",
+        "67"
+      ],
+      "correct_answer": "150",
+      "distractors": [
+        "105",
+        "420",
+        "67"
+      ],
+      "explanation": "7 × 15 = 105; 105 + 45 = 150 hạt.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B42_Q32",
+      "type": "fill",
+      "question": "Lớp có 36 em, chia 6 nhóm. Mỗi nhóm làm 4 bức tranh. Cả lớp làm mấy tranh?",
+      "correct_answer": "24",
+      "distractors": [
+        "6",
+        "144",
+        "20"
+      ],
+      "explanation": "36 : 6 = 6 nhóm; 6 × 4 = 24 tranh.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B42_Q33",
+      "type": "mcq",
+      "question": "Có 200 g bột, thêm 150 g rồi dùng 125 g. Còn mấy gam?",
+      "options": [
+        "225",
+        "350",
+        "75",
+        "475"
+      ],
+      "correct_answer": "225",
+      "distractors": [
+        "350",
+        "75",
+        "475"
+      ],
+      "explanation": "200 + 150 = 350; 350 - 125 = 225 g.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B42_Q34",
+      "type": "fill",
+      "question": "Có 8 hàng mỗi hàng 12 cây. Chuyển 16 cây đi, số còn lại chia 4 vườn. Mỗi vườn mấy cây?",
+      "correct_answer": "20",
+      "distractors": [
+        "80",
+        "24",
+        "92"
+      ],
+      "explanation": "8 × 12 = 96; 96 - 16 = 80; 80 : 4 = 20 cây.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B42_Q35",
+      "type": "mcq",
+      "question": "Một đoạn 84 mm giảm 3 lần rồi thêm 12 mm. Đoạn mới dài mấy mm?",
+      "options": [
+        "40",
+        "93",
+        "28",
+        "16"
+      ],
+      "correct_answer": "40",
+      "distractors": [
+        "93",
+        "28",
+        "16"
+      ],
+      "explanation": "84 : 3 = 28; 28 + 12 = 40 mm.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B42_Q36",
+      "type": "fill",
+      "question": "Ba túi lần lượt 135 g, 65 g, 200 g. Tổng mấy gam?",
+      "correct_answer": "400",
+      "distractors": [
+        "300",
+        "265",
+        "335"
+      ],
+      "explanation": "135 + 65 = 200; 200 + 200 = 400 g.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B42_Q37",
+      "type": "mcq",
+      "question": "Một nhóm có 9 hộp, mỗi hộp 8 bút. Tặng 4 hộp nguyên. Còn mấy bút?",
+      "options": [
+        "40",
+        "68",
+        "72",
+        "32"
+      ],
+      "correct_answer": "40",
+      "distractors": [
+        "68",
+        "72",
+        "32"
+      ],
+      "explanation": "9 - 4 = 5 hộp; 5 × 8 = 40 bút.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B42_Q38",
+      "type": "fill",
+      "question": "Có 600 ml, rót thêm 120 ml rồi chia đều 6 ca. Mỗi ca mấy ml?",
+      "correct_answer": "120",
+      "distractors": [
+        "620",
+        "720",
+        "100"
+      ],
+      "explanation": "600 + 120 = 720; 720 : 6 = 120 ml.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B42_Q39",
+      "type": "mcq",
+      "question": "Cần 5 bó mỗi bó 24 que. Đã có 75 que. Cần thêm mấy que?",
+      "options": [
+        "45",
+        "120",
+        "51",
+        "195"
+      ],
+      "correct_answer": "45",
+      "distractors": [
+        "120",
+        "51",
+        "195"
+      ],
+      "explanation": "5 × 24 = 120; 120 - 75 = 45 que.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B42_Q40",
+      "type": "fill",
+      "question": "Có 72 viên chia hộp 6 viên rồi ghép 3 hộp thành một bộ. Được mấy bộ?",
+      "correct_answer": "4",
+      "distractors": [
+        "12",
+        "36",
+        "24"
+      ],
+      "explanation": "72 : 6 = 12 hộp; 12 : 3 = 4 bộ.",
+      "difficulty": "van_dung"
+    }
+  ],
+  "games": [
+    {
+      "id": "TOAN3_T1_B42_GAME1",
+      "title": "Thử thách ôn biểu thức",
+      "mode": "tf",
+      "objective": "Luyện câu hỏi đúng bài, xem phản hồi để sửa cách làm.",
+      "rules": [
+        "Mỗi lượt lấy 10 câu trong bài và đưa ra một kết quả để kiểm chứng.",
+        "Chọn Đúng nếu kết quả phù hợp, chọn Sai nếu không phù hợp; đọc lời giải trước khi sang câu.",
+        "Mỗi câu đúng được 10 điểm; tối đa 100 điểm."
+      ],
+      "question_ids": [
+        "TOAN3_T1_B42_Q01",
+        "TOAN3_T1_B42_Q02",
+        "TOAN3_T1_B42_Q03",
+        "TOAN3_T1_B42_Q04",
+        "TOAN3_T1_B42_Q05",
+        "TOAN3_T1_B42_Q06",
+        "TOAN3_T1_B42_Q07",
+        "TOAN3_T1_B42_Q08",
+        "TOAN3_T1_B42_Q09",
+        "TOAN3_T1_B42_Q10",
+        "TOAN3_T1_B42_Q11",
+        "TOAN3_T1_B42_Q12",
+        "TOAN3_T1_B42_Q13",
+        "TOAN3_T1_B42_Q14",
+        "TOAN3_T1_B42_Q15",
+        "TOAN3_T1_B42_Q16",
+        "TOAN3_T1_B42_Q17",
+        "TOAN3_T1_B42_Q18",
+        "TOAN3_T1_B42_Q19",
+        "TOAN3_T1_B42_Q20",
+        "TOAN3_T1_B42_Q21",
+        "TOAN3_T1_B42_Q22",
+        "TOAN3_T1_B42_Q23",
+        "TOAN3_T1_B42_Q24",
+        "TOAN3_T1_B42_Q25",
+        "TOAN3_T1_B42_Q26",
+        "TOAN3_T1_B42_Q27",
+        "TOAN3_T1_B42_Q28",
+        "TOAN3_T1_B42_Q29",
+        "TOAN3_T1_B42_Q30",
+        "TOAN3_T1_B42_Q31",
+        "TOAN3_T1_B42_Q32",
+        "TOAN3_T1_B42_Q33",
+        "TOAN3_T1_B42_Q34",
+        "TOAN3_T1_B42_Q35",
+        "TOAN3_T1_B42_Q36",
+        "TOAN3_T1_B42_Q37",
+        "TOAN3_T1_B42_Q38",
+        "TOAN3_T1_B42_Q39",
+        "TOAN3_T1_B42_Q40"
+      ],
+      "answer_source": "practice.correct_answer",
+      "feedback_source": "practice.explanation",
+      "max_score": 100
+    }
+  ],
+  "assessment": {
+    "session_size": 10,
+    "distribution": {
+      "nhan_biet": 3,
+      "thong_hieu": 3,
+      "van_dung": 4
+    },
+    "scoring": "Đúng lần đầu: 1 điểm; đúng sau một gợi ý: 0,5 điểm. Từ 90%: 3 sao; từ 60%: 2 sao; còn lại: 1 sao.",
+    "review_advice": "Xem lời giải các câu sai, đọc lại quy tắc, rồi làm một lượt mới."
+  },
+  "feedback": {
+    "correct": "Chính xác! Hãy đọc lời giải để củng cố cách làm.",
+    "incorrect": "Em thử lại một lần. Sau đó xem đáp án và cách giải."
+  },
+  "verification": {
+    "ai_authored": true,
+    "structure_checked": true,
+    "answer_reviewed": true,
+    "source_reviewed": true,
+    "teacher_approved": false
+  },
+  "status": "AI_CHECKED_AWAITING_TEACHER"
+}

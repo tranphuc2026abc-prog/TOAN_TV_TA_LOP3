@@ -1,0 +1,801 @@
+{
+  "id": "TOAN3_T1_B43",
+  "subject": "toan",
+  "grade": 3,
+  "book": "Kết nối tri thức với cuộc sống",
+  "volume": 1,
+  "lesson_no": 43,
+  "title": "Ôn tập hình học và đo lường",
+  "topic": "Ôn hình học và đo lường",
+  "source": {
+    "pdf": "03-sgk-toan-3-tap-mot.pdf",
+    "printed_pages": [
+      118,
+      119
+    ],
+    "pdf_pages": [
+      119,
+      120
+    ],
+    "review": "Đã đọc trực quan toàn bộ trang nguồn cho bài này; nội dung và bài tập mới do AI biên soạn."
+  },
+  "objectives": [
+    "Giải thích và vận dụng được các quy tắc trong ôn hình học và đo lường.",
+    "Chọn đúng phép tính, kiểm tra kết quả và sửa lỗi."
+  ],
+  "knowledge": {
+    "introduction": "Bài ôn tập giúp kết nối những điều đã học. Đọc điều cần tìm, chọn quy tắc rồi làm từng bước. Trung điểm nằm giữa và cách đều hai đầu đoạn; bán kính nối tâm với đường tròn, đường kính gấp đôi bán kính.",
+    "rules": [
+      "Trung điểm nằm giữa và cách đều hai đầu đoạn; bán kính nối tâm với đường tròn, đường kính gấp đôi bán kính.",
+      "Khối lập phương/hộp chữ nhật có 6 mặt, 8 đỉnh, 12 cạnh; tính cả bộ phận khuất.",
+      "Đổi cùng đơn vị trước khi tính: 1 cm bằng 10 mm, 1 kg bằng 1000 g, 1 l bằng 1000 ml.",
+      "Khối nhỏ tại góc khối lớn được sơn ba mặt khi sơn toàn bộ mặt ngoài."
+    ],
+    "steps": [
+      "Đọc dữ kiện và điều cần tìm.",
+      "Chọn quy tắc, đổi đơn vị nếu cần.",
+      "Thực hiện từng bước, ghi đơn vị.",
+      "Kiểm tra bằng phép tính ngược hoặc dụng cụ phù hợp."
+    ],
+    "common_errors": [
+      "Nhầm mặt, cạnh, đỉnh.",
+      "Quên trừ vỏ lọ hoặc quên đổi đơn vị."
+    ]
+  },
+  "examples": [
+    {
+      "question": "Đoạn dài 22 cm, M là trung điểm. Tìm một nửa đoạn.",
+      "steps": [
+        "22 : 2 = 11.",
+        "Mỗi nửa dài 11 cm."
+      ]
+    },
+    {
+      "question": "Lọ và hạt 580 g, lọ rỗng 80 g. Hạt nặng mấy gam?",
+      "steps": [
+        "580 - 80 = 500.",
+        "Hạt nặng 500 g."
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "question_id": "TOAN3_T1_B43_Q01",
+      "type": "mcq",
+      "question": "Một góc kiểm tra vừa khít góc vuông của ê ke là góc gì?",
+      "options": [
+        "góc vuông",
+        "góc không vuông",
+        "đoạn thẳng",
+        "đường tròn"
+      ],
+      "correct_answer": "góc vuông",
+      "distractors": [
+        "góc không vuông",
+        "đoạn thẳng",
+        "đường tròn"
+      ],
+      "explanation": "Hai cạnh của góc trùng hai cạnh góc vuông của ê ke.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T1_B43_Q02",
+      "type": "fill",
+      "question": "Hình vuông có mấy góc vuông?",
+      "correct_answer": "4",
+      "distractors": [
+        "2",
+        "3",
+        "6"
+      ],
+      "explanation": "Bốn góc hình vuông đều vuông.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T1_B43_Q03",
+      "type": "mcq",
+      "question": "Hình chữ nhật có mấy cặp cạnh đối diện bằng nhau?",
+      "options": [
+        "2",
+        "1",
+        "3",
+        "4"
+      ],
+      "correct_answer": "2",
+      "distractors": [
+        "1",
+        "3",
+        "4"
+      ],
+      "explanation": "Hai cạnh dài bằng nhau và hai cạnh rộng bằng nhau.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T1_B43_Q04",
+      "type": "fill",
+      "question": "Khối lập phương có mấy mặt?",
+      "correct_answer": "6",
+      "distractors": [
+        "8",
+        "12",
+        "4"
+      ],
+      "explanation": "Khối có 6 mặt là các hình vuông bằng nhau.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T1_B43_Q05",
+      "type": "mcq",
+      "question": "Khối hộp chữ nhật có mấy đỉnh?",
+      "options": [
+        "8",
+        "6",
+        "12",
+        "4"
+      ],
+      "correct_answer": "8",
+      "distractors": [
+        "6",
+        "12",
+        "4"
+      ],
+      "explanation": "Tính đủ cả các đỉnh bị khuất có 8 đỉnh.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T1_B43_Q06",
+      "type": "fill",
+      "question": "Đường tròn tâm O, điểm A trên đường tròn. OA gọi là gì?",
+      "correct_answer": "bán kính",
+      "distractors": [
+        "đường kính",
+        "cạnh",
+        "trung điểm"
+      ],
+      "explanation": "Đoạn nối tâm với một điểm trên đường tròn là bán kính.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T1_B43_Q07",
+      "type": "mcq",
+      "question": "Đường kính bằng mấy lần bán kính?",
+      "options": [
+        "2",
+        "1",
+        "3",
+        "4"
+      ],
+      "correct_answer": "2",
+      "distractors": [
+        "1",
+        "3",
+        "4"
+      ],
+      "explanation": "Đường kính đi qua tâm gồm hai bán kính.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T1_B43_Q08",
+      "type": "fill",
+      "question": "1 cm bằng mấy mm?",
+      "correct_answer": "10",
+      "distractors": [
+        "100",
+        "1",
+        "1000"
+      ],
+      "explanation": "Mỗi cm gồm 10 khoảng dài 1 mm.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T1_B43_Q09",
+      "type": "mcq",
+      "question": "1 kg bằng mấy gam?",
+      "options": [
+        "1000",
+        "100",
+        "10",
+        "1"
+      ],
+      "correct_answer": "1000",
+      "distractors": [
+        "100",
+        "10",
+        "1"
+      ],
+      "explanation": "Một ki-lô-gam bằng một nghìn gam.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T1_B43_Q10",
+      "type": "fill",
+      "question": "1 l bằng mấy ml?",
+      "correct_answer": "1000",
+      "distractors": [
+        "100",
+        "10",
+        "1"
+      ],
+      "explanation": "Một lít bằng một nghìn mi-li-lít.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T1_B43_Q11",
+      "type": "mcq",
+      "question": "M nằm giữa A và B, AM bằng MB. M có là trung điểm AB không? Trả lời có hoặc không.",
+      "options": [
+        "có",
+        "không",
+        "chỉ khi AB thẳng đứng",
+        "chỉ khi AB nằm ngang"
+      ],
+      "correct_answer": "có",
+      "distractors": [
+        "không",
+        "chỉ khi AB thẳng đứng",
+        "chỉ khi AB nằm ngang"
+      ],
+      "explanation": "M vừa nằm giữa vừa cách đều A và B.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T1_B43_Q12",
+      "type": "fill",
+      "question": "P nằm giữa A và B, AP 3 cm, PB 5 cm. P có là trung điểm không? Trả lời có hoặc không.",
+      "correct_answer": "không",
+      "distractors": [
+        "có",
+        "luôn đúng",
+        "chỉ cần nằm giữa"
+      ],
+      "explanation": "Hai đoạn 3 cm và 5 cm không bằng nhau.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T1_B43_Q13",
+      "type": "mcq",
+      "question": "AB 18 cm, M là trung điểm. AM mấy cm?",
+      "options": [
+        "9",
+        "18",
+        "36",
+        "8"
+      ],
+      "correct_answer": "9",
+      "distractors": [
+        "18",
+        "36",
+        "8"
+      ],
+      "explanation": "18 : 2 = 9 cm.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T1_B43_Q14",
+      "type": "fill",
+      "question": "Bán kính 7 cm thì đường kính mấy cm?",
+      "correct_answer": "14",
+      "distractors": [
+        "7",
+        "9",
+        "21"
+      ],
+      "explanation": "7 × 2 = 14 cm.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T1_B43_Q15",
+      "type": "mcq",
+      "question": "Đường kính 20 mm thì bán kính mấy mm?",
+      "options": [
+        "10",
+        "20",
+        "40",
+        "18"
+      ],
+      "correct_answer": "10",
+      "distractors": [
+        "20",
+        "40",
+        "18"
+      ],
+      "explanation": "20 : 2 = 10 mm.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T1_B43_Q16",
+      "type": "fill",
+      "question": "Vật từ vạch 8 mm đến 37 mm của thước dài mấy mm?",
+      "correct_answer": "29",
+      "distractors": [
+        "37",
+        "45",
+        "28"
+      ],
+      "explanation": "37 - 8 = 29 mm.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T1_B43_Q17",
+      "type": "mcq",
+      "question": "Cân thăng bằng: túi và 50 g bên trái, 400 g bên phải. Túi mấy gam?",
+      "options": [
+        "350",
+        "450",
+        "400",
+        "50"
+      ],
+      "correct_answer": "350",
+      "distractors": [
+        "450",
+        "400",
+        "50"
+      ],
+      "explanation": "400 - 50 = 350 g.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T1_B43_Q18",
+      "type": "fill",
+      "question": "Ca tối đa 500 ml đang có 350 ml. Cần thêm mấy ml để đầy?",
+      "correct_answer": "150",
+      "distractors": [
+        "500",
+        "850",
+        "250"
+      ],
+      "explanation": "500 - 350 = 150 ml.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T1_B43_Q19",
+      "type": "mcq",
+      "question": "Một khối hộp có 6 mặt, hỏi số cạnh có phải cũng bằng 6 không? Trả lời có hoặc không.",
+      "options": [
+        "không",
+        "có",
+        "luôn bằng",
+        "chỉ 3 cạnh"
+      ],
+      "correct_answer": "không",
+      "distractors": [
+        "có",
+        "luôn bằng",
+        "chỉ 3 cạnh"
+      ],
+      "explanation": "Khối hộp chữ nhật có 12 cạnh, khác số mặt.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T1_B43_Q20",
+      "type": "fill",
+      "question": "So 4 cm với 38 mm, đoạn đầu dài hơn mấy mm?",
+      "correct_answer": "2",
+      "distractors": [
+        "34",
+        "42",
+        "78"
+      ],
+      "explanation": "4 cm bằng 40 mm; 40 - 38 = 2 mm.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T1_B43_Q21",
+      "type": "mcq",
+      "question": "Đường gấp khúc có ba đoạn dài 19 mm, 27 mm, 34 mm. Tổng dài mấy mm?",
+      "options": [
+        "80",
+        "61",
+        "70",
+        "90"
+      ],
+      "correct_answer": "80",
+      "distractors": [
+        "61",
+        "70",
+        "90"
+      ],
+      "explanation": "19 + 27 + 34 = 80 mm.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B43_Q22",
+      "type": "fill",
+      "question": "Có 1 m dây, cắt 245 mm rồi 355 mm. Còn mấy mm?",
+      "correct_answer": "400",
+      "distractors": [
+        "600",
+        "755",
+        "645"
+      ],
+      "explanation": "245 + 355 = 600; 1000 - 600 = 400 mm.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B43_Q23",
+      "type": "mcq",
+      "question": "Hai gói mỗi gói 125 g, thêm túi 350 g. Tổng mấy gam?",
+      "options": [
+        "600",
+        "475",
+        "500",
+        "700"
+      ],
+      "correct_answer": "600",
+      "distractors": [
+        "475",
+        "500",
+        "700"
+      ],
+      "explanation": "125 × 2 = 250; 250 + 350 = 600 g.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B43_Q24",
+      "type": "fill",
+      "question": "Có 900 ml chia đều 3 ca, mỗi ca rót ra 80 ml. Mỗi ca còn mấy ml?",
+      "correct_answer": "220",
+      "distractors": [
+        "300",
+        "820",
+        "380"
+      ],
+      "explanation": "900 : 3 = 300; 300 - 80 = 220 ml.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B43_Q25",
+      "type": "mcq",
+      "question": "Một khung vuông cần mỗi cạnh một que. Làm 7 khung rời cần mấy que?",
+      "options": [
+        "28",
+        "11",
+        "21",
+        "35"
+      ],
+      "correct_answer": "28",
+      "distractors": [
+        "11",
+        "21",
+        "35"
+      ],
+      "explanation": "4 × 7 = 28 que.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B43_Q26",
+      "type": "fill",
+      "question": "Dán một nhãn mỗi mặt cho 3 hộp lập phương rời. Cần mấy nhãn?",
+      "correct_answer": "18",
+      "distractors": [
+        "24",
+        "36",
+        "9"
+      ],
+      "explanation": "6 × 3 = 18 nhãn.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B43_Q27",
+      "type": "mcq",
+      "question": "Gắn một hạt mỗi đỉnh cho 2 hộp chữ nhật rời. Cần mấy hạt?",
+      "options": [
+        "16",
+        "12",
+        "24",
+        "10"
+      ],
+      "correct_answer": "16",
+      "distractors": [
+        "12",
+        "24",
+        "10"
+      ],
+      "explanation": "8 × 2 = 16 hạt.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B43_Q28",
+      "type": "fill",
+      "question": "Làm khung lập phương mỗi cạnh một que. Đã có 7 que thì cần thêm mấy?",
+      "correct_answer": "5",
+      "distractors": [
+        "1",
+        "6",
+        "19"
+      ],
+      "explanation": "12 - 7 = 5 que.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B43_Q29",
+      "type": "mcq",
+      "question": "Đường kính một vòng tròn 30 cm. Một dây dài bằng 3 bán kính dài mấy cm?",
+      "options": [
+        "45",
+        "90",
+        "15",
+        "60"
+      ],
+      "correct_answer": "45",
+      "distractors": [
+        "90",
+        "15",
+        "60"
+      ],
+      "explanation": "30 : 2 = 15; 15 × 3 = 45 cm.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B43_Q30",
+      "type": "fill",
+      "question": "AB dài 24 mm, M trung điểm. N trung điểm AM. AN dài mấy mm?",
+      "correct_answer": "6",
+      "distractors": [
+        "12",
+        "24",
+        "8"
+      ],
+      "explanation": "24 : 2 = 12; 12 : 2 = 6 mm.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B43_Q31",
+      "type": "mcq",
+      "question": "Một đoạn dài 7 cm, đoạn khác 46 mm. Tổng hai đoạn mấy mm?",
+      "options": [
+        "116",
+        "53",
+        "24",
+        "106"
+      ],
+      "correct_answer": "116",
+      "distractors": [
+        "53",
+        "24",
+        "106"
+      ],
+      "explanation": "7 cm bằng 70 mm; 70 + 46 = 116 mm.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B43_Q32",
+      "type": "fill",
+      "question": "Lọ và hạt nặng 620 g, lọ rỗng 120 g. Chia hạt 5 phần, mỗi phần mấy gam?",
+      "correct_answer": "100",
+      "distractors": [
+        "124",
+        "500",
+        "148"
+      ],
+      "explanation": "620 - 120 = 500; 500 : 5 = 100 g.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B43_Q33",
+      "type": "mcq",
+      "question": "Ba chai mỗi chai 250 ml đổ vào bình tối đa 1 l. Thiếu mấy ml mới đầy?",
+      "options": [
+        "250",
+        "750",
+        "500",
+        "100"
+      ],
+      "correct_answer": "250",
+      "distractors": [
+        "750",
+        "500",
+        "100"
+      ],
+      "explanation": "250 × 3 = 750; 1000 - 750 = 250 ml.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B43_Q34",
+      "type": "fill",
+      "question": "Sơn tất cả mặt ngoài hộp ghép từ khối nhỏ theo dạng 3 × 3 × 3. Có mấy khối nhỏ ở góc được sơn 3 mặt?",
+      "correct_answer": "8",
+      "distractors": [
+        "6",
+        "12",
+        "27"
+      ],
+      "explanation": "Chỉ các khối nhỏ tại 8 đỉnh được sơn 3 mặt; mỗi chiều có ít nhất 2 khối.",
+      "difficulty": "van_dung",
+      "figure": {
+        "path": "content/toan/tap-1/TOAN3_T1_B43_A.svg",
+        "caption": "Khối 3 × 3 × 3, sơn toàn bộ mặt ngoài."
+      }
+    },
+    {
+      "question_id": "TOAN3_T1_B43_Q35",
+      "type": "mcq",
+      "question": "Ghép 2 khối lập phương sát nhau theo một mặt. Tổng số mặt vuông nhỏ còn lộ ra ngoài là mấy?",
+      "options": [
+        "10",
+        "12",
+        "8",
+        "6"
+      ],
+      "correct_answer": "10",
+      "distractors": [
+        "12",
+        "8",
+        "6"
+      ],
+      "explanation": "6 × 2 = 12 mặt ban đầu; hai mặt tiếp xúc bị che, còn 12 - 2 = 10.",
+      "difficulty": "van_dung",
+      "figure": {
+        "path": "content/toan/tap-1/TOAN3_T1_B43_B.svg",
+        "caption": "Hai khối ghép theo một mặt; mặt tiếp xúc được đánh dấu nét đứt."
+      }
+    },
+    {
+      "question_id": "TOAN3_T1_B43_Q36",
+      "type": "fill",
+      "question": "Bốn đoạn bằng nhau ghép thành đường gấp khúc tổng 96 mm. Mỗi đoạn mấy mm?",
+      "correct_answer": "24",
+      "distractors": [
+        "92",
+        "20",
+        "28"
+      ],
+      "explanation": "96 : 4 = 24 mm.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B43_Q37",
+      "type": "mcq",
+      "question": "Một tấm gỗ dày 6 mm, chồng khít 8 tấm. Tổng dày mấy mm?",
+      "options": [
+        "48",
+        "14",
+        "42",
+        "56"
+      ],
+      "correct_answer": "48",
+      "distractors": [
+        "14",
+        "42",
+        "56"
+      ],
+      "explanation": "6 × 8 = 48 mm.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B43_Q38",
+      "type": "fill",
+      "question": "Nhiệt độ mô phỏng sáng 23 °C, trưa 31 °C, tối 26 °C. Trưa cao hơn tối mấy độ C?",
+      "correct_answer": "5",
+      "distractors": [
+        "8",
+        "3",
+        "57"
+      ],
+      "explanation": "31 - 26 = 5 độ C.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B43_Q39",
+      "type": "mcq",
+      "question": "Một bình 1 l đã có 750 ml. Rót thêm 400 ml thì tràn mấy ml?",
+      "options": [
+        "150",
+        "250",
+        "400",
+        "1150"
+      ],
+      "correct_answer": "150",
+      "distractors": [
+        "250",
+        "400",
+        "1150"
+      ],
+      "explanation": "750 + 400 = 1150; 1150 - 1000 = 150 ml.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T1_B43_Q40",
+      "type": "fill",
+      "question": "Hai gói tổng 850 g, gói đầu 325 g. Gói sau hơn gói đầu mấy gam?",
+      "correct_answer": "200",
+      "distractors": [
+        "525",
+        "175",
+        "1175"
+      ],
+      "explanation": "850 - 325 = 525; 525 - 325 = 200 g.",
+      "difficulty": "van_dung"
+    }
+  ],
+  "games": [
+    {
+      "id": "TOAN3_T1_B43_GAME1",
+      "title": "Thử thách ôn hình học và đo lường",
+      "mode": "match",
+      "objective": "Luyện câu hỏi đúng bài, xem phản hồi để sửa cách làm.",
+      "rules": [
+        "Mỗi lượt chọn 5 câu có 5 đáp án khác nhau.",
+        "Chọn câu hỏi bên trái rồi đáp án bên phải. Sai thì thử lại.",
+        "Mỗi cặp đúng 10 điểm; tối đa 50 điểm."
+      ],
+      "question_ids": [
+        "TOAN3_T1_B43_Q01",
+        "TOAN3_T1_B43_Q02",
+        "TOAN3_T1_B43_Q03",
+        "TOAN3_T1_B43_Q04",
+        "TOAN3_T1_B43_Q05",
+        "TOAN3_T1_B43_Q06",
+        "TOAN3_T1_B43_Q07",
+        "TOAN3_T1_B43_Q08",
+        "TOAN3_T1_B43_Q09",
+        "TOAN3_T1_B43_Q10",
+        "TOAN3_T1_B43_Q11",
+        "TOAN3_T1_B43_Q12",
+        "TOAN3_T1_B43_Q13",
+        "TOAN3_T1_B43_Q14",
+        "TOAN3_T1_B43_Q15",
+        "TOAN3_T1_B43_Q16",
+        "TOAN3_T1_B43_Q17",
+        "TOAN3_T1_B43_Q18",
+        "TOAN3_T1_B43_Q19",
+        "TOAN3_T1_B43_Q20",
+        "TOAN3_T1_B43_Q21",
+        "TOAN3_T1_B43_Q22",
+        "TOAN3_T1_B43_Q23",
+        "TOAN3_T1_B43_Q24",
+        "TOAN3_T1_B43_Q25",
+        "TOAN3_T1_B43_Q26",
+        "TOAN3_T1_B43_Q27",
+        "TOAN3_T1_B43_Q28",
+        "TOAN3_T1_B43_Q29",
+        "TOAN3_T1_B43_Q30",
+        "TOAN3_T1_B43_Q31",
+        "TOAN3_T1_B43_Q32",
+        "TOAN3_T1_B43_Q33",
+        "TOAN3_T1_B43_Q34",
+        "TOAN3_T1_B43_Q35",
+        "TOAN3_T1_B43_Q36",
+        "TOAN3_T1_B43_Q37",
+        "TOAN3_T1_B43_Q38",
+        "TOAN3_T1_B43_Q39",
+        "TOAN3_T1_B43_Q40"
+      ],
+      "answer_source": "practice.correct_answer",
+      "feedback_source": "practice.explanation",
+      "max_score": 50
+    }
+  ],
+  "assessment": {
+    "session_size": 10,
+    "distribution": {
+      "nhan_biet": 3,
+      "thong_hieu": 3,
+      "van_dung": 4
+    },
+    "scoring": "Đúng lần đầu: 1 điểm; đúng sau một gợi ý: 0,5 điểm. Từ 90%: 3 sao; từ 60%: 2 sao; còn lại: 1 sao.",
+    "review_advice": "Xem lời giải các câu sai, đọc lại quy tắc, rồi làm một lượt mới."
+  },
+  "feedback": {
+    "correct": "Chính xác! Hãy đọc lời giải để củng cố cách làm.",
+    "incorrect": "Em thử lại một lần. Sau đó xem đáp án và cách giải."
+  },
+  "verification": {
+    "ai_authored": true,
+    "structure_checked": true,
+    "answer_reviewed": true,
+    "source_reviewed": true,
+    "teacher_approved": false
+  },
+  "status": "AI_CHECKED_AWAITING_TEACHER",
+  "figures": [
+    {
+      "path": "content/toan/tap-1/TOAN3_T1_B43_A.svg",
+      "caption": "Khối 3 × 3 × 3, sơn toàn bộ mặt ngoài."
+    },
+    {
+      "path": "content/toan/tap-1/TOAN3_T1_B43_B.svg",
+      "caption": "Hai khối ghép theo một mặt; mặt tiếp xúc được đánh dấu nét đứt."
+    }
+  ]
+}

@@ -1,3 +1,9 @@
+# Batch 11 đã tích hợp — 08/11/2026
+
+Đã đóng gói Toán 41–44: 4 JSON/Markdown, 160 câu, 4 trò chơi, 2 SVG tự dựng Bài 43 đã render và xem. Nguồn trang in 113–121 đã đọc trực quan các lượt trước. Kiểm tra dữ liệu/cú pháp, hồi quy và DOM toàn bộ 44 bài đạt. Chưa kiểm thử Chromium thật; tự động kiểm tra đẳng thức chưa bao quát đầy đủ biểu thức ngoặc. Tổng 44/168 mục, 1760 câu, 44 trò chơi; giáo viên duyệt 4, chờ duyệt 40. Còn 124 mục: Toán tập 2 Bài 45–81 (37), Tiếng Việt 62, Tiếng Anh 25. Checkpoint tiếp Toán 45–48; đọc PDF tập 2 trước khi biên soạn. Mọi bài mới AI_CHECKED_AWAITING_TEACHER.
+
+## Lịch sử
+
 ## Đủ câu nguồn Batch 11 — 08/11/2026
 
 Đã bổ sung 40 câu Bài 44, batch11-source.txt hiện đủ 160 câu Bài 41–44 (10/10/20 mỗi bài). Chưa đóng gói, chưa tích hợp và chưa kiểm thử đầy đủ câu mới. Tiếp theo hoàn tất kiến thức/ví dụ/game, SVG cần thiết và JSON/Markdown của cả batch, chạy kiểm tra rồi cập nhật INDEX. Không tạo lại 160 câu đã lưu. Tổng đang tích hợp giữ 40/168 mục, 1600 câu, 40 trò chơi; giáo viên duyệt 4, chờ duyệt 36. Đây là checkpoint nguồn, không phải batch học liệu hoàn chỉnh.
