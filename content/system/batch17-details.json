@@ -1,0 +1,258 @@
+[
+  {
+    "topic": "Ôn cộng, trừ và biểu thức trong phạm vi 100000",
+    "objectives": [
+      "Tính đúng biểu thức cộng trừ có và không có ngoặc.",
+      "Nhận biết sai sót đặt tính và nhớ/đổi hàng.",
+      "Giải bài toán nhập, xuất, còn lại bằng hai bước."
+    ],
+    "intro": "Hãy tìm lượng thay đổi ở mỗi bước: nhập thêm thì cộng, lấy ra thì trừ. Dấu ngoặc giúp chỉ rõ phần phải tính trước.",
+    "rules": [
+      "Không có ngoặc và chỉ gồm cộng trừ: thực hiện từ trái sang phải.",
+      "Có ngoặc: thực hiện phần trong ngoặc trước.",
+      "Đặt tính thẳng hàng đơn vị, theo dõi nhớ hoặc đổi hàng.",
+      "Chuyển vật giữa hai nhóm không làm thay đổi tổng số vật của hai nhóm."
+    ],
+    "steps": [
+      "Đọc câu hỏi cuối để biết cần tìm lượng nào.",
+      "Tìm kết quả bước thứ nhất.",
+      "Dùng kết quả đó thực hiện bước tiếp theo.",
+      "Thử lại bằng cách ước lượng hoặc phép tính ngược."
+    ],
+    "errors": [
+      "Bỏ ngoặc hoặc tính ngoài ngoặc trước.",
+      "Nhầm nhận lại hàng với xuất thêm hàng.",
+      "Cộng số chuyển nội bộ vào tổng chung."
+    ],
+    "examples": [
+      [
+        "Tính 64000 - (23000 + 9000).",
+        [
+          "Trong ngoặc: 23000 + 9000 = 32000.",
+          "Bên ngoài: 64000 - 32000 = 32000."
+        ]
+      ],
+      [
+        "Kho có 28500 hộp, nhập 6500 hộp rồi xuất 12000 hộp. Còn bao nhiêu?",
+        [
+          "Sau nhập: 28500 + 6500 = 35000 hộp.",
+          "Sau xuất: 35000 - 12000 = 23000 hộp."
+        ]
+      ]
+    ],
+    "game": [
+      "Kho hàng hai bước",
+      "Tính lượng còn lại và kiểm tra biểu thức."
+    ],
+    "mode": "treasure"
+  },
+  {
+    "topic": "Đọc giờ tới từng phút; ngày, tháng, năm",
+    "objectives": [
+      "Đọc kim giờ và kim phút chính xác.",
+      "Đổi giữa cách ghi 12 giờ có buổi và 24 giờ.",
+      "Nhớ số ngày các tháng và tính thời gian đơn giản."
+    ],
+    "intro": "Kim dài cho biết phút, kim ngắn cho biết giờ. Kim giờ di chuyển dần giữa hai số nên em cần xác định số giờ đã qua, không chọn số giờ sắp tới.",
+    "rules": [
+      "Một giờ có 60 phút, một ngày có 24 giờ. Mỗi khoảng số trên mặt đồng hồ ứng với 5 phút; mỗi vạch nhỏ là 1 phút.",
+      "Buổi chiều, tối từ 13 đến 23 giờ tương ứng từ 1 đến 11 giờ; 12 giờ là giữa trưa, 0 giờ là đầu ngày.",
+      "Một năm có 12 tháng. Các tháng 4, 6, 9, 11 có 30 ngày; tháng 1, 3, 5, 7, 8, 10, 12 có 31 ngày.",
+      "Tháng 2 có 28 hoặc 29 ngày, cần xem lịch của năm cụ thể.",
+      "Tính khoảng ngày có bao gồm cả ngày đầu và ngày cuối phải đếm cả hai đầu."
+    ],
+    "steps": [
+      "Đọc kim phút theo nhóm 5 rồi đếm các vạch lẻ.",
+      "Đọc số giờ kim ngắn đã đi qua.",
+      "Gắn buổi sáng, chiều, tối hoặc chuyển sang cách ghi 24 giờ theo đề.",
+      "Khi qua mốc 60 phút hoặc hết tháng, chuyển sang giờ hoặc tháng kế tiếp."
+    ],
+    "errors": [
+      "Đảo kim giờ với kim phút.",
+      "Cho rằng mọi tháng đều có 30 ngày.",
+      "Viết 10:70 thay cho 11:10.",
+      "Bỏ ngày đầu khi đề yêu cầu tính cả hai đầu."
+    ],
+    "examples": [
+      [
+        "Kim dài chỉ vạch thứ 3 sau số 4, kim ngắn giữa 6 và 7. Đọc giờ.",
+        [
+          "Số 4 ứng với 20 phút, thêm 3 vạch là 23 phút.",
+          "Kim ngắn đã qua số 6, vậy là 6 giờ 23 phút."
+        ]
+      ],
+      [
+        "Bắt đầu làm bài 15:50 trong 25 phút. Xong lúc nào?",
+        [
+          "10 phút tới 16:00, còn 15 phút.",
+          "Kết thúc lúc 16:15, tức 4 giờ 15 phút chiều."
+        ]
+      ]
+    ],
+    "game": [
+      "Ghép giờ và lịch",
+      "Ghép mô tả với đáp án, chú ý định dạng giờ:phút."
+    ],
+    "mode": "match",
+    "activities": [
+      {
+        "title": "Làm mặt đồng hồ giấy",
+        "materials": [
+          "Giấy bìa",
+          "Hai kim giấy dài ngắn",
+          "Bút",
+          "Chốt giấy do người lớn hỗ trợ"
+        ],
+        "steps": [
+          "Ghi các số 1 đến 12 theo vòng tròn, đánh dấu vạch phút.",
+          "Đặt 2 giờ 20 phút: kim dài ở số 4, kim ngắn qua số 2 một đoạn.",
+          "Đổi sang 2 giờ 50 phút, chỉnh kim ngắn gần số 3 hơn.",
+          "Nhờ bạn hoặc người thân đọc rồi đổi vai."
+        ],
+        "check": [
+          "Kim dài và kim ngắn phân biệt rõ.",
+          "Kim giờ dịch theo phút, không đứng nguyên ở số giờ."
+        ]
+      }
+    ]
+  },
+  {
+    "topic": "Thực hành lập lịch và tính thời gian",
+    "objectives": [
+      "Tra ngày, thứ theo tờ lịch đã cho.",
+      "Xác định thời điểm bắt đầu, kết thúc và thời lượng.",
+      "Chọn các hoạt động không trùng thời gian."
+    ],
+    "intro": "Dùng lịch để biết thứ và ngày, dùng đồng hồ để biết thời điểm. Một kế hoạch tốt cần đủ thời gian di chuyển, chuẩn bị và nghỉ giữa các hoạt động.",
+    "rules": [
+      "Mỗi cột của lịch là một thứ; các ngày cùng cột cách nhau 7 ngày.",
+      "Đếm thời lượng qua giờ tròn thành hai đoạn rồi cộng.",
+      "Hai hoạt động trùng một khoảng thời gian thì không thể dự trọn cả hai.",
+      "Để đến đúng giờ, lùi từ giờ hẹn theo thời gian đi đường và chuẩn bị.",
+      "Tờ lịch minh họa là tháng 6 năm 2026, có ngày 1 là thứ Hai."
+    ],
+    "steps": [
+      "Tìm cột thứ hoặc ô ngày đang hỏi trên lịch.",
+      "Ghi thời điểm bắt đầu và kết thúc cùng cách ghi giờ.",
+      "Tính khoảng cách hoặc lùi thời gian theo yêu cầu.",
+      "Kiểm tra xem kế hoạch có trùng lịch hoặc bỏ sót ngày đầu không."
+    ],
+    "errors": [
+      "Nhầm cột thứ Hai với Chủ nhật.",
+      "Dùng phép trừ 15:20 - 14:45 như trừ hai số thập phân.",
+      "Đếm 10 ngày từ ngày 16 thành ngày 26 thay vì ngày 25.",
+      "Chọn hai buổi có giờ bắt đầu khác nhau nhưng vẫn trùng thời gian."
+    ],
+    "examples": [
+      [
+        "Một lớp học từ 9:45 đến 10:15. Học trong bao lâu?",
+        [
+          "9:45 tới 10:00 là 15 phút.",
+          "10:00 tới 10:15 là 15 phút nữa; tổng 30 phút."
+        ]
+      ],
+      [
+        "Cần đến 8:00, đi 25 phút, chuẩn bị 10 phút. Muộn nhất chuẩn bị lúc nào?",
+        [
+          "Lùi 25 phút từ 8:00 được 7:35.",
+          "Lùi tiếp 10 phút được 7:25."
+        ]
+      ]
+    ],
+    "game": [
+      "Lịch hẹn thông minh",
+      "Kiểm tra kết quả đọc lịch và chọn giờ phù hợp."
+    ],
+    "mode": "tf",
+    "activities": [
+      {
+        "title": "Lập lịch một buổi của em",
+        "materials": [
+          "Đồng hồ thật hoặc đồng hồ giấy",
+          "Lịch tháng",
+          "Giấy và bút"
+        ],
+        "steps": [
+          "Chọn một ngày và ghi rõ thứ, ngày, tháng, năm.",
+          "Ghi ba hoạt động, mỗi hoạt động có giờ bắt đầu và kết thúc.",
+          "Tính khoảng nghỉ giữa hai hoạt động.",
+          "Đặt đồng hồ giấy ở từng giờ bắt đầu, nhờ người thân kiểm tra."
+        ],
+        "check": [
+          "Ba hoạt động không chồng nhau.",
+          "Có thời gian di chuyển và chuẩn bị nếu cần.",
+          "Giờ trong ngày và cột thứ trên lịch đúng."
+        ]
+      }
+    ]
+  },
+  {
+    "topic": "Mệnh giá, đổi tiền, mua hàng và tiền thừa",
+    "objectives": [
+      "Tính giá trị nhiều tờ tiền, so sánh theo tổng giá trị.",
+      "Đổi tiền mà giữ nguyên giá trị.",
+      "Tính tổng mua hàng, tiền thừa và số món có thể mua."
+    ],
+    "intro": "Số tờ tiền và số tiền là hai điều khác nhau. Khi mua hàng, em tính tổng tiền cần trả trước rồi so với số tiền mình có.",
+    "rules": [
+      "Tổng tiền bằng tổng giá trị các tờ, không chỉ đếm số tờ.",
+      "Đổi tiền chỉ thay cách ghép mệnh giá, tổng giá trị phải giữ nguyên.",
+      "Tiền thừa bằng tiền đưa trừ tiền hàng; thiếu tiền khi tiền có nhỏ hơn tiền hàng.",
+      "Mua nhiều món giống nhau: lấy giá một món nhân số món.",
+      "Dữ kiện giá tiền trong bài là tình huống học tập giả định."
+    ],
+    "steps": [
+      "Ghi từng mệnh giá và số tờ.",
+      "Tính số tiền có hoặc tổng tiền mua.",
+      "So sánh với số tiền đưa để tìm thừa hoặc thiếu.",
+      "Thử lại: tiền hàng cộng tiền thừa phải bằng tiền đưa."
+    ],
+    "errors": [
+      "Coi 3 tờ luôn nhiều hơn 1 tờ mà không xét mệnh giá.",
+      "Lấy tiền hàng trừ tiền đưa để tìm tiền thừa.",
+      "Đổi tiền nhưng làm thay đổi tổng giá trị.",
+      "Mua tối đa mà làm tròn số món lên khi tiền không đủ."
+    ],
+    "examples": [
+      [
+        "Có 1 tờ 20000 đồng và 3 tờ 2000 đồng. Tổng bao nhiêu?",
+        [
+          "Ba tờ 2000 đồng có 6000 đồng.",
+          "Tổng 20000 + 6000 = 26000 đồng."
+        ]
+      ],
+      [
+        "Mua hai vở giá 9000 đồng mỗi quyển, đưa 50000 đồng. Tiền thừa?",
+        [
+          "Hai vở giá 9000 × 2 = 18000 đồng.",
+          "Tiền thừa 50000 - 18000 = 32000 đồng."
+        ]
+      ]
+    ],
+    "game": [
+      "Quầy hàng tính nhanh",
+      "Tính tổng tiền và tiền thừa trong 60 giây."
+    ],
+    "mode": "speed",
+    "activities": [
+      {
+        "title": "Quầy hàng bằng thẻ mệnh giá",
+        "materials": [
+          "Thẻ giấy ghi 1000, 2000, 5000, 10000, 20000, 50000 đồng",
+          "Đồ vật học tập",
+          "Nhãn giá giả định"
+        ],
+        "steps": [
+          "Viết THẺ HỌC TẬP trên các thẻ, không dùng làm tiền thật.",
+          "Chọn món và tính tổng giá.",
+          "Đưa một hoặc nhiều thẻ có tổng đủ trả.",
+          "Bạn bán ghép thẻ trả lại tiền thừa rồi cùng thử tổng."
+        ],
+        "check": [
+          "Tổng giá trị thẻ đúng, không chỉ đếm tờ.",
+          "Tiền hàng cộng tiền thừa bằng tiền đưa."
+        ]
+      }
+    ]
+  }
+]

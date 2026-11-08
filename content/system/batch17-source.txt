@@ -39,3 +39,126 @@ Một kho ghi 52780 kg nhưng cân thực chỉ 51870 kg. Sổ ghi hơn thực t
 Có 85000 tờ giấy, dùng 24500 tờ buổi sáng. Buổi chiều dùng ít hơn sáng 1500 tờ. Còn bao nhiêu tờ?|37500|Chiều dùng 23000 tờ; tổng dùng 47500 tờ; còn 37500 tờ.|60500;39000;36000
 Tìm hiệu của số lớn nhất có năm chữ số và số bé nhất có bốn chữ số khác nhau.|98976|Số đầu 99999, số sau 1023; 99999 - 1023 = 98976.|98999;98765;98986
 Ba chặng đường dài 12000 m, 18500 m và 9500 m. Đã đi 27500 m. Còn bao nhiêu mét?|12500|Tổng đường 40000 m; 40000 - 27500 = 12500 m.|40000;21500;11500
+Bài 66
+Một giờ có bao nhiêu phút?|60|Kim phút đi một vòng là 60 phút.|100;24;12
+Một ngày có bao nhiêu giờ?|24|Từ đầu ngày đến đầu ngày sau có 24 giờ.|12;60;30
+Một năm có bao nhiêu tháng?|12|Các tháng được đánh số từ 1 đến 12.|10;24;365
+Tháng Tư có bao nhiêu ngày?|30|Tháng 4 thuộc nhóm tháng có 30 ngày.|31;28;29
+Tháng Bảy có bao nhiêu ngày?|31|Tháng 7 có 31 ngày.|30;28;29
+Tháng Hai có thể có 28 hoặc bao nhiêu ngày?|29|Tháng 2 có 28 ngày hoặc 29 ngày tùy năm.|30;31;27
+Kim phút chỉ số 6 thì đã qua bao nhiêu phút trong giờ?|30|Mỗi khoảng số là 5 phút; 6 khoảng là 30 phút.|6;60;35
+Kim phút chỉ số 9 thì đã qua bao nhiêu phút trong giờ?|45|Chín khoảng, mỗi khoảng 5 phút.|9;40;50
+15 giờ tương ứng mấy giờ buổi chiều?|3|15 giờ là 12 giờ thêm 3 giờ.|5;2;4
+Đồng hồ A trong hình đang chỉ mấy giờ mấy phút? Ghi dạng giờ:phút, ví dụ 2:05.|4:25|Kim dài ở số 5 là 25 phút; kim ngắn đã qua số 4.|5:20;4:05;5:25
+Kim phút chỉ vạch thứ 2 sau số 8 thì là phút thứ mấy?|42|Số 8 ứng với 40 phút, thêm 2 vạch được 42 phút.|82;40;48
+Kim ngắn ở giữa số 7 và 8, kim dài chỉ số 6. Đồng hồ chỉ mấy giờ? Ghi dạng giờ:phút.|7:30|Kim ngắn chưa tới 8, kim dài ở 6 là 30 phút.|8:30;6:35;7:06
+18 giờ 40 phút tương ứng mấy giờ mấy phút tối? Ghi dạng giờ:phút.|6:40|Bớt 12 giờ ở phần giờ được 6 giờ 40 phút tối.|8:40;6:04;7:40
+Tháng tiếp ngay sau tháng Chín là tháng số mấy?|10|Sau tháng 9 là tháng 10.|8;11;12
+Tháng đứng trước tháng Một là tháng số mấy của năm trước?|12|Tháng 12 kết thúc năm cũ, sau đó tới tháng 1 năm mới.|2;11;1
+Trong tháng 4 và tháng 5, tháng nào có nhiều ngày hơn? Ghi số tháng.|5|Tháng 5 có 31 ngày, tháng 4 có 30 ngày.|4;6;2
+Tháng nào trong 6, 8, 9 có 31 ngày?|8|Tháng 8 có 31 ngày; tháng 6 và 9 có 30 ngày.|6;9;không có
+Tính 18 phút + 27 phút. Ghi số phút.|45|18 + 27 = 45 phút.|44;35;46
+Tính 4 giờ × 3. Ghi số giờ.|12|4 giờ lấy 3 lần là 12 giờ.|7;1;24
+Đồng hồ B trong hình chỉ 8 giờ 47 phút, còn bao nhiêu phút tới 9 giờ?|13|Một giờ có 60 phút; 60 - 47 = 13 phút.|47;17;23
+Buổi học bắt đầu 7 giờ 15 phút, kéo dài 30 phút. Kết thúc lúc nào? Ghi giờ:phút.|7:45|15 phút thêm 30 phút được 45 phút.|7:35;8:15;7:30
+Em đọc sách từ 19 giờ 20 phút đến 19 giờ 55 phút. Đã đọc bao nhiêu phút?|35|55 - 20 = 35 phút.|75;25;45
+Bây giờ 10 giờ 50 phút. Sau 20 phút là mấy giờ? Ghi giờ:phút.|11:10|Thêm 10 phút tới 11 giờ rồi thêm 10 phút nữa.|10:70;11:20;10:30
+Trước 8 giờ 05 phút 15 phút là mấy giờ? Ghi giờ:phút.|7:50|Lùi 5 phút về 8 giờ, lùi tiếp 10 phút về 7 giờ 50.|7:90;8:20;7:40
+Một tiết học dài 35 phút, nghỉ 10 phút rồi học tiết thứ hai dài 35 phút. Tổng bao nhiêu phút?|80|35 + 10 + 35 = 80 phút.|70;45;90
+Ngày cuối cùng của tháng 6 là ngày số mấy?|30|Tháng 6 có 30 ngày, nên ngày cuối là 30.|31;29;28
+Sau ngày 31 tháng 8 là ngày 1 tháng mấy?|9|Hết tháng 8 chuyển sang tháng 9.|8;10;7
+Tháng 2 của một năm có 28 ngày. Ngày sau 28 tháng 2 là ngày 1 tháng mấy?|3|28 là ngày cuối tháng 2 của năm đó, kế tiếp là tháng 3.|2;4;1
+Từ ngày 28 tháng 4 đến hết ngày 2 tháng 5, tính cả hai đầu, có bao nhiêu ngày?|5|Các ngày là 28, 29, 30 tháng 4 và 1, 2 tháng 5.|4;6;3
+Một bạn nói tháng 7 và tháng 8 đều có 31 ngày. Đúng hay sai?|đúng|Cả tháng 7 và tháng 8 đều thuộc nhóm tháng 31 ngày.|sai;chỉ tháng 7;chỉ tháng 8
+Đi học lúc 6 giờ 45 phút, tới trường 7 giờ 10 phút. Đi hết bao nhiêu phút?|25|15 phút tới 7 giờ, thêm 10 phút là 25 phút.|35;65;15
+Tập từ 16 giờ 35 phút trong 40 phút. Kết thúc lúc nào? Ghi giờ:phút.|17:15|25 phút tới 17 giờ, còn 15 phút nữa.|16:75;17:05;17:40
+Lịch nói tháng 11 có ngày 31. Lịch đó đúng hay sai?|sai|Tháng 11 chỉ có 30 ngày.|đúng;tùy thứ;chỉ đúng năm có tháng 2 đủ 29 ngày
+Trong 12 tháng, có bao nhiêu tháng có 30 ngày?|4|Đó là tháng 4, 6, 9, 11.|5;6;7
+Trong 12 tháng, có bao nhiêu tháng có 31 ngày?|7|Đó là tháng 1, 3, 5, 7, 8, 10, 12.|6;4;8
+Hai tháng liên tiếp 7 và 8 có tổng bao nhiêu ngày?|62|31 + 31 = 62 ngày.|60;61;59
+Một cuộc thi diễn ra ngày 30 tháng 9, hôm sau là tháng mấy?|10|Tháng 9 kết thúc ở ngày 30, sau đó là tháng 10.|9;11;8
+Đồng hồ C trong hình chỉ 11 giờ 58 phút sáng. Sau 5 phút, giờ theo cách ghi 24 giờ là gì? Ghi giờ:phút.|12:03|Thêm 2 phút tới 12 giờ rồi thêm 3 phút.|11:63;12:05;0:03
+Từ 8 giờ đến 10 giờ 30 phút có bao nhiêu phút?|150|Hai giờ là 120 phút, thêm 30 phút được 150 phút.|130;180;90
+Một nhóm dùng 1 giờ 20 phút làm việc; nhóm kia dùng 75 phút. Nhóm đầu lâu hơn bao nhiêu phút?|5|1 giờ 20 phút là 80 phút; 80 - 75 = 5 phút.|55;20;15
+Bài 67
+Lịch tháng 6 trong hình có ngày 1 là thứ mấy?|thứ hai|Ngày 1 nằm ở cột T2.|thứ ba;chủ nhật;thứ bảy
+Theo lịch tháng 6 trong hình, Chủ nhật đầu tiên là ngày mấy?|7|Cột CN có các ngày 7, 14, 21, 28.|1;6;8
+Theo lịch tháng 6 trong hình, ngày cuối tháng là ngày mấy?|30|Tháng 6 có 30 ngày.|31;29;28
+Theo lịch tháng 6 trong hình, ngày 12 là thứ mấy?|thứ sáu|Ngày 12 nằm dưới cột T6.|thứ năm;thứ bảy;chủ nhật
+Theo lịch tháng 6 trong hình, thứ Tư đầu tiên là ngày mấy?|3|Ngày 3 ở cột T4 của tuần đầu.|4;10;2
+Đồng hồ D trong hình chỉ mấy giờ? Ghi giờ:phút.|9:10|Kim dài chỉ số 2, kim ngắn qua số 9.|2:45;9:02;10:09
+Lịch ghi T7 là viết tắt của thứ mấy?|thứ bảy|T7 là thứ Bảy, còn CN là Chủ nhật.|thứ sáu;chủ nhật;thứ hai
+Một tuần có bao nhiêu ngày?|7|Các thứ lặp lại sau mỗi 7 ngày.|5;6;8
+Trên lịch, sau ngày 9 là ngày nào cùng tháng?|10|Ngày liên tiếp tăng thêm 1.|8;16;19
+Theo lịch tháng 6 trong hình, ngày 15 là thứ mấy?|thứ hai|Cùng cột với ngày 1 và 8.|thứ ba;thứ tư;chủ nhật
+Theo lịch tháng 6 trong hình, thứ Hai ngay sau ngày 18 là ngày mấy?|22|Sau ngày 18, thứ Hai tiếp theo là 22.|15;21;29
+Theo lịch tháng 6 trong hình, ngày 25 và ngày 18 có cùng thứ không?|có|Hai ngày cách nhau 7 ngày nên cùng thứ Năm.|không;chỉ cùng buổi;không đủ dữ kiện
+Từ ngày 10 đến hết ngày 13 cùng tháng, tính cả hai đầu, có bao nhiêu ngày?|4|Gồm ngày 10, 11, 12, 13.|3;5;2
+Theo lịch tháng 6 trong hình, thứ Sáu cuối cùng là ngày mấy?|26|Cột T6 gồm 5, 12, 19, 26.|19;30;27
+Đặt kim phút để chỉ 35 phút thì kim dài trỏ số mấy?|7|Mỗi số ứng với 5 phút; 35 chia 5 được 7.|5;6;8
+Đặt đồng hồ chỉ 3 giờ rưỡi, kim ngắn nằm giữa 3 và số nào?|4|Sau 3 giờ 30 phút, kim giờ đã đi nửa quãng tới 4.|2;6;12
+Theo lịch tháng 6 trong hình, ngày 30 là thứ mấy?|thứ ba|Ngày 29 là thứ Hai, ngày 30 là thứ Ba.|thứ hai;thứ tư;chủ nhật
+Thời điểm 17:05 được đọc là mấy giờ mấy phút chiều? Ghi giờ:phút.|5:05|17 giờ là 5 giờ chiều.|7:05;5:50;6:05
+Bắt đầu 10:20, kết thúc 10:55. Hoạt động dài bao nhiêu phút?|35|55 - 20 = 35 phút.|25;45;75
+Theo lịch tháng 6 trong hình, trước ngày 1 tháng 7 một ngày là ngày mấy tháng 6?|30|Ngày 30 tháng 6 là ngày ngay trước 1 tháng 7.|29;31;28
+Nồi cơm bật lúc 10:35 và nấu 40 phút. Cơm chín lúc nào? Ghi giờ:phút.|11:15|25 phút tới 11 giờ, thêm 15 phút nữa.|10:75;11:05;11:40
+Làm món trộn lúc 11:48 trong 9 phút. Xong lúc nào? Ghi giờ:phút.|11:57|48 + 9 = 57 phút, chưa qua giờ.|12:09;11:39;12:57
+Nướng bánh từ 14:45 đến 15:20. Nướng trong bao nhiêu phút?|35|15 phút tới 15 giờ rồi thêm 20 phút.|25;75;45
+Theo lịch tháng 6 trong hình, trại diễn ra từ ngày 22 đến hết 28. Trại dài mấy ngày?|7|28 - 22 + 1 = 7 ngày, tính cả ngày bắt đầu.|6;8;5
+Theo lịch tháng 6 trong hình, hạn nộp là thứ Sáu thứ hai của tháng. Đó là ngày mấy?|12|Các thứ Sáu là 5, 12, 19, 26; lần thứ hai là 12.|5;19;26
+Theo lịch tháng 6 trong hình, thông báo vào thứ Hai tuần sau ngày 12. Đó là ngày mấy?|15|Ngày 12 thứ Sáu, thứ Hai kế tiếp là ngày 15.|8;22;14
+Buổi A từ 9:00 đến 10:00, buổi B từ 9:30 đến 10:30. Có thể dự trọn cả hai không?|không|Hai buổi trùng từ 9:30 đến 10:00.|có;chỉ nếu đến sớm;chỉ nếu đổi đồng hồ
+Buổi C từ 14:00 đến 15:00, buổi D từ 15:15 đến 16:00. Nghỉ giữa hai buổi bao nhiêu phút?|15|Từ 15:00 đến 15:15 là 15 phút.|45;60;30
+Em cần có mặt 7:30; đi đường 20 phút và chuẩn bị 15 phút. Muộn nhất bắt đầu chuẩn bị lúc nào? Ghi giờ:phút.|6:55|Lùi 20 phút về 7:10, lùi tiếp 15 phút về 6:55.|7:10;7:15;6:45
+Theo lịch tháng 6 trong hình, có bao nhiêu ngày thứ Hai?|5|Các ngày thứ Hai là 1, 8, 15, 22, 29.|4;6;3
+Theo lịch tháng 6 trong hình, ngày sau Chủ nhật cuối tháng là ngày mấy?|29|Chủ nhật cuối là 28; hôm sau là 29.|30;1;22
+Theo lịch tháng 6 trong hình, ngày 24 hẹn tập, sau 1 tuần hẹn lại. Ngày hẹn sau là ngày mấy tháng 7?|1|Từ 24 tới 30 là 6 ngày; thêm 1 ngày là 1 tháng 7.|2;7;8
+Một chuyến đi từ 29 tháng 6 đến hết 3 tháng 7. Tính cả hai đầu được bao nhiêu ngày?|5|Gồm 29, 30 tháng 6 và 1, 2, 3 tháng 7.|4;6;3
+Đồng hồ D trong hình chỉ 9:10 sáng. Em hẹn bạn sau 50 phút. Hẹn lúc nào? Ghi giờ:phút.|10:00|10 phút cộng 50 phút đủ 60 phút nên sang 10 giờ.|9:60;10:10;9:50
+Dọn nhà 20 phút, đọc sách 25 phút, nghỉ 10 phút. Bắt đầu 8:15, xong cả ba lúc nào? Ghi giờ:phút.|9:10|Tổng 55 phút; 8:15 thêm 55 phút được 9:10.|8:70;9:00;9:20
+Theo lịch tháng 6 trong hình, ngày 16 bắt đầu thử thách 10 ngày liên tiếp, tính ngày 16 là ngày đầu. Ngày cuối là ngày mấy?|25|Ngày thứ 10 cách ngày đầu 9 ngày; 16 + 9 = 25.|26;24;30
+Xem phim từ 18:40 trong 45 phút. Kết thúc lúc nào? Ghi giờ:phút.|19:25|20 phút tới 19 giờ, còn 25 phút nữa.|18:85;19:15;19:45
+Buổi vẽ 10:00–11:00, buổi gốm 10:30–11:30, buổi nhạc 14:00–15:00. Chọn hai buổi không trùng có bao nhiêu cách?|2|Vẽ và nhạc, hoặc gốm và nhạc; vẽ trùng gốm.|1;3;0
+Theo lịch tháng 6 trong hình, ngày 27 là thứ Bảy. Sau 3 ngày là thứ mấy?|thứ ba|Ngày 28 Chủ nhật, 29 thứ Hai, 30 thứ Ba.|thứ hai;thứ tư;thứ sáu
+Xe khởi hành 13:25, em đến sớm 15 phút. Cần có mặt lúc nào? Ghi giờ:phút.|13:10|25 phút lùi 15 phút còn 10 phút, giữ giờ 13.|13:40;13:15;12:10
+Bài 68
+Hai tờ 10000 đồng có tổng bao nhiêu đồng?|20000|10000 + 10000 = 20000 đồng.|10000;30000;2000
+Một tờ 50000 đồng đổi được mấy tờ 10000 đồng?|5|50000 chia 10000 được 5 tờ.|2;4;10
+Một tờ 100000 đồng đổi được mấy tờ 50000 đồng?|2|Hai lần 50000 đồng bằng 100000 đồng.|5;10;1
+Ba tờ 2000 đồng có bao nhiêu đồng?|6000|2000 × 3 = 6000 đồng.|5000;4000;8000
+Tờ 20000 đồng và tờ 5000 đồng có tổng bao nhiêu đồng?|25000|20000 + 5000 = 25000 đồng.|15000;20500;7000
+Trong 1000, 5000, 2000 đồng, mệnh giá lớn nhất là bao nhiêu?|5000|5000 lớn hơn 2000 và 1000.|1000;2000;3000
+Mua bút 4000 đồng, đưa 10000 đồng. Tiền thừa là bao nhiêu đồng?|6000|10000 - 4000 = 6000 đồng.|14000;4000;5000
+Hai tờ 5000 đồng bằng mấy tờ 10000 đồng?|1|5000 + 5000 = 10000 đồng.|2;5;10
+Một tờ 5000 và một tờ 2000 đồng có tổng bao nhiêu đồng?|7000|5000 + 2000 = 7000 đồng.|3000;6000;8000
+Trong tờ 10000 và 20000 đồng, tờ nào có giá trị gấp đôi tờ còn lại? Ghi mệnh giá.|20000|20000 gấp 2 lần 10000.|10000;5000;40000
+Một bạn có 3 tờ 10000 đồng, bạn kia có 1 tờ 50000 đồng. Ai nhiều tiền hơn? Ghi bạn thứ mấy.|2|Bạn thứ nhất có 30000 đồng, ít hơn 50000 đồng.|1;cả hai bằng nhau;không đủ dữ kiện
+Mua vở 12000 đồng và nhãn 3000 đồng. Cần trả bao nhiêu đồng?|15000|12000 + 3000 = 15000 đồng.|9000;16000;13000
+Đổi 20000 đồng thành các tờ 5000 đồng cần mấy tờ?|4|Bốn tờ 5000 đồng có tổng 20000 đồng.|2;5;10
+Một món hàng giá 17000 đồng. Có 10000, 5000 và 2000 đồng, mỗi loại một tờ. Có vừa đủ không?|có|10000 + 5000 + 2000 = 17000 đồng.|không;thừa 1000;thiếu 1000
+Cùng mua bút, giá hôm trước 6000 đồng, hôm sau 5000 đồng. Giá giảm bao nhiêu đồng?|1000|6000 - 5000 = 1000 đồng.|11000;2000;5000
+Mua hai quyển vở giá 8000 đồng mỗi quyển. Cần bao nhiêu đồng?|16000|8000 × 2 = 16000 đồng.|10000;8000;18000
+Tờ 50000 đồng đổi thành 1 tờ 10000 và mấy tờ 20000 đồng?|2|Còn 40000 đồng, đổi được 2 tờ 20000 đồng.|1;3;4
+Hai ví có 2 tờ 20000 và 4 tờ 10000 đồng. Hai ví có giá trị bằng nhau không?|có|Mỗi ví đều có 40000 đồng.|không;ví đầu hơn;ví sau hơn
+Có 30000 đồng, mua sách 28000 đồng. Còn bao nhiêu đồng?|2000|30000 - 28000 = 2000 đồng.|58000;12000;3000
+Một bạn nói càng nhiều tờ tiền thì càng nhiều tiền. Đúng hay sai?|sai|Hai tờ 1000 đồng ít hơn một tờ 10000 đồng; cần xét cả mệnh giá.|đúng;chỉ đúng khi khác mệnh giá;luôn đúng
+Mua sách 23500 đồng, đưa 50000 đồng. Cần nhận lại bao nhiêu đồng?|26500|50000 - 23500 = 26500 đồng.|27500;23500;36500
+Mua 3 bút, mỗi bút 5000 đồng và vở 12000 đồng. Tổng bao nhiêu đồng?|27000|Bút hết 15000 đồng; thêm 12000 được 27000 đồng.|17000;30000;22000
+Có 100000 đồng, mua túi 45000 đồng và hộp bút 28000 đồng. Còn bao nhiêu đồng?|27000|Đã chi 73000 đồng; còn 27000 đồng.|73000;37000;17000
+Một nhóm làm hàng cần giấy 18000 đồng, màu 22000 đồng, keo 7000 đồng. Tổng chi bao nhiêu đồng?|47000|18000 + 22000 + 7000 = 47000 đồng.|40000;48000;45000
+Nhóm thu 80000 đồng, đã chi 47000 đồng. Phần còn lại là bao nhiêu đồng?|33000|80000 - 47000 = 33000 đồng.|43000;47000;127000
+Một tờ 20000 đồng đổi thành chỉ các tờ 2000 đồng được mấy tờ?|10|10 tờ 2000 đồng có tổng 20000 đồng.|5;20;2
+Có 2 tờ 20000 đồng và 1 tờ 10000 đồng. Mua món 46500 đồng thì còn bao nhiêu đồng?|3500|Có 50000 đồng; bớt 46500 còn 3500 đồng.|4500;5000;6500
+Một hộp 4 bút giá 24000 đồng. Một bút cùng giá là bao nhiêu đồng?|6000|24000 chia 4 được 6000 đồng.|4000;8000;96000
+Một món hàng giá 18500 đồng. Có 17000 đồng thì còn thiếu bao nhiêu đồng?|1500|18500 - 17000 = 1500 đồng.|2500;3500;1700
+Có 50000 đồng; mua vở 12000 đồng và bút 8000 đồng. Số tiền còn lại mua được mấy thước giá 5000 đồng mỗi chiếc?|6|Còn 30000 đồng; 30000 chia 5000 được 6 chiếc.|10;4;5
+Một người có 5 tờ 10000 đồng, đổi lấy toàn tờ 5000 đồng. Sau đổi có mấy tờ?|10|50000 đồng đổi được 10 tờ 5000 đồng, giá trị không đổi.|5;15;2
+Bộ A có 1 tờ 20000 và 3 tờ 5000 đồng; bộ B có 4 tờ 10000 đồng. Bộ B hơn A bao nhiêu đồng?|5000|A có 35000 đồng, B có 40000 đồng, chênh 5000 đồng.|15000;10000;0
+Có 30000 đồng, bút 7000 đồng mỗi chiếc. Mua tối đa được mấy chiếc?|4|Bốn chiếc hết 28000 đồng; năm chiếc cần 35000 đồng nên không đủ.|3;5;7
+Mua 4 bút giá 7000 đồng mỗi chiếc bằng 30000 đồng. Còn bao nhiêu đồng?|2000|Bốn bút hết 28000 đồng; còn 2000 đồng.|3000;7000;28000
+Một quyển truyện và một nhãn vở giá tổng 19000 đồng. Truyện giá 16000 đồng. Nhãn vở giá bao nhiêu đồng?|3000|19000 - 16000 = 3000 đồng.|35000;2000;4000
+Hai hộp màu giống nhau giá 36000 đồng. Ba hộp giá bao nhiêu đồng?|54000|Một hộp 18000 đồng, ba hộp 54000 đồng.|72000;18000;48000
+Có 100000 đồng, cần mua hai món giá 38000 và 47500 đồng. Còn bao nhiêu đồng?|14500|Tổng giá 85500 đồng; còn 14500 đồng.|15500;24500;85500
+Chỉ dùng tờ 10000 và 20000 đồng, cần ít nhất mấy tờ để đủ đúng 50000 đồng?|3|Hai tờ 20000 và một tờ 10000; hai tờ tối đa chỉ 40000 đồng.|2;4;5
+Ba người góp lần lượt 15000, 20000, 25000 đồng. Mua đồ hết 48000 đồng, còn bao nhiêu đồng?|12000|Tổng góp 60000 đồng, chi 48000 còn 12000 đồng.|22000;10000;60000
+Một ví có 60000 đồng; ví kia có 2 tờ 20000 và 5 tờ 2000 đồng. Ví đầu hơn ví kia bao nhiêu đồng?|10000|Ví kia có 50000 đồng; 60000 - 50000 = 10000 đồng.|20000;5000;0

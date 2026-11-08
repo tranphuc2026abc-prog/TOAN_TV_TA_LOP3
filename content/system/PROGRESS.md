@@ -1,8 +1,18 @@
+# Batch 17 đã tích hợp — 08/11/2026
+
+Toán 65–68: 4 JSON/Markdown, 160 câu mới (10/10/20 mỗi bài), 4 trò chơi, 3 SVG tự dựng và 3 hoạt động thực hành giấy/đồng hồ/lịch/thẻ mệnh giá. Đã đọc trực quan trang in 76–87 (PDF 77–88) của chính Toán tập 2 trong repo, blob SHA 1a55eb09c9cf573935fa38911d48a5311575b09c. Nội dung ôn cộng/trừ có ngoặc, xem giờ tới từng phút, tháng/năm, lập lịch, khoảng thời gian, đổi tiền và tiền thừa. Câu hỏi và tình huống mới, không chép hệ thống bài tập sách.
+
+Hình đồng hồ có 60 vạch, kim giờ dịch theo phút; lịch tự dựng là tháng 6/2026, ngày 1 thứ Hai. Đã render và xem cả ba SVG, nhãn không chồng. Mỗi câu phụ thuộc hình đều gắn hình ngay trong câu hỏi. Tiền trong bài là giá giả định, hoạt động dùng thẻ học tập không dùng làm tiền thật.
+
+npm test toàn bộ đạt trên 68 bài/2720 câu: dữ liệu, Markdown, 2143 đẳng thức lời giải, hồi quy cũ và DOM. Hồi quy mới: biểu thức có/không ngoặc, 160 đáp án neo, datetime/calendar, tọa độ 30 ngày và kim giờ/phút, tham chiếu SVG, tiền thừa và hai bước. DOM giữ luyện tập 10 câu 3/3/4, bốn loại trò chơi, lưu/nạp wl3, chống chấm lặp và fallback. Chưa kiểm thử Chromium thật; chưa xác nhận bố cục/cảm ứng/âm thanh thực tế. Không đổi giao diện, bộ tải hay dữ liệu người học.
+
+Tổng 68/168 mục, 2720 câu, 68 trò chơi. Giáo viên duyệt 4 bài Toán 1–4; 64 bài chờ duyệt AI_CHECKED_AWAITING_TEACHER. Còn 100 mục: Toán 69–81 (13), Tiếng Việt 62, Tiếng Anh 25. Tiếp Batch 18 Toán 69–72; đọc nguồn tương ứng trước khi biên soạn. Không làm lại Batch 17. Batch 16 commit 424acbae08840eeb836b0a914bcbfa0a7e124691 đã xác minh hai workflow Pages success và nội dung HTTP của INDEX cùng Toán 61–64 khớp SHA256 với tệp đã kiểm thử. Batch 17 cần xác minh sau ghi.
+
+## Lịch sử
+
 # Checkpoint nguồn Batch 17 — 08/11/2026
 
-Đã đọc trực quan trang in 76 (PDF 77) Toán tập 2 cho Bài 65. Đã lưu 40 câu nguồn mới Bài 65, theo thứ tự 10/10/20, trong batch17-source.txt; kiểm tra số dòng, không trùng câu trong bài và bốn lựa chọn khác nhau. Chưa đóng gói, chưa tích hợp hay kiểm thử DOM bài mới. Tiếp theo đọc nguồn và soạn Bài 66–68, hoàn thiện kiến thức/ví dụ/game/SVG cần thiết rồi kiểm thử cả batch. Không làm lại 40 câu nguồn Bài 65.
-
-Tổng tích hợp giữ 64/168 mục, 2560 câu, 64 trò chơi; giáo viên duyệt 4, chờ duyệt 60; còn 104 mục. Không cập nhật số hoàn thành trong INDEX cho nguồn dở dang. Đây là checkpoint, không phải batch hoàn chỉnh.
+Tác vụ tự động đã lưu 40 câu nguồn Bài 65 trong commit cf45406bb5277cfd6574e6e8cf58c8eb69f15181 khi lượt hiện tại đang biên soạn. Đã giữ nguyên và dùng chính 40 câu đó để đóng gói Toán 65, bổ sung Toán 66–68, kiểm thử lại cả batch. Không ghi đè hoặc bỏ nguồn mới; 40 câu Bài 65 là một phần trong tổng 160 câu của batch.
 
 ## Lịch sử
 

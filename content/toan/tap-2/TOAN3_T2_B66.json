@@ -1,0 +1,826 @@
+{
+  "id": "TOAN3_T2_B66",
+  "subject": "toan",
+  "grade": 3,
+  "book": "Kết nối tri thức với cuộc sống",
+  "volume": 2,
+  "lesson_no": 66,
+  "title": "Xem đồng hồ. Tháng – năm",
+  "topic": "Đọc giờ tới từng phút; ngày, tháng, năm",
+  "source": {
+    "pdf": "03-sgk-toan-3-tap-hai.pdf",
+    "printed_pages": [
+      77,
+      80
+    ],
+    "pdf_pages": [
+      78,
+      81
+    ],
+    "review": "Đã đọc trực quan toàn bộ trang nguồn cho bài này; nội dung và bài tập mới do AI biên soạn."
+  },
+  "objectives": [
+    "Đọc kim giờ và kim phút chính xác.",
+    "Đổi giữa cách ghi 12 giờ có buổi và 24 giờ.",
+    "Nhớ số ngày các tháng và tính thời gian đơn giản."
+  ],
+  "knowledge": {
+    "introduction": "Kim dài cho biết phút, kim ngắn cho biết giờ. Kim giờ di chuyển dần giữa hai số nên em cần xác định số giờ đã qua, không chọn số giờ sắp tới.",
+    "rules": [
+      "Một giờ có 60 phút, một ngày có 24 giờ. Mỗi khoảng số trên mặt đồng hồ ứng với 5 phút; mỗi vạch nhỏ là 1 phút.",
+      "Buổi chiều, tối từ 13 đến 23 giờ tương ứng từ 1 đến 11 giờ; 12 giờ là giữa trưa, 0 giờ là đầu ngày.",
+      "Một năm có 12 tháng. Các tháng 4, 6, 9, 11 có 30 ngày; tháng 1, 3, 5, 7, 8, 10, 12 có 31 ngày.",
+      "Tháng 2 có 28 hoặc 29 ngày, cần xem lịch của năm cụ thể.",
+      "Tính khoảng ngày có bao gồm cả ngày đầu và ngày cuối phải đếm cả hai đầu."
+    ],
+    "steps": [
+      "Đọc kim phút theo nhóm 5 rồi đếm các vạch lẻ.",
+      "Đọc số giờ kim ngắn đã đi qua.",
+      "Gắn buổi sáng, chiều, tối hoặc chuyển sang cách ghi 24 giờ theo đề.",
+      "Khi qua mốc 60 phút hoặc hết tháng, chuyển sang giờ hoặc tháng kế tiếp."
+    ],
+    "common_errors": [
+      "Đảo kim giờ với kim phút.",
+      "Cho rằng mọi tháng đều có 30 ngày.",
+      "Viết 10:70 thay cho 11:10.",
+      "Bỏ ngày đầu khi đề yêu cầu tính cả hai đầu."
+    ]
+  },
+  "examples": [
+    {
+      "question": "Kim dài chỉ vạch thứ 3 sau số 4, kim ngắn giữa 6 và 7. Đọc giờ.",
+      "steps": [
+        "Số 4 ứng với 20 phút, thêm 3 vạch là 23 phút.",
+        "Kim ngắn đã qua số 6, vậy là 6 giờ 23 phút."
+      ]
+    },
+    {
+      "question": "Bắt đầu làm bài 15:50 trong 25 phút. Xong lúc nào?",
+      "steps": [
+        "10 phút tới 16:00, còn 15 phút.",
+        "Kết thúc lúc 16:15, tức 4 giờ 15 phút chiều."
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "question_id": "TOAN3_T2_B66_Q01",
+      "type": "mcq",
+      "question": "Một giờ có bao nhiêu phút?",
+      "options": [
+        "60",
+        "100",
+        "24",
+        "12"
+      ],
+      "correct_answer": "60",
+      "distractors": [
+        "100",
+        "24",
+        "12"
+      ],
+      "explanation": "Kim phút đi một vòng là 60 phút.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B66_Q02",
+      "type": "fill",
+      "question": "Một ngày có bao nhiêu giờ?",
+      "correct_answer": "24",
+      "distractors": [
+        "12",
+        "60",
+        "30"
+      ],
+      "explanation": "Từ đầu ngày đến đầu ngày sau có 24 giờ.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B66_Q03",
+      "type": "mcq",
+      "question": "Một năm có bao nhiêu tháng?",
+      "options": [
+        "12",
+        "10",
+        "24",
+        "365"
+      ],
+      "correct_answer": "12",
+      "distractors": [
+        "10",
+        "24",
+        "365"
+      ],
+      "explanation": "Các tháng được đánh số từ 1 đến 12.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B66_Q04",
+      "type": "fill",
+      "question": "Tháng Tư có bao nhiêu ngày?",
+      "correct_answer": "30",
+      "distractors": [
+        "31",
+        "28",
+        "29"
+      ],
+      "explanation": "Tháng 4 thuộc nhóm tháng có 30 ngày.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B66_Q05",
+      "type": "mcq",
+      "question": "Tháng Bảy có bao nhiêu ngày?",
+      "options": [
+        "31",
+        "30",
+        "28",
+        "29"
+      ],
+      "correct_answer": "31",
+      "distractors": [
+        "30",
+        "28",
+        "29"
+      ],
+      "explanation": "Tháng 7 có 31 ngày.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B66_Q06",
+      "type": "fill",
+      "question": "Tháng Hai có thể có 28 hoặc bao nhiêu ngày?",
+      "correct_answer": "29",
+      "distractors": [
+        "30",
+        "31",
+        "27"
+      ],
+      "explanation": "Tháng 2 có 28 ngày hoặc 29 ngày tùy năm.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B66_Q07",
+      "type": "mcq",
+      "question": "Kim phút chỉ số 6 thì đã qua bao nhiêu phút trong giờ?",
+      "options": [
+        "30",
+        "6",
+        "60",
+        "35"
+      ],
+      "correct_answer": "30",
+      "distractors": [
+        "6",
+        "60",
+        "35"
+      ],
+      "explanation": "Mỗi khoảng số là 5 phút; 6 khoảng là 30 phút.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B66_Q08",
+      "type": "fill",
+      "question": "Kim phút chỉ số 9 thì đã qua bao nhiêu phút trong giờ?",
+      "correct_answer": "45",
+      "distractors": [
+        "9",
+        "40",
+        "50"
+      ],
+      "explanation": "Chín khoảng, mỗi khoảng 5 phút.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B66_Q09",
+      "type": "mcq",
+      "question": "15 giờ tương ứng mấy giờ buổi chiều?",
+      "options": [
+        "3",
+        "5",
+        "2",
+        "4"
+      ],
+      "correct_answer": "3",
+      "distractors": [
+        "5",
+        "2",
+        "4"
+      ],
+      "explanation": "15 giờ là 12 giờ thêm 3 giờ.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B66_Q10",
+      "type": "fill",
+      "question": "Đồng hồ A trong hình đang chỉ mấy giờ mấy phút? Ghi dạng giờ:phút, ví dụ 2:05.",
+      "correct_answer": "4:25",
+      "distractors": [
+        "5:20",
+        "4:05",
+        "5:25"
+      ],
+      "explanation": "Kim dài ở số 5 là 25 phút; kim ngắn đã qua số 4.",
+      "difficulty": "nhan_biet",
+      "figure": {
+        "path": "content/toan/tap-2/TOAN3_T2_B66_CLOCKS.svg",
+        "caption": "Ba đồng hồ A, B, C; đọc kim dài màu xanh và kim ngắn màu đỏ."
+      }
+    },
+    {
+      "question_id": "TOAN3_T2_B66_Q11",
+      "type": "mcq",
+      "question": "Kim phút chỉ vạch thứ 2 sau số 8 thì là phút thứ mấy?",
+      "options": [
+        "42",
+        "82",
+        "40",
+        "48"
+      ],
+      "correct_answer": "42",
+      "distractors": [
+        "82",
+        "40",
+        "48"
+      ],
+      "explanation": "Số 8 ứng với 40 phút, thêm 2 vạch được 42 phút.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B66_Q12",
+      "type": "fill",
+      "question": "Kim ngắn ở giữa số 7 và 8, kim dài chỉ số 6. Đồng hồ chỉ mấy giờ? Ghi dạng giờ:phút.",
+      "correct_answer": "7:30",
+      "distractors": [
+        "8:30",
+        "6:35",
+        "7:06"
+      ],
+      "explanation": "Kim ngắn chưa tới 8, kim dài ở 6 là 30 phút.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B66_Q13",
+      "type": "mcq",
+      "question": "18 giờ 40 phút tương ứng mấy giờ mấy phút tối? Ghi dạng giờ:phút.",
+      "options": [
+        "6:40",
+        "8:40",
+        "6:04",
+        "7:40"
+      ],
+      "correct_answer": "6:40",
+      "distractors": [
+        "8:40",
+        "6:04",
+        "7:40"
+      ],
+      "explanation": "Bớt 12 giờ ở phần giờ được 6 giờ 40 phút tối.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B66_Q14",
+      "type": "fill",
+      "question": "Tháng tiếp ngay sau tháng Chín là tháng số mấy?",
+      "correct_answer": "10",
+      "distractors": [
+        "8",
+        "11",
+        "12"
+      ],
+      "explanation": "Sau tháng 9 là tháng 10.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B66_Q15",
+      "type": "mcq",
+      "question": "Tháng đứng trước tháng Một là tháng số mấy của năm trước?",
+      "options": [
+        "12",
+        "2",
+        "11",
+        "1"
+      ],
+      "correct_answer": "12",
+      "distractors": [
+        "2",
+        "11",
+        "1"
+      ],
+      "explanation": "Tháng 12 kết thúc năm cũ, sau đó tới tháng 1 năm mới.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B66_Q16",
+      "type": "fill",
+      "question": "Trong tháng 4 và tháng 5, tháng nào có nhiều ngày hơn? Ghi số tháng.",
+      "correct_answer": "5",
+      "distractors": [
+        "4",
+        "6",
+        "2"
+      ],
+      "explanation": "Tháng 5 có 31 ngày, tháng 4 có 30 ngày.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B66_Q17",
+      "type": "mcq",
+      "question": "Tháng nào trong 6, 8, 9 có 31 ngày?",
+      "options": [
+        "8",
+        "6",
+        "9",
+        "không có"
+      ],
+      "correct_answer": "8",
+      "distractors": [
+        "6",
+        "9",
+        "không có"
+      ],
+      "explanation": "Tháng 8 có 31 ngày; tháng 6 và 9 có 30 ngày.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B66_Q18",
+      "type": "fill",
+      "question": "Tính 18 phút + 27 phút. Ghi số phút.",
+      "correct_answer": "45",
+      "distractors": [
+        "44",
+        "35",
+        "46"
+      ],
+      "explanation": "18 + 27 = 45 phút.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B66_Q19",
+      "type": "mcq",
+      "question": "Tính 4 giờ × 3. Ghi số giờ.",
+      "options": [
+        "12",
+        "7",
+        "1",
+        "24"
+      ],
+      "correct_answer": "12",
+      "distractors": [
+        "7",
+        "1",
+        "24"
+      ],
+      "explanation": "4 giờ lấy 3 lần là 12 giờ.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B66_Q20",
+      "type": "fill",
+      "question": "Đồng hồ B trong hình chỉ 8 giờ 47 phút, còn bao nhiêu phút tới 9 giờ?",
+      "correct_answer": "13",
+      "distractors": [
+        "47",
+        "17",
+        "23"
+      ],
+      "explanation": "Một giờ có 60 phút; 60 - 47 = 13 phút.",
+      "difficulty": "thong_hieu",
+      "figure": {
+        "path": "content/toan/tap-2/TOAN3_T2_B66_CLOCKS.svg",
+        "caption": "Ba đồng hồ A, B, C; đọc kim dài màu xanh và kim ngắn màu đỏ."
+      }
+    },
+    {
+      "question_id": "TOAN3_T2_B66_Q21",
+      "type": "mcq",
+      "question": "Buổi học bắt đầu 7 giờ 15 phút, kéo dài 30 phút. Kết thúc lúc nào? Ghi giờ:phút.",
+      "options": [
+        "7:45",
+        "7:35",
+        "8:15",
+        "7:30"
+      ],
+      "correct_answer": "7:45",
+      "distractors": [
+        "7:35",
+        "8:15",
+        "7:30"
+      ],
+      "explanation": "15 phút thêm 30 phút được 45 phút.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B66_Q22",
+      "type": "fill",
+      "question": "Em đọc sách từ 19 giờ 20 phút đến 19 giờ 55 phút. Đã đọc bao nhiêu phút?",
+      "correct_answer": "35",
+      "distractors": [
+        "75",
+        "25",
+        "45"
+      ],
+      "explanation": "55 - 20 = 35 phút.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B66_Q23",
+      "type": "mcq",
+      "question": "Bây giờ 10 giờ 50 phút. Sau 20 phút là mấy giờ? Ghi giờ:phút.",
+      "options": [
+        "11:10",
+        "10:70",
+        "11:20",
+        "10:30"
+      ],
+      "correct_answer": "11:10",
+      "distractors": [
+        "10:70",
+        "11:20",
+        "10:30"
+      ],
+      "explanation": "Thêm 10 phút tới 11 giờ rồi thêm 10 phút nữa.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B66_Q24",
+      "type": "fill",
+      "question": "Trước 8 giờ 05 phút 15 phút là mấy giờ? Ghi giờ:phút.",
+      "correct_answer": "7:50",
+      "distractors": [
+        "7:90",
+        "8:20",
+        "7:40"
+      ],
+      "explanation": "Lùi 5 phút về 8 giờ, lùi tiếp 10 phút về 7 giờ 50.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B66_Q25",
+      "type": "mcq",
+      "question": "Một tiết học dài 35 phút, nghỉ 10 phút rồi học tiết thứ hai dài 35 phút. Tổng bao nhiêu phút?",
+      "options": [
+        "80",
+        "70",
+        "45",
+        "90"
+      ],
+      "correct_answer": "80",
+      "distractors": [
+        "70",
+        "45",
+        "90"
+      ],
+      "explanation": "35 + 10 + 35 = 80 phút.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B66_Q26",
+      "type": "fill",
+      "question": "Ngày cuối cùng của tháng 6 là ngày số mấy?",
+      "correct_answer": "30",
+      "distractors": [
+        "31",
+        "29",
+        "28"
+      ],
+      "explanation": "Tháng 6 có 30 ngày, nên ngày cuối là 30.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B66_Q27",
+      "type": "mcq",
+      "question": "Sau ngày 31 tháng 8 là ngày 1 tháng mấy?",
+      "options": [
+        "9",
+        "8",
+        "10",
+        "7"
+      ],
+      "correct_answer": "9",
+      "distractors": [
+        "8",
+        "10",
+        "7"
+      ],
+      "explanation": "Hết tháng 8 chuyển sang tháng 9.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B66_Q28",
+      "type": "fill",
+      "question": "Tháng 2 của một năm có 28 ngày. Ngày sau 28 tháng 2 là ngày 1 tháng mấy?",
+      "correct_answer": "3",
+      "distractors": [
+        "2",
+        "4",
+        "1"
+      ],
+      "explanation": "28 là ngày cuối tháng 2 của năm đó, kế tiếp là tháng 3.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B66_Q29",
+      "type": "mcq",
+      "question": "Từ ngày 28 tháng 4 đến hết ngày 2 tháng 5, tính cả hai đầu, có bao nhiêu ngày?",
+      "options": [
+        "5",
+        "4",
+        "6",
+        "3"
+      ],
+      "correct_answer": "5",
+      "distractors": [
+        "4",
+        "6",
+        "3"
+      ],
+      "explanation": "Các ngày là 28, 29, 30 tháng 4 và 1, 2 tháng 5.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B66_Q30",
+      "type": "fill",
+      "question": "Một bạn nói tháng 7 và tháng 8 đều có 31 ngày. Đúng hay sai?",
+      "correct_answer": "đúng",
+      "distractors": [
+        "sai",
+        "chỉ tháng 7",
+        "chỉ tháng 8"
+      ],
+      "explanation": "Cả tháng 7 và tháng 8 đều thuộc nhóm tháng 31 ngày.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B66_Q31",
+      "type": "mcq",
+      "question": "Đi học lúc 6 giờ 45 phút, tới trường 7 giờ 10 phút. Đi hết bao nhiêu phút?",
+      "options": [
+        "25",
+        "35",
+        "65",
+        "15"
+      ],
+      "correct_answer": "25",
+      "distractors": [
+        "35",
+        "65",
+        "15"
+      ],
+      "explanation": "15 phút tới 7 giờ, thêm 10 phút là 25 phút.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B66_Q32",
+      "type": "fill",
+      "question": "Tập từ 16 giờ 35 phút trong 40 phút. Kết thúc lúc nào? Ghi giờ:phút.",
+      "correct_answer": "17:15",
+      "distractors": [
+        "16:75",
+        "17:05",
+        "17:40"
+      ],
+      "explanation": "25 phút tới 17 giờ, còn 15 phút nữa.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B66_Q33",
+      "type": "mcq",
+      "question": "Lịch nói tháng 11 có ngày 31. Lịch đó đúng hay sai?",
+      "options": [
+        "sai",
+        "đúng",
+        "tùy thứ",
+        "chỉ đúng năm có tháng 2 đủ 29 ngày"
+      ],
+      "correct_answer": "sai",
+      "distractors": [
+        "đúng",
+        "tùy thứ",
+        "chỉ đúng năm có tháng 2 đủ 29 ngày"
+      ],
+      "explanation": "Tháng 11 chỉ có 30 ngày.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B66_Q34",
+      "type": "fill",
+      "question": "Trong 12 tháng, có bao nhiêu tháng có 30 ngày?",
+      "correct_answer": "4",
+      "distractors": [
+        "5",
+        "6",
+        "7"
+      ],
+      "explanation": "Đó là tháng 4, 6, 9, 11.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B66_Q35",
+      "type": "mcq",
+      "question": "Trong 12 tháng, có bao nhiêu tháng có 31 ngày?",
+      "options": [
+        "7",
+        "6",
+        "4",
+        "8"
+      ],
+      "correct_answer": "7",
+      "distractors": [
+        "6",
+        "4",
+        "8"
+      ],
+      "explanation": "Đó là tháng 1, 3, 5, 7, 8, 10, 12.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B66_Q36",
+      "type": "fill",
+      "question": "Hai tháng liên tiếp 7 và 8 có tổng bao nhiêu ngày?",
+      "correct_answer": "62",
+      "distractors": [
+        "60",
+        "61",
+        "59"
+      ],
+      "explanation": "31 + 31 = 62 ngày.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B66_Q37",
+      "type": "mcq",
+      "question": "Một cuộc thi diễn ra ngày 30 tháng 9, hôm sau là tháng mấy?",
+      "options": [
+        "10",
+        "9",
+        "11",
+        "8"
+      ],
+      "correct_answer": "10",
+      "distractors": [
+        "9",
+        "11",
+        "8"
+      ],
+      "explanation": "Tháng 9 kết thúc ở ngày 30, sau đó là tháng 10.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B66_Q38",
+      "type": "fill",
+      "question": "Đồng hồ C trong hình chỉ 11 giờ 58 phút sáng. Sau 5 phút, giờ theo cách ghi 24 giờ là gì? Ghi giờ:phút.",
+      "correct_answer": "12:03",
+      "distractors": [
+        "11:63",
+        "12:05",
+        "0:03"
+      ],
+      "explanation": "Thêm 2 phút tới 12 giờ rồi thêm 3 phút.",
+      "difficulty": "van_dung",
+      "figure": {
+        "path": "content/toan/tap-2/TOAN3_T2_B66_CLOCKS.svg",
+        "caption": "Ba đồng hồ A, B, C; đọc kim dài màu xanh và kim ngắn màu đỏ."
+      }
+    },
+    {
+      "question_id": "TOAN3_T2_B66_Q39",
+      "type": "mcq",
+      "question": "Từ 8 giờ đến 10 giờ 30 phút có bao nhiêu phút?",
+      "options": [
+        "150",
+        "130",
+        "180",
+        "90"
+      ],
+      "correct_answer": "150",
+      "distractors": [
+        "130",
+        "180",
+        "90"
+      ],
+      "explanation": "Hai giờ là 120 phút, thêm 30 phút được 150 phút.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B66_Q40",
+      "type": "fill",
+      "question": "Một nhóm dùng 1 giờ 20 phút làm việc; nhóm kia dùng 75 phút. Nhóm đầu lâu hơn bao nhiêu phút?",
+      "correct_answer": "5",
+      "distractors": [
+        "55",
+        "20",
+        "15"
+      ],
+      "explanation": "1 giờ 20 phút là 80 phút; 80 - 75 = 5 phút.",
+      "difficulty": "van_dung"
+    }
+  ],
+  "games": [
+    {
+      "id": "TOAN3_T2_B66_GAME1",
+      "title": "Ghép giờ và lịch",
+      "mode": "match",
+      "objective": "Ghép mô tả với đáp án, chú ý định dạng giờ:phút.",
+      "rules": [
+        "Mỗi lượt chọn 5 câu có 5 đáp án khác nhau.",
+        "Chọn câu hỏi bên trái rồi đáp án bên phải. Sai thì thử lại.",
+        "Mỗi cặp đúng 10 điểm; tối đa 50 điểm."
+      ],
+      "question_ids": [
+        "TOAN3_T2_B66_Q01",
+        "TOAN3_T2_B66_Q02",
+        "TOAN3_T2_B66_Q03",
+        "TOAN3_T2_B66_Q04",
+        "TOAN3_T2_B66_Q05",
+        "TOAN3_T2_B66_Q06",
+        "TOAN3_T2_B66_Q07",
+        "TOAN3_T2_B66_Q08",
+        "TOAN3_T2_B66_Q09",
+        "TOAN3_T2_B66_Q10",
+        "TOAN3_T2_B66_Q11",
+        "TOAN3_T2_B66_Q12",
+        "TOAN3_T2_B66_Q13",
+        "TOAN3_T2_B66_Q14",
+        "TOAN3_T2_B66_Q15",
+        "TOAN3_T2_B66_Q16",
+        "TOAN3_T2_B66_Q17",
+        "TOAN3_T2_B66_Q18",
+        "TOAN3_T2_B66_Q19",
+        "TOAN3_T2_B66_Q20",
+        "TOAN3_T2_B66_Q21",
+        "TOAN3_T2_B66_Q22",
+        "TOAN3_T2_B66_Q23",
+        "TOAN3_T2_B66_Q24",
+        "TOAN3_T2_B66_Q25",
+        "TOAN3_T2_B66_Q26",
+        "TOAN3_T2_B66_Q27",
+        "TOAN3_T2_B66_Q28",
+        "TOAN3_T2_B66_Q29",
+        "TOAN3_T2_B66_Q30",
+        "TOAN3_T2_B66_Q31",
+        "TOAN3_T2_B66_Q32",
+        "TOAN3_T2_B66_Q33",
+        "TOAN3_T2_B66_Q34",
+        "TOAN3_T2_B66_Q35",
+        "TOAN3_T2_B66_Q36",
+        "TOAN3_T2_B66_Q37",
+        "TOAN3_T2_B66_Q38",
+        "TOAN3_T2_B66_Q39",
+        "TOAN3_T2_B66_Q40"
+      ],
+      "answer_source": "practice.correct_answer",
+      "feedback_source": "practice.explanation",
+      "max_score": 50
+    }
+  ],
+  "assessment": {
+    "session_size": 10,
+    "distribution": {
+      "nhan_biet": 3,
+      "thong_hieu": 3,
+      "van_dung": 4
+    },
+    "scoring": "Đúng lần đầu: 1 điểm; đúng sau một gợi ý: 0,5 điểm. Từ 90%: 3 sao; từ 60%: 2 sao; còn lại: 1 sao.",
+    "review_advice": "Xem lời giải các câu sai, đọc lại quy tắc, rồi làm một lượt mới."
+  },
+  "feedback": {
+    "correct": "Chính xác! Hãy đọc lời giải để củng cố cách làm.",
+    "incorrect": "Em thử lại một lần. Sau đó xem đáp án và cách giải."
+  },
+  "verification": {
+    "ai_authored": true,
+    "structure_checked": true,
+    "answer_reviewed": true,
+    "source_reviewed": true,
+    "teacher_approved": false
+  },
+  "status": "AI_CHECKED_AWAITING_TEACHER",
+  "activities": [
+    {
+      "title": "Làm mặt đồng hồ giấy",
+      "materials": [
+        "Giấy bìa",
+        "Hai kim giấy dài ngắn",
+        "Bút",
+        "Chốt giấy do người lớn hỗ trợ"
+      ],
+      "steps": [
+        "Ghi các số 1 đến 12 theo vòng tròn, đánh dấu vạch phút.",
+        "Đặt 2 giờ 20 phút: kim dài ở số 4, kim ngắn qua số 2 một đoạn.",
+        "Đổi sang 2 giờ 50 phút, chỉnh kim ngắn gần số 3 hơn.",
+        "Nhờ bạn hoặc người thân đọc rồi đổi vai."
+      ],
+      "check": [
+        "Kim dài và kim ngắn phân biệt rõ.",
+        "Kim giờ dịch theo phút, không đứng nguyên ở số giờ."
+      ]
+    }
+  ],
+  "figures": [
+    {
+      "path": "content/toan/tap-2/TOAN3_T2_B66_CLOCKS.svg",
+      "caption": "Ba đồng hồ A, B, C; đọc kim dài màu xanh và kim ngắn màu đỏ."
+    }
+  ]
+}

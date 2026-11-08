@@ -1,5 +1,13 @@
 # Tiến độ mới nhất — 08/11/2026
 
+**68/168 mục đã tích hợp: Toán 1–68, 2720 câu và 68 trò chơi.** Nhóm mới nhất Toán 65–68 có ôn cộng/trừ, đồng hồ, lịch, tiền Việt Nam; ba SVG tự dựng và hoạt động thực hành. Toán 1–4 đã được giáo viên duyệt, 64 bài mới chờ thẩm định. Còn 100 mục: Toán 69–81, Tiếng Việt 62 bài và Tiếng Anh 25 mục.
+
+Bộ kiểm tra dữ liệu, hồi quy và DOM đạt; chưa kiểm thử Chromium thật. Xem [tiến độ](content/system/PROGRESS.md), [báo cáo kiểm tra](content/system/AUDIT_REPORT.md). Tiếp tục Toán → Tiếng Việt → Tiếng Anh.
+
+---
+
+# Tiến độ mới nhất — 08/11/2026
+
 **64/168 mục đã có học liệu riêng: Toán 1–64, 2560 câu và 64 trò chơi.** Toán 1–4 đã được thầy thẩm định; 60 bài mới chờ thầy thẩm định. Còn Toán 65–81, Tiếng Việt 62 bài và Tiếng Anh 25 mục. Nhóm mới nhất: Toán 61–64, làm tròn số và cộng/trừ trong phạm vi 100000. Bộ kiểm tra dữ liệu, hồi quy và DOM đạt; chưa kiểm thử Chromium thật.
 
 Xem [tiến độ chi tiết](content/system/PROGRESS.md) và [báo cáo kiểm tra](content/system/AUDIT_REPORT.md). Tiếp tục theo thứ tự Toán → Tiếng Việt → Tiếng Anh.

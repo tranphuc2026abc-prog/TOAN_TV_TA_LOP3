@@ -1,0 +1,807 @@
+{
+  "id": "TOAN3_T2_B68",
+  "subject": "toan",
+  "grade": 3,
+  "book": "Kết nối tri thức với cuộc sống",
+  "volume": 2,
+  "lesson_no": 68,
+  "title": "Tiền Việt Nam",
+  "topic": "Mệnh giá, đổi tiền, mua hàng và tiền thừa",
+  "source": {
+    "pdf": "03-sgk-toan-3-tap-hai.pdf",
+    "printed_pages": [
+      85,
+      87
+    ],
+    "pdf_pages": [
+      86,
+      88
+    ],
+    "review": "Đã đọc trực quan toàn bộ trang nguồn cho bài này; nội dung và bài tập mới do AI biên soạn."
+  },
+  "objectives": [
+    "Tính giá trị nhiều tờ tiền, so sánh theo tổng giá trị.",
+    "Đổi tiền mà giữ nguyên giá trị.",
+    "Tính tổng mua hàng, tiền thừa và số món có thể mua."
+  ],
+  "knowledge": {
+    "introduction": "Số tờ tiền và số tiền là hai điều khác nhau. Khi mua hàng, em tính tổng tiền cần trả trước rồi so với số tiền mình có.",
+    "rules": [
+      "Tổng tiền bằng tổng giá trị các tờ, không chỉ đếm số tờ.",
+      "Đổi tiền chỉ thay cách ghép mệnh giá, tổng giá trị phải giữ nguyên.",
+      "Tiền thừa bằng tiền đưa trừ tiền hàng; thiếu tiền khi tiền có nhỏ hơn tiền hàng.",
+      "Mua nhiều món giống nhau: lấy giá một món nhân số món.",
+      "Dữ kiện giá tiền trong bài là tình huống học tập giả định."
+    ],
+    "steps": [
+      "Ghi từng mệnh giá và số tờ.",
+      "Tính số tiền có hoặc tổng tiền mua.",
+      "So sánh với số tiền đưa để tìm thừa hoặc thiếu.",
+      "Thử lại: tiền hàng cộng tiền thừa phải bằng tiền đưa."
+    ],
+    "common_errors": [
+      "Coi 3 tờ luôn nhiều hơn 1 tờ mà không xét mệnh giá.",
+      "Lấy tiền hàng trừ tiền đưa để tìm tiền thừa.",
+      "Đổi tiền nhưng làm thay đổi tổng giá trị.",
+      "Mua tối đa mà làm tròn số món lên khi tiền không đủ."
+    ]
+  },
+  "examples": [
+    {
+      "question": "Có 1 tờ 20000 đồng và 3 tờ 2000 đồng. Tổng bao nhiêu?",
+      "steps": [
+        "Ba tờ 2000 đồng có 6000 đồng.",
+        "Tổng 20000 + 6000 = 26000 đồng."
+      ]
+    },
+    {
+      "question": "Mua hai vở giá 9000 đồng mỗi quyển, đưa 50000 đồng. Tiền thừa?",
+      "steps": [
+        "Hai vở giá 9000 × 2 = 18000 đồng.",
+        "Tiền thừa 50000 - 18000 = 32000 đồng."
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "question_id": "TOAN3_T2_B68_Q01",
+      "type": "mcq",
+      "question": "Hai tờ 10000 đồng có tổng bao nhiêu đồng?",
+      "options": [
+        "20000",
+        "10000",
+        "30000",
+        "2000"
+      ],
+      "correct_answer": "20000",
+      "distractors": [
+        "10000",
+        "30000",
+        "2000"
+      ],
+      "explanation": "10000 + 10000 = 20000 đồng.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B68_Q02",
+      "type": "fill",
+      "question": "Một tờ 50000 đồng đổi được mấy tờ 10000 đồng?",
+      "correct_answer": "5",
+      "distractors": [
+        "2",
+        "4",
+        "10"
+      ],
+      "explanation": "50000 chia 10000 được 5 tờ.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B68_Q03",
+      "type": "mcq",
+      "question": "Một tờ 100000 đồng đổi được mấy tờ 50000 đồng?",
+      "options": [
+        "2",
+        "5",
+        "10",
+        "1"
+      ],
+      "correct_answer": "2",
+      "distractors": [
+        "5",
+        "10",
+        "1"
+      ],
+      "explanation": "Hai lần 50000 đồng bằng 100000 đồng.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B68_Q04",
+      "type": "fill",
+      "question": "Ba tờ 2000 đồng có bao nhiêu đồng?",
+      "correct_answer": "6000",
+      "distractors": [
+        "5000",
+        "4000",
+        "8000"
+      ],
+      "explanation": "2000 × 3 = 6000 đồng.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B68_Q05",
+      "type": "mcq",
+      "question": "Tờ 20000 đồng và tờ 5000 đồng có tổng bao nhiêu đồng?",
+      "options": [
+        "25000",
+        "15000",
+        "20500",
+        "7000"
+      ],
+      "correct_answer": "25000",
+      "distractors": [
+        "15000",
+        "20500",
+        "7000"
+      ],
+      "explanation": "20000 + 5000 = 25000 đồng.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B68_Q06",
+      "type": "fill",
+      "question": "Trong 1000, 5000, 2000 đồng, mệnh giá lớn nhất là bao nhiêu?",
+      "correct_answer": "5000",
+      "distractors": [
+        "1000",
+        "2000",
+        "3000"
+      ],
+      "explanation": "5000 lớn hơn 2000 và 1000.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B68_Q07",
+      "type": "mcq",
+      "question": "Mua bút 4000 đồng, đưa 10000 đồng. Tiền thừa là bao nhiêu đồng?",
+      "options": [
+        "6000",
+        "14000",
+        "4000",
+        "5000"
+      ],
+      "correct_answer": "6000",
+      "distractors": [
+        "14000",
+        "4000",
+        "5000"
+      ],
+      "explanation": "10000 - 4000 = 6000 đồng.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B68_Q08",
+      "type": "fill",
+      "question": "Hai tờ 5000 đồng bằng mấy tờ 10000 đồng?",
+      "correct_answer": "1",
+      "distractors": [
+        "2",
+        "5",
+        "10"
+      ],
+      "explanation": "5000 + 5000 = 10000 đồng.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B68_Q09",
+      "type": "mcq",
+      "question": "Một tờ 5000 và một tờ 2000 đồng có tổng bao nhiêu đồng?",
+      "options": [
+        "7000",
+        "3000",
+        "6000",
+        "8000"
+      ],
+      "correct_answer": "7000",
+      "distractors": [
+        "3000",
+        "6000",
+        "8000"
+      ],
+      "explanation": "5000 + 2000 = 7000 đồng.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B68_Q10",
+      "type": "fill",
+      "question": "Trong tờ 10000 và 20000 đồng, tờ nào có giá trị gấp đôi tờ còn lại? Ghi mệnh giá.",
+      "correct_answer": "20000",
+      "distractors": [
+        "10000",
+        "5000",
+        "40000"
+      ],
+      "explanation": "20000 gấp 2 lần 10000.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B68_Q11",
+      "type": "mcq",
+      "question": "Một bạn có 3 tờ 10000 đồng, bạn kia có 1 tờ 50000 đồng. Ai nhiều tiền hơn? Ghi bạn thứ mấy.",
+      "options": [
+        "2",
+        "1",
+        "cả hai bằng nhau",
+        "không đủ dữ kiện"
+      ],
+      "correct_answer": "2",
+      "distractors": [
+        "1",
+        "cả hai bằng nhau",
+        "không đủ dữ kiện"
+      ],
+      "explanation": "Bạn thứ nhất có 30000 đồng, ít hơn 50000 đồng.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B68_Q12",
+      "type": "fill",
+      "question": "Mua vở 12000 đồng và nhãn 3000 đồng. Cần trả bao nhiêu đồng?",
+      "correct_answer": "15000",
+      "distractors": [
+        "9000",
+        "16000",
+        "13000"
+      ],
+      "explanation": "12000 + 3000 = 15000 đồng.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B68_Q13",
+      "type": "mcq",
+      "question": "Đổi 20000 đồng thành các tờ 5000 đồng cần mấy tờ?",
+      "options": [
+        "4",
+        "2",
+        "5",
+        "10"
+      ],
+      "correct_answer": "4",
+      "distractors": [
+        "2",
+        "5",
+        "10"
+      ],
+      "explanation": "Bốn tờ 5000 đồng có tổng 20000 đồng.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B68_Q14",
+      "type": "fill",
+      "question": "Một món hàng giá 17000 đồng. Có 10000, 5000 và 2000 đồng, mỗi loại một tờ. Có vừa đủ không?",
+      "correct_answer": "có",
+      "distractors": [
+        "không",
+        "thừa 1000",
+        "thiếu 1000"
+      ],
+      "explanation": "10000 + 5000 + 2000 = 17000 đồng.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B68_Q15",
+      "type": "mcq",
+      "question": "Cùng mua bút, giá hôm trước 6000 đồng, hôm sau 5000 đồng. Giá giảm bao nhiêu đồng?",
+      "options": [
+        "1000",
+        "11000",
+        "2000",
+        "5000"
+      ],
+      "correct_answer": "1000",
+      "distractors": [
+        "11000",
+        "2000",
+        "5000"
+      ],
+      "explanation": "6000 - 5000 = 1000 đồng.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B68_Q16",
+      "type": "fill",
+      "question": "Mua hai quyển vở giá 8000 đồng mỗi quyển. Cần bao nhiêu đồng?",
+      "correct_answer": "16000",
+      "distractors": [
+        "10000",
+        "8000",
+        "18000"
+      ],
+      "explanation": "8000 × 2 = 16000 đồng.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B68_Q17",
+      "type": "mcq",
+      "question": "Tờ 50000 đồng đổi thành 1 tờ 10000 và mấy tờ 20000 đồng?",
+      "options": [
+        "2",
+        "1",
+        "3",
+        "4"
+      ],
+      "correct_answer": "2",
+      "distractors": [
+        "1",
+        "3",
+        "4"
+      ],
+      "explanation": "Còn 40000 đồng, đổi được 2 tờ 20000 đồng.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B68_Q18",
+      "type": "fill",
+      "question": "Hai ví có 2 tờ 20000 và 4 tờ 10000 đồng. Hai ví có giá trị bằng nhau không?",
+      "correct_answer": "có",
+      "distractors": [
+        "không",
+        "ví đầu hơn",
+        "ví sau hơn"
+      ],
+      "explanation": "Mỗi ví đều có 40000 đồng.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B68_Q19",
+      "type": "mcq",
+      "question": "Có 30000 đồng, mua sách 28000 đồng. Còn bao nhiêu đồng?",
+      "options": [
+        "2000",
+        "58000",
+        "12000",
+        "3000"
+      ],
+      "correct_answer": "2000",
+      "distractors": [
+        "58000",
+        "12000",
+        "3000"
+      ],
+      "explanation": "30000 - 28000 = 2000 đồng.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B68_Q20",
+      "type": "fill",
+      "question": "Một bạn nói càng nhiều tờ tiền thì càng nhiều tiền. Đúng hay sai?",
+      "correct_answer": "sai",
+      "distractors": [
+        "đúng",
+        "chỉ đúng khi khác mệnh giá",
+        "luôn đúng"
+      ],
+      "explanation": "Hai tờ 1000 đồng ít hơn một tờ 10000 đồng; cần xét cả mệnh giá.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B68_Q21",
+      "type": "mcq",
+      "question": "Mua sách 23500 đồng, đưa 50000 đồng. Cần nhận lại bao nhiêu đồng?",
+      "options": [
+        "26500",
+        "27500",
+        "23500",
+        "36500"
+      ],
+      "correct_answer": "26500",
+      "distractors": [
+        "27500",
+        "23500",
+        "36500"
+      ],
+      "explanation": "50000 - 23500 = 26500 đồng.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B68_Q22",
+      "type": "fill",
+      "question": "Mua 3 bút, mỗi bút 5000 đồng và vở 12000 đồng. Tổng bao nhiêu đồng?",
+      "correct_answer": "27000",
+      "distractors": [
+        "17000",
+        "30000",
+        "22000"
+      ],
+      "explanation": "Bút hết 15000 đồng; thêm 12000 được 27000 đồng.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B68_Q23",
+      "type": "mcq",
+      "question": "Có 100000 đồng, mua túi 45000 đồng và hộp bút 28000 đồng. Còn bao nhiêu đồng?",
+      "options": [
+        "27000",
+        "73000",
+        "37000",
+        "17000"
+      ],
+      "correct_answer": "27000",
+      "distractors": [
+        "73000",
+        "37000",
+        "17000"
+      ],
+      "explanation": "Đã chi 73000 đồng; còn 27000 đồng.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B68_Q24",
+      "type": "fill",
+      "question": "Một nhóm làm hàng cần giấy 18000 đồng, màu 22000 đồng, keo 7000 đồng. Tổng chi bao nhiêu đồng?",
+      "correct_answer": "47000",
+      "distractors": [
+        "40000",
+        "48000",
+        "45000"
+      ],
+      "explanation": "18000 + 22000 + 7000 = 47000 đồng.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B68_Q25",
+      "type": "mcq",
+      "question": "Nhóm thu 80000 đồng, đã chi 47000 đồng. Phần còn lại là bao nhiêu đồng?",
+      "options": [
+        "33000",
+        "43000",
+        "47000",
+        "127000"
+      ],
+      "correct_answer": "33000",
+      "distractors": [
+        "43000",
+        "47000",
+        "127000"
+      ],
+      "explanation": "80000 - 47000 = 33000 đồng.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B68_Q26",
+      "type": "fill",
+      "question": "Một tờ 20000 đồng đổi thành chỉ các tờ 2000 đồng được mấy tờ?",
+      "correct_answer": "10",
+      "distractors": [
+        "5",
+        "20",
+        "2"
+      ],
+      "explanation": "10 tờ 2000 đồng có tổng 20000 đồng.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B68_Q27",
+      "type": "mcq",
+      "question": "Có 2 tờ 20000 đồng và 1 tờ 10000 đồng. Mua món 46500 đồng thì còn bao nhiêu đồng?",
+      "options": [
+        "3500",
+        "4500",
+        "5000",
+        "6500"
+      ],
+      "correct_answer": "3500",
+      "distractors": [
+        "4500",
+        "5000",
+        "6500"
+      ],
+      "explanation": "Có 50000 đồng; bớt 46500 còn 3500 đồng.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B68_Q28",
+      "type": "fill",
+      "question": "Một hộp 4 bút giá 24000 đồng. Một bút cùng giá là bao nhiêu đồng?",
+      "correct_answer": "6000",
+      "distractors": [
+        "4000",
+        "8000",
+        "96000"
+      ],
+      "explanation": "24000 chia 4 được 6000 đồng.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B68_Q29",
+      "type": "mcq",
+      "question": "Một món hàng giá 18500 đồng. Có 17000 đồng thì còn thiếu bao nhiêu đồng?",
+      "options": [
+        "1500",
+        "2500",
+        "3500",
+        "1700"
+      ],
+      "correct_answer": "1500",
+      "distractors": [
+        "2500",
+        "3500",
+        "1700"
+      ],
+      "explanation": "18500 - 17000 = 1500 đồng.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B68_Q30",
+      "type": "fill",
+      "question": "Có 50000 đồng; mua vở 12000 đồng và bút 8000 đồng. Số tiền còn lại mua được mấy thước giá 5000 đồng mỗi chiếc?",
+      "correct_answer": "6",
+      "distractors": [
+        "10",
+        "4",
+        "5"
+      ],
+      "explanation": "Còn 30000 đồng; 30000 chia 5000 được 6 chiếc.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B68_Q31",
+      "type": "mcq",
+      "question": "Một người có 5 tờ 10000 đồng, đổi lấy toàn tờ 5000 đồng. Sau đổi có mấy tờ?",
+      "options": [
+        "10",
+        "5",
+        "15",
+        "2"
+      ],
+      "correct_answer": "10",
+      "distractors": [
+        "5",
+        "15",
+        "2"
+      ],
+      "explanation": "50000 đồng đổi được 10 tờ 5000 đồng, giá trị không đổi.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B68_Q32",
+      "type": "fill",
+      "question": "Bộ A có 1 tờ 20000 và 3 tờ 5000 đồng; bộ B có 4 tờ 10000 đồng. Bộ B hơn A bao nhiêu đồng?",
+      "correct_answer": "5000",
+      "distractors": [
+        "15000",
+        "10000",
+        "0"
+      ],
+      "explanation": "A có 35000 đồng, B có 40000 đồng, chênh 5000 đồng.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B68_Q33",
+      "type": "mcq",
+      "question": "Có 30000 đồng, bút 7000 đồng mỗi chiếc. Mua tối đa được mấy chiếc?",
+      "options": [
+        "4",
+        "3",
+        "5",
+        "7"
+      ],
+      "correct_answer": "4",
+      "distractors": [
+        "3",
+        "5",
+        "7"
+      ],
+      "explanation": "Bốn chiếc hết 28000 đồng; năm chiếc cần 35000 đồng nên không đủ.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B68_Q34",
+      "type": "fill",
+      "question": "Mua 4 bút giá 7000 đồng mỗi chiếc bằng 30000 đồng. Còn bao nhiêu đồng?",
+      "correct_answer": "2000",
+      "distractors": [
+        "3000",
+        "7000",
+        "28000"
+      ],
+      "explanation": "Bốn bút hết 28000 đồng; còn 2000 đồng.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B68_Q35",
+      "type": "mcq",
+      "question": "Một quyển truyện và một nhãn vở giá tổng 19000 đồng. Truyện giá 16000 đồng. Nhãn vở giá bao nhiêu đồng?",
+      "options": [
+        "3000",
+        "35000",
+        "2000",
+        "4000"
+      ],
+      "correct_answer": "3000",
+      "distractors": [
+        "35000",
+        "2000",
+        "4000"
+      ],
+      "explanation": "19000 - 16000 = 3000 đồng.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B68_Q36",
+      "type": "fill",
+      "question": "Hai hộp màu giống nhau giá 36000 đồng. Ba hộp giá bao nhiêu đồng?",
+      "correct_answer": "54000",
+      "distractors": [
+        "72000",
+        "18000",
+        "48000"
+      ],
+      "explanation": "Một hộp 18000 đồng, ba hộp 54000 đồng.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B68_Q37",
+      "type": "mcq",
+      "question": "Có 100000 đồng, cần mua hai món giá 38000 và 47500 đồng. Còn bao nhiêu đồng?",
+      "options": [
+        "14500",
+        "15500",
+        "24500",
+        "85500"
+      ],
+      "correct_answer": "14500",
+      "distractors": [
+        "15500",
+        "24500",
+        "85500"
+      ],
+      "explanation": "Tổng giá 85500 đồng; còn 14500 đồng.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B68_Q38",
+      "type": "fill",
+      "question": "Chỉ dùng tờ 10000 và 20000 đồng, cần ít nhất mấy tờ để đủ đúng 50000 đồng?",
+      "correct_answer": "3",
+      "distractors": [
+        "2",
+        "4",
+        "5"
+      ],
+      "explanation": "Hai tờ 20000 và một tờ 10000; hai tờ tối đa chỉ 40000 đồng.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B68_Q39",
+      "type": "mcq",
+      "question": "Ba người góp lần lượt 15000, 20000, 25000 đồng. Mua đồ hết 48000 đồng, còn bao nhiêu đồng?",
+      "options": [
+        "12000",
+        "22000",
+        "10000",
+        "60000"
+      ],
+      "correct_answer": "12000",
+      "distractors": [
+        "22000",
+        "10000",
+        "60000"
+      ],
+      "explanation": "Tổng góp 60000 đồng, chi 48000 còn 12000 đồng.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B68_Q40",
+      "type": "fill",
+      "question": "Một ví có 60000 đồng; ví kia có 2 tờ 20000 và 5 tờ 2000 đồng. Ví đầu hơn ví kia bao nhiêu đồng?",
+      "correct_answer": "10000",
+      "distractors": [
+        "20000",
+        "5000",
+        "0"
+      ],
+      "explanation": "Ví kia có 50000 đồng; 60000 - 50000 = 10000 đồng.",
+      "difficulty": "van_dung"
+    }
+  ],
+  "games": [
+    {
+      "id": "TOAN3_T2_B68_GAME1",
+      "title": "Quầy hàng tính nhanh",
+      "mode": "speed",
+      "objective": "Tính tổng tiền và tiền thừa trong 60 giây.",
+      "rules": [
+        "Trả lời các câu thuộc bài trong 60 giây.",
+        "Mỗi câu đúng được 10 điểm, sai không được điểm; chuyển ngay sang câu tiếp.",
+        "Hết giờ thì kết thúc. Điểm riêng của lượt chơi, không thay kết quả luyện tập."
+      ],
+      "question_ids": [
+        "TOAN3_T2_B68_Q01",
+        "TOAN3_T2_B68_Q02",
+        "TOAN3_T2_B68_Q03",
+        "TOAN3_T2_B68_Q04",
+        "TOAN3_T2_B68_Q05",
+        "TOAN3_T2_B68_Q06",
+        "TOAN3_T2_B68_Q07",
+        "TOAN3_T2_B68_Q08",
+        "TOAN3_T2_B68_Q09",
+        "TOAN3_T2_B68_Q10",
+        "TOAN3_T2_B68_Q11",
+        "TOAN3_T2_B68_Q12",
+        "TOAN3_T2_B68_Q13",
+        "TOAN3_T2_B68_Q14",
+        "TOAN3_T2_B68_Q15",
+        "TOAN3_T2_B68_Q16",
+        "TOAN3_T2_B68_Q17",
+        "TOAN3_T2_B68_Q18",
+        "TOAN3_T2_B68_Q19",
+        "TOAN3_T2_B68_Q20",
+        "TOAN3_T2_B68_Q21",
+        "TOAN3_T2_B68_Q22",
+        "TOAN3_T2_B68_Q23",
+        "TOAN3_T2_B68_Q24",
+        "TOAN3_T2_B68_Q25",
+        "TOAN3_T2_B68_Q26",
+        "TOAN3_T2_B68_Q27",
+        "TOAN3_T2_B68_Q28",
+        "TOAN3_T2_B68_Q29",
+        "TOAN3_T2_B68_Q30",
+        "TOAN3_T2_B68_Q31",
+        "TOAN3_T2_B68_Q32",
+        "TOAN3_T2_B68_Q33",
+        "TOAN3_T2_B68_Q34",
+        "TOAN3_T2_B68_Q35",
+        "TOAN3_T2_B68_Q36",
+        "TOAN3_T2_B68_Q37",
+        "TOAN3_T2_B68_Q38",
+        "TOAN3_T2_B68_Q39",
+        "TOAN3_T2_B68_Q40"
+      ],
+      "answer_source": "practice.correct_answer",
+      "feedback_source": "practice.explanation",
+      "max_score": null
+    }
+  ],
+  "assessment": {
+    "session_size": 10,
+    "distribution": {
+      "nhan_biet": 3,
+      "thong_hieu": 3,
+      "van_dung": 4
+    },
+    "scoring": "Đúng lần đầu: 1 điểm; đúng sau một gợi ý: 0,5 điểm. Từ 90%: 3 sao; từ 60%: 2 sao; còn lại: 1 sao.",
+    "review_advice": "Xem lời giải các câu sai, đọc lại quy tắc, rồi làm một lượt mới."
+  },
+  "feedback": {
+    "correct": "Chính xác! Hãy đọc lời giải để củng cố cách làm.",
+    "incorrect": "Em thử lại một lần. Sau đó xem đáp án và cách giải."
+  },
+  "verification": {
+    "ai_authored": true,
+    "structure_checked": true,
+    "answer_reviewed": true,
+    "source_reviewed": true,
+    "teacher_approved": false
+  },
+  "status": "AI_CHECKED_AWAITING_TEACHER",
+  "activities": [
+    {
+      "title": "Quầy hàng bằng thẻ mệnh giá",
+      "materials": [
+        "Thẻ giấy ghi 1000, 2000, 5000, 10000, 20000, 50000 đồng",
+        "Đồ vật học tập",
+        "Nhãn giá giả định"
+      ],
+      "steps": [
+        "Viết THẺ HỌC TẬP trên các thẻ, không dùng làm tiền thật.",
+        "Chọn món và tính tổng giá.",
+        "Đưa một hoặc nhiều thẻ có tổng đủ trả.",
+        "Bạn bán ghép thẻ trả lại tiền thừa rồi cùng thử tổng."
+      ],
+      "check": [
+        "Tổng giá trị thẻ đúng, không chỉ đếm tờ.",
+        "Tiền hàng cộng tiền thừa bằng tiền đưa."
+      ]
+    }
+  ]
+}
