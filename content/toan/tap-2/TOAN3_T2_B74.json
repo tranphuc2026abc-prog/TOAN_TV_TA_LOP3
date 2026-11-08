@@ -1,0 +1,811 @@
+{
+  "id": "TOAN3_T2_B74",
+  "subject": "toan",
+  "grade": 3,
+  "book": "Kết nối tri thức với cuộc sống",
+  "volume": 2,
+  "lesson_no": 74,
+  "title": "Khả năng xảy ra của một sự kiện",
+  "topic": "Nhận biết khả năng xảy ra của sự kiện",
+  "source": {
+    "pdf": "03-sgk-toan-3-tap-hai.pdf",
+    "printed_pages": [
+      108,
+      109
+    ],
+    "pdf_pages": [
+      109,
+      110
+    ],
+    "review": "Đã đọc trực quan toàn bộ trang nguồn cho bài này; nội dung và bài tập mới do AI biên soạn."
+  },
+  "objectives": [
+    "Nêu các kết quả có thể của lấy thẻ, lấy bóng, tung xu và gieo xúc xắc.",
+    "Phân biệt chắc chắn, có thể và không thể trong điều kiện đã cho.",
+    "Nhận ra việc bỏ lại vật hay giữ vật ở ngoài làm thay đổi kết quả lần sau."
+  ],
+  "knowledge": {
+    "introduction": "Trước khi lấy một vật trong túi mà không nhìn, ta chưa biết sẽ lấy trúng vật nào. Nhưng ta có thể dựa vào những vật đang có trong túi để nói điều gì chắc chắn xảy ra, điều gì có thể xảy ra và điều gì không thể xảy ra.",
+    "rules": [
+      "Chắc chắn: kết quả nào theo điều kiện đã cho cũng làm sự kiện xảy ra.",
+      "Không thể: không có kết quả nào theo điều kiện đã cho làm sự kiện xảy ra.",
+      "Trong bài phân loại ba mức, có thể dùng cho sự kiện xảy ra được nhưng không chắc chắn.",
+      "Nhiều vật cùng màu hơn không có nghĩa là chắc chắn lấy trúng màu đó.",
+      "Lấy không bỏ lại: vật đã lấy không còn trong túi. Lấy rồi bỏ lại: vật đó vẫn có thể xuất hiện ở lượt sau.",
+      "Không suy ra kết quả lượt tung xu tiếp theo chỉ từ vài lượt trước; bài học không yêu cầu tính tỉ số xác suất."
+    ],
+    "steps": [
+      "Đọc kĩ túi có gì hoặc dụng cụ có những mặt nào.",
+      "Xác định lấy mấy vật, có bỏ lại hay không.",
+      "Thử nêu một kết quả làm sự kiện xảy ra và một kết quả làm nó không xảy ra.",
+      "Nếu luôn xảy ra chọn chắc chắn; không xảy ra được chọn không thể; còn lại chọn có thể."
+    ],
+    "common_errors": [
+      "Nhầm có nhiều bi xanh với chắc chắn được xanh khi vẫn có bi màu khác.",
+      "Quên loại vật đã lấy khỏi túi trong lượt không bỏ lại.",
+      "Cho rằng tung ra cùng một mặt nhiều lần thì lần sau bắt buộc ra mặt còn lại.",
+      "Tự thêm màu hoặc số không có trong dữ kiện."
+    ]
+  },
+  "examples": [
+    {
+      "question": "Túi có 2 thẻ hoa và 1 thẻ lá. Rút một thẻ. Phân loại: được hoa, được tên con vật, được hoa hoặc lá.",
+      "steps": [
+        "Được hoa: có thể vì túi có thẻ hoa, nhưng cũng có thể lấy lá.",
+        "Được tên con vật: không thể vì không có thẻ nào như vậy.",
+        "Được hoa hoặc lá: chắc chắn vì mọi thẻ đều thuộc một trong hai loại."
+      ]
+    },
+    {
+      "question": "Hộp có 1 bóng xanh, 2 bóng vàng. Lấy hai bóng không bỏ lại. Có thể được hai xanh không? Có chắc có bóng vàng không?",
+      "steps": [
+        "Không thể có hai xanh vì chỉ có một bóng xanh.",
+        "Nếu lấy hai bóng, không đủ bóng xanh để cả hai đều xanh.",
+        "Vì vậy chắc chắn có ít nhất một bóng vàng."
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "question_id": "TOAN3_T2_B74_Q01",
+      "type": "mcq",
+      "question": "Hộp chỉ có bi tím. Lấy một viên bất kì. Việc lấy được bi tím là chắc chắn, có thể hay không thể?",
+      "options": [
+        "chắc chắn",
+        "có thể",
+        "không thể",
+        "chưa biết"
+      ],
+      "correct_answer": "chắc chắn",
+      "distractors": [
+        "có thể",
+        "không thể",
+        "chưa biết"
+      ],
+      "explanation": "Mọi viên trong hộp đều tím nên lấy viên nào cũng tím.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B74_Q02",
+      "type": "fill",
+      "question": "Túi có thẻ đỏ và thẻ xanh, không có thẻ vàng. Lấy một thẻ. Việc lấy được thẻ vàng thuộc loại nào?",
+      "correct_answer": "không thể",
+      "distractors": [
+        "chắc chắn",
+        "có thể",
+        "luôn xảy ra"
+      ],
+      "explanation": "Trong túi không có thẻ vàng để lấy.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B74_Q03",
+      "type": "mcq",
+      "question": "Hộp có một quả bóng trắng và một quả bóng đen. Lấy một quả. Việc lấy được bóng trắng thuộc loại nào?",
+      "options": [
+        "có thể",
+        "chắc chắn",
+        "không thể",
+        "luôn xảy ra"
+      ],
+      "correct_answer": "có thể",
+      "distractors": [
+        "chắc chắn",
+        "không thể",
+        "luôn xảy ra"
+      ],
+      "explanation": "Có bóng trắng nên lấy được, nhưng cũng có thể lấy bóng đen.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B74_Q04",
+      "type": "fill",
+      "question": "Một đồng xu có một mặt hoa, một mặt lá. Tung xu nằm phẳng trên bàn, mặt trên có thể là hoa hoặc gì?",
+      "correct_answer": "lá",
+      "distractors": [
+        "cá",
+        "chim",
+        "quả"
+      ],
+      "explanation": "Xu chỉ có hai mặt đã nêu: hoa và lá.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B74_Q05",
+      "type": "mcq",
+      "question": "Thẻ trong túi chỉ ghi các số 2, 4, 6. Rút một thẻ. Có thể rút được số 5 không?",
+      "options": [
+        "không",
+        "có",
+        "chắc chắn",
+        "luôn luôn"
+      ],
+      "correct_answer": "không",
+      "distractors": [
+        "có",
+        "chắc chắn",
+        "luôn luôn"
+      ],
+      "explanation": "Không có thẻ số 5 trong túi.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B74_Q06",
+      "type": "fill",
+      "question": "Một con xúc xắc có các mặt ghi từ 1 đến 6. Gieo một lần, mặt trên có thể là 6 không?",
+      "correct_answer": "có",
+      "distractors": [
+        "không",
+        "không bao giờ",
+        "chỉ có số 1"
+      ],
+      "explanation": "Số 6 nằm trên một mặt của xúc xắc.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B74_Q07",
+      "type": "mcq",
+      "question": "Túi có 3 viên bi đều màu xanh. Không nhìn, lấy 1 viên. Có thể lấy được bi đỏ không?",
+      "options": [
+        "không",
+        "có",
+        "luôn được",
+        "chắc chắn được"
+      ],
+      "correct_answer": "không",
+      "distractors": [
+        "có",
+        "luôn được",
+        "chắc chắn được"
+      ],
+      "explanation": "Không có bi đỏ trong túi.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B74_Q08",
+      "type": "fill",
+      "question": "Ba thẻ ghi mèo, chó, chim. Rút một thẻ, có thể nhận được tên con vật nào trong các tên: cá, chó, bò, vịt?",
+      "correct_answer": "chó",
+      "distractors": [
+        "cá",
+        "bò",
+        "vịt"
+      ],
+      "explanation": "Chỉ tên chó có trên một thẻ trong túi.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B74_Q09",
+      "type": "mcq",
+      "question": "Hộp có 5 bút chì. Lấy đúng một chiếc. Lấy được một chiếc bút chì là sự kiện gì?",
+      "options": [
+        "chắc chắn",
+        "không thể",
+        "có thể",
+        "không rõ"
+      ],
+      "correct_answer": "chắc chắn",
+      "distractors": [
+        "không thể",
+        "có thể",
+        "không rõ"
+      ],
+      "explanation": "Tất cả vật trong hộp đều là bút chì.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B74_Q10",
+      "type": "fill",
+      "question": "Túi có thẻ số 1 và số 3. Lấy một thẻ, nhận được số chẵn là sự kiện gì?",
+      "correct_answer": "không thể",
+      "distractors": [
+        "chắc chắn",
+        "có thể",
+        "luôn xảy ra"
+      ],
+      "explanation": "Cả 1 và 3 đều lẻ, không có thẻ số chẵn.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B74_Q11",
+      "type": "mcq",
+      "question": "Hộp có 9 bi xanh và 1 bi đỏ. Lấy một bi. Vì xanh nhiều hơn nên có chắc lấy được xanh không?",
+      "options": [
+        "không",
+        "có",
+        "chắc chắn",
+        "luôn lấy xanh"
+      ],
+      "correct_answer": "không",
+      "distractors": [
+        "có",
+        "chắc chắn",
+        "luôn lấy xanh"
+      ],
+      "explanation": "Vẫn có thể lấy trúng viên đỏ nên không chắc chắn lấy xanh.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B74_Q12",
+      "type": "fill",
+      "question": "Túi có hai thẻ A và B. Sau khi rút được A rồi bỏ lại, lượt sau có thể rút A nữa không?",
+      "correct_answer": "có",
+      "distractors": [
+        "không",
+        "chỉ được B",
+        "A biến mất"
+      ],
+      "explanation": "Thẻ A đã được bỏ lại túi nên vẫn có thể rút được.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B74_Q13",
+      "type": "mcq",
+      "question": "Hai thẻ ghi số 4 và số 7. Rút cả hai, không bỏ lại. Tổng hai số chắc chắn bằng bao nhiêu?",
+      "options": [
+        "11",
+        "4",
+        "7",
+        "14"
+      ],
+      "correct_answer": "11",
+      "distractors": [
+        "4",
+        "7",
+        "14"
+      ],
+      "explanation": "Rút cả hai nghĩa là có đủ 4 và 7, tổng là 11.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B74_Q14",
+      "type": "fill",
+      "question": "Một hộp có 2 bi đỏ, 1 bi xanh. Lấy hai viên không bỏ lại. Có thể lấy hai bi xanh không?",
+      "correct_answer": "không",
+      "distractors": [
+        "có",
+        "chắc chắn",
+        "luôn được"
+      ],
+      "explanation": "Chỉ có một bi xanh nên không đủ hai viên xanh.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B74_Q15",
+      "type": "mcq",
+      "question": "Một đồng xu có mặt sao và mặt trăng. Ba lần đầu đều ra sao. Lần thứ tư có chắc ra trăng không?",
+      "options": [
+        "không",
+        "có",
+        "chắc chắn trăng",
+        "không thể ra sao"
+      ],
+      "correct_answer": "không",
+      "distractors": [
+        "có",
+        "chắc chắn trăng",
+        "không thể ra sao"
+      ],
+      "explanation": "Các lượt trước không bắt buộc kết quả lượt sau; vẫn có thể ra sao.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B74_Q16",
+      "type": "fill",
+      "question": "Túi có các thẻ 2, 3, 5. Lấy một thẻ. Số nhận được nhỏ hơn 6 là sự kiện gì?",
+      "correct_answer": "chắc chắn",
+      "distractors": [
+        "có thể",
+        "không thể",
+        "không rõ"
+      ],
+      "explanation": "Cả ba số 2, 3, 5 đều nhỏ hơn 6.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B74_Q17",
+      "type": "mcq",
+      "question": "Hộp có 4 bóng cam và 2 bóng trắng. Lấy một bóng. Nhận xét nào đúng: có thể được trắng, chắc chắn được trắng, không thể được trắng, chỉ được tím?",
+      "options": [
+        "có thể được trắng",
+        "chắc chắn được trắng",
+        "không thể được trắng",
+        "chỉ được tím"
+      ],
+      "correct_answer": "có thể được trắng",
+      "distractors": [
+        "chắc chắn được trắng",
+        "không thể được trắng",
+        "chỉ được tím"
+      ],
+      "explanation": "Có bóng trắng và bóng cam nên trắng có thể xảy ra nhưng không chắc chắn.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B74_Q18",
+      "type": "fill",
+      "question": "Một xúc xắc ghi 1 đến 6. Sự kiện mặt trên lớn hơn 6 thuộc loại nào?",
+      "correct_answer": "không thể",
+      "distractors": [
+        "có thể",
+        "chắc chắn",
+        "luôn xảy ra"
+      ],
+      "explanation": "Không mặt nào có số lớn hơn 6.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B74_Q19",
+      "type": "mcq",
+      "question": "Hộp có ba thẻ ghi 8, 8, 8. Rút một thẻ được số 8 có cần biết rút thẻ nào không?",
+      "options": [
+        "không",
+        "có",
+        "chỉ thẻ đầu đúng",
+        "chỉ thẻ cuối đúng"
+      ],
+      "correct_answer": "không",
+      "distractors": [
+        "có",
+        "chỉ thẻ đầu đúng",
+        "chỉ thẻ cuối đúng"
+      ],
+      "explanation": "Thẻ nào cũng ghi 8 nên không cần biết thẻ cụ thể.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B74_Q20",
+      "type": "fill",
+      "question": "Túi có một viên trắng và hai viên đen. Lấy hết ba viên. Có chắc có viên trắng không?",
+      "correct_answer": "có",
+      "distractors": [
+        "không",
+        "không bao giờ",
+        "chỉ có đen"
+      ],
+      "explanation": "Lấy hết túi thì lấy cả viên trắng.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B74_Q21",
+      "type": "mcq",
+      "question": "Muốn lấy một thẻ bất kì luôn được số chẵn, túi đang có thẻ 2, 4, 5. Cần bỏ thẻ số nào?",
+      "options": [
+        "5",
+        "2",
+        "4",
+        "6"
+      ],
+      "correct_answer": "5",
+      "distractors": [
+        "2",
+        "4",
+        "6"
+      ],
+      "explanation": "Bỏ thẻ lẻ 5 thì chỉ còn 2 và 4 là số chẵn.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B74_Q22",
+      "type": "fill",
+      "question": "Hộp hiện có hai viên bi đỏ. Thêm một viên màu nào để lấy một viên có thể được xanh?",
+      "correct_answer": "xanh",
+      "distractors": [
+        "đỏ",
+        "trắng",
+        "vàng"
+      ],
+      "explanation": "Cần đưa bi xanh vào hộp để việc lấy xanh có thể xảy ra.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B74_Q23",
+      "type": "mcq",
+      "question": "Có 3 thẻ xanh và 1 thẻ vàng. Lấy 3 thẻ không bỏ lại. Có chắc có ít nhất một thẻ xanh không?",
+      "options": [
+        "có",
+        "không",
+        "chỉ khi lấy 4 thẻ",
+        "không thể có xanh"
+      ],
+      "correct_answer": "có",
+      "distractors": [
+        "không",
+        "chỉ khi lấy 4 thẻ",
+        "không thể có xanh"
+      ],
+      "explanation": "Chỉ có một thẻ vàng; không thể lấy ba thẻ mà không có xanh.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B74_Q24",
+      "type": "fill",
+      "question": "Hộp có 1 bóng đỏ và 1 bóng vàng. Lấy một bóng rồi giữ bên ngoài. Nếu bóng đầu đỏ thì bóng còn lại màu gì?",
+      "correct_answer": "vàng",
+      "distractors": [
+        "đỏ",
+        "xanh",
+        "trắng"
+      ],
+      "explanation": "Bóng đỏ đã được lấy ra nên trong hộp chỉ còn vàng.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B74_Q25",
+      "type": "mcq",
+      "question": "Túi có thẻ 1, 2, 3. Rút hai thẻ khác nhau không bỏ lại. Có thể được tổng 6 không?",
+      "options": [
+        "không",
+        "có",
+        "chắc chắn",
+        "luôn được"
+      ],
+      "correct_answer": "không",
+      "distractors": [
+        "có",
+        "chắc chắn",
+        "luôn được"
+      ],
+      "explanation": "Tổng lớn nhất là 2 cộng 3 bằng 5; tổng 6 không thể xảy ra.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B74_Q26",
+      "type": "fill",
+      "question": "Một hộp có bút đỏ và bút xanh. Muốn lấy một chiếc không thể được đỏ, phải lấy hết bút màu nào ra trước?",
+      "correct_answer": "đỏ",
+      "distractors": [
+        "xanh",
+        "đen",
+        "vàng"
+      ],
+      "explanation": "Khi không còn bút đỏ trong hộp thì không thể lấy được đỏ.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B74_Q27",
+      "type": "mcq",
+      "question": "Túi có thẻ 3, 6, 9. Rút một thẻ. Muốn sự kiện rút được 12 trở thành có thể, cần thêm thẻ số nào?",
+      "options": [
+        "12",
+        "3",
+        "6",
+        "9"
+      ],
+      "correct_answer": "12",
+      "distractors": [
+        "3",
+        "6",
+        "9"
+      ],
+      "explanation": "Thêm thẻ ghi 12 thì 12 trở thành một kết quả có thể.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B74_Q28",
+      "type": "fill",
+      "question": "Một túi có 2 bi trắng và 2 bi đen. Lấy một viên rồi bỏ lại, sau đó lấy tiếp. Có thể cả hai lần đều trắng không?",
+      "correct_answer": "có",
+      "distractors": [
+        "không",
+        "chắc chắn đen lần sau",
+        "trắng chỉ được một lần"
+      ],
+      "explanation": "Sau lượt đầu, bi trắng được bỏ lại nên lượt sau vẫn có thể trắng.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B74_Q29",
+      "type": "mcq",
+      "question": "Có thẻ 0, 5, 10. Rút một thẻ. Sự kiện số trên thẻ lớn hơn hoặc bằng 0 thuộc loại nào?",
+      "options": [
+        "chắc chắn",
+        "không thể",
+        "có thể",
+        "không rõ"
+      ],
+      "correct_answer": "chắc chắn",
+      "distractors": [
+        "không thể",
+        "có thể",
+        "không rõ"
+      ],
+      "explanation": "Cả 0, 5, 10 đều lớn hơn hoặc bằng 0.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B74_Q30",
+      "type": "fill",
+      "question": "Một hộp có 4 bi vàng và 1 bi đỏ. Lấy 2 viên không bỏ lại. Có thể được một vàng và một đỏ không?",
+      "correct_answer": "có",
+      "distractors": [
+        "không",
+        "chắc chắn hai đỏ",
+        "chỉ có hai vàng"
+      ],
+      "explanation": "Hộp có đủ một viên mỗi màu để lấy được cặp đó.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B74_Q31",
+      "type": "mcq",
+      "question": "Hai thẻ ghi 1 và 2. Rút một thẻ, bỏ lại, rồi rút tiếp. Tổng có thể bằng 4 không?",
+      "options": [
+        "có",
+        "không",
+        "chỉ bằng 3",
+        "chắc chắn bằng 2"
+      ],
+      "correct_answer": "có",
+      "distractors": [
+        "không",
+        "chỉ bằng 3",
+        "chắc chắn bằng 2"
+      ],
+      "explanation": "Có thể rút số 2 ở cả hai lần vì đã bỏ lại thẻ.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B74_Q32",
+      "type": "fill",
+      "question": "Túi có 6 thẻ đều ghi tên hoa. Rút một thẻ. Muốn rút được tên con vật là không thể vì sao? Chọn: không có thẻ tên con vật; có 6 thẻ; túi nhỏ; rút chậm.",
+      "correct_answer": "không có thẻ tên con vật",
+      "distractors": [
+        "có 6 thẻ",
+        "túi nhỏ",
+        "rút chậm"
+      ],
+      "explanation": "Kết quả chỉ đến từ các thẻ có trong túi; không có tên con vật.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B74_Q33",
+      "type": "mcq",
+      "question": "Hộp có 2 kẹo dâu và 3 kẹo chanh. Lấy cả 5 kẹo. Có chắc lấy đủ hai vị không?",
+      "options": [
+        "có",
+        "không",
+        "chỉ được dâu",
+        "chỉ được chanh"
+      ],
+      "correct_answer": "có",
+      "distractors": [
+        "không",
+        "chỉ được dâu",
+        "chỉ được chanh"
+      ],
+      "explanation": "Lấy cả hộp thì có cả kẹo dâu và kẹo chanh.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B74_Q34",
+      "type": "fill",
+      "question": "Có ba thẻ ghi 2, 4, 6. Rút hai thẻ không bỏ lại. Tổng nhỏ nhất có thể nhận là bao nhiêu?",
+      "correct_answer": "6",
+      "distractors": [
+        "4",
+        "8",
+        "10"
+      ],
+      "explanation": "Hai số nhỏ nhất là 2 và 4, cộng được 6.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B74_Q35",
+      "type": "mcq",
+      "question": "Xúc xắc sáu mặt ghi 1 đến 6. Chọn áo xanh nếu ra 1 hoặc 2, áo đỏ nếu ra 3 hoặc 4, áo vàng nếu ra 5 hoặc 6. Ra số 4 thì chọn màu nào?",
+      "options": [
+        "đỏ",
+        "xanh",
+        "vàng",
+        "trắng"
+      ],
+      "correct_answer": "đỏ",
+      "distractors": [
+        "xanh",
+        "vàng",
+        "trắng"
+      ],
+      "explanation": "Số 4 nằm trong nhóm 3 hoặc 4 nên chọn đỏ.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B74_Q36",
+      "type": "fill",
+      "question": "Một bánh xe quay chỉ có ô ghi A, B, C. Kim dừng đúng một ô. Sự kiện kim dừng ở A hoặc B hoặc C thuộc loại nào?",
+      "correct_answer": "chắc chắn",
+      "distractors": [
+        "không thể",
+        "có thể",
+        "không rõ"
+      ],
+      "explanation": "Ba ô đã liệt kê bao quát mọi vị trí dừng được cho.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B74_Q37",
+      "type": "mcq",
+      "question": "Có 1 thẻ tròn và 3 thẻ vuông. Lấy 2 thẻ không bỏ lại. Có thể cả hai thẻ đều tròn không?",
+      "options": [
+        "không",
+        "có",
+        "chắc chắn",
+        "luôn được"
+      ],
+      "correct_answer": "không",
+      "distractors": [
+        "có",
+        "chắc chắn",
+        "luôn được"
+      ],
+      "explanation": "Chỉ có một thẻ tròn nên không lấy được hai thẻ tròn.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B74_Q38",
+      "type": "fill",
+      "question": "Hộp có 5 bi đỏ. Thêm 2 bi xanh rồi lấy một viên. Sự kiện lấy được đỏ còn chắc chắn không?",
+      "correct_answer": "không",
+      "distractors": [
+        "có",
+        "luôn đỏ",
+        "không có xanh"
+      ],
+      "explanation": "Sau khi thêm bi xanh, có thể lấy xanh nên đỏ không còn chắc chắn.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B74_Q39",
+      "type": "mcq",
+      "question": "Túi có thẻ số 1, 2, 3, 4. Rút một thẻ. Sự kiện số rút được nằm giữa 0 và 5 thuộc loại nào?",
+      "options": [
+        "chắc chắn",
+        "có thể",
+        "không thể",
+        "không rõ"
+      ],
+      "correct_answer": "chắc chắn",
+      "distractors": [
+        "có thể",
+        "không thể",
+        "không rõ"
+      ],
+      "explanation": "Mọi số trong túi đều lớn hơn 0 và nhỏ hơn 5.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B74_Q40",
+      "type": "fill",
+      "question": "Một nhóm tung xu mặt cây và mặt hoa, ghi được cây, hoa, cây, cây. Chưa tung lượt tiếp. Có thể ghi chắc lượt tiếp là cây không?",
+      "correct_answer": "không",
+      "distractors": [
+        "có",
+        "chắc chắn cây",
+        "không thể hoa"
+      ],
+      "explanation": "Chưa tung thì chưa biết kết quả; cả cây và hoa đều có thể xảy ra.",
+      "difficulty": "van_dung"
+    }
+  ],
+  "games": [
+    {
+      "id": "TOAN3_T2_B74_GAME1",
+      "title": "Kiểm chứng dự đoán",
+      "mode": "tf",
+      "objective": "Đánh giá một đáp án dự kiến bằng các kết quả có thể trong tình huống.",
+      "rules": [
+        "Mỗi lượt lấy 10 câu trong bài và đưa ra một kết quả để kiểm chứng.",
+        "Chọn Đúng nếu kết quả phù hợp, chọn Sai nếu không phù hợp; đọc lời giải trước khi sang câu.",
+        "Mỗi câu đúng được 10 điểm; tối đa 100 điểm."
+      ],
+      "question_ids": [
+        "TOAN3_T2_B74_Q01",
+        "TOAN3_T2_B74_Q02",
+        "TOAN3_T2_B74_Q03",
+        "TOAN3_T2_B74_Q04",
+        "TOAN3_T2_B74_Q05",
+        "TOAN3_T2_B74_Q06",
+        "TOAN3_T2_B74_Q07",
+        "TOAN3_T2_B74_Q08",
+        "TOAN3_T2_B74_Q09",
+        "TOAN3_T2_B74_Q10",
+        "TOAN3_T2_B74_Q11",
+        "TOAN3_T2_B74_Q12",
+        "TOAN3_T2_B74_Q13",
+        "TOAN3_T2_B74_Q14",
+        "TOAN3_T2_B74_Q15",
+        "TOAN3_T2_B74_Q16",
+        "TOAN3_T2_B74_Q17",
+        "TOAN3_T2_B74_Q18",
+        "TOAN3_T2_B74_Q19",
+        "TOAN3_T2_B74_Q20",
+        "TOAN3_T2_B74_Q21",
+        "TOAN3_T2_B74_Q22",
+        "TOAN3_T2_B74_Q23",
+        "TOAN3_T2_B74_Q24",
+        "TOAN3_T2_B74_Q25",
+        "TOAN3_T2_B74_Q26",
+        "TOAN3_T2_B74_Q27",
+        "TOAN3_T2_B74_Q28",
+        "TOAN3_T2_B74_Q29",
+        "TOAN3_T2_B74_Q30",
+        "TOAN3_T2_B74_Q31",
+        "TOAN3_T2_B74_Q32",
+        "TOAN3_T2_B74_Q33",
+        "TOAN3_T2_B74_Q34",
+        "TOAN3_T2_B74_Q35",
+        "TOAN3_T2_B74_Q36",
+        "TOAN3_T2_B74_Q37",
+        "TOAN3_T2_B74_Q38",
+        "TOAN3_T2_B74_Q39",
+        "TOAN3_T2_B74_Q40"
+      ],
+      "answer_source": "practice.correct_answer",
+      "feedback_source": "practice.explanation",
+      "max_score": 100
+    }
+  ],
+  "assessment": {
+    "session_size": 10,
+    "distribution": {
+      "nhan_biet": 3,
+      "thong_hieu": 3,
+      "van_dung": 4
+    },
+    "scoring": "Đúng lần đầu: 1 điểm; đúng sau một gợi ý: 0,5 điểm. Từ 90%: 3 sao; từ 60%: 2 sao; còn lại: 1 sao.",
+    "review_advice": "Xem lời giải các câu sai, đọc lại quy tắc, rồi làm một lượt mới."
+  },
+  "feedback": {
+    "correct": "Chính xác! Hãy đọc lời giải để củng cố cách làm.",
+    "incorrect": "Em thử lại một lần. Sau đó xem đáp án và cách giải."
+  },
+  "verification": {
+    "ai_authored": true,
+    "structure_checked": true,
+    "answer_reviewed": true,
+    "source_reviewed": true,
+    "teacher_approved": false
+  },
+  "status": "AI_CHECKED_AWAITING_TEACHER",
+  "activities": [
+    {
+      "title": "Túi thẻ bí mật",
+      "materials": [
+        "Túi kín",
+        "Hai thẻ xanh",
+        "Một thẻ vàng",
+        "Giấy ghi kết quả"
+      ],
+      "steps": [
+        "Xem và xác nhận trong túi có đúng hai xanh, một vàng.",
+        "Dự đoán các màu có thể lấy được; không ghi trước kết quả thực tế.",
+        "Lấy một thẻ, ghi màu rồi bỏ lại. Thực hiện năm lượt.",
+        "Giải thích vì sao kết quả thực nghiệm không chứng minh lượt sau chắc chắn ra một màu."
+      ],
+      "check": [
+        "Đã bỏ lại thẻ sau mỗi lượt chưa?",
+        "Phân biệt được điều có thể với điều vừa thực sự xảy ra chưa?"
+      ]
+    }
+  ]
+}

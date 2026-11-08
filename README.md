@@ -1,3 +1,11 @@
+# Tiến độ mới nhất — 09/11/2026
+
+**76/168 mục đã tích hợp: Toán 1–76, 3.040 câu và 76 trò chơi.** Batch 19 bổ sung Toán 73–76 về số liệu, khả năng xảy ra của sự kiện và ôn số đến 100 000, cùng 3 SVG mới. Giáo viên đã duyệt Toán 1–4; 72 bài chờ giáo viên duyệt. Còn 92 mục: Toán 77–81, Tiếng Việt 62 bài, Tiếng Anh 25 mục.
+
+Bộ kiểm tra dữ liệu, hồi quy và DOM đạt; chưa kiểm thử Chromium thật. Xem [tiến độ](content/system/PROGRESS.md), [báo cáo kiểm tra](content/system/AUDIT_REPORT.md). Tiếp tục Toán → Tiếng Việt → Tiếng Anh.
+
+---
+
 # Tiến độ mới nhất — 08/11/2026
 
 **68/168 mục đã tích hợp: Toán 1–68, 2720 câu và 68 trò chơi.** Nhóm mới nhất Toán 65–68 có ôn cộng/trừ, đồng hồ, lịch, tiền Việt Nam; ba SVG tự dựng và hoạt động thực hành. Toán 1–4 đã được giáo viên duyệt, 64 bài mới chờ thẩm định. Còn 100 mục: Toán 69–81, Tiếng Việt 62 bài và Tiếng Anh 25 mục.

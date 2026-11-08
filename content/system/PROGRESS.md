@@ -1,3 +1,17 @@
+# Batch 19 đã tích hợp — 09/11/2026
+
+Toán 73–76 đã có 4 JSON và 4 Markdown riêng, 160 câu (mỗi bài 10 nhận biết, 10 thông hiểu, 20 vận dụng), 4 trò chơi và 3 SVG mới hiển thị trực tiếp trong câu hỏi. Đã đọc trực quan toàn bộ trang in 103–114 (PDF 104–115) Toán tập 2 trước khi biên soạn: thu thập/phân loại/ghi chép, bảng số liệu, khả năng của sự kiện, thực hành khảo sát và ôn số đến 100 000. Câu hỏi mới, dữ kiện đầy đủ; không sao chép hệ thống bài tập SGK.
+
+AI biên soạn/kiểm tra/tích hợp: 76/168 mục, 3040 câu, 76 trò chơi. Giáo viên đã duyệt: 4 (Toán 1–4); còn 72 chờ duyệt. Tất cả bài mới giữ AI_CHECKED_AWAITING_TEACHER. Còn 92 mục: Toán 77–81 (5), Tiếng Việt 62, Tiếng Anh 25.
+
+Kiểm tra: validate_site.py/validate_content.py, hồi quy cũ và mới, test_content_dom.cjs đạt; ID, lựa chọn, đáp án, lời giải, Markdown, phân mức và trạng thái đồng bộ. Test Batch 19 tính độc lập số liệu, liệt kê các tổ hợp lấy thẻ, thử mọi cách lập số theo điều kiện, kiểm tra 160 câu không trùng và SVG hợp lệ. Ba SVG đã xuất PNG và xem trực quan. Chưa có Chromium; chưa kiểm thử bố cục/cảm ứng/âm thanh trên trình duyệt thật. Giữ nguyên giao diện, loader và dữ liệu wl3:*.
+
+Batch 18 (73e867513359a28f4e53830df08e54df1feb967f): cả hai workflow Pages đã completed/success. Batch 19 cần xác minh commit và Actions/Pages sau khi ghi; không coi kiểm thử DOM là kiểm thử trình duyệt thật.
+
+Checkpoint tiếp: Batch 20 Toán 77–80; đọc trang nguồn tương ứng trước biên soạn. Sau đó hoàn tất Toán 81, rồi điều chỉnh renderer/validator theo cấu trúc Tiếng Việt trước khi chuyển môn. Không tăng số sẵn sàng cho 92 mục còn nháp.
+
+## Lịch sử
+
 # Batch 18 đã tích hợp — 08/11/2026
 
 Đã đóng gói Toán 69–72: 4 JSON/Markdown, 160 câu theo phân mức 10/10/20, 4 trò chơi; mục tiêu, kiến thức, hướng dẫn, lỗi thường gặp và ví dụ có lời giải riêng. Nguồn trang 88–102 đã đọc trực quan ở các lượt trước. Các câu dùng dữ kiện chữ đầy đủ, không yêu cầu hình chưa cung cấp. Không thay giao diện hoặc dữ liệu wl3.

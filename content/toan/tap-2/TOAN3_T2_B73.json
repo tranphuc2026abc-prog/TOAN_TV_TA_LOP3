@@ -1,0 +1,818 @@
+{
+  "id": "TOAN3_T2_B73",
+  "subject": "toan",
+  "grade": 3,
+  "book": "Kết nối tri thức với cuộc sống",
+  "volume": 2,
+  "lesson_no": 73,
+  "title": "Thu thập, phân loại, ghi chép số liệu. Bảng số liệu",
+  "topic": "Thu thập và đọc số liệu",
+  "source": {
+    "pdf": "03-sgk-toan-3-tap-hai.pdf",
+    "printed_pages": [
+      103,
+      107
+    ],
+    "pdf_pages": [
+      104,
+      108
+    ],
+    "review": "Đã đọc trực quan toàn bộ trang nguồn cho bài này; nội dung và bài tập mới do AI biên soạn."
+  },
+  "objectives": [
+    "Phân loại đồ vật theo một dấu hiệu rõ ràng.",
+    "Đếm, ghi chép và đọc đúng hàng, cột, đơn vị của bảng.",
+    "Dùng số liệu để so sánh, tính tổng và phát hiện ghi chép chưa khớp."
+  ],
+  "knowledge": {
+    "introduction": "Số liệu là những con số giúp ta mô tả điều đã quan sát hoặc hỏi được. Khi khảo sát cách đến trường, ta hỏi từng bạn, xếp câu trả lời vào nhóm rồi đếm. Bảng số liệu giúp nhìn rõ tên từng nhóm và số lượng tương ứng.",
+    "rules": [
+      "Chọn một dấu hiệu phân loại, chẳng hạn màu sắc, loại đồ vật hoặc lựa chọn của mỗi bạn.",
+      "Mỗi đối tượng chỉ đếm một lần trong khảo sát yêu cầu một lựa chọn; gạch hoặc chấm giúp tránh bỏ sót.",
+      "Đọc tên hàng và tên cột trước khi đọc số ở ô giao nhau; luôn đọc kèm đơn vị.",
+      "Chỉ cộng các nhóm không trùng nhau khi muốn tìm tổng. Số tích lũy ở hai ngày không được cộng như hai nhóm độc lập."
+    ],
+    "steps": [
+      "Nêu câu hỏi cần khảo sát và các nhóm cần ghi.",
+      "Hỏi hoặc quan sát lần lượt, đánh dấu từng kết quả.",
+      "Đếm dấu, ghi số vào đúng nhóm và kiểm tra tổng.",
+      "Đọc bảng để trả lời: bao nhiêu, nhiều nhất, ít nhất, hơn kém bao nhiêu."
+    ],
+    "common_errors": [
+      "Nhầm số kg với số quả: nhìn lại đơn vị ở tiêu đề.",
+      "Cộng cả hàng tổng vào các hàng thành phần làm đếm hai lần.",
+      "Đọc nhầm cột tháng hoặc nhầm hàng loại đồ vật.",
+      "Cho rằng tổng phiếu luôn bằng số bạn dù một bạn có thể chọn nhiều mục; phải đọc quy định khảo sát."
+    ]
+  },
+  "examples": [
+    {
+      "question": "Một nhóm có sách khoa học 6 quyển, truyện 9 quyển và thơ 4 quyển. Loại nào nhiều nhất? Có tất cả bao nhiêu quyển?",
+      "steps": [
+        "So sánh 6, 9, 4: số lớn nhất là 9, thuộc nhóm truyện.",
+        "Ba loại sách không trùng nhau nên cộng 6 + 9 + 4 = 19.",
+        "Nhóm có 19 quyển sách; truyện nhiều nhất."
+      ]
+    },
+    {
+      "question": "Một bảng khảo sát 16 bạn ghi bơi 7, đá cầu 5, cờ vua chưa ghi. Mỗi bạn chỉ chọn một môn. Tìm ô còn thiếu.",
+      "steps": [
+        "Hai nhóm đã ghi có 7 + 5 = 12 bạn.",
+        "Nhóm cờ vua có 16 − 12 = 4 bạn.",
+        "Kiểm tra 7 + 5 + 4 = 16, khớp số bạn khảo sát."
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "question_id": "TOAN3_T2_B73_Q01",
+      "type": "mcq",
+      "question": "Khảo sát ghi: xe đạp 8 bạn, đi bộ 6 bạn, xe buýt 4 bạn. Có mấy nhóm cách đến trường?",
+      "options": [
+        "3",
+        "18",
+        "8",
+        "2"
+      ],
+      "correct_answer": "3",
+      "distractors": [
+        "18",
+        "8",
+        "2"
+      ],
+      "explanation": "Có ba nhóm: xe đạp, đi bộ và xe buýt.",
+      "difficulty": "nhan_biet",
+      "figure": {
+        "path": "content/toan/tap-2/TOAN3_T2_B73_Q01.svg",
+        "caption": "Khảo sát cách đến trường"
+      }
+    },
+    {
+      "question_id": "TOAN3_T2_B73_Q02",
+      "type": "fill",
+      "question": "Sổ ghi các màu bút: đỏ, xanh, đỏ, vàng, xanh, đỏ. Có bao nhiêu bút đỏ?",
+      "correct_answer": "3",
+      "distractors": [
+        "2",
+        "6",
+        "1"
+      ],
+      "explanation": "Đếm được ba lần xuất hiện của màu đỏ.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B73_Q03",
+      "type": "mcq",
+      "question": "Một nhóm ghi kết quả nhảy dây bằng dấu X, mỗi X là một lần. Dòng của Hà là XXXXX. Hà nhảy được mấy lần?",
+      "options": [
+        "5",
+        "4",
+        "6",
+        "1"
+      ],
+      "correct_answer": "5",
+      "distractors": [
+        "4",
+        "6",
+        "1"
+      ],
+      "explanation": "Có năm dấu X nên có năm lần nhảy.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B73_Q04",
+      "type": "fill",
+      "question": "Bảng vườn cây có hàng tên cây và hàng số cây. Số 12 nằm ở cột cây ổi. Vườn có mấy cây ổi?",
+      "correct_answer": "12",
+      "distractors": [
+        "2",
+        "10",
+        "21"
+      ],
+      "explanation": "Đọc đúng giao điểm hàng số cây và cột cây ổi: 12.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B73_Q05",
+      "type": "mcq",
+      "question": "Thư viện ghi số sách mượn theo đơn vị quyển. Dòng truyện ghi 17. Em cần điền số nào vào ô số quyển truyện đã mượn?",
+      "options": [
+        "17",
+        "7",
+        "1",
+        "71"
+      ],
+      "correct_answer": "17",
+      "distractors": [
+        "7",
+        "1",
+        "71"
+      ],
+      "explanation": "Ô này ghi số lượng truyện, là 17 quyển.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B73_Q06",
+      "type": "fill",
+      "question": "Kết quả ném bóng của An: vào, trượt, vào, vào, trượt, vào. Có mấy lần trượt?",
+      "correct_answer": "2",
+      "distractors": [
+        "4",
+        "6",
+        "3"
+      ],
+      "explanation": "Hai lượt được ghi là trượt.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B73_Q07",
+      "type": "mcq",
+      "question": "Nhóm rau có 4 bó cải và 7 bó rau muống. Nếu phân loại theo tên rau thì có mấy loại?",
+      "options": [
+        "2",
+        "11",
+        "4",
+        "7"
+      ],
+      "correct_answer": "2",
+      "distractors": [
+        "11",
+        "4",
+        "7"
+      ],
+      "explanation": "Cải và rau muống là hai loại, không phải 11 loại.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B73_Q08",
+      "type": "fill",
+      "question": "Bảng có cột Thứ Hai, Thứ Ba, Thứ Tư. Em muốn biết số khách Thứ Ba thì đọc cột thứ mấy trong ba cột ngày?",
+      "correct_answer": "2",
+      "distractors": [
+        "1",
+        "3",
+        "4"
+      ],
+      "explanation": "Thứ Ba đứng thứ hai trong ba cột ngày đã nêu.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B73_Q09",
+      "type": "mcq",
+      "question": "Ghi chép chiều cao của Bình là 128 cm. Số đo này có đơn vị gì?",
+      "options": [
+        "cm",
+        "kg",
+        "lít",
+        "giờ"
+      ],
+      "correct_answer": "cm",
+      "distractors": [
+        "kg",
+        "lít",
+        "giờ"
+      ],
+      "explanation": "Chiều cao đã được ghi bằng xăng-ti-mét, kí hiệu cm.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B73_Q10",
+      "type": "fill",
+      "question": "Phiếu phân loại có nhóm giấy, nhóm nhựa và nhóm kim loại. Một chai nhựa rỗng thuộc nhóm nào?",
+      "correct_answer": "nhựa",
+      "distractors": [
+        "giấy",
+        "kim loại",
+        "vải"
+      ],
+      "explanation": "Vật liệu của chai đã cho là nhựa.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B73_Q11",
+      "type": "mcq",
+      "question": "Bảng số cây trồng ghi: tổ A 9 cây, tổ B 13 cây, tổ C 11 cây. Tổ nào trồng nhiều nhất?",
+      "options": [
+        "tổ B",
+        "tổ A",
+        "tổ C",
+        "ba tổ bằng nhau"
+      ],
+      "correct_answer": "tổ B",
+      "distractors": [
+        "tổ A",
+        "tổ C",
+        "ba tổ bằng nhau"
+      ],
+      "explanation": "So sánh 9, 13, 11: 13 lớn nhất, thuộc tổ B.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B73_Q12",
+      "type": "fill",
+      "question": "Ghi chép số bạn chọn chè: 6; sữa chua: 9; bánh: 4. Món nào ít bạn chọn nhất?",
+      "correct_answer": "bánh",
+      "distractors": [
+        "chè",
+        "sữa chua",
+        "không xác định"
+      ],
+      "explanation": "Trong 6, 9, 4 thì 4 nhỏ nhất, là số bạn chọn bánh.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B73_Q13",
+      "type": "mcq",
+      "question": "Bảng số thùng giấy thu gom: sáng 14, chiều 9. Buổi sáng nhiều hơn chiều bao nhiêu thùng?",
+      "options": [
+        "5",
+        "23",
+        "4",
+        "9"
+      ],
+      "correct_answer": "5",
+      "distractors": [
+        "23",
+        "4",
+        "9"
+      ],
+      "explanation": "Lấy 14 trừ 9 được 5 thùng.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B73_Q14",
+      "type": "fill",
+      "question": "Phiếu khảo sát 20 bạn, mỗi bạn chỉ chọn một loại quả: cam 8, táo 7, chuối 5. Tổng các số đã ghi có khớp 20 bạn không?",
+      "correct_answer": "có",
+      "distractors": [
+        "không",
+        "thiếu 5 bạn",
+        "thừa 7 bạn"
+      ],
+      "explanation": "8 cộng 7 cộng 5 bằng 20, khớp số bạn khảo sát.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B73_Q15",
+      "type": "mcq",
+      "question": "Bạn ghi số bút của hai hộp vào một ô tổng là 18. Muốn biết riêng từng hộp từ ô này có được không?",
+      "options": [
+        "không",
+        "có",
+        "hộp nào cũng 9",
+        "hộp đầu 18"
+      ],
+      "correct_answer": "không",
+      "distractors": [
+        "có",
+        "hộp nào cũng 9",
+        "hộp đầu 18"
+      ],
+      "explanation": "Một số tổng không cho biết cách chia 18 chiếc vào hai hộp.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B73_Q16",
+      "type": "fill",
+      "question": "Bảng số quả thu hoạch ghi theo kg: xoài 15, ổi 12. Có thể gọi số 15 là 15 quả xoài không?",
+      "correct_answer": "không",
+      "distractors": [
+        "có",
+        "luôn luôn",
+        "chỉ khi có 12 quả ổi"
+      ],
+      "explanation": "Đơn vị bảng là kg; 15 nghĩa là 15 kg xoài, không phải số quả.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B73_Q17",
+      "type": "mcq",
+      "question": "Sổ ghi màu mũ: xanh, đỏ, xanh, vàng, đỏ, xanh, vàng. Màu xanh nhiều hơn màu vàng mấy chiếc?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "5"
+      ],
+      "correct_answer": "1",
+      "distractors": [
+        "2",
+        "3",
+        "5"
+      ],
+      "explanation": "Xanh có 3 chiếc, vàng có 2 chiếc nên hơn 1 chiếc.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B73_Q18",
+      "type": "fill",
+      "question": "Một bảng ghi số học sinh của lớp 3D: nam 16, nữ 18. Ô cả lớp cần ghi số nào?",
+      "correct_answer": "34",
+      "distractors": [
+        "32",
+        "2",
+        "36"
+      ],
+      "explanation": "Cộng hai nhóm không trùng nhau: 16 cộng 18 bằng 34.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B73_Q19",
+      "type": "mcq",
+      "question": "Bảng số hoa ghi cúc 10, hồng 10, sen 6. Có mấy loại cùng nhiều nhất?",
+      "options": [
+        "2",
+        "1",
+        "3",
+        "10"
+      ],
+      "correct_answer": "2",
+      "distractors": [
+        "1",
+        "3",
+        "10"
+      ],
+      "explanation": "Cúc và hồng cùng đạt số lớn nhất là 10.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B73_Q20",
+      "type": "fill",
+      "question": "Phiếu đếm có 5 dấu gạch và thêm 3 dấu gạch, mỗi gạch ứng với một vật. Số lượng cần ghi là bao nhiêu?",
+      "correct_answer": "8",
+      "distractors": [
+        "2",
+        "15",
+        "53"
+      ],
+      "explanation": "Gộp 5 dấu với 3 dấu được 8 dấu, tương ứng 8 vật.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B73_Q21",
+      "type": "mcq",
+      "question": "Một lớp có 28 bạn, mỗi bạn chọn đúng một môn. Bảng ghi bơi 9 bạn, cờ vua 8 bạn, cầu lông chưa ghi. Có mấy bạn chọn cầu lông?",
+      "options": [
+        "11",
+        "17",
+        "19",
+        "9"
+      ],
+      "correct_answer": "11",
+      "distractors": [
+        "17",
+        "19",
+        "9"
+      ],
+      "explanation": "Hai môn đã ghi có 17 bạn; còn 28 trừ 17 bằng 11 bạn.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B73_Q22",
+      "type": "fill",
+      "question": "Ghi số cây qua hai ngày: ngày đầu cam 7, ổi 5; ngày sau cam 6, ổi 9. Hai ngày trồng được tất cả bao nhiêu cây ổi?",
+      "correct_answer": "14",
+      "distractors": [
+        "13",
+        "27",
+        "12"
+      ],
+      "explanation": "Chỉ cộng số cây ổi của hai ngày: 5 cộng 9 bằng 14.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B73_Q23",
+      "type": "mcq",
+      "question": "Bảng nhiệt độ: sáng 23 độ C, trưa 30 độ C, tối 25 độ C. Trưa cao hơn sáng bao nhiêu độ C?",
+      "options": [
+        "7",
+        "5",
+        "53",
+        "2"
+      ],
+      "correct_answer": "7",
+      "distractors": [
+        "5",
+        "53",
+        "2"
+      ],
+      "explanation": "Hiệu giữa 30 và 23 là 7 độ C.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B73_Q24",
+      "type": "fill",
+      "question": "Ba đội thu gom được 18, 12, 15 kg giấy. Cần chia lại thành ba phần bằng nhau. Mỗi phần có bao nhiêu kg?",
+      "correct_answer": "15",
+      "distractors": [
+        "12",
+        "18",
+        "45"
+      ],
+      "explanation": "Tổng là 45 kg; chia 3 phần được 15 kg mỗi phần.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B73_Q25",
+      "type": "mcq",
+      "question": "Nhật kí mượn sách: thứ Hai 11 quyển, thứ Ba 8 quyển, thứ Tư 14 quyển. Muốn ba ngày đủ 40 quyển cần thêm bao nhiêu quyển?",
+      "options": [
+        "7",
+        "33",
+        "6",
+        "26"
+      ],
+      "correct_answer": "7",
+      "distractors": [
+        "33",
+        "6",
+        "26"
+      ],
+      "explanation": "Đã có 33 quyển nên còn thiếu 40 trừ 33 bằng 7 quyển.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B73_Q26",
+      "type": "fill",
+      "question": "Bảng ba lớp ghi 3A: 31 bạn; 3B: 29 bạn; 3C: 32 bạn. Cả ba lớp cần ghế, mỗi bạn một ghế. Cần bao nhiêu ghế?",
+      "correct_answer": "92",
+      "distractors": [
+        "90",
+        "93",
+        "61"
+      ],
+      "explanation": "Cộng số bạn: 31 cộng 29 cộng 32 bằng 92.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B73_Q27",
+      "type": "mcq",
+      "question": "Kết quả ném bóng 10 lượt: vào 6, trượt 4. Thêm 3 lượt đều vào rổ. Tổng số lần vào rổ lúc này là bao nhiêu?",
+      "options": [
+        "9",
+        "13",
+        "7",
+        "10"
+      ],
+      "correct_answer": "9",
+      "distractors": [
+        "13",
+        "7",
+        "10"
+      ],
+      "explanation": "Số lần vào rổ tăng từ 6 lên 9; không cộng những lượt trượt.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B73_Q28",
+      "type": "fill",
+      "question": "Khảo sát 24 bạn, mỗi bạn một lựa chọn. Bảng ghi đá cầu 10, bóng bàn 9, cờ vua 6. Bảng thừa bao nhiêu lượt chọn so với 24 bạn?",
+      "correct_answer": "1",
+      "distractors": [
+        "0",
+        "6",
+        "25"
+      ],
+      "explanation": "Tổng bảng là 25 lượt, lớn hơn số bạn 24 đúng 1 lượt.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B73_Q29",
+      "type": "mcq",
+      "question": "Sổ bán vở ghi thứ Hai 20 quyển, thứ Ba ít hơn thứ Hai 4 quyển. Ô thứ Ba phải ghi bao nhiêu?",
+      "options": [
+        "16",
+        "24",
+        "4",
+        "80"
+      ],
+      "correct_answer": "16",
+      "distractors": [
+        "24",
+        "4",
+        "80"
+      ],
+      "explanation": "Thứ Ba bán 20 trừ 4 bằng 16 quyển.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B73_Q30",
+      "type": "fill",
+      "question": "Bảng số áo: xanh 14, trắng 9, đỏ 7. Cửa hàng bán 5 áo xanh và chưa bán màu khác. Còn tất cả bao nhiêu áo?",
+      "correct_answer": "25",
+      "distractors": [
+        "30",
+        "9",
+        "35"
+      ],
+      "explanation": "Ban đầu 30 áo; bán 5 còn 25 áo.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B73_Q31",
+      "type": "mcq",
+      "question": "Một phiếu ghi các số: 12, 15, 12, 18, 15, 12. Nếu phân loại theo giá trị số thì nhóm 12 có mấy phần tử?",
+      "options": [
+        "3",
+        "2",
+        "6",
+        "4"
+      ],
+      "correct_answer": "3",
+      "distractors": [
+        "2",
+        "6",
+        "4"
+      ],
+      "explanation": "Số 12 xuất hiện ba lần trong dãy.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B73_Q32",
+      "type": "fill",
+      "question": "Ba thùng rác tái chế ghi giấy 16 kg, nhựa 7 kg, kim loại 9 kg. Giấy nặng bằng tổng hai nhóm còn lại không?",
+      "correct_answer": "có",
+      "distractors": [
+        "không",
+        "giấy nhẹ hơn 2 kg",
+        "giấy nặng hơn 9 kg"
+      ],
+      "explanation": "Nhựa cộng kim loại là 7 cộng 9 bằng 16 kg, bằng giấy.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B73_Q33",
+      "type": "mcq",
+      "question": "Bảng điểm trò chơi của Lan: lượt 1 được 8, lượt 2 được 6, tổng 15. Cần sửa tổng thành số nào?",
+      "options": [
+        "14",
+        "15",
+        "2",
+        "48"
+      ],
+      "correct_answer": "14",
+      "distractors": [
+        "15",
+        "2",
+        "48"
+      ],
+      "explanation": "Hai lượt có 8 cộng 6 bằng 14 điểm; ô tổng 15 bị ghi sai.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B73_Q34",
+      "type": "fill",
+      "question": "Một lớp có 17 nam, 15 nữ. Hôm nay vắng 2 nữ, không vắng nam. Bảng có mặt cần ghi tổng bao nhiêu bạn?",
+      "correct_answer": "30",
+      "distractors": [
+        "32",
+        "34",
+        "28"
+      ],
+      "explanation": "Cả lớp 32 bạn, vắng 2 nên có mặt 30 bạn.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B73_Q35",
+      "type": "mcq",
+      "question": "Bảng đàn gà ghi gà mái 24 con, gà trống 8 con. Mỗi ô chuồng chứa 4 con. Cần ít nhất mấy ô cho cả đàn?",
+      "options": [
+        "8",
+        "6",
+        "4",
+        "32"
+      ],
+      "correct_answer": "8",
+      "distractors": [
+        "6",
+        "4",
+        "32"
+      ],
+      "explanation": "Có 32 con; 32 chia 4 được 8 ô.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B73_Q36",
+      "type": "fill",
+      "question": "Một tổ ghi số hạt nảy mầm ngày thứ ba là 9, ngày thứ tư là 12 (số đã nảy mầm tính đến từng ngày). Có thêm mấy hạt nảy mầm từ ngày ba sang ngày bốn?",
+      "correct_answer": "3",
+      "distractors": [
+        "21",
+        "12",
+        "9"
+      ],
+      "explanation": "Hai số là số tích lũy, số tăng thêm là 12 trừ 9 bằng 3.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B73_Q37",
+      "type": "mcq",
+      "question": "Bảng dự định đọc sách: tuần 1 là 18 trang, tuần 2 là 22 trang. Thực tế tuần 1 ít hơn dự định 3 trang, tuần 2 đúng dự định. Đã đọc tất cả mấy trang?",
+      "options": [
+        "37",
+        "40",
+        "43",
+        "25"
+      ],
+      "correct_answer": "37",
+      "distractors": [
+        "40",
+        "43",
+        "25"
+      ],
+      "explanation": "Tuần 1 đọc 15 trang; cộng 22 trang tuần 2 được 37 trang.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B73_Q38",
+      "type": "fill",
+      "question": "Hai nhóm khảo sát riêng, không có bạn trùng: nhóm 1 chọn sữa 7 và nước 5; nhóm 2 chọn sữa 6 và nước 8. Gộp hai nhóm, có bao nhiêu bạn chọn sữa?",
+      "correct_answer": "13",
+      "distractors": [
+        "12",
+        "25",
+        "14"
+      ],
+      "explanation": "Cộng hai ô sữa: 7 cộng 6 bằng 13 bạn.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B73_Q39",
+      "type": "mcq",
+      "question": "Bảng trồng cây ghi lớp 3A 12 cây, lớp 3B 16 cây. Muốn 3A bằng 3B bằng cách chuyển cây từ 3B sang 3A thì chuyển mấy cây?",
+      "options": [
+        "2",
+        "4",
+        "1",
+        "14"
+      ],
+      "correct_answer": "2",
+      "distractors": [
+        "4",
+        "1",
+        "14"
+      ],
+      "explanation": "Chênh lệch 4 cây; chuyển 2 thì mỗi lớp 14 cây.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B73_Q40",
+      "type": "fill",
+      "question": "Sổ ghi 5 túi, số viên bi lần lượt 4, 6, 4, 3, 4. Có tất cả bao nhiêu viên trong những túi có đúng 4 viên?",
+      "correct_answer": "12",
+      "distractors": [
+        "3",
+        "21",
+        "4"
+      ],
+      "explanation": "Có 3 túi mỗi túi 4 viên, tổng là 12 viên.",
+      "difficulty": "van_dung"
+    }
+  ],
+  "games": [
+    {
+      "id": "TOAN3_T2_B73_GAME1",
+      "title": "Thám tử số liệu",
+      "mode": "treasure",
+      "objective": "Đọc đúng dữ kiện, phát hiện ô cần sửa và giải quyết câu hỏi theo bảng.",
+      "rules": [
+        "Mỗi lượt lấy 10 câu từ bài học.",
+        "Chọn đáp án, đọc lời giải rồi sang câu tiếp theo.",
+        "Mỗi câu đúng được 10 điểm; tối đa 100 điểm."
+      ],
+      "question_ids": [
+        "TOAN3_T2_B73_Q01",
+        "TOAN3_T2_B73_Q02",
+        "TOAN3_T2_B73_Q03",
+        "TOAN3_T2_B73_Q04",
+        "TOAN3_T2_B73_Q05",
+        "TOAN3_T2_B73_Q06",
+        "TOAN3_T2_B73_Q07",
+        "TOAN3_T2_B73_Q08",
+        "TOAN3_T2_B73_Q09",
+        "TOAN3_T2_B73_Q10",
+        "TOAN3_T2_B73_Q11",
+        "TOAN3_T2_B73_Q12",
+        "TOAN3_T2_B73_Q13",
+        "TOAN3_T2_B73_Q14",
+        "TOAN3_T2_B73_Q15",
+        "TOAN3_T2_B73_Q16",
+        "TOAN3_T2_B73_Q17",
+        "TOAN3_T2_B73_Q18",
+        "TOAN3_T2_B73_Q19",
+        "TOAN3_T2_B73_Q20",
+        "TOAN3_T2_B73_Q21",
+        "TOAN3_T2_B73_Q22",
+        "TOAN3_T2_B73_Q23",
+        "TOAN3_T2_B73_Q24",
+        "TOAN3_T2_B73_Q25",
+        "TOAN3_T2_B73_Q26",
+        "TOAN3_T2_B73_Q27",
+        "TOAN3_T2_B73_Q28",
+        "TOAN3_T2_B73_Q29",
+        "TOAN3_T2_B73_Q30",
+        "TOAN3_T2_B73_Q31",
+        "TOAN3_T2_B73_Q32",
+        "TOAN3_T2_B73_Q33",
+        "TOAN3_T2_B73_Q34",
+        "TOAN3_T2_B73_Q35",
+        "TOAN3_T2_B73_Q36",
+        "TOAN3_T2_B73_Q37",
+        "TOAN3_T2_B73_Q38",
+        "TOAN3_T2_B73_Q39",
+        "TOAN3_T2_B73_Q40"
+      ],
+      "answer_source": "practice.correct_answer",
+      "feedback_source": "practice.explanation",
+      "max_score": 100
+    }
+  ],
+  "assessment": {
+    "session_size": 10,
+    "distribution": {
+      "nhan_biet": 3,
+      "thong_hieu": 3,
+      "van_dung": 4
+    },
+    "scoring": "Đúng lần đầu: 1 điểm; đúng sau một gợi ý: 0,5 điểm. Từ 90%: 3 sao; từ 60%: 2 sao; còn lại: 1 sao.",
+    "review_advice": "Xem lời giải các câu sai, đọc lại quy tắc, rồi làm một lượt mới."
+  },
+  "feedback": {
+    "correct": "Chính xác! Hãy đọc lời giải để củng cố cách làm.",
+    "incorrect": "Em thử lại một lần. Sau đó xem đáp án và cách giải."
+  },
+  "verification": {
+    "ai_authored": true,
+    "structure_checked": true,
+    "answer_reviewed": true,
+    "source_reviewed": true,
+    "teacher_approved": false
+  },
+  "status": "AI_CHECKED_AWAITING_TEACHER",
+  "activities": [
+    {
+      "title": "Kiểm kê góc học tập",
+      "materials": [
+        "Giấy nháp",
+        "Bút",
+        "Một số đồ dùng học tập"
+      ],
+      "steps": [
+        "Phân loại đồ dùng thành sách, vở và bút; mỗi đồ vật vào đúng một nhóm.",
+        "Một bạn đọc tên đồ vật, bạn khác đánh dấu từng chiếc.",
+        "Đếm dấu, lập bảng hai hàng ghi tên nhóm và số lượng.",
+        "Đếm lại toàn bộ đồ vật rồi so với tổng ba nhóm."
+      ],
+      "check": [
+        "Mỗi đồ vật đã được đếm đúng một lần chưa?",
+        "Bảng có tên nhóm và đơn vị chiếc hoặc quyển phù hợp chưa?"
+      ]
+    }
+  ],
+  "figures": [
+    {
+      "path": "content/toan/tap-2/TOAN3_T2_B73_Q01.svg",
+      "caption": "Khảo sát cách đến trường"
+    }
+  ]
+}

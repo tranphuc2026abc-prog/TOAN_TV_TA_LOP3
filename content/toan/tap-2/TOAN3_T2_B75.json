@@ -1,0 +1,820 @@
+{
+  "id": "TOAN3_T2_B75",
+  "subject": "toan",
+  "grade": 3,
+  "book": "Kết nối tri thức với cuộc sống",
+  "volume": 2,
+  "lesson_no": 75,
+  "title": "Thu thập, phân loại, ghi chép số liệu, đọc bảng số liệu",
+  "topic": "Khảo sát để chuẩn bị một hoạt động chung",
+  "source": {
+    "pdf": "03-sgk-toan-3-tap-hai.pdf",
+    "printed_pages": [
+      110,
+      111
+    ],
+    "pdf_pages": [
+      111,
+      112
+    ],
+    "review": "Đã đọc trực quan toàn bộ trang nguồn cho bài này; nội dung và bài tập mới do AI biên soạn."
+  },
+  "objectives": [
+    "Lập câu hỏi khảo sát có các lựa chọn rõ ràng.",
+    "Thu thập, kiểm tra, phân loại và ghi số phiếu vào bảng.",
+    "Dựa trên bảng để chọn phương án theo quy ước và tính nhu cầu chuẩn bị."
+  ],
+  "knowledge": {
+    "introduction": "Để chuẩn bị một buổi trải nghiệm, lớp có thể hỏi các bạn về nơi đến, giờ đi, đồ ăn và màu áo. Ghi số phiếu cẩn thận giúp lớp đưa ra quyết định có căn cứ. Những số liệu trong bài luyện là tình huống giả định, không phải kết quả khảo sát thật của lớp em.",
+    "rules": [
+      "Nói rõ mỗi người được chọn một hay nhiều phương án trước khi khảo sát.",
+      "Không tự sửa ý kiến của bạn; phiếu chưa rõ cần hỏi lại.",
+      "Với một lựa chọn mỗi người, tổng phiếu hợp lệ phải khớp số người đã trả lời.",
+      "Chọn theo số phiếu nhiều nhất khác với yêu cầu hơn một nửa tổng phiếu.",
+      "Nếu hai phương án cùng nhiều nhất, cần thảo luận hoặc khảo sát thêm theo quy ước; không tự khẳng định chỉ một phương án thắng.",
+      "Nếu dùng xúc xắc để chọn, cần thống nhất cách đổi số chấm sang phương án trước khi gieo."
+    ],
+    "steps": [
+      "Chọn một việc cần quyết định và ghi các phương án.",
+      "Thu phiếu lần lượt; kiểm tra phiếu trùng, thiếu hoặc chọn quá số ô cho phép.",
+      "Đếm theo từng phương án và lập bảng có đơn vị người hoặc phiếu.",
+      "So sánh số phiếu, áp dụng quy ước đã thống nhất rồi tính số đồ cần chuẩn bị."
+    ],
+    "common_errors": [
+      "Tính hai phiếu của một bạn trong khảo sát một lựa chọn.",
+      "Thấy hai phương án hòa nhưng vẫn tuyên bố một phương án thắng.",
+      "Chuyển phiếu từ nhóm này sang nhóm khác mà chỉ sửa một nhóm.",
+      "Gọi số liệu ví dụ là kết quả khảo sát thực tế của lớp."
+    ]
+  },
+  "examples": [
+    {
+      "question": "Khảo sát 21 bạn, mỗi bạn chọn một món. Xôi có 8 phiếu, bánh mì có 7, bánh bao có 6. Chọn theo số phiếu nhiều nhất thì chọn gì?",
+      "steps": [
+        "Kiểm tra 8 + 7 + 6 = 21, đủ số phiếu.",
+        "8 là số lớn nhất nên chọn xôi theo quy ước.",
+        "8 chưa hơn một nửa 21, vì vậy không gọi đây là lựa chọn của quá nửa lớp."
+      ]
+    },
+    {
+      "question": "Có 18 bạn chọn giờ đi: 7 giờ có 8 phiếu, 8 giờ có 10 phiếu. Hai bạn đổi từ 8 giờ sang 7 giờ. Đọc bảng mới.",
+      "steps": [
+        "7 giờ nhận thêm 2 phiếu nên có 10 phiếu.",
+        "8 giờ bớt 2 phiếu nên còn 8 phiếu.",
+        "Tổng vẫn là 18; giờ đi được nhiều phiếu nhất đổi thành 7 giờ."
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "question_id": "TOAN3_T2_B75_Q01",
+      "type": "mcq",
+      "question": "Để biết các bạn muốn đi đâu, em cần làm việc nào trước: hỏi ý kiến, đo chiều cao, cân cặp, đếm bàn?",
+      "options": [
+        "hỏi ý kiến",
+        "đo chiều cao",
+        "cân cặp",
+        "đếm bàn"
+      ],
+      "correct_answer": "hỏi ý kiến",
+      "distractors": [
+        "đo chiều cao",
+        "cân cặp",
+        "đếm bàn"
+      ],
+      "explanation": "Khảo sát lựa chọn địa điểm cần hỏi ý kiến các bạn.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B75_Q02",
+      "type": "fill",
+      "question": "Phiếu khảo sát màu áo có ba ô xanh, trắng, vàng. Mỗi bạn chỉ chọn một ô. Có mấy phương án màu áo?",
+      "correct_answer": "3",
+      "distractors": [
+        "1",
+        "2",
+        "4"
+      ],
+      "explanation": "Ba ô tương ứng ba phương án màu.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B75_Q03",
+      "type": "mcq",
+      "question": "Sổ đăng kí món ăn ghi bánh mì 8 bạn, xôi 6 bạn. Có mấy bạn chọn xôi?",
+      "options": [
+        "6",
+        "8",
+        "14",
+        "2"
+      ],
+      "correct_answer": "6",
+      "distractors": [
+        "8",
+        "14",
+        "2"
+      ],
+      "explanation": "Đọc ô xôi thấy 6 bạn.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B75_Q04",
+      "type": "fill",
+      "question": "Khảo sát địa điểm ghi công viên 12 bạn, bảo tàng 9 bạn. Nơi nào được nhiều bạn chọn hơn?",
+      "correct_answer": "công viên",
+      "distractors": [
+        "bảo tàng",
+        "hai nơi bằng nhau",
+        "không xác định"
+      ],
+      "explanation": "12 lớn hơn 9 nên công viên được nhiều bạn chọn hơn.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B75_Q05",
+      "type": "mcq",
+      "question": "Khi ghi số người chọn giờ đi, nên dùng đơn vị nào: người, cm, kg hay lít?",
+      "options": [
+        "người",
+        "cm",
+        "kg",
+        "lít"
+      ],
+      "correct_answer": "người",
+      "distractors": [
+        "cm",
+        "kg",
+        "lít"
+      ],
+      "explanation": "Ta đang đếm người lựa chọn, không đo độ dài hay khối lượng.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B75_Q06",
+      "type": "fill",
+      "question": "Bảng màu áo ghi xanh 7, vàng 7, trắng 5. Có mấy màu cùng đứng đầu?",
+      "correct_answer": "2",
+      "distractors": [
+        "1",
+        "3",
+        "7"
+      ],
+      "explanation": "Xanh và vàng cùng có 7 phiếu, nhiều nhất.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B75_Q07",
+      "type": "mcq",
+      "question": "Mỗi dấu chấm là một phiếu. Dòng nước lọc có 4 chấm. Cần ghi số nào vào bảng?",
+      "options": [
+        "4",
+        "1",
+        "3",
+        "5"
+      ],
+      "correct_answer": "4",
+      "distractors": [
+        "1",
+        "3",
+        "5"
+      ],
+      "explanation": "Bốn dấu chấm tương ứng bốn phiếu.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B75_Q08",
+      "type": "fill",
+      "question": "Khảo sát gồm 10 bạn, mỗi bạn một phiếu. Cần thu đủ bao nhiêu phiếu?",
+      "correct_answer": "10",
+      "distractors": [
+        "1",
+        "5",
+        "20"
+      ],
+      "explanation": "Mỗi bạn nộp một phiếu nên 10 bạn có 10 phiếu.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B75_Q09",
+      "type": "mcq",
+      "question": "Muốn đếm riêng số bạn chọn trái cây, em đọc nhóm nào trong sổ: trái cây, bánh, nước, giờ đi?",
+      "options": [
+        "trái cây",
+        "bánh",
+        "nước",
+        "giờ đi"
+      ],
+      "correct_answer": "trái cây",
+      "distractors": [
+        "bánh",
+        "nước",
+        "giờ đi"
+      ],
+      "explanation": "Đúng nhóm trái cây mới cho số bạn chọn trái cây.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B75_Q10",
+      "type": "fill",
+      "question": "Thẻ khảo sát ghi ba điểm: vườn hoa, bảo tàng, sân vận động. Có bao nhiêu địa điểm được đưa ra để chọn?",
+      "correct_answer": "3",
+      "distractors": [
+        "2",
+        "4",
+        "1"
+      ],
+      "explanation": "Đếm được ba địa điểm đã nêu.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B75_Q11",
+      "type": "mcq",
+      "question": "Lớp chọn một món theo số phiếu nhiều nhất: bánh bao 9, xôi 11, bánh mì 8. Chọn món nào?",
+      "options": [
+        "xôi",
+        "bánh bao",
+        "bánh mì",
+        "không món nào"
+      ],
+      "correct_answer": "xôi",
+      "distractors": [
+        "bánh bao",
+        "bánh mì",
+        "không món nào"
+      ],
+      "explanation": "Xôi có 11 phiếu là số lớn nhất.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B75_Q12",
+      "type": "fill",
+      "question": "Bảng giờ xuất phát ghi 7 giờ: 13 bạn; 8 giờ: 15 bạn. Nếu theo số đông thì chọn mấy giờ?",
+      "correct_answer": "8",
+      "distractors": [
+        "7",
+        "13",
+        "15"
+      ],
+      "explanation": "15 lớn hơn 13 nên phương án 8 giờ được chọn.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B75_Q13",
+      "type": "mcq",
+      "question": "Khảo sát 18 bạn, mỗi bạn chọn một nước uống. Bảng ghi nước lọc 10, nước cam 8. Tổng đã đủ chưa?",
+      "options": [
+        "đủ",
+        "thiếu 2",
+        "thừa 2",
+        "thiếu 8"
+      ],
+      "correct_answer": "đủ",
+      "distractors": [
+        "thiếu 2",
+        "thừa 2",
+        "thiếu 8"
+      ],
+      "explanation": "10 cộng 8 bằng 18, đúng số bạn khảo sát.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B75_Q14",
+      "type": "fill",
+      "question": "Một bạn đánh dấu cả hai ô trong phiếu yêu cầu chỉ chọn một. Cần làm gì: nhờ bạn chọn lại một ô, tính hai phiếu, bỏ qua cả lớp, tự chọn hộ?",
+      "correct_answer": "nhờ bạn chọn lại một ô",
+      "distractors": [
+        "tính hai phiếu",
+        "bỏ qua cả lớp",
+        "tự chọn hộ"
+      ],
+      "explanation": "Cần làm rõ đúng một lựa chọn của bạn, tránh tính hai lần hoặc tự quyết hộ.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B75_Q15",
+      "type": "mcq",
+      "question": "Các phiếu màu áo lần lượt: xanh, trắng, xanh, vàng, trắng, xanh. Xanh hơn trắng mấy phiếu?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "5"
+      ],
+      "correct_answer": "1",
+      "distractors": [
+        "2",
+        "3",
+        "5"
+      ],
+      "explanation": "Xanh có 3 phiếu, trắng 2 phiếu, chênh 1.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B75_Q16",
+      "type": "fill",
+      "question": "Bảng món ăn ghi xôi 12 bạn, bánh mì 12 bạn. Có thể kết luận chỉ xôi được nhiều nhất không?",
+      "correct_answer": "không",
+      "distractors": [
+        "có",
+        "chỉ bánh mì ít nhất",
+        "xôi hơn 1 phiếu"
+      ],
+      "explanation": "Hai món cùng 12 phiếu nên đang bằng nhau.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B75_Q17",
+      "type": "mcq",
+      "question": "Bảng giờ về có cột 15 giờ và 16 giờ nhưng chưa điền số người. Đã biết giờ nào nhiều bạn chọn hơn chưa?",
+      "options": [
+        "chưa",
+        "đã biết 15 giờ",
+        "đã biết 16 giờ",
+        "hai giờ chắc bằng nhau"
+      ],
+      "correct_answer": "chưa",
+      "distractors": [
+        "đã biết 15 giờ",
+        "đã biết 16 giờ",
+        "hai giờ chắc bằng nhau"
+      ],
+      "explanation": "Thiếu số phiếu nên chưa so sánh được.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B75_Q18",
+      "type": "fill",
+      "question": "Nhóm có 5 bạn. Phiếu đã thu ghi táo 2, cam 1, chuối 1. Còn thiếu phiếu của mấy bạn?",
+      "correct_answer": "1",
+      "distractors": [
+        "4",
+        "2",
+        "5"
+      ],
+      "explanation": "Đã ghi 4 phiếu, nhóm có 5 bạn nên thiếu 1.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B75_Q19",
+      "type": "mcq",
+      "question": "Bảng có hai hàng: tên địa điểm và số người chọn. Số 14 dưới tên bảo tàng có nghĩa gì: 14 người chọn bảo tàng, 14 giờ, 14 km, 14 bảo tàng?",
+      "options": [
+        "14 người chọn bảo tàng",
+        "14 giờ",
+        "14 km",
+        "14 bảo tàng"
+      ],
+      "correct_answer": "14 người chọn bảo tàng",
+      "distractors": [
+        "14 giờ",
+        "14 km",
+        "14 bảo tàng"
+      ],
+      "explanation": "Đơn vị là người chọn nên 14 là số người muốn đến bảo tàng.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B75_Q20",
+      "type": "fill",
+      "question": "Một phiếu ghi nhầm 6 thành 9 ở ô nước cam. Số phiếu tổng bị tăng bao nhiêu?",
+      "correct_answer": "3",
+      "distractors": [
+        "6",
+        "9",
+        "15"
+      ],
+      "explanation": "Số ghi lớn hơn thực tế 9 trừ 6 bằng 3.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B75_Q21",
+      "type": "mcq",
+      "question": "Lớp có 30 bạn, mỗi bạn chọn một điểm. Đã ghi vườn hoa 12, bảo tàng 10. Sân vận động là phương án còn lại. Có mấy bạn chọn sân vận động?",
+      "options": [
+        "8",
+        "22",
+        "10",
+        "18"
+      ],
+      "correct_answer": "8",
+      "distractors": [
+        "22",
+        "10",
+        "18"
+      ],
+      "explanation": "Đã có 22 phiếu, còn 30 trừ 22 bằng 8.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B75_Q22",
+      "type": "fill",
+      "question": "Ba món nhận được 8, 13, 10 phiếu. Món đứng đầu hơn món đứng thứ hai bao nhiêu phiếu?",
+      "correct_answer": "3",
+      "distractors": [
+        "5",
+        "2",
+        "23"
+      ],
+      "explanation": "Số lớn nhất là 13, kế tiếp là 10; chênh 3.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B75_Q23",
+      "type": "mcq",
+      "question": "Khảo sát hai tổ không trùng người: tổ 1 chọn đi bộ 6 và xe đạp 4; tổ 2 chọn đi bộ 3 và xe đạp 7. Có tất cả mấy bạn chọn xe đạp?",
+      "options": [
+        "11",
+        "9",
+        "20",
+        "10"
+      ],
+      "correct_answer": "11",
+      "distractors": [
+        "9",
+        "20",
+        "10"
+      ],
+      "explanation": "Cộng ô xe đạp của hai tổ: 4 cộng 7 bằng 11.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B75_Q24",
+      "type": "fill",
+      "question": "Bảng áo xanh 16 phiếu, trắng 12 phiếu. Hai bạn đổi từ xanh sang trắng. Màu xanh còn mấy phiếu?",
+      "correct_answer": "14",
+      "distractors": [
+        "18",
+        "12",
+        "28"
+      ],
+      "explanation": "Hai phiếu rời nhóm xanh nên còn 16 trừ 2 bằng 14.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B75_Q25",
+      "type": "mcq",
+      "question": "Bảng giờ đi: 7 giờ có 10 phiếu, 8 giờ có 14 phiếu. Ba bạn đổi từ 8 giờ sang 7 giờ. Sau đó giờ nào nhiều phiếu hơn?",
+      "options": [
+        "7 giờ",
+        "8 giờ",
+        "hai giờ bằng nhau",
+        "chưa có phiếu"
+      ],
+      "correct_answer": "7 giờ",
+      "distractors": [
+        "8 giờ",
+        "hai giờ bằng nhau",
+        "chưa có phiếu"
+      ],
+      "explanation": "7 giờ thành 13 phiếu, 8 giờ còn 11 phiếu; 13 lớn hơn 11.",
+      "difficulty": "van_dung",
+      "figure": {
+        "path": "content/toan/tap-2/TOAN3_T2_B75_Q25.svg",
+        "caption": "Số phiếu trước khi ba bạn đổi giờ"
+      }
+    },
+    {
+      "question_id": "TOAN3_T2_B75_Q26",
+      "type": "fill",
+      "question": "Chuyến đi có 27 bạn. Khảo sát mỗi bạn một món ăn cho 11 bánh mì, 9 xôi, 7 bánh bao. Mua đúng một suất mỗi bạn cần tổng mấy suất?",
+      "correct_answer": "27",
+      "distractors": [
+        "20",
+        "18",
+        "28"
+      ],
+      "explanation": "Tổng số suất là 11 cộng 9 cộng 7 bằng 27.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B75_Q27",
+      "type": "mcq",
+      "question": "Bảng địa điểm: vườn hoa 15, bảo tàng 8, công viên 6. Có thêm 4 bạn chọn công viên. Công viên có nhiều hơn bảo tàng chưa?",
+      "options": [
+        "có",
+        "chưa",
+        "bằng nhau",
+        "không thể biết"
+      ],
+      "correct_answer": "có",
+      "distractors": [
+        "chưa",
+        "bằng nhau",
+        "không thể biết"
+      ],
+      "explanation": "Công viên thành 10 phiếu, nhiều hơn 8 phiếu bảo tàng.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B75_Q28",
+      "type": "fill",
+      "question": "Một nhóm khảo sát 20 bạn nhưng ghi được 22 lượt chọn. Nếu mỗi bạn chỉ được chọn một, ít nhất cần kiểm tra lại bao nhiêu lượt thừa?",
+      "correct_answer": "2",
+      "distractors": [
+        "0",
+        "20",
+        "22"
+      ],
+      "explanation": "22 lớn hơn 20 đúng 2 lượt; cần rà lại ít nhất hai lượt thừa.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B75_Q29",
+      "type": "mcq",
+      "question": "Bảng nhu cầu nước: nhóm A 8 chai, nhóm B 7 chai, nhóm C 9 chai. Nước đóng lốc 6 chai. Cần mua mấy lốc để vừa đủ?",
+      "options": [
+        "4",
+        "3",
+        "6",
+        "24"
+      ],
+      "correct_answer": "4",
+      "distractors": [
+        "3",
+        "6",
+        "24"
+      ],
+      "explanation": "Tổng 24 chai; mỗi lốc 6 chai nên cần 4 lốc.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B75_Q30",
+      "type": "fill",
+      "question": "Mỗi bạn chỉ chọn một trong hai màu áo. Có 32 bạn; 19 chọn xanh. Trắng được mấy phiếu?",
+      "correct_answer": "13",
+      "distractors": [
+        "19",
+        "51",
+        "12"
+      ],
+      "explanation": "Phiếu trắng là phần còn lại: 32 trừ 19 bằng 13.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B75_Q31",
+      "type": "mcq",
+      "question": "Bảng trái cây: táo 9, cam 8, chuối 7. Muốn chia thành ba nhóm số phiếu bằng nhau, chuyển từ táo sang chuối mấy phiếu?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "8"
+      ],
+      "correct_answer": "1",
+      "distractors": [
+        "2",
+        "3",
+        "8"
+      ],
+      "explanation": "Chuyển 1 thì táo 8, cam 8, chuối 8.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B75_Q32",
+      "type": "fill",
+      "question": "Lớp có 28 phiếu hợp lệ, mỗi phiếu một món. Bảng ghi bánh cuốn 10, xôi 9, bánh mì 8. Cần bổ sung bao nhiêu phiếu còn chưa chép?",
+      "correct_answer": "1",
+      "distractors": [
+        "0",
+        "2",
+        "3"
+      ],
+      "explanation": "Bảng mới có 27 phiếu nên còn 1 phiếu chưa chép.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B75_Q33",
+      "type": "mcq",
+      "question": "Bảng chọn giờ về: 15 giờ có 6, 16 giờ có 9, 17 giờ có 5. Có bao nhiêu bạn chọn về trước 17 giờ?",
+      "options": [
+        "15",
+        "20",
+        "14",
+        "5"
+      ],
+      "correct_answer": "15",
+      "distractors": [
+        "20",
+        "14",
+        "5"
+      ],
+      "explanation": "Trước 17 giờ gồm 15 giờ và 16 giờ; 6 cộng 9 bằng 15.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B75_Q34",
+      "type": "fill",
+      "question": "Nhóm cắm trại có 18 bạn. Bảng phân công dựng lều 7, chuẩn bị đồ ăn 6, vệ sinh 5, mỗi bạn một việc. Mỗi bạn vệ sinh cần 1 xô. Cần mấy xô cho nhóm vệ sinh?",
+      "correct_answer": "5",
+      "distractors": [
+        "18",
+        "7",
+        "6"
+      ],
+      "explanation": "Có 5 bạn làm vệ sinh, mỗi bạn cần 1 xô nên cần 5 xô.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B75_Q35",
+      "type": "mcq",
+      "question": "Khảo sát 25 bạn, 15 chọn công viên, còn lại chọn vườn hoa. Công viên nhiều hơn vườn hoa mấy phiếu?",
+      "options": [
+        "5",
+        "10",
+        "15",
+        "40"
+      ],
+      "correct_answer": "5",
+      "distractors": [
+        "10",
+        "15",
+        "40"
+      ],
+      "explanation": "Vườn hoa có 10 phiếu; 15 trừ 10 bằng 5.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B75_Q36",
+      "type": "fill",
+      "question": "Bảng áo trắng 9, vàng 8, xanh 11. Cần in tên cho toàn bộ áo, mỗi áo 2 nhãn. Cần bao nhiêu nhãn?",
+      "correct_answer": "56",
+      "distractors": [
+        "28",
+        "22",
+        "46"
+      ],
+      "explanation": "Có 28 áo; mỗi áo 2 nhãn nên cần 56 nhãn.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B75_Q37",
+      "type": "mcq",
+      "question": "Phiếu đồ ăn cho 12 bạn: 5 bánh mì, 4 xôi, 3 bánh bao. Hai bạn chọn xôi xin nghỉ chuyến đi. Cần đặt lại tổng mấy suất?",
+      "options": [
+        "10",
+        "12",
+        "14",
+        "8"
+      ],
+      "correct_answer": "10",
+      "distractors": [
+        "12",
+        "14",
+        "8"
+      ],
+      "explanation": "Từ 12 suất bỏ 2 suất xôi, còn 10 suất.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B75_Q38",
+      "type": "fill",
+      "question": "Một nhóm chỉ ghi ba tên món được chọn, không ghi số người. Muốn chọn món theo số đông thì còn thiếu dữ liệu nào: số người chọn từng món, màu bàn, chiều cao cổng, tên phố?",
+      "correct_answer": "số người chọn từng món",
+      "distractors": [
+        "màu bàn",
+        "chiều cao cổng",
+        "tên phố"
+      ],
+      "explanation": "Cần số lượt chọn từng món mới so sánh được số đông.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B75_Q39",
+      "type": "mcq",
+      "question": "Quy ước gieo xúc xắc: 1 hoặc 2 chọn nước lọc; 3 hoặc 4 chọn nước cam; 5 hoặc 6 chọn nước chanh. Gieo được 5 thì chọn nước gì?",
+      "options": [
+        "nước chanh",
+        "nước lọc",
+        "nước cam",
+        "sữa"
+      ],
+      "correct_answer": "nước chanh",
+      "distractors": [
+        "nước lọc",
+        "nước cam",
+        "sữa"
+      ],
+      "explanation": "Số 5 thuộc cặp 5 hoặc 6, tương ứng nước chanh.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B75_Q40",
+      "type": "fill",
+      "question": "Sau khảo sát 24 bạn: công viên 12, bảo tàng 7, vườn hoa 5. Thầy yêu cầu chọn nơi có hơn một nửa số phiếu. Công viên đã đạt yêu cầu chưa?",
+      "correct_answer": "chưa",
+      "distractors": [
+        "đã đạt",
+        "vượt 1 phiếu",
+        "vượt 12 phiếu"
+      ],
+      "explanation": "Một nửa 24 là 12; công viên đúng 12, chưa lớn hơn 12.",
+      "difficulty": "van_dung"
+    }
+  ],
+  "games": [
+    {
+      "id": "TOAN3_T2_B75_GAME1",
+      "title": "Ban tổ chức nhí",
+      "mode": "match",
+      "objective": "Dùng phiếu khảo sát để chọn phương án và chuẩn bị đồ dùng đủ số lượng.",
+      "rules": [
+        "Mỗi lượt chọn 5 câu có 5 đáp án khác nhau.",
+        "Chọn câu hỏi bên trái rồi đáp án bên phải. Sai thì thử lại.",
+        "Mỗi cặp đúng 10 điểm; tối đa 50 điểm."
+      ],
+      "question_ids": [
+        "TOAN3_T2_B75_Q01",
+        "TOAN3_T2_B75_Q02",
+        "TOAN3_T2_B75_Q03",
+        "TOAN3_T2_B75_Q04",
+        "TOAN3_T2_B75_Q05",
+        "TOAN3_T2_B75_Q06",
+        "TOAN3_T2_B75_Q07",
+        "TOAN3_T2_B75_Q08",
+        "TOAN3_T2_B75_Q09",
+        "TOAN3_T2_B75_Q10",
+        "TOAN3_T2_B75_Q11",
+        "TOAN3_T2_B75_Q12",
+        "TOAN3_T2_B75_Q13",
+        "TOAN3_T2_B75_Q14",
+        "TOAN3_T2_B75_Q15",
+        "TOAN3_T2_B75_Q16",
+        "TOAN3_T2_B75_Q17",
+        "TOAN3_T2_B75_Q18",
+        "TOAN3_T2_B75_Q19",
+        "TOAN3_T2_B75_Q20",
+        "TOAN3_T2_B75_Q21",
+        "TOAN3_T2_B75_Q22",
+        "TOAN3_T2_B75_Q23",
+        "TOAN3_T2_B75_Q24",
+        "TOAN3_T2_B75_Q25",
+        "TOAN3_T2_B75_Q26",
+        "TOAN3_T2_B75_Q27",
+        "TOAN3_T2_B75_Q28",
+        "TOAN3_T2_B75_Q29",
+        "TOAN3_T2_B75_Q30",
+        "TOAN3_T2_B75_Q31",
+        "TOAN3_T2_B75_Q32",
+        "TOAN3_T2_B75_Q33",
+        "TOAN3_T2_B75_Q34",
+        "TOAN3_T2_B75_Q35",
+        "TOAN3_T2_B75_Q36",
+        "TOAN3_T2_B75_Q37",
+        "TOAN3_T2_B75_Q38",
+        "TOAN3_T2_B75_Q39",
+        "TOAN3_T2_B75_Q40"
+      ],
+      "answer_source": "practice.correct_answer",
+      "feedback_source": "practice.explanation",
+      "max_score": 50
+    }
+  ],
+  "assessment": {
+    "session_size": 10,
+    "distribution": {
+      "nhan_biet": 3,
+      "thong_hieu": 3,
+      "van_dung": 4
+    },
+    "scoring": "Đúng lần đầu: 1 điểm; đúng sau một gợi ý: 0,5 điểm. Từ 90%: 3 sao; từ 60%: 2 sao; còn lại: 1 sao.",
+    "review_advice": "Xem lời giải các câu sai, đọc lại quy tắc, rồi làm một lượt mới."
+  },
+  "feedback": {
+    "correct": "Chính xác! Hãy đọc lời giải để củng cố cách làm.",
+    "incorrect": "Em thử lại một lần. Sau đó xem đáp án và cách giải."
+  },
+  "verification": {
+    "ai_authored": true,
+    "structure_checked": true,
+    "answer_reviewed": true,
+    "source_reviewed": true,
+    "teacher_approved": false
+  },
+  "status": "AI_CHECKED_AWAITING_TEACHER",
+  "activities": [
+    {
+      "title": "Khảo sát thật trong nhóm",
+      "materials": [
+        "Một phiếu cho mỗi bạn",
+        "Bút",
+        "Giấy lập bảng"
+      ],
+      "steps": [
+        "Đề xuất ba hoạt động phù hợp với nhóm và thống nhất mỗi người chọn một.",
+        "Hỏi từng bạn; ghi lựa chọn thật, không dùng số liệu của bài mẫu.",
+        "Đếm phiếu và lập bảng; kiểm tra tổng bằng số bạn đã trả lời.",
+        "Nếu hòa phiếu, thảo luận cách giải quyết trước khi chốt hoạt động."
+      ],
+      "check": [
+        "Số phiếu có khớp số người trả lời không?",
+        "Quyết định có tuân theo cách chọn đã thống nhất không?"
+      ]
+    }
+  ],
+  "figures": [
+    {
+      "path": "content/toan/tap-2/TOAN3_T2_B75_Q25.svg",
+      "caption": "Số phiếu trước khi ba bạn đổi giờ"
+    }
+  ]
+}

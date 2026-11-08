@@ -1,0 +1,164 @@
+Bài 73
+Khảo sát ghi: xe đạp 8 bạn, đi bộ 6 bạn, xe buýt 4 bạn. Có mấy nhóm cách đến trường?|3|Có ba nhóm: xe đạp, đi bộ và xe buýt.|18;8;2
+Sổ ghi các màu bút: đỏ, xanh, đỏ, vàng, xanh, đỏ. Có bao nhiêu bút đỏ?|3|Đếm được ba lần xuất hiện của màu đỏ.|2;6;1
+Một nhóm ghi kết quả nhảy dây bằng dấu X, mỗi X là một lần. Dòng của Hà là XXXXX. Hà nhảy được mấy lần?|5|Có năm dấu X nên có năm lần nhảy.|4;6;1
+Bảng vườn cây có hàng tên cây và hàng số cây. Số 12 nằm ở cột cây ổi. Vườn có mấy cây ổi?|12|Đọc đúng giao điểm hàng số cây và cột cây ổi: 12.|2;10;21
+Thư viện ghi số sách mượn theo đơn vị quyển. Dòng truyện ghi 17. Em cần điền số nào vào ô số quyển truyện đã mượn?|17|Ô này ghi số lượng truyện, là 17 quyển.|7;1;71
+Kết quả ném bóng của An: vào, trượt, vào, vào, trượt, vào. Có mấy lần trượt?|2|Hai lượt được ghi là trượt.|4;6;3
+Nhóm rau có 4 bó cải và 7 bó rau muống. Nếu phân loại theo tên rau thì có mấy loại?|2|Cải và rau muống là hai loại, không phải 11 loại.|11;4;7
+Bảng có cột Thứ Hai, Thứ Ba, Thứ Tư. Em muốn biết số khách Thứ Ba thì đọc cột thứ mấy trong ba cột ngày?|2|Thứ Ba đứng thứ hai trong ba cột ngày đã nêu.|1;3;4
+Ghi chép chiều cao của Bình là 128 cm. Số đo này có đơn vị gì?|cm|Chiều cao đã được ghi bằng xăng-ti-mét, kí hiệu cm.|kg;lít;giờ
+Phiếu phân loại có nhóm giấy, nhóm nhựa và nhóm kim loại. Một chai nhựa rỗng thuộc nhóm nào?|nhựa|Vật liệu của chai đã cho là nhựa.|giấy;kim loại;vải
+Bảng số cây trồng ghi: tổ A 9 cây, tổ B 13 cây, tổ C 11 cây. Tổ nào trồng nhiều nhất?|tổ B|So sánh 9, 13, 11: 13 lớn nhất, thuộc tổ B.|tổ A;tổ C;ba tổ bằng nhau
+Ghi chép số bạn chọn chè: 6; sữa chua: 9; bánh: 4. Món nào ít bạn chọn nhất?|bánh|Trong 6, 9, 4 thì 4 nhỏ nhất, là số bạn chọn bánh.|chè;sữa chua;không xác định
+Bảng số thùng giấy thu gom: sáng 14, chiều 9. Buổi sáng nhiều hơn chiều bao nhiêu thùng?|5|Lấy 14 trừ 9 được 5 thùng.|23;4;9
+Phiếu khảo sát 20 bạn, mỗi bạn chỉ chọn một loại quả: cam 8, táo 7, chuối 5. Tổng các số đã ghi có khớp 20 bạn không?|có|8 cộng 7 cộng 5 bằng 20, khớp số bạn khảo sát.|không;thiếu 5 bạn;thừa 7 bạn
+Bạn ghi số bút của hai hộp vào một ô tổng là 18. Muốn biết riêng từng hộp từ ô này có được không?|không|Một số tổng không cho biết cách chia 18 chiếc vào hai hộp.|có;hộp nào cũng 9;hộp đầu 18
+Bảng số quả thu hoạch ghi theo kg: xoài 15, ổi 12. Có thể gọi số 15 là 15 quả xoài không?|không|Đơn vị bảng là kg; 15 nghĩa là 15 kg xoài, không phải số quả.|có;luôn luôn;chỉ khi có 12 quả ổi
+Sổ ghi màu mũ: xanh, đỏ, xanh, vàng, đỏ, xanh, vàng. Màu xanh nhiều hơn màu vàng mấy chiếc?|1|Xanh có 3 chiếc, vàng có 2 chiếc nên hơn 1 chiếc.|2;3;5
+Một bảng ghi số học sinh của lớp 3D: nam 16, nữ 18. Ô cả lớp cần ghi số nào?|34|Cộng hai nhóm không trùng nhau: 16 cộng 18 bằng 34.|32;2;36
+Bảng số hoa ghi cúc 10, hồng 10, sen 6. Có mấy loại cùng nhiều nhất?|2|Cúc và hồng cùng đạt số lớn nhất là 10.|1;3;10
+Phiếu đếm có 5 dấu gạch và thêm 3 dấu gạch, mỗi gạch ứng với một vật. Số lượng cần ghi là bao nhiêu?|8|Gộp 5 dấu với 3 dấu được 8 dấu, tương ứng 8 vật.|2;15;53
+Một lớp có 28 bạn, mỗi bạn chọn đúng một môn. Bảng ghi bơi 9 bạn, cờ vua 8 bạn, cầu lông chưa ghi. Có mấy bạn chọn cầu lông?|11|Hai môn đã ghi có 17 bạn; còn 28 trừ 17 bằng 11 bạn.|17;19;9
+Ghi số cây qua hai ngày: ngày đầu cam 7, ổi 5; ngày sau cam 6, ổi 9. Hai ngày trồng được tất cả bao nhiêu cây ổi?|14|Chỉ cộng số cây ổi của hai ngày: 5 cộng 9 bằng 14.|13;27;12
+Bảng nhiệt độ: sáng 23 độ C, trưa 30 độ C, tối 25 độ C. Trưa cao hơn sáng bao nhiêu độ C?|7|Hiệu giữa 30 và 23 là 7 độ C.|5;53;2
+Ba đội thu gom được 18, 12, 15 kg giấy. Cần chia lại thành ba phần bằng nhau. Mỗi phần có bao nhiêu kg?|15|Tổng là 45 kg; chia 3 phần được 15 kg mỗi phần.|12;18;45
+Nhật kí mượn sách: thứ Hai 11 quyển, thứ Ba 8 quyển, thứ Tư 14 quyển. Muốn ba ngày đủ 40 quyển cần thêm bao nhiêu quyển?|7|Đã có 33 quyển nên còn thiếu 40 trừ 33 bằng 7 quyển.|33;6;26
+Bảng ba lớp ghi 3A: 31 bạn; 3B: 29 bạn; 3C: 32 bạn. Cả ba lớp cần ghế, mỗi bạn một ghế. Cần bao nhiêu ghế?|92|Cộng số bạn: 31 cộng 29 cộng 32 bằng 92.|90;93;61
+Kết quả ném bóng 10 lượt: vào 6, trượt 4. Thêm 3 lượt đều vào rổ. Tổng số lần vào rổ lúc này là bao nhiêu?|9|Số lần vào rổ tăng từ 6 lên 9; không cộng những lượt trượt.|13;7;10
+Khảo sát 24 bạn, mỗi bạn một lựa chọn. Bảng ghi đá cầu 10, bóng bàn 9, cờ vua 6. Bảng thừa bao nhiêu lượt chọn so với 24 bạn?|1|Tổng bảng là 25 lượt, lớn hơn số bạn 24 đúng 1 lượt.|0;6;25
+Sổ bán vở ghi thứ Hai 20 quyển, thứ Ba ít hơn thứ Hai 4 quyển. Ô thứ Ba phải ghi bao nhiêu?|16|Thứ Ba bán 20 trừ 4 bằng 16 quyển.|24;4;80
+Bảng số áo: xanh 14, trắng 9, đỏ 7. Cửa hàng bán 5 áo xanh và chưa bán màu khác. Còn tất cả bao nhiêu áo?|25|Ban đầu 30 áo; bán 5 còn 25 áo.|30;9;35
+Một phiếu ghi các số: 12, 15, 12, 18, 15, 12. Nếu phân loại theo giá trị số thì nhóm 12 có mấy phần tử?|3|Số 12 xuất hiện ba lần trong dãy.|2;6;4
+Ba thùng rác tái chế ghi giấy 16 kg, nhựa 7 kg, kim loại 9 kg. Giấy nặng bằng tổng hai nhóm còn lại không?|có|Nhựa cộng kim loại là 7 cộng 9 bằng 16 kg, bằng giấy.|không;giấy nhẹ hơn 2 kg;giấy nặng hơn 9 kg
+Bảng điểm trò chơi của Lan: lượt 1 được 8, lượt 2 được 6, tổng 15. Cần sửa tổng thành số nào?|14|Hai lượt có 8 cộng 6 bằng 14 điểm; ô tổng 15 bị ghi sai.|15;2;48
+Một lớp có 17 nam, 15 nữ. Hôm nay vắng 2 nữ, không vắng nam. Bảng có mặt cần ghi tổng bao nhiêu bạn?|30|Cả lớp 32 bạn, vắng 2 nên có mặt 30 bạn.|32;34;28
+Bảng đàn gà ghi gà mái 24 con, gà trống 8 con. Mỗi ô chuồng chứa 4 con. Cần ít nhất mấy ô cho cả đàn?|8|Có 32 con; 32 chia 4 được 8 ô.|6;4;32
+Một tổ ghi số hạt nảy mầm ngày thứ ba là 9, ngày thứ tư là 12 (số đã nảy mầm tính đến từng ngày). Có thêm mấy hạt nảy mầm từ ngày ba sang ngày bốn?|3|Hai số là số tích lũy, số tăng thêm là 12 trừ 9 bằng 3.|21;12;9
+Bảng dự định đọc sách: tuần 1 là 18 trang, tuần 2 là 22 trang. Thực tế tuần 1 ít hơn dự định 3 trang, tuần 2 đúng dự định. Đã đọc tất cả mấy trang?|37|Tuần 1 đọc 15 trang; cộng 22 trang tuần 2 được 37 trang.|40;43;25
+Hai nhóm khảo sát riêng, không có bạn trùng: nhóm 1 chọn sữa 7 và nước 5; nhóm 2 chọn sữa 6 và nước 8. Gộp hai nhóm, có bao nhiêu bạn chọn sữa?|13|Cộng hai ô sữa: 7 cộng 6 bằng 13 bạn.|12;25;14
+Bảng trồng cây ghi lớp 3A 12 cây, lớp 3B 16 cây. Muốn 3A bằng 3B bằng cách chuyển cây từ 3B sang 3A thì chuyển mấy cây?|2|Chênh lệch 4 cây; chuyển 2 thì mỗi lớp 14 cây.|4;1;14
+Sổ ghi 5 túi, số viên bi lần lượt 4, 6, 4, 3, 4. Có tất cả bao nhiêu viên trong những túi có đúng 4 viên?|12|Có 3 túi mỗi túi 4 viên, tổng là 12 viên.|3;21;4
+Bài 74
+Hộp chỉ có bi tím. Lấy một viên bất kì. Việc lấy được bi tím là chắc chắn, có thể hay không thể?|chắc chắn|Mọi viên trong hộp đều tím nên lấy viên nào cũng tím.|có thể;không thể;chưa biết
+Túi có thẻ đỏ và thẻ xanh, không có thẻ vàng. Lấy một thẻ. Việc lấy được thẻ vàng thuộc loại nào?|không thể|Trong túi không có thẻ vàng để lấy.|chắc chắn;có thể;luôn xảy ra
+Hộp có một quả bóng trắng và một quả bóng đen. Lấy một quả. Việc lấy được bóng trắng thuộc loại nào?|có thể|Có bóng trắng nên lấy được, nhưng cũng có thể lấy bóng đen.|chắc chắn;không thể;luôn xảy ra
+Một đồng xu có một mặt hoa, một mặt lá. Tung xu nằm phẳng trên bàn, mặt trên có thể là hoa hoặc gì?|lá|Xu chỉ có hai mặt đã nêu: hoa và lá.|cá;chim;quả
+Thẻ trong túi chỉ ghi các số 2, 4, 6. Rút một thẻ. Có thể rút được số 5 không?|không|Không có thẻ số 5 trong túi.|có;chắc chắn;luôn luôn
+Một con xúc xắc có các mặt ghi từ 1 đến 6. Gieo một lần, mặt trên có thể là 6 không?|có|Số 6 nằm trên một mặt của xúc xắc.|không;không bao giờ;chỉ có số 1
+Túi có 3 viên bi đều màu xanh. Không nhìn, lấy 1 viên. Có thể lấy được bi đỏ không?|không|Không có bi đỏ trong túi.|có;luôn được;chắc chắn được
+Ba thẻ ghi mèo, chó, chim. Rút một thẻ, có thể nhận được tên con vật nào trong các tên: cá, chó, bò, vịt?|chó|Chỉ tên chó có trên một thẻ trong túi.|cá;bò;vịt
+Hộp có 5 bút chì. Lấy đúng một chiếc. Lấy được một chiếc bút chì là sự kiện gì?|chắc chắn|Tất cả vật trong hộp đều là bút chì.|không thể;có thể;không rõ
+Túi có thẻ số 1 và số 3. Lấy một thẻ, nhận được số chẵn là sự kiện gì?|không thể|Cả 1 và 3 đều lẻ, không có thẻ số chẵn.|chắc chắn;có thể;luôn xảy ra
+Hộp có 9 bi xanh và 1 bi đỏ. Lấy một bi. Vì xanh nhiều hơn nên có chắc lấy được xanh không?|không|Vẫn có thể lấy trúng viên đỏ nên không chắc chắn lấy xanh.|có;chắc chắn;luôn lấy xanh
+Túi có hai thẻ A và B. Sau khi rút được A rồi bỏ lại, lượt sau có thể rút A nữa không?|có|Thẻ A đã được bỏ lại túi nên vẫn có thể rút được.|không;chỉ được B;A biến mất
+Hai thẻ ghi số 4 và số 7. Rút cả hai, không bỏ lại. Tổng hai số chắc chắn bằng bao nhiêu?|11|Rút cả hai nghĩa là có đủ 4 và 7, tổng là 11.|4;7;14
+Một hộp có 2 bi đỏ, 1 bi xanh. Lấy hai viên không bỏ lại. Có thể lấy hai bi xanh không?|không|Chỉ có một bi xanh nên không đủ hai viên xanh.|có;chắc chắn;luôn được
+Một đồng xu có mặt sao và mặt trăng. Ba lần đầu đều ra sao. Lần thứ tư có chắc ra trăng không?|không|Các lượt trước không bắt buộc kết quả lượt sau; vẫn có thể ra sao.|có;chắc chắn trăng;không thể ra sao
+Túi có các thẻ 2, 3, 5. Lấy một thẻ. Số nhận được nhỏ hơn 6 là sự kiện gì?|chắc chắn|Cả ba số 2, 3, 5 đều nhỏ hơn 6.|có thể;không thể;không rõ
+Hộp có 4 bóng cam và 2 bóng trắng. Lấy một bóng. Nhận xét nào đúng: có thể được trắng, chắc chắn được trắng, không thể được trắng, chỉ được tím?|có thể được trắng|Có bóng trắng và bóng cam nên trắng có thể xảy ra nhưng không chắc chắn.|chắc chắn được trắng;không thể được trắng;chỉ được tím
+Một xúc xắc ghi 1 đến 6. Sự kiện mặt trên lớn hơn 6 thuộc loại nào?|không thể|Không mặt nào có số lớn hơn 6.|có thể;chắc chắn;luôn xảy ra
+Hộp có ba thẻ ghi 8, 8, 8. Rút một thẻ được số 8 có cần biết rút thẻ nào không?|không|Thẻ nào cũng ghi 8 nên không cần biết thẻ cụ thể.|có;chỉ thẻ đầu đúng;chỉ thẻ cuối đúng
+Túi có một viên trắng và hai viên đen. Lấy hết ba viên. Có chắc có viên trắng không?|có|Lấy hết túi thì lấy cả viên trắng.|không;không bao giờ;chỉ có đen
+Muốn lấy một thẻ bất kì luôn được số chẵn, túi đang có thẻ 2, 4, 5. Cần bỏ thẻ số nào?|5|Bỏ thẻ lẻ 5 thì chỉ còn 2 và 4 là số chẵn.|2;4;6
+Hộp hiện có hai viên bi đỏ. Thêm một viên màu nào để lấy một viên có thể được xanh?|xanh|Cần đưa bi xanh vào hộp để việc lấy xanh có thể xảy ra.|đỏ;trắng;vàng
+Có 3 thẻ xanh và 1 thẻ vàng. Lấy 3 thẻ không bỏ lại. Có chắc có ít nhất một thẻ xanh không?|có|Chỉ có một thẻ vàng; không thể lấy ba thẻ mà không có xanh.|không;chỉ khi lấy 4 thẻ;không thể có xanh
+Hộp có 1 bóng đỏ và 1 bóng vàng. Lấy một bóng rồi giữ bên ngoài. Nếu bóng đầu đỏ thì bóng còn lại màu gì?|vàng|Bóng đỏ đã được lấy ra nên trong hộp chỉ còn vàng.|đỏ;xanh;trắng
+Túi có thẻ 1, 2, 3. Rút hai thẻ khác nhau không bỏ lại. Có thể được tổng 6 không?|không|Tổng lớn nhất là 2 cộng 3 bằng 5; tổng 6 không thể xảy ra.|có;chắc chắn;luôn được
+Một hộp có bút đỏ và bút xanh. Muốn lấy một chiếc không thể được đỏ, phải lấy hết bút màu nào ra trước?|đỏ|Khi không còn bút đỏ trong hộp thì không thể lấy được đỏ.|xanh;đen;vàng
+Túi có thẻ 3, 6, 9. Rút một thẻ. Muốn sự kiện rút được 12 trở thành có thể, cần thêm thẻ số nào?|12|Thêm thẻ ghi 12 thì 12 trở thành một kết quả có thể.|3;6;9
+Một túi có 2 bi trắng và 2 bi đen. Lấy một viên rồi bỏ lại, sau đó lấy tiếp. Có thể cả hai lần đều trắng không?|có|Sau lượt đầu, bi trắng được bỏ lại nên lượt sau vẫn có thể trắng.|không;chắc chắn đen lần sau;trắng chỉ được một lần
+Có thẻ 0, 5, 10. Rút một thẻ. Sự kiện số trên thẻ lớn hơn hoặc bằng 0 thuộc loại nào?|chắc chắn|Cả 0, 5, 10 đều lớn hơn hoặc bằng 0.|không thể;có thể;không rõ
+Một hộp có 4 bi vàng và 1 bi đỏ. Lấy 2 viên không bỏ lại. Có thể được một vàng và một đỏ không?|có|Hộp có đủ một viên mỗi màu để lấy được cặp đó.|không;chắc chắn hai đỏ;chỉ có hai vàng
+Hai thẻ ghi 1 và 2. Rút một thẻ, bỏ lại, rồi rút tiếp. Tổng có thể bằng 4 không?|có|Có thể rút số 2 ở cả hai lần vì đã bỏ lại thẻ.|không;chỉ bằng 3;chắc chắn bằng 2
+Túi có 6 thẻ đều ghi tên hoa. Rút một thẻ. Muốn rút được tên con vật là không thể vì sao? Chọn: không có thẻ tên con vật; có 6 thẻ; túi nhỏ; rút chậm.|không có thẻ tên con vật|Kết quả chỉ đến từ các thẻ có trong túi; không có tên con vật.|có 6 thẻ;túi nhỏ;rút chậm
+Hộp có 2 kẹo dâu và 3 kẹo chanh. Lấy cả 5 kẹo. Có chắc lấy đủ hai vị không?|có|Lấy cả hộp thì có cả kẹo dâu và kẹo chanh.|không;chỉ được dâu;chỉ được chanh
+Có ba thẻ ghi 2, 4, 6. Rút hai thẻ không bỏ lại. Tổng nhỏ nhất có thể nhận là bao nhiêu?|6|Hai số nhỏ nhất là 2 và 4, cộng được 6.|4;8;10
+Xúc xắc sáu mặt ghi 1 đến 6. Chọn áo xanh nếu ra 1 hoặc 2, áo đỏ nếu ra 3 hoặc 4, áo vàng nếu ra 5 hoặc 6. Ra số 4 thì chọn màu nào?|đỏ|Số 4 nằm trong nhóm 3 hoặc 4 nên chọn đỏ.|xanh;vàng;trắng
+Một bánh xe quay chỉ có ô ghi A, B, C. Kim dừng đúng một ô. Sự kiện kim dừng ở A hoặc B hoặc C thuộc loại nào?|chắc chắn|Ba ô đã liệt kê bao quát mọi vị trí dừng được cho.|không thể;có thể;không rõ
+Có 1 thẻ tròn và 3 thẻ vuông. Lấy 2 thẻ không bỏ lại. Có thể cả hai thẻ đều tròn không?|không|Chỉ có một thẻ tròn nên không lấy được hai thẻ tròn.|có;chắc chắn;luôn được
+Hộp có 5 bi đỏ. Thêm 2 bi xanh rồi lấy một viên. Sự kiện lấy được đỏ còn chắc chắn không?|không|Sau khi thêm bi xanh, có thể lấy xanh nên đỏ không còn chắc chắn.|có;luôn đỏ;không có xanh
+Túi có thẻ số 1, 2, 3, 4. Rút một thẻ. Sự kiện số rút được nằm giữa 0 và 5 thuộc loại nào?|chắc chắn|Mọi số trong túi đều lớn hơn 0 và nhỏ hơn 5.|có thể;không thể;không rõ
+Một nhóm tung xu mặt cây và mặt hoa, ghi được cây, hoa, cây, cây. Chưa tung lượt tiếp. Có thể ghi chắc lượt tiếp là cây không?|không|Chưa tung thì chưa biết kết quả; cả cây và hoa đều có thể xảy ra.|có;chắc chắn cây;không thể hoa
+Bài 75
+Để biết các bạn muốn đi đâu, em cần làm việc nào trước: hỏi ý kiến, đo chiều cao, cân cặp, đếm bàn?|hỏi ý kiến|Khảo sát lựa chọn địa điểm cần hỏi ý kiến các bạn.|đo chiều cao;cân cặp;đếm bàn
+Phiếu khảo sát màu áo có ba ô xanh, trắng, vàng. Mỗi bạn chỉ chọn một ô. Có mấy phương án màu áo?|3|Ba ô tương ứng ba phương án màu.|1;2;4
+Sổ đăng kí món ăn ghi bánh mì 8 bạn, xôi 6 bạn. Có mấy bạn chọn xôi?|6|Đọc ô xôi thấy 6 bạn.|8;14;2
+Khảo sát địa điểm ghi công viên 12 bạn, bảo tàng 9 bạn. Nơi nào được nhiều bạn chọn hơn?|công viên|12 lớn hơn 9 nên công viên được nhiều bạn chọn hơn.|bảo tàng;hai nơi bằng nhau;không xác định
+Khi ghi số người chọn giờ đi, nên dùng đơn vị nào: người, cm, kg hay lít?|người|Ta đang đếm người lựa chọn, không đo độ dài hay khối lượng.|cm;kg;lít
+Bảng màu áo ghi xanh 7, vàng 7, trắng 5. Có mấy màu cùng đứng đầu?|2|Xanh và vàng cùng có 7 phiếu, nhiều nhất.|1;3;7
+Mỗi dấu chấm là một phiếu. Dòng nước lọc có 4 chấm. Cần ghi số nào vào bảng?|4|Bốn dấu chấm tương ứng bốn phiếu.|1;3;5
+Khảo sát gồm 10 bạn, mỗi bạn một phiếu. Cần thu đủ bao nhiêu phiếu?|10|Mỗi bạn nộp một phiếu nên 10 bạn có 10 phiếu.|1;5;20
+Muốn đếm riêng số bạn chọn trái cây, em đọc nhóm nào trong sổ: trái cây, bánh, nước, giờ đi?|trái cây|Đúng nhóm trái cây mới cho số bạn chọn trái cây.|bánh;nước;giờ đi
+Thẻ khảo sát ghi ba điểm: vườn hoa, bảo tàng, sân vận động. Có bao nhiêu địa điểm được đưa ra để chọn?|3|Đếm được ba địa điểm đã nêu.|2;4;1
+Lớp chọn một món theo số phiếu nhiều nhất: bánh bao 9, xôi 11, bánh mì 8. Chọn món nào?|xôi|Xôi có 11 phiếu là số lớn nhất.|bánh bao;bánh mì;không món nào
+Bảng giờ xuất phát ghi 7 giờ: 13 bạn; 8 giờ: 15 bạn. Nếu theo số đông thì chọn mấy giờ?|8|15 lớn hơn 13 nên phương án 8 giờ được chọn.|7;13;15
+Khảo sát 18 bạn, mỗi bạn chọn một nước uống. Bảng ghi nước lọc 10, nước cam 8. Tổng đã đủ chưa?|đủ|10 cộng 8 bằng 18, đúng số bạn khảo sát.|thiếu 2;thừa 2;thiếu 8
+Một bạn đánh dấu cả hai ô trong phiếu yêu cầu chỉ chọn một. Cần làm gì: nhờ bạn chọn lại một ô, tính hai phiếu, bỏ qua cả lớp, tự chọn hộ?|nhờ bạn chọn lại một ô|Cần làm rõ đúng một lựa chọn của bạn, tránh tính hai lần hoặc tự quyết hộ.|tính hai phiếu;bỏ qua cả lớp;tự chọn hộ
+Các phiếu màu áo lần lượt: xanh, trắng, xanh, vàng, trắng, xanh. Xanh hơn trắng mấy phiếu?|1|Xanh có 3 phiếu, trắng 2 phiếu, chênh 1.|2;3;5
+Bảng món ăn ghi xôi 12 bạn, bánh mì 12 bạn. Có thể kết luận chỉ xôi được nhiều nhất không?|không|Hai món cùng 12 phiếu nên đang bằng nhau.|có;chỉ bánh mì ít nhất;xôi hơn 1 phiếu
+Bảng giờ về có cột 15 giờ và 16 giờ nhưng chưa điền số người. Đã biết giờ nào nhiều bạn chọn hơn chưa?|chưa|Thiếu số phiếu nên chưa so sánh được.|đã biết 15 giờ;đã biết 16 giờ;hai giờ chắc bằng nhau
+Nhóm có 5 bạn. Phiếu đã thu ghi táo 2, cam 1, chuối 1. Còn thiếu phiếu của mấy bạn?|1|Đã ghi 4 phiếu, nhóm có 5 bạn nên thiếu 1.|4;2;5
+Bảng có hai hàng: tên địa điểm và số người chọn. Số 14 dưới tên bảo tàng có nghĩa gì: 14 người chọn bảo tàng, 14 giờ, 14 km, 14 bảo tàng?|14 người chọn bảo tàng|Đơn vị là người chọn nên 14 là số người muốn đến bảo tàng.|14 giờ;14 km;14 bảo tàng
+Một phiếu ghi nhầm 6 thành 9 ở ô nước cam. Số phiếu tổng bị tăng bao nhiêu?|3|Số ghi lớn hơn thực tế 9 trừ 6 bằng 3.|6;9;15
+Lớp có 30 bạn, mỗi bạn chọn một điểm. Đã ghi vườn hoa 12, bảo tàng 10. Sân vận động là phương án còn lại. Có mấy bạn chọn sân vận động?|8|Đã có 22 phiếu, còn 30 trừ 22 bằng 8.|22;10;18
+Ba món nhận được 8, 13, 10 phiếu. Món đứng đầu hơn món đứng thứ hai bao nhiêu phiếu?|3|Số lớn nhất là 13, kế tiếp là 10; chênh 3.|5;2;23
+Khảo sát hai tổ không trùng người: tổ 1 chọn đi bộ 6 và xe đạp 4; tổ 2 chọn đi bộ 3 và xe đạp 7. Có tất cả mấy bạn chọn xe đạp?|11|Cộng ô xe đạp của hai tổ: 4 cộng 7 bằng 11.|9;20;10
+Bảng áo xanh 16 phiếu, trắng 12 phiếu. Hai bạn đổi từ xanh sang trắng. Màu xanh còn mấy phiếu?|14|Hai phiếu rời nhóm xanh nên còn 16 trừ 2 bằng 14.|18;12;28
+Bảng giờ đi: 7 giờ có 10 phiếu, 8 giờ có 14 phiếu. Ba bạn đổi từ 8 giờ sang 7 giờ. Sau đó giờ nào nhiều phiếu hơn?|7 giờ|7 giờ thành 13 phiếu, 8 giờ còn 11 phiếu; 13 lớn hơn 11.|8 giờ;hai giờ bằng nhau;chưa có phiếu
+Chuyến đi có 27 bạn. Khảo sát mỗi bạn một món ăn cho 11 bánh mì, 9 xôi, 7 bánh bao. Mua đúng một suất mỗi bạn cần tổng mấy suất?|27|Tổng số suất là 11 cộng 9 cộng 7 bằng 27.|20;18;28
+Bảng địa điểm: vườn hoa 15, bảo tàng 8, công viên 6. Có thêm 4 bạn chọn công viên. Công viên có nhiều hơn bảo tàng chưa?|có|Công viên thành 10 phiếu, nhiều hơn 8 phiếu bảo tàng.|chưa;bằng nhau;không thể biết
+Một nhóm khảo sát 20 bạn nhưng ghi được 22 lượt chọn. Nếu mỗi bạn chỉ được chọn một, ít nhất cần kiểm tra lại bao nhiêu lượt thừa?|2|22 lớn hơn 20 đúng 2 lượt; cần rà lại ít nhất hai lượt thừa.|0;20;22
+Bảng nhu cầu nước: nhóm A 8 chai, nhóm B 7 chai, nhóm C 9 chai. Nước đóng lốc 6 chai. Cần mua mấy lốc để vừa đủ?|4|Tổng 24 chai; mỗi lốc 6 chai nên cần 4 lốc.|3;6;24
+Mỗi bạn chỉ chọn một trong hai màu áo. Có 32 bạn; 19 chọn xanh. Trắng được mấy phiếu?|13|Phiếu trắng là phần còn lại: 32 trừ 19 bằng 13.|19;51;12
+Bảng trái cây: táo 9, cam 8, chuối 7. Muốn chia thành ba nhóm số phiếu bằng nhau, chuyển từ táo sang chuối mấy phiếu?|1|Chuyển 1 thì táo 8, cam 8, chuối 8.|2;3;8
+Lớp có 28 phiếu hợp lệ, mỗi phiếu một món. Bảng ghi bánh cuốn 10, xôi 9, bánh mì 8. Cần bổ sung bao nhiêu phiếu còn chưa chép?|1|Bảng mới có 27 phiếu nên còn 1 phiếu chưa chép.|0;2;3
+Bảng chọn giờ về: 15 giờ có 6, 16 giờ có 9, 17 giờ có 5. Có bao nhiêu bạn chọn về trước 17 giờ?|15|Trước 17 giờ gồm 15 giờ và 16 giờ; 6 cộng 9 bằng 15.|20;14;5
+Nhóm cắm trại có 18 bạn. Bảng phân công dựng lều 7, chuẩn bị đồ ăn 6, vệ sinh 5, mỗi bạn một việc. Mỗi bạn vệ sinh cần 1 xô. Cần mấy xô cho nhóm vệ sinh?|5|Có 5 bạn làm vệ sinh, mỗi bạn cần 1 xô nên cần 5 xô.|18;7;6
+Khảo sát 25 bạn, 15 chọn công viên, còn lại chọn vườn hoa. Công viên nhiều hơn vườn hoa mấy phiếu?|5|Vườn hoa có 10 phiếu; 15 trừ 10 bằng 5.|10;15;40
+Bảng áo trắng 9, vàng 8, xanh 11. Cần in tên cho toàn bộ áo, mỗi áo 2 nhãn. Cần bao nhiêu nhãn?|56|Có 28 áo; mỗi áo 2 nhãn nên cần 56 nhãn.|28;22;46
+Phiếu đồ ăn cho 12 bạn: 5 bánh mì, 4 xôi, 3 bánh bao. Hai bạn chọn xôi xin nghỉ chuyến đi. Cần đặt lại tổng mấy suất?|10|Từ 12 suất bỏ 2 suất xôi, còn 10 suất.|12;14;8
+Một nhóm chỉ ghi ba tên món được chọn, không ghi số người. Muốn chọn món theo số đông thì còn thiếu dữ liệu nào: số người chọn từng món, màu bàn, chiều cao cổng, tên phố?|số người chọn từng món|Cần số lượt chọn từng món mới so sánh được số đông.|màu bàn;chiều cao cổng;tên phố
+Quy ước gieo xúc xắc: 1 hoặc 2 chọn nước lọc; 3 hoặc 4 chọn nước cam; 5 hoặc 6 chọn nước chanh. Gieo được 5 thì chọn nước gì?|nước chanh|Số 5 thuộc cặp 5 hoặc 6, tương ứng nước chanh.|nước lọc;nước cam;sữa
+Sau khảo sát 24 bạn: công viên 12, bảo tàng 7, vườn hoa 5. Thầy yêu cầu chọn nơi có hơn một nửa số phiếu. Công viên đã đạt yêu cầu chưa?|chưa|Một nửa 24 là 12; công viên đúng 12, chưa lớn hơn 12.|đã đạt;vượt 1 phiếu;vượt 12 phiếu
+Bài 76
+Số gồm 4 chục nghìn, 2 nghìn, 3 trăm và 5 đơn vị là số nào?|42305|Các hàng chục nghìn, nghìn, trăm, chục, đơn vị lần lượt là 4, 2, 3, 0, 5.|42350;42035;43205
+Trong số 71846, chữ số hàng nghìn là chữ số nào?|1|Từ phải sang trái: 6 đơn vị, 4 chục, 8 trăm, 1 nghìn, 7 chục nghìn.|7;8;4
+Giá trị của chữ số 6 trong số 36420 là bao nhiêu?|6000|Chữ số 6 ở hàng nghìn nên có giá trị 6000.|6;600;60000
+Số liền sau 9999 là số nào?|10000|Thêm một đơn vị vào 9999 được 10000.|9998;10001;9990
+Số liền trước 50000 là số nào?|49999|Bớt một đơn vị từ 50000 được 49999.|50001;49990;49000
+Bảy mươi nghìn không trăm linh tám viết bằng chữ số là số nào?|70008|Có 7 chục nghìn, 8 đơn vị, các hàng giữa là 0.|70080;70800;7008
+Số 85000 có bao nhiêu chữ số?|5|Dãy 8, 5, 0, 0, 0 gồm năm chữ số.|4;3;6
+Số tròn chục nghìn bé nhất có năm chữ số là số nào?|10000|Số năm chữ số bắt đầu từ 10000 và số này tròn chục nghìn.|1000;90000;99999
+Trong các số 67009, 67090, 67900, 67909, số nào bé nhất?|67009|Cùng 67 nghìn, số có trăm 0, chục 0 là bé nhất: 67009.|67090;67900;67909
+90000 cộng 700 cộng 2 bằng bao nhiêu?|90702|Có 9 chục nghìn, 7 trăm, 2 đơn vị nên viết 90702.|97002;90072;90720
+Điền dấu vào 48215 ... 48195.|>|Cùng 48 nghìn; hàng trăm 2 lớn hơn 1 nên số bên trái lớn hơn.|<;=;không so sánh được
+Dãy tăng đều: 24600, 24700, 24800, ... Số tiếp theo là bao nhiêu?|24900|Mỗi bước tăng 100; sau 24800 là 24900.|24801;25800;25000
+Số 53064 được tách thành 50000 cộng 3000 cộng 60 cộng mấy?|4|Phần còn lại là 4 đơn vị.|40;400;6
+Sắp xếp 19005, 19500, 19050 từ bé đến lớn. Số đứng giữa là số nào?|19050|Thứ tự là 19005, 19050, 19500.|19005;19500;19950
+Hai số 60809 và 60890 khác nhau đầu tiên từ trái sang ở hàng nào?|hàng chục|Các chữ số chục nghìn, nghìn, trăm đều giống nhau; hàng chục là 0 và 9.|hàng trăm;hàng nghìn;hàng đơn vị
+Làm tròn số 4728 đến hàng chục được số nào?|4730|Chữ số đơn vị là 8 nên làm tròn lên chục kế tiếp: 4730.|4720;4700;4800
+Có bao nhiêu số tròn nghìn lớn hơn 7000 và nhỏ hơn 10000?|2|Hai số thỏa mãn là 8000 và 9000.|3;1;4
+Số 40607 có bao nhiêu chữ số 0?|2|Số viết 4, 0, 6, 0, 7 nên có hai chữ số 0.|1;3;4
+Thay dấu ? trong 30000 cộng 5000 cộng ? cộng 8 bằng 35408. Số cần điền là bao nhiêu?|400|35408 gồm 30000, 5000, 400 và 8.|40;4;4000
+Trong các số 39999, 40000, 40001, số nào vừa lớn hơn 39999 vừa nhỏ hơn 40001?|40000|40000 nằm ngay giữa hai số đã cho.|39999;40001;39998
+Dùng mỗi chữ số 0, 2, 5, 8 một lần để lập số có bốn chữ số bé nhất. Số đó là bao nhiêu?|2058|Hàng nghìn nhỏ nhất khác 0 là 2, sau đó đặt 0, 5, 8 theo thứ tự tăng.|0258;2085;2508
+Dùng mỗi chữ số 1, 3, 6, 9 một lần để lập số có bốn chữ số lớn nhất. Số đó là bao nhiêu?|9631|Muốn lớn nhất, xếp các chữ số giảm dần từ trái sang phải: 9, 6, 3, 1.|9613;9361;1369
+Biển số kho gồm số năm chữ số: chục nghìn 5, nghìn bằng 0, trăm 8, chục bằng đơn vị và đều bằng 3. Mã kho là số nào?|50833|Ghép đúng thứ tự các hàng được 5, 0, 8, 3, 3.|58033;50803;50338
+Một máy đếm đang hiện 29998. Sau ba lượt, mỗi lượt tăng 1, máy hiện số nào?|30001|Ba số kế tiếp là 29999, 30000, 30001.|30000;29999;30002
+Thư viện gắn mã sách tăng từng chục: 9980, 9990, rồi mã tiếp theo. Mã tiếp theo là số nào?|10000|Tăng 9990 thêm một chục được 10000.|9991;10010;9900
+Số tiền trong ba phong bì là 25000 đồng, 20500 đồng, 25050 đồng. Phong bì ít tiền nhất có bao nhiêu đồng?|20500|So sánh các hàng, 20500 nhỏ hơn 25000 và 25050.|25000;25050;20050
+Một số có năm chữ số, chữ số hàng chục nghìn là 8, các hàng nghìn và trăm đều 0, hàng chục là 4, hàng đơn vị là 1. Số đó là bao nhiêu?|80041|Viết liên tiếp các chữ số theo hàng: 8, 0, 0, 4, 1.|80401;84001;80014
+Có bao nhiêu số tự nhiên lớn hơn 9997 và nhỏ hơn 10001?|3|Các số là 9998, 9999, 10000; có ba số.|2;4;1
+Vé được đánh số từ 45001 đến 45005, tính cả hai đầu. Có bao nhiêu vé?|5|Năm mã liên tiếp là 45001, 45002, 45003, 45004, 45005.|4;6;45005
+Một số tròn trăm nằm giữa 72150 và 72300. Số đó là bao nhiêu?|72200|Số tròn trăm duy nhất lớn hơn 72150 và nhỏ hơn 72300 là 72200.|72100;72300;72150
+Đổi vị trí chữ số hàng nghìn và hàng chục trong số 24316 được số nào?|21346|Hàng nghìn 4 và hàng chục 1 đổi chỗ; các hàng khác giữ nguyên, được 21346.|24136;24361;42316
+Một tờ nhãn ghi 60000 cộng 900 cộng 30. Số trên nhãn là bao nhiêu?|60930|Các hàng lần lượt là 6, 0, 9, 3, 0 nên số là 60930.|69030;60903;60093
+Số có bốn chữ số khác nhau lớn nhất và tận cùng bằng 0 là số nào?|9870|Chọn lần lượt các chữ số lớn nhất 9, 8, 7 ở ba hàng đầu; đơn vị bằng 0.|9990;9807;9780
+Số bé nhất có năm chữ số khác nhau và hàng chục nghìn bằng 3 là số nào?|30124|Sau chữ số 3 cố định, đặt các chữ số nhỏ nhất còn lại theo thứ tự 0, 1, 2, 4.|30012;31024;30123
+Trong hai số 7?245 và 73245, để số thứ nhất lớn hơn số thứ hai thì chữ số ? bé nhất là mấy?|4|Hàng chục nghìn giống nhau; hàng nghìn phải lớn hơn 3, nhỏ nhất là 4.|3;2;0
+Số tròn nghìn nhỏ nhất lớn hơn 36500 là số nào?|37000|36000 nhỏ hơn 36500; nghìn kế tiếp 37000 là số cần tìm.|36000;36600;40000
+Một bảng có 18240, 18420, 18042. Khi xếp giảm dần, số cuối là số nào?|18042|18042 nhỏ nhất trong ba số nên đứng cuối khi xếp giảm dần.|18240;18420;18402
+An viết 50609 thành 50000 cộng 600 cộng 90. An đã viết phần chục sai. Tổng đúng cần thay 90 bằng số nào?|9|Số 50609 có 0 chục và 9 đơn vị nên phần cuối là 9.|900;60;0
+Một số có 5 chữ số, nhỏ hơn 20000, lớn hơn 19997 và là số chẵn. Số đó là bao nhiêu?|19998|Giữa 19997 và 20000 có 19998, 19999; số chẵn là 19998.|19999;20000;19996
+Trên tia số, A ứng với 48000, B nằm sau A đúng 3 khoảng, mỗi khoảng 1000. B ứng với số nào?|51000|Ba khoảng thêm 3000; từ 48000 đến 51000.|48300;50000;45000
