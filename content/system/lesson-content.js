@@ -176,10 +176,14 @@
       seen[q.question_id]=true;
     });
   }
-  window.lessonContentReady=fetch('content/system/INDEX.json').then(function(r){if(!r.ok)throw Error('INDEX');return r.json();}).then(function(index){
+  window.lessonContentReady=fetch('content/system/INDEX.json',{cache:'no-cache'}).then(function(r){if(!r.ok)throw Error('INDEX');return r.json();}).then(function(index){
     return Promise.all(index.lessons.filter(function(e){return e.path&&e.question_count>0;}).map(function(entry){
-      return fetch(entry.path).then(function(r){if(!r.ok)throw Error(entry.id);return r.json();}).then(function(c){validate(c,entry);content[c.id]=c;})
+      return fetch(entry.path,{cache:'no-cache'}).then(function(r){if(!r.ok)throw Error(entry.id);return r.json();}).then(function(c){validate(c,entry);content[c.id]=c;})
         .catch(function(e){console.warn('Giữ học liệu cũ do không tải được tệp:',e.message);});
     }));
-  }).catch(function(e){console.warn('Giữ danh mục và bài học cũ:',e.message);}).then(function(){if(P)draw();return Object.keys(content);});
+  }).catch(function(e){console.warn('Giữ danh mục và bài học cũ:',e.message);}).then(function(){var ids=Object.keys(content),app=document.getElementById('app');
+    var status=document.getElementById('contentLoadStatus');
+    if(!status&&app){status=document.createElement('p');status.id='contentLoadStatus';status.setAttribute('role','status');status.style.cssText='margin:12px auto;padding:12px 18px;max-width:1100px;background:#eef5ff;border-radius:12px;color:#26345b';app.parentNode.insertBefore(status,app);}
+    if(status)status.textContent='Học liệu riêng đã tải: '+ids.length+'/168 bài. Các mục còn lại đang được biên soạn; câu nguồn soạn dở chưa được tính là bài hoàn chỉnh.';
+    if(P)draw();return ids;});
 })();

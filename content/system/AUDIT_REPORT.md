@@ -1,3 +1,7 @@
+## Hiển thị trạng thái tải học liệu — 08/11/2026
+
+Đã bổ sung dòng trạng thái trên giao diện ghi số học liệu riêng thực sự tải được /168. Bộ tải INDEX và JSON dùng cache:no-cache để yêu cầu tái xác thực dữ liệu khi tải trang. Không xóa wl3 hay đổi hồ sơ/XP/sao. Mục đích phân biệt bài đã tích hợp với câu nguồn soạn dở; Bài 41–42 vẫn chưa tích hợp. Tổng nội dung giữ 40/168 bài, 1600 câu, 40 trò chơi; giáo viên duyệt 4, chờ duyệt 36. Tiếp tục Batch 11 Bài 43–44 và đóng gói cả batch. Kiểm thử npm test toàn bộ đạt; chưa kiểm thử Chromium thật.
+
 ## Batch 11 — đã thêm nguồn Bài 42, 08/11/2026
 
 Đã render và đọc trực quan trang in 116–121 (PDF 117–122) Toán tập 1 cho Bài 42–44. Chưa đối chiếu hash bản PDF đang dùng với bản trong repo. Bài 42 ôn thứ tự tính, dấu ngoặc, nhóm số tính thuận tiện và đóng gói nhiều cấp. Bài 43 ôn góc, trung điểm, vẽ hình, bán kính/đường kính, khối và đơn vị đo; Bài 44 tổng hợp phép tính, trung điểm/góc, đường gấp khúc và đo lường. Câu phụ thuộc hình của Bài 43–44 phải có SVG tự dựng khi biên soạn.
