@@ -1,3 +1,9 @@
+# Đối chiếu nguồn Bài 71 — 08/11/2026
+
+Đã đọc trực quan toàn bộ trang in 97–100 (PDF 98–101) Toán tập 2: chia năm chữ số, chia có dư, thương có chữ số 0, đóng nhóm đầy và số đồ chứa cần để chứa hết. Chưa có 40 câu Bài 71 đạt yêu cầu biên soạn riêng; không dùng bản nháp chỉ thay số từ bài chia trước. Giữ nguyên nguồn 80 câu Bài 69–70. Tiếp biên soạn riêng Bài 71–72 và đóng gói cả Batch 18. Tổng tích hợp không đổi 68/168, 2720 câu, 68 game; giáo viên duyệt 4, chờ duyệt 64. Không tăng INDEX.
+
+## Lịch sử
+
 # Checkpoint nguồn Bài 70 — 08/11/2026
 
 Đã đọc trực quan trang in 94–96 (PDF 95–97) Toán tập 2. Đã nối 40 câu mới Bài 70 về nhân số năm chữ số, số nhớ qua hàng 0 và bài toán nhiều bước vào batch18-source.txt, giữ nguyên 40 câu Bài 69. Nguồn Batch 18 hiện 80/160 câu, kiểm tra số dòng và bốn lựa chọn khác nhau. Chưa đóng gói hoặc tích hợp; chưa chạy kiểm thử DOM bài mới. Tiếp đọc nguồn và biên soạn Bài 71–72, hoàn thiện kiến thức/ví dụ/game và kiểm thử cả batch. Không tạo lại nguồn Bài 69–70.
