@@ -1,3 +1,11 @@
+# Checkpoint nguồn Bài 70 — 08/11/2026
+
+Đã đọc trực quan trang in 94–96 (PDF 95–97) Toán tập 2. Đã nối 40 câu mới Bài 70 về nhân số năm chữ số, số nhớ qua hàng 0 và bài toán nhiều bước vào batch18-source.txt, giữ nguyên 40 câu Bài 69. Nguồn Batch 18 hiện 80/160 câu, kiểm tra số dòng và bốn lựa chọn khác nhau. Chưa đóng gói hoặc tích hợp; chưa chạy kiểm thử DOM bài mới. Tiếp đọc nguồn và biên soạn Bài 71–72, hoàn thiện kiến thức/ví dụ/game và kiểm thử cả batch. Không tạo lại nguồn Bài 69–70.
+
+Tổng tích hợp giữ 68/168 mục, 2720 câu, 68 trò chơi; giáo viên duyệt 4, chờ duyệt 64, còn 100 mục. Không tăng số hoàn thành trong INDEX khi còn nguồn dở dang.
+
+## Lịch sử
+
 # Checkpoint nguồn Batch 18 — 08/11/2026
 
 Đã đọc trực quan trang in 88–93 (PDF 89–94) Toán tập 2 cho Bài 69. Đã soạn 40 câu nguồn mới theo thứ tự 10/10/20 trong batch18-source.txt: đổi đơn vị thời gian, giờ trước/sau và khoảng thời gian, lịch theo dữ kiện ngày đầu tháng, tháng tuổi và tiền giả định/tiền thừa. Kiểm tra số dòng, không trùng câu trong bài, bốn lựa chọn khác nhau. Không có câu đòi quan sát hình chưa được cung cấp; dữ kiện đều viết bằng chữ. Chưa đóng gói hay tích hợp. Tiếp đọc nguồn Bài 70–72, biên soạn ba bài còn lại và hoàn thiện JSON/Markdown/game/kiểm thử cả batch. Không làm lại 40 câu Bài 69.
