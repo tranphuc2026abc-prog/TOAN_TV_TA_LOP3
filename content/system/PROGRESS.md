@@ -1,3 +1,11 @@
+# Checkpoint biên soạn Bài 77 — 09/11/2026
+
+Đã lưu 40 câu mới cho Bài 77 trong batch20-source.txt, thứ tự 10 nhận biết/10 thông hiểu/20 vận dụng: cộng trừ, số nhớ/đổi qua 0, biểu thức có ngoặc, tìm chữ số, phép tính ngược, bảo toàn tổng/hiệu, tiền và tình huống hai bước. Nguồn trang in 115–117 đã đọc trực quan lượt trước. Kiểm tra 40 dòng, không trùng câu trong bài, bốn phương án khác nhau đạt. Chưa đóng gói JSON/Markdown, chưa tích hợp và chưa chạy DOM bài mới.
+
+Tiếp hoàn thiện kiến thức/ví dụ Bài 77, đọc nguồn và biên soạn Bài 78–80 rồi kiểm thử cả Batch 20. INDEX giữ 76/168, 3040 câu, 76 trò chơi; 4 giáo viên duyệt, 72 chờ duyệt, 92 mục nháp. Không tạo lại 40 câu đã lưu.
+
+## Lịch sử
+
 # Đối chiếu nguồn Bài 77 — 09/11/2026
 
 Đã đọc trực quan trang in 115–117 (PDF 116–118) của Toán tập 2 từ PDF truy cập được: ôn đặt tính cộng/trừ đến 100000, so sánh kết quả theo ngưỡng, biểu thức có ngoặc, tìm chữ số theo số nhớ/đổi, tiền trả lại, so sánh độ dài đường đi và tình huống trừ liên tiếp. Bài tập về năm cần nêu mốc năm cụ thể khi biên soạn, tránh đáp án phụ thuộc “năm nay”. Hình đường đi cần dựng SVG mới với đủ các đoạn và đơn vị nếu dùng tình huống tương tự; không dùng ảnh SGK.

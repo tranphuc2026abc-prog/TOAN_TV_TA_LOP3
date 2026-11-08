@@ -1,0 +1,41 @@
+Bài 77
+Tính tổng 24000 và 5000.|29000|Cộng 24 nghìn với 5 nghìn được 29 nghìn.|19000;24500;74000
+Số nào là kết quả của 18000 trừ 6000?|12000|18 nghìn bớt 6 nghìn còn 12 nghìn.|24000;14000;16000
+Cộng 30620 với 80 được bao nhiêu?|30700|620 cộng 80 được 700 nên tổng là 30700.|30628;30600;31420
+Hiệu 45001 và 1 là bao nhiêu?|45000|Bớt một đơn vị từ 45001 được 45000.|45002;44001;45010
+Một số cộng với 0 bằng 27316. Số đó là bao nhiêu?|27316|Cộng 0 không thay đổi số ban đầu.|0;27315;27317
+Số bị trừ là 70000, số trừ là 20000. Hiệu bằng bao nhiêu?|50000|7 chục nghìn trừ 2 chục nghìn còn 5 chục nghìn.|90000;20000;60000
+Trong phép cộng, 9 đơn vị cộng 7 đơn vị được 16 đơn vị. Cần nhớ mấy chục sang hàng chục?|1|16 đơn vị gồm 1 chục và 6 đơn vị.|6;7;9
+Để kiểm tra phép trừ bằng phép cộng, lấy hiệu cộng với số nào?|số trừ|Hiệu cộng số trừ phải bằng số bị trừ.|số bị trừ;hiệu;0
+Tính 9999 cộng 1.|10000|Thêm một đơn vị làm các hàng chuyển nhớ, được 10000.|9998;10001;9990
+Điền số vào ô trống: 63000 trừ ô trống bằng 63000.|0|Muốn số ban đầu không đổi thì trừ đi 0.|63000;1;12600
+Không đặt tính, tính 27800 cộng 1200.|29000|800 cộng 1200 được 2000; cộng 27000 được 29000.|28000;28800;26600
+Tính biểu thức 32000 trừ 7000 cộng 4000.|29000|Thực hiện từ trái sang phải: còn 25000 rồi thêm 4000 được 29000.|21000;43000;25000
+Tính 41000 trừ (6000 cộng 5000).|30000|Trong ngoặc là 11000; 41000 bớt 11000 còn 30000.|40000;42000;52000
+Tổng của hai số là 48000, một số là 19000. Số kia bằng bao nhiêu?|29000|Lấy tổng trừ số đã biết: 48000 trừ 19000 bằng 29000.|67000;31000;19000
+Trong phép trừ, số bị trừ tăng 300 còn số trừ giữ nguyên. Hiệu tăng bao nhiêu?|300|Thêm vào số bị trừ bao nhiêu thì hiệu tăng bấy nhiêu.|0;600;100
+Hai số hạng cùng tăng 500. Tổng tăng bao nhiêu?|1000|Mỗi số hạng thêm 500 nên tổng thêm 500 cộng 500 bằng 1000.|500;0;250
+Bạn ghi 40500 trừ 600 bằng 40900. Kết quả đúng là bao nhiêu?|39900|40500 bớt 500 còn 40000, bớt thêm 100 còn 39900.|40900;40100;39990
+Có bao nhiêu kết quả lớn hơn 20000 trong các phép tính: 18000 cộng 2000; 19000 cộng 3000; 30000 trừ 8000?|2|Phép đầu bằng 20000 không lớn hơn ngưỡng; hai phép sau đều bằng 22000.|1;3;0
+Tìm chữ số còn thiếu: 23?6 cộng 4 bằng 2340.|3|Số cần cộng là 2340 trừ 4 bằng 2336 nên chữ số thiếu là 3.|4;0;6
+Một hiệu bằng 12500. Tăng cả số bị trừ và số trừ thêm 1000 thì hiệu mới là bao nhiêu?|12500|Hai số cùng tăng một lượng nên hiệu không đổi.|13500;11500;14500
+Thư viện có 15240 sách. Nhận thêm 1260 sách rồi chuyển 850 sách sang điểm trường khác. Còn bao nhiêu sách?|15650|Sau khi nhận có 16500 sách; chuyển 850 còn 15650 sách.|17350;14830;16500
+Hà mua hộp bút 18500 đồng và vở 12500 đồng, trả 50000 đồng. Được trả lại bao nhiêu đồng?|19000|Hai món hết 31000 đồng; từ 50000 đồng còn 19000 đồng.|31000;18500;20500
+Một xe đi chặng đầu 12650 m, chặng sau ít hơn chặng đầu 2350 m. Xe đi cả hai chặng bao nhiêu mét?|22950|Chặng sau dài 10300 m; cộng 12650 được 22950 m.|25300;15000;10300
+Kho có 60000 viên gạch, sáng xuất 18750 viên, chiều xuất 16450 viên. Còn bao nhiêu viên?|24800|Đã xuất 35200 viên; còn 60000 trừ 35200 bằng 24800 viên.|35200;41250;43600
+Một cửa hàng cần bán 45000 quyển vở. Hai tuần đã bán 16800 và 19200 quyển. Còn phải bán bao nhiêu quyển để đạt kế hoạch?|9000|Hai tuần bán 36000 quyển, còn thiếu 9000 quyển.|36000;10200;25800
+Tuyến đường A dài 12400 m. Tuyến B gồm hai đoạn 5800 m và 7200 m. Tuyến A ngắn hơn tuyến B bao nhiêu mét?|600|Tuyến B dài 13000 m, hơn tuyến A 600 m.|6600;13000;25400
+Tìm số bị trừ khi số trừ là 24860 và hiệu là 17540.|42400|Cộng số trừ với hiệu: 24860 cộng 17540 bằng 42400.|7320;41400;43400
+Tổng hai số là 70500. Nếu bớt số thứ nhất 2500 thì tổng mới là bao nhiêu?|68000|Chỉ một số hạng giảm 2500 nên tổng giảm 2500, còn 68000.|73000;65500;70500
+Trong phép trừ 50000 trừ 28675, bạn quên đổi qua các hàng 0. Hiệu đúng là bao nhiêu?|21325|Đổi qua các hàng 0 rồi trừ được 21325; cộng lại 28675 và 21325 được 50000.|22325;21335;28675
+An có 27000 đồng. Bình có nhiều hơn An 6000 đồng. Hai bạn có tất cả bao nhiêu đồng?|60000|Bình có 33000 đồng; cộng 27000 của An được 60000 đồng.|33000;54000;39000
+Một đội trồng được 3250 cây ngày đầu. Ngày sau trồng thêm 750 cây so với ngày đầu. Hai ngày trồng được bao nhiêu cây?|7250|Ngày sau trồng 4000 cây; hai ngày được 3250 cộng 4000 bằng 7250.|6500;4000;4750
+Một số cộng 18500 rồi trừ 7600 thì được 30000. Số ban đầu là bao nhiêu?|19100|Làm ngược: 30000 cộng 7600 bằng 37600, trừ 18500 còn 19100.|40900;22400;11500
+Từ năm 2014 đến năm 2026 là bao nhiêu năm?|12|Lấy mốc cuối 2026 trừ mốc đầu 2014 được 12 năm.|13;10;14
+Một đơn hàng gồm 24500 chiếc khẩu trang. Đã giao 9800 chiếc và 8700 chiếc. Phần chưa giao có bao nhiêu chiếc?|6000|Đã giao 18500 chiếc, còn 24500 trừ 18500 bằng 6000 chiếc.|18500;7000;14700
+Tổng hai số bằng 99999. Một số bằng 45678. Số còn lại bằng bao nhiêu?|54321|99999 trừ 45678 bằng 54321; cộng lại đúng 99999.|54311;55321;45679
+Một sân chơi có 12000 vé. Sau buổi sáng còn 7650 vé, sau buổi chiều còn 3280 vé. Buổi chiều bán bao nhiêu vé?|4370|Lấy số còn trước chiều trừ số còn sau chiều: 7650 trừ 3280 bằng 4370.|8720;4350;15650
+Lan có 40000 đồng, mua đồ hết 27500 đồng. Muốn mua thêm món 18000 đồng, Lan còn thiếu bao nhiêu đồng?|5500|Sau lần mua đầu còn 12500 đồng; so với 18000 còn thiếu 5500 đồng.|12500;9500;14500
+Tìm chữ số a trong phép tính 4a250 cộng 1750 bằng 45000.|3|Số hạng đầu là 45000 trừ 1750 bằng 43250 nên a bằng 3.|4;2;5
+Kho A có 21800 kg gạo, kho B có 18200 kg. Chuyển 1800 kg từ A sang B. Kho A còn nhiều hơn kho B bao nhiêu kg?|0|Sau chuyển, A còn 20000 kg, B có 20000 kg nên chênh lệch bằng 0.|3600;1800;7200
+Một quãng đường dài 35000 m. Người đi đã qua 12500 m, nghỉ, rồi đi thêm 8700 m. Phần còn lại dài bao nhiêu mét?|13800|Đã đi 21200 m; còn 35000 trừ 21200 bằng 13800 m.|21200;22500;26300
