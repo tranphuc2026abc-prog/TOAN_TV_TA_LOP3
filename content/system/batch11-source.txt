@@ -39,3 +39,44 @@ Có 35 bạn, mỗi xe tối đa 4 bạn. Xe cuối chở mấy bạn nếu các
 Một phần ba của một số bằng 125. Số ban đầu mấy?|375|125 × 3 = 375.|128;122;250
 Hai nhóm mỗi nhóm 48 thẻ. Gộp lại rồi chia đều 8 bạn. Mỗi bạn mấy thẻ?|12|48 × 2 = 96; 96 : 8 = 12 thẻ.|6;96;16
 Một túi có 132 hạt, lấy 5 túi rồi bớt 60 hạt. Số còn lại chia đều 3 luống, mỗi luống mấy hạt?|200|132 × 5 = 660; 660 - 60 = 600; 600 : 3 = 200 hạt.|600;220;180
+Bài 42
+Tính 45 + 18 - 23.|40|45 + 18 = 63; 63 - 23 = 40.|86;63;22
+Tính 56 : 7 × 3.|24|56 : 7 = 8; 8 × 3 = 24.|8;2;21
+Tính 8 × 9 - 16.|56|8 × 9 = 72; 72 - 16 = 56.|64;72;88
+Tính 120 + 36 : 6.|126|36 : 6 = 6; 120 + 6 = 126.|26;156;114
+Trong biểu thức có ngoặc, phần nào tính trước?|trong ngoặc|Ngoặc chỉ rõ phần cần tính trước.|ngoài ngoặc;phía phải luôn;phía trái luôn
+Tính (26 + 14) : 5.|8|26 + 14 = 40; 40 : 5 = 8.|40;28;5
+Tính 9 × (17 - 12).|45|17 - 12 = 5; 9 × 5 = 45.|141;153;54
+Chỉ có nhân và chia thì tính theo thứ tự nào?|trái sang phải|Nhân và chia cùng mức ưu tiên.|nhân luôn trước;chia luôn trước;phải sang trái
+Tính 63 - 18 - 15.|30|63 - 18 = 45; 45 - 15 = 30.|60;45;96
+Tính 4 × 25 + 9.|109|4 × 25 = 100; 100 + 9 = 109.|136;100;91
+Bạn tính 20 + 8 × 5 bằng 140. Giá trị đúng mấy?|60|8 × 5 = 40; 20 + 40 = 60, phải nhân trước.|140;100;33
+Tính 84 : (9 - 2).|12|9 - 2 = 7; 84 : 7 = 12.|12 dư 2;82;10
+Hai biểu thức 50 - 8 + 2 và 50 - (8 + 2) chênh nhau mấy?|4|Biểu thức đầu bằng 44, biểu thức sau bằng 40; 44 - 40 = 4.|0;2;10
+Để tính thuận tiện 158 + 36 + 64, ghép 36 với số nào?|64|36 + 64 = 100, rồi 158 + 100 = 258.|158;58;6
+Tính 5 × 7 × 2 bằng cách nhóm 7 × 2 trước, kết quả mấy?|70|7 × 2 = 14; 5 × 14 = 70.|35;49;72
+Điền dấu + hoặc - vào 12 ... 6 - 6 để được 12.|+|12 + 6 - 6 = 12; nếu dùng trừ thì được 0.|-;×;:
+Tính 72 : 9 × 2. Nhân 9 với 2 trước có đúng không? Trả lời có hoặc không.|không|Cùng mức nên tính trái sang phải: 72 : 9 = 8; 8 × 2 = 16.|có;luôn đúng;được 4
+Biểu thức nào lớn hơn: 6 × (5 + 3) hay 6 × 5 + 3? Chọn giá trị lớn hơn.|48|Biểu thức có ngoặc bằng 48, biểu thức kia bằng 33.|33;30;18
+Tính 300 - (125 - 25).|200|125 - 25 = 100; 300 - 100 = 200.|150;175;400
+Tính 7 × (6 : 3).|14|6 : 3 = 2; 7 × 2 = 14.|42;21;9
+Có 3 bao mỗi bao 25 kg, thêm một túi 15 kg. Tổng mấy kg?|90|25 × 3 = 75; 75 + 15 = 90 kg.|120;75;43
+Có 320 nhãn, mỗi hộp 4 nhãn, mỗi thùng 8 hộp. Đóng được mấy thùng?|10|320 : 4 = 80 hộp; 80 : 8 = 10 thùng.|80;40;20
+Một cửa hàng có 90 bánh, bán 6 hộp mỗi hộp 8 bánh. Còn mấy bánh?|42|6 × 8 = 48; 90 - 48 = 42 bánh.|48;672;76
+Có 24 bạn nam và 16 bạn nữ, chia đều 5 nhóm. Mỗi nhóm mấy bạn?|8|24 + 16 = 40; 40 : 5 = 8 bạn.|40;27;10
+Mỗi túi 12 viên, có 4 túi đỏ và 3 túi xanh. Tổng mấy viên?|84|4 + 3 = 7 túi; 12 × 7 = 84 viên.|51;48;36
+Bình có 1 lít, rót 3 cốc mỗi cốc 250 ml. Còn mấy ml?|250|250 × 3 = 750; 1000 - 750 = 250 ml.|750;997;500
+Có 96 que, cho đi 24 que rồi chia đều 8 bạn. Mỗi bạn mấy que?|9|96 - 24 = 72; 72 : 8 = 9 que.|93;12;72
+Sợi dây dài 150 cm, cắt 4 đoạn mỗi đoạn 25 cm. Còn mấy cm?|50|4 × 25 = 100; 150 - 100 = 50 cm.|100;125;75
+Có 5 hộp mỗi hộp 18 thẻ. Chia tất cả thành 9 phần bằng nhau. Mỗi phần mấy thẻ?|10|5 × 18 = 90; 90 : 9 = 10 thẻ.|90;27;6
+Đội một làm 32 cờ, đội hai làm 48 cờ. Mỗi bó 8 cờ. Đóng được mấy bó?|10|32 + 48 = 80; 80 : 8 = 10 bó.|38;80;6
+Có 7 bạn mỗi bạn góp 15 hạt, sau đó được tặng 45 hạt. Có mấy hạt?|150|7 × 15 = 105; 105 + 45 = 150 hạt.|105;420;67
+Lớp có 36 em, chia 6 nhóm. Mỗi nhóm làm 4 bức tranh. Cả lớp làm mấy tranh?|24|36 : 6 = 6 nhóm; 6 × 4 = 24 tranh.|6;144;20
+Có 200 g bột, thêm 150 g rồi dùng 125 g. Còn mấy gam?|225|200 + 150 = 350; 350 - 125 = 225 g.|350;75;475
+Có 8 hàng mỗi hàng 12 cây. Chuyển 16 cây đi, số còn lại chia 4 vườn. Mỗi vườn mấy cây?|20|8 × 12 = 96; 96 - 16 = 80; 80 : 4 = 20 cây.|80;24;92
+Một đoạn 84 mm giảm 3 lần rồi thêm 12 mm. Đoạn mới dài mấy mm?|40|84 : 3 = 28; 28 + 12 = 40 mm.|93;28;16
+Ba túi lần lượt 135 g, 65 g, 200 g. Tổng mấy gam?|400|135 + 65 = 200; 200 + 200 = 400 g.|300;265;335
+Một nhóm có 9 hộp, mỗi hộp 8 bút. Tặng 4 hộp nguyên. Còn mấy bút?|40|9 - 4 = 5 hộp; 5 × 8 = 40 bút.|68;72;32
+Có 600 ml, rót thêm 120 ml rồi chia đều 6 ca. Mỗi ca mấy ml?|120|600 + 120 = 720; 720 : 6 = 120 ml.|620;720;100
+Cần 5 bó mỗi bó 24 que. Đã có 75 que. Cần thêm mấy que?|45|5 × 24 = 120; 120 - 75 = 45 que.|120;51;195
+Có 72 viên chia hộp 6 viên rồi ghép 3 hộp thành một bộ. Được mấy bộ?|4|72 : 6 = 12 hộp; 12 : 3 = 4 bộ.|12;36;24

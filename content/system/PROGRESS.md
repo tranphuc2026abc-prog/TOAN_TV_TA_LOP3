@@ -1,3 +1,11 @@
+## Batch 11 — đã thêm nguồn Bài 42, 08/11/2026
+
+Đã render và đọc trực quan trang in 116–121 (PDF 117–122) Toán tập 1 cho Bài 42–44. Chưa đối chiếu hash bản PDF đang dùng với bản trong repo. Bài 42 ôn thứ tự tính, dấu ngoặc, nhóm số tính thuận tiện và đóng gói nhiều cấp. Bài 43 ôn góc, trung điểm, vẽ hình, bán kính/đường kính, khối và đơn vị đo; Bài 44 tổng hợp phép tính, trung điểm/góc, đường gấp khúc và đo lường. Câu phụ thuộc hình của Bài 43–44 phải có SVG tự dựng khi biên soạn.
+
+Đã nối 40 câu mới Bài 42 sau 40 câu Bài 41 trong batch11-source.txt, theo thứ tự phân mức 10/10/20; kiểm tra không trùng trong bài, bốn lựa chọn khác nhau, tính lại 73 đẳng thức đạt. Nguồn Batch 11 hiện 80/160 câu, chưa tích hợp, chưa tạo JSON/Markdown/game bài mới. Cần soạn Bài 43–44, hình SVG, nội dung hướng dẫn/ví dụ/game cả batch; bổ sung kiểm tra đầy đủ biểu thức có ngoặc trước khi đóng gói. Không tạo lại nguồn Bài 41–42 hoặc đọc lại trang nguồn nếu không thay đổi.
+
+Tổng đang tích hợp vẫn 40/168 mục, 1600 câu, 40 trò chơi; giáo viên duyệt 4, chờ duyệt 36, còn 128 mục nháp. Không thay INDEX hoặc dữ liệu wl3 trong checkpoint nguồn này. Chưa kiểm thử Chromium thật.
+
 ## Batch 11 đang biên soạn — 08/11/2026
 
 Đã render và đọc trực quan trang PDF 114–116 / trang in 113–115 bản Toán tập 1 đang truy cập được; chưa đối chiếu hash với bản trong repo. Đã biên soạn 40 câu nguồn riêng Bài 41 tại batch11-source.txt, theo thứ tự 10 nhận biết/10 thông hiểu/20 vận dụng, có đáp án, lời giải và ba phương án nhiễu. Có ôn phân số đơn vị, tìm thừa số/số chia/số bị chia, chữ số thiếu, số nhớ, thương có 0, phần dư, số can chứa hết và bài thực tế. Kiểm tra không trùng trong bài, bốn lựa chọn khác nhau và tính lại 54 đẳng thức đạt.
