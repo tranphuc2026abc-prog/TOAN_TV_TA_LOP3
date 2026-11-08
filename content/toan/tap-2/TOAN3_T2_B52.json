@@ -1,0 +1,807 @@
+{
+  "id": "TOAN3_T2_B52",
+  "subject": "toan",
+  "grade": 3,
+  "book": "Kết nối tri thức với cuộc sống",
+  "volume": 2,
+  "lesson_no": 52,
+  "title": "Diện tích hình chữ nhật, diện tích hình vuông",
+  "topic": "Diện tích hình chữ nhật và hình vuông",
+  "source": {
+    "pdf": "03-sgk-toan-3-tap-hai.pdf",
+    "printed_pages": [
+      30,
+      34
+    ],
+    "pdf_pages": [
+      31,
+      35
+    ],
+    "review": "Đã đọc trực quan toàn bộ trang nguồn cho bài này; nội dung và bài tập mới do AI biên soạn."
+  },
+  "objectives": [
+    "Tính diện tích chữ nhật bằng dài nhân rộng.",
+    "Tính diện tích vuông bằng cạnh nhân chính nó.",
+    "Đổi đơn vị độ dài trước khi tính; giải bài cắt ghép và phân biệt chu vi với diện tích."
+  ],
+  "knowledge": {
+    "introduction": "Hình chữ nhật có thể chia thành các hàng ô vuông. Số ô ở mỗi hàng nhân với số hàng cho tổng số ô. Từ đó chiều dài nhân chiều rộng cho diện tích; hình vuông có hai kích thước bằng nhau nên lấy cạnh nhân cạnh.",
+    "rules": [
+      "Chữ nhật: diện tích bằng chiều dài nhân chiều rộng, cùng đơn vị.",
+      "Vuông: diện tích bằng độ dài một cạnh nhân với chính nó.",
+      "Dùng kích thước cm thì diện tích có đơn vị cm².",
+      "Phải đổi 2 dm thành 20 cm trước khi nhân với một độ dài cm.",
+      "Ghép các phần không chồng: cộng diện tích; cắt bỏ: trừ diện tích phần đã lấy.",
+      "Chu vi vuông là cạnh nhân 4, diện tích vuông là cạnh nhân cạnh."
+    ],
+    "steps": [
+      "Đọc xem đề hỏi chu vi hay diện tích.",
+      "Ghi hai kích thước cùng đơn vị; nếu thiếu, tìm từ dữ kiện.",
+      "Dùng phép nhân thích hợp, rồi cộng/trừ/chia cho phần ghép/cắt.",
+      "Kiểm tra đơn vị kết quả và tính hợp lí."
+    ],
+    "common_errors": [
+      "Dùng dài cộng rộng rồi nhân 2 để tính diện tích.",
+      "Lấy cạnh nhân 4 để tính diện tích hình vuông.",
+      "Nhân trực tiếp dm với cm.",
+      "Trừ độ dài cạnh thay vì trừ diện tích phần cắt."
+    ]
+  },
+  "examples": [
+    {
+      "question": "Tấm bìa dài 16 cm, rộng 5 cm. Tính diện tích.",
+      "steps": [
+        "Mỗi hàng có 16 ô 1 cm², có 5 hàng.",
+        "16 × 5 = 80 cm²."
+      ]
+    },
+    {
+      "question": "Bìa vuông cạnh 6 cm cắt đi miếng 2 cm × 4 cm.",
+      "steps": [
+        "Diện tích bìa: 6 × 6 = 36 cm².",
+        "Diện tích phần cắt: 2 × 4 = 8 cm².",
+        "Phần còn: 36 - 8 = 28 cm²."
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "question_id": "TOAN3_T2_B52_Q01",
+      "type": "mcq",
+      "question": "Hình chữ nhật dài 7 cm, rộng 4 cm. Diện tích bao nhiêu xăng-ti-mét vuông?",
+      "options": [
+        "28",
+        "22",
+        "11",
+        "14"
+      ],
+      "correct_answer": "28",
+      "distractors": [
+        "22",
+        "11",
+        "14"
+      ],
+      "explanation": "7 × 4 = 28 cm².",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B52_Q02",
+      "type": "fill",
+      "question": "Hình vuông cạnh 6 cm có diện tích bao nhiêu xăng-ti-mét vuông?",
+      "correct_answer": "36",
+      "distractors": [
+        "24",
+        "12",
+        "18"
+      ],
+      "explanation": "6 × 6 = 36 cm².",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B52_Q03",
+      "type": "mcq",
+      "question": "Muốn tính diện tích hình chữ nhật, nhân chiều dài với gì?",
+      "options": [
+        "chiều rộng",
+        "2",
+        "4",
+        "chu vi"
+      ],
+      "correct_answer": "chiều rộng",
+      "distractors": [
+        "2",
+        "4",
+        "chu vi"
+      ],
+      "explanation": "Hai kích thước cùng đơn vị; dài nhân rộng cho diện tích.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B52_Q04",
+      "type": "fill",
+      "question": "Hình vuông cạnh 9 cm. Diện tích dùng đơn vị cm hay cm²?",
+      "correct_answer": "cm²",
+      "distractors": [
+        "cm",
+        "mm",
+        "dm"
+      ],
+      "explanation": "Diện tích đo phần mặt hình nên dùng cm².",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B52_Q05",
+      "type": "mcq",
+      "question": "Hình chữ nhật có 5 hàng, mỗi hàng 8 ô 1 cm². Diện tích bao nhiêu xăng-ti-mét vuông?",
+      "options": [
+        "40",
+        "13",
+        "26",
+        "45"
+      ],
+      "correct_answer": "40",
+      "distractors": [
+        "13",
+        "26",
+        "45"
+      ],
+      "explanation": "8 × 5 = 40 cm².",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B52_Q06",
+      "type": "fill",
+      "question": "Hình vuông cạnh 1 cm có diện tích bao nhiêu xăng-ti-mét vuông?",
+      "correct_answer": "1",
+      "distractors": [
+        "2",
+        "4",
+        "10"
+      ],
+      "explanation": "1 × 1 = 1 cm².",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B52_Q07",
+      "type": "mcq",
+      "question": "Hình chữ nhật dài 10 cm, rộng 3 cm có diện tích bao nhiêu xăng-ti-mét vuông?",
+      "options": [
+        "30",
+        "26",
+        "13",
+        "60"
+      ],
+      "correct_answer": "30",
+      "distractors": [
+        "26",
+        "13",
+        "60"
+      ],
+      "explanation": "10 × 3 = 30 cm².",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B52_Q08",
+      "type": "fill",
+      "question": "Hình vuông cạnh 8 cm có chu vi bao nhiêu xăng-ti-mét?",
+      "correct_answer": "32",
+      "distractors": [
+        "64",
+        "16",
+        "24"
+      ],
+      "explanation": "Chu vi khác diện tích: 8 × 4 = 32 cm.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B52_Q09",
+      "type": "mcq",
+      "question": "Hình vuông cạnh 8 cm có diện tích bao nhiêu xăng-ti-mét vuông?",
+      "options": [
+        "64",
+        "32",
+        "16",
+        "128"
+      ],
+      "correct_answer": "64",
+      "distractors": [
+        "32",
+        "16",
+        "128"
+      ],
+      "explanation": "Diện tích là 8 × 8 = 64 cm².",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B52_Q10",
+      "type": "fill",
+      "question": "Hình chữ nhật dài 12 cm, rộng 2 cm. Diện tích bao nhiêu xăng-ti-mét vuông?",
+      "correct_answer": "24",
+      "distractors": [
+        "28",
+        "14",
+        "48"
+      ],
+      "explanation": "12 × 2 = 24 cm².",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B52_Q11",
+      "type": "mcq",
+      "question": "Bạn lấy dài cộng rộng rồi nhân 2 để tính diện tích. Bạn đã dùng công thức của đại lượng nào?",
+      "options": [
+        "chu vi",
+        "diện tích",
+        "chiều dài",
+        "chiều rộng"
+      ],
+      "correct_answer": "chu vi",
+      "distractors": [
+        "diện tích",
+        "chiều dài",
+        "chiều rộng"
+      ],
+      "explanation": "Cộng hai kích thước rồi nhân hai là chu vi, không phải diện tích.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B52_Q12",
+      "type": "fill",
+      "question": "Hình chữ nhật dài 2 dm, rộng 5 cm. Diện tích bao nhiêu xăng-ti-mét vuông?",
+      "correct_answer": "100",
+      "distractors": [
+        "10",
+        "50",
+        "25"
+      ],
+      "explanation": "Đổi 2 dm thành 20 cm; 20 × 5 = 100 cm².",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B52_Q13",
+      "type": "mcq",
+      "question": "Hai hình chữ nhật kích thước 9 cm × 4 cm và 6 cm × 6 cm có diện tích bằng nhau không?",
+      "options": [
+        "có",
+        "không",
+        "chỉ chu vi bằng nhau",
+        "chưa đủ dữ kiện"
+      ],
+      "correct_answer": "có",
+      "distractors": [
+        "không",
+        "chỉ chu vi bằng nhau",
+        "chưa đủ dữ kiện"
+      ],
+      "explanation": "Cả hai tích đều bằng 36 cm²; hình 6 cm × 6 cm cũng là hình vuông.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B52_Q14",
+      "type": "fill",
+      "question": "Một hình vuông có chu vi 20 cm. Diện tích bao nhiêu xăng-ti-mét vuông?",
+      "correct_answer": "25",
+      "distractors": [
+        "20",
+        "100",
+        "16"
+      ],
+      "explanation": "Cạnh là 20 : 4 = 5 cm; diện tích 5 × 5 = 25 cm².",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B52_Q15",
+      "type": "mcq",
+      "question": "Hình chữ nhật diện tích 42 cm², rộng 6 cm. Dài bao nhiêu xăng-ti-mét?",
+      "options": [
+        "7",
+        "36",
+        "48",
+        "8"
+      ],
+      "correct_answer": "7",
+      "distractors": [
+        "36",
+        "48",
+        "8"
+      ],
+      "explanation": "42 : 6 = 7 cm; kiểm tra 7 × 6 = 42.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B52_Q16",
+      "type": "fill",
+      "question": "Giữ chiều rộng hình chữ nhật, tăng chiều dài gấp đôi. Diện tích tăng gấp mấy lần?",
+      "correct_answer": "2",
+      "distractors": [
+        "4",
+        "3",
+        "1"
+      ],
+      "explanation": "Số hàng không đổi, số ô mỗi hàng gấp đôi nên tổng diện tích gấp đôi.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B52_Q17",
+      "type": "mcq",
+      "question": "Hình vuông cạnh từ 3 cm tăng thành 6 cm. Diện tích tăng gấp mấy lần?",
+      "options": [
+        "4",
+        "2",
+        "3",
+        "6"
+      ],
+      "correct_answer": "4",
+      "distractors": [
+        "2",
+        "3",
+        "6"
+      ],
+      "explanation": "Diện tích từ 9 cm² lên 36 cm², tăng gấp bốn lần.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B52_Q18",
+      "type": "fill",
+      "question": "Hình chữ nhật dài 11 cm, rộng 4 cm. Diện tích hơn hình vuông cạnh 6 cm bao nhiêu xăng-ti-mét vuông?",
+      "correct_answer": "8",
+      "distractors": [
+        "7",
+        "80",
+        "40"
+      ],
+      "explanation": "Hình chữ nhật 44 cm², hình vuông 36 cm²; chênh 8 cm².",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B52_Q19",
+      "type": "mcq",
+      "question": "Tấm bìa vuông cạnh 7 cm, cắt hình vuông cạnh 2 cm. Phần còn lại có diện tích bao nhiêu xăng-ti-mét vuông?",
+      "options": [
+        "45",
+        "47",
+        "25",
+        "53"
+      ],
+      "correct_answer": "45",
+      "distractors": [
+        "47",
+        "25",
+        "53"
+      ],
+      "explanation": "Diện tích ban đầu 49 cm², mảnh cắt 4 cm²; còn 45 cm².",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B52_Q20",
+      "type": "fill",
+      "question": "Hình chữ nhật dài 8 cm, rộng 5 cm chia đều diện tích làm 4 phần. Mỗi phần bao nhiêu xăng-ti-mét vuông?",
+      "correct_answer": "10",
+      "distractors": [
+        "13",
+        "20",
+        "32"
+      ],
+      "explanation": "Diện tích 40 cm²; chia 4 được 10 cm².",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B52_Q21",
+      "type": "mcq",
+      "question": "Một tấm thiệp dài 15 cm, rộng 8 cm. Diện tích một mặt thiệp bao nhiêu xăng-ti-mét vuông?",
+      "options": [
+        "120",
+        "46",
+        "23",
+        "240"
+      ],
+      "correct_answer": "120",
+      "distractors": [
+        "46",
+        "23",
+        "240"
+      ],
+      "explanation": "15 × 8 = 120 cm².",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B52_Q22",
+      "type": "fill",
+      "question": "Một nhãn vuông cạnh 4 cm. Làm 6 nhãn rời cần tổng diện tích giấy bao nhiêu xăng-ti-mét vuông, không tính hao hụt?",
+      "correct_answer": "96",
+      "distractors": [
+        "24",
+        "64",
+        "80"
+      ],
+      "explanation": "Mỗi nhãn 16 cm²; 16 × 6 = 96 cm².",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B52_Q23",
+      "type": "mcq",
+      "question": "Tấm kính dài 25 cm, rộng 10 cm. Cắt ra miếng dài 10 cm, rộng 6 cm. Phần kính còn lại bao nhiêu xăng-ti-mét vuông?",
+      "options": [
+        "190",
+        "240",
+        "310",
+        "150"
+      ],
+      "correct_answer": "190",
+      "distractors": [
+        "240",
+        "310",
+        "150"
+      ],
+      "explanation": "Kính ban đầu 250 cm², miếng cắt 60 cm²; còn 190 cm².",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B52_Q24",
+      "type": "fill",
+      "question": "Một hình vuông cạnh 9 cm cắt bỏ miếng chữ nhật 3 cm × 5 cm. Còn bao nhiêu xăng-ti-mét vuông?",
+      "correct_answer": "66",
+      "distractors": [
+        "76",
+        "96",
+        "72"
+      ],
+      "explanation": "Hình vuông 81 cm², miếng cắt 15 cm²; còn 66 cm².",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B52_Q25",
+      "type": "mcq",
+      "question": "Hai hình chữ nhật 8 cm × 3 cm và 5 cm × 3 cm ghép theo cạnh rộng như hình C. Diện tích hình ghép bao nhiêu xăng-ti-mét vuông?",
+      "options": [
+        "39",
+        "24",
+        "15",
+        "78"
+      ],
+      "correct_answer": "39",
+      "distractors": [
+        "24",
+        "15",
+        "78"
+      ],
+      "explanation": "Chiều dài mới 13 cm, rộng 3 cm; 13 × 3 = 39 cm².",
+      "difficulty": "van_dung",
+      "figure": {
+        "path": "content/toan/tap-2/TOAN3_T2_B52_C.svg",
+        "caption": "Hai hình chữ nhật ghép theo cạnh rộng 3 cm."
+      }
+    },
+    {
+      "question_id": "TOAN3_T2_B52_Q26",
+      "type": "fill",
+      "question": "Miếng giấy hình chữ nhật dài 14 cm, rộng 6 cm. Gấp đôi sao cho hai nửa trùng khít. Diện tích một nửa tờ giấy bao nhiêu xăng-ti-mét vuông?",
+      "correct_answer": "42",
+      "distractors": [
+        "84",
+        "40",
+        "20"
+      ],
+      "explanation": "Diện tích cả tờ 84 cm²; một nửa là 42 cm².",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B52_Q27",
+      "type": "mcq",
+      "question": "Một khung vuông có chu vi 28 cm. Tấm bìa che kín bên trong vừa khung, cạnh bằng cạnh khung. Diện tích bìa bao nhiêu xăng-ti-mét vuông?",
+      "options": [
+        "49",
+        "28",
+        "56",
+        "196"
+      ],
+      "correct_answer": "49",
+      "distractors": [
+        "28",
+        "56",
+        "196"
+      ],
+      "explanation": "Cạnh khung 7 cm; bìa vuông có diện tích 7 × 7 = 49 cm².",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B52_Q28",
+      "type": "fill",
+      "question": "Hình chữ nhật có chu vi 30 cm, chiều rộng 5 cm. Diện tích bao nhiêu xăng-ti-mét vuông?",
+      "correct_answer": "50",
+      "distractors": [
+        "75",
+        "150",
+        "25"
+      ],
+      "explanation": "Nửa chu vi 15 cm, dài 10 cm; diện tích 10 × 5 = 50 cm².",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B52_Q29",
+      "type": "mcq",
+      "question": "Bốn miếng vuông cạnh 3 cm ghép kín thành một hình vuông lớn, không chồng. Diện tích hình lớn bao nhiêu xăng-ti-mét vuông?",
+      "options": [
+        "36",
+        "12",
+        "18",
+        "24"
+      ],
+      "correct_answer": "36",
+      "distractors": [
+        "12",
+        "18",
+        "24"
+      ],
+      "explanation": "Mỗi miếng 9 cm²; bốn miếng có diện tích 36 cm².",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B52_Q30",
+      "type": "fill",
+      "question": "Một tấm bìa 12 cm × 9 cm cắt được các thẻ 3 cm × 3 cm, không hao hụt. Có bao nhiêu thẻ?",
+      "correct_answer": "12",
+      "distractors": [
+        "9",
+        "36",
+        "108"
+      ],
+      "explanation": "Theo chiều dài có 4 thẻ, theo chiều rộng có 3 thẻ; 4 × 3 = 12.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B52_Q31",
+      "type": "mcq",
+      "question": "Một bìa vuông cạnh 10 cm được tô 4 ô vuông rời, mỗi ô cạnh 2 cm, không chồng. Diện tích chưa tô bao nhiêu xăng-ti-mét vuông?",
+      "options": [
+        "84",
+        "92",
+        "96",
+        "116"
+      ],
+      "correct_answer": "84",
+      "distractors": [
+        "92",
+        "96",
+        "116"
+      ],
+      "explanation": "Diện tích cả bìa 100 cm²; phần tô 4 × 4 = 16 cm²; còn 84 cm².",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B52_Q32",
+      "type": "fill",
+      "question": "Miếng giấy dài 18 cm, rộng 4 cm. Một miếng vuông có cùng diện tích nhưng chưa biết cạnh. Diện tích miếng vuông là bao nhiêu xăng-ti-mét vuông?",
+      "correct_answer": "72",
+      "distractors": [
+        "44",
+        "22",
+        "36"
+      ],
+      "explanation": "Cùng diện tích với chữ nhật nên bằng 18 × 4 = 72 cm²; không cần tìm cạnh.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B52_Q33",
+      "type": "mcq",
+      "question": "Tấm bìa vuông cạnh 8 cm được chia thành hai miếng diện tích 24 cm² và phần còn lại. Phần còn lại bao nhiêu xăng-ti-mét vuông?",
+      "options": [
+        "40",
+        "88",
+        "32",
+        "16"
+      ],
+      "correct_answer": "40",
+      "distractors": [
+        "88",
+        "32",
+        "16"
+      ],
+      "explanation": "Diện tích vuông 64 cm²; 64 - 24 = 40 cm².",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B52_Q34",
+      "type": "fill",
+      "question": "Tờ giấy 20 cm × 12 cm cắt thành 3 miếng bằng diện tích. Mỗi miếng bao nhiêu xăng-ti-mét vuông?",
+      "correct_answer": "80",
+      "distractors": [
+        "60",
+        "120",
+        "720"
+      ],
+      "explanation": "Diện tích 240 cm²; chia ba được 80 cm².",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B52_Q35",
+      "type": "mcq",
+      "question": "Hình bậc thang trong hình D ghép từ chữ nhật 10 cm × 4 cm và hình vuông cạnh 3 cm, không chồng diện tích. Tổng diện tích bao nhiêu xăng-ti-mét vuông?",
+      "options": [
+        "49",
+        "43",
+        "52",
+        "120"
+      ],
+      "correct_answer": "49",
+      "distractors": [
+        "43",
+        "52",
+        "120"
+      ],
+      "explanation": "Chữ nhật 40 cm², vuông 9 cm²; cộng được 49 cm².",
+      "difficulty": "van_dung",
+      "figure": {
+        "path": "content/toan/tap-2/TOAN3_T2_B52_D.svg",
+        "caption": "Hình ghép từ chữ nhật 10 cm × 4 cm và vuông cạnh 3 cm."
+      }
+    },
+    {
+      "question_id": "TOAN3_T2_B52_Q36",
+      "type": "fill",
+      "question": "Hình chữ nhật có diện tích 56 cm², chiều dài 8 cm. Chu vi bao nhiêu xăng-ti-mét?",
+      "correct_answer": "30",
+      "distractors": [
+        "56",
+        "28",
+        "15"
+      ],
+      "explanation": "Chiều rộng 7 cm; tổng hai kích thước 15 cm, chu vi 30 cm.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B52_Q37",
+      "type": "mcq",
+      "question": "Tấm ảnh 9 cm × 6 cm đặt trên bìa 11 cm × 8 cm. Diện tích phần bìa không bị ảnh che bao nhiêu xăng-ti-mét vuông?",
+      "options": [
+        "34",
+        "88",
+        "54",
+        "142"
+      ],
+      "correct_answer": "34",
+      "distractors": [
+        "88",
+        "54",
+        "142"
+      ],
+      "explanation": "Bìa 88 cm², ảnh 54 cm²; phần còn thấy 34 cm².",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B52_Q38",
+      "type": "fill",
+      "question": "Miếng vuông cạnh 5 cm và miếng chữ nhật 7 cm × 4 cm. Miếng nào có diện tích lớn hơn? Viết “vuông” hoặc “chữ nhật”.",
+      "correct_answer": "chữ nhật",
+      "distractors": [
+        "vuông",
+        "bằng nhau",
+        "không biết"
+      ],
+      "explanation": "Vuông có 25 cm²; chữ nhật có 28 cm² nên chữ nhật lớn hơn.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B52_Q39",
+      "type": "mcq",
+      "question": "Tấm vải dài 30 cm, rộng 20 cm cắt đi hai miếng vuông cạnh 5 cm, không chồng. Phần còn lại bao nhiêu xăng-ti-mét vuông?",
+      "options": [
+        "550",
+        "590",
+        "575",
+        "650"
+      ],
+      "correct_answer": "550",
+      "distractors": [
+        "590",
+        "575",
+        "650"
+      ],
+      "explanation": "Vải 600 cm², hai miếng vuông tổng 50 cm²; còn 550 cm².",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B52_Q40",
+      "type": "fill",
+      "question": "Hình chữ nhật dài 10 cm rộng 6 cm. Giữ rộng, tăng dài thêm 2 cm. Diện tích tăng bao nhiêu xăng-ti-mét vuông?",
+      "correct_answer": "12",
+      "distractors": [
+        "2",
+        "4",
+        "24"
+      ],
+      "explanation": "Dải thêm dài 2 cm, rộng 6 cm; diện tích tăng 2 × 6 = 12 cm².",
+      "difficulty": "van_dung"
+    }
+  ],
+  "games": [
+    {
+      "id": "TOAN3_T2_B52_GAME1",
+      "title": "Xưởng cắt ghép nhanh",
+      "mode": "speed",
+      "objective": "Tính đúng diện tích và tránh nhầm chu vi trong thời gian lượt chơi.",
+      "rules": [
+        "Trả lời các câu thuộc bài trong 60 giây.",
+        "Mỗi câu đúng được 10 điểm, sai không được điểm; chuyển ngay sang câu tiếp.",
+        "Hết giờ thì kết thúc. Điểm riêng của lượt chơi, không thay kết quả luyện tập."
+      ],
+      "question_ids": [
+        "TOAN3_T2_B52_Q01",
+        "TOAN3_T2_B52_Q02",
+        "TOAN3_T2_B52_Q03",
+        "TOAN3_T2_B52_Q04",
+        "TOAN3_T2_B52_Q05",
+        "TOAN3_T2_B52_Q06",
+        "TOAN3_T2_B52_Q07",
+        "TOAN3_T2_B52_Q08",
+        "TOAN3_T2_B52_Q09",
+        "TOAN3_T2_B52_Q10",
+        "TOAN3_T2_B52_Q11",
+        "TOAN3_T2_B52_Q12",
+        "TOAN3_T2_B52_Q13",
+        "TOAN3_T2_B52_Q14",
+        "TOAN3_T2_B52_Q15",
+        "TOAN3_T2_B52_Q16",
+        "TOAN3_T2_B52_Q17",
+        "TOAN3_T2_B52_Q18",
+        "TOAN3_T2_B52_Q19",
+        "TOAN3_T2_B52_Q20",
+        "TOAN3_T2_B52_Q21",
+        "TOAN3_T2_B52_Q22",
+        "TOAN3_T2_B52_Q23",
+        "TOAN3_T2_B52_Q24",
+        "TOAN3_T2_B52_Q25",
+        "TOAN3_T2_B52_Q26",
+        "TOAN3_T2_B52_Q27",
+        "TOAN3_T2_B52_Q28",
+        "TOAN3_T2_B52_Q29",
+        "TOAN3_T2_B52_Q30",
+        "TOAN3_T2_B52_Q31",
+        "TOAN3_T2_B52_Q32",
+        "TOAN3_T2_B52_Q33",
+        "TOAN3_T2_B52_Q34",
+        "TOAN3_T2_B52_Q35",
+        "TOAN3_T2_B52_Q36",
+        "TOAN3_T2_B52_Q37",
+        "TOAN3_T2_B52_Q38",
+        "TOAN3_T2_B52_Q39",
+        "TOAN3_T2_B52_Q40"
+      ],
+      "answer_source": "practice.correct_answer",
+      "feedback_source": "practice.explanation",
+      "max_score": null
+    }
+  ],
+  "assessment": {
+    "session_size": 10,
+    "distribution": {
+      "nhan_biet": 3,
+      "thong_hieu": 3,
+      "van_dung": 4
+    },
+    "scoring": "Đúng lần đầu: 1 điểm; đúng sau một gợi ý: 0,5 điểm. Từ 90%: 3 sao; từ 60%: 2 sao; còn lại: 1 sao.",
+    "review_advice": "Xem lời giải các câu sai, đọc lại quy tắc, rồi làm một lượt mới."
+  },
+  "feedback": {
+    "correct": "Chính xác! Hãy đọc lời giải để củng cố cách làm.",
+    "incorrect": "Em thử lại một lần. Sau đó xem đáp án và cách giải."
+  },
+  "verification": {
+    "ai_authored": true,
+    "structure_checked": true,
+    "answer_reviewed": true,
+    "source_reviewed": true,
+    "teacher_approved": false
+  },
+  "status": "AI_CHECKED_AWAITING_TEACHER",
+  "figures": [
+    {
+      "path": "content/toan/tap-2/TOAN3_T2_B52_C.svg",
+      "caption": "Hai hình chữ nhật ghép theo cạnh rộng 3 cm."
+    },
+    {
+      "path": "content/toan/tap-2/TOAN3_T2_B52_D.svg",
+      "caption": "Hình ghép từ chữ nhật 10 cm × 4 cm và vuông cạnh 3 cm."
+    }
+  ]
+}

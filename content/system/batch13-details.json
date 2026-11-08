@@ -1,0 +1,235 @@
+[
+  {
+    "topic": "Ôn cấu tạo số, so sánh, La Mã và làm tròn",
+    "objectives": [
+      "Kết hợp đọc viết, phân tích và sắp thứ tự số trong phạm vi 10000.",
+      "Đọc đúng La Mã I–XX trong tình huống thực tế.",
+      "Chọn đúng hàng làm tròn và giải nhiệm vụ nhiều bước ngắn."
+    ],
+    "intro": "Trong một nhiệm vụ, em có thể cần viết số từ lời đọc trước, so sánh với điều kiện rồi mới làm tròn. Hãy ghi số chính xác ra trước; giữ số đó để kiểm tra, chỉ dùng số làm tròn khi câu hỏi yêu cầu.",
+    "rules": [
+      "Nghìn, trăm, chục, đơn vị là bốn hàng của số có bốn chữ số.",
+      "So số chữ số trước; nếu bằng nhau, xét các hàng từ trái sang phải.",
+      "IV là 4, IX là 9; XIV là 14, XIX là 19.",
+      "Làm tròn đến chục xét đơn vị; đến trăm xét chục; từ 5 làm lên."
+    ],
+    "steps": [
+      "Gạch dưới điều kiện và đại lượng cần tìm.",
+      "Viết hoặc đổi số La Mã sang số thông thường để suy nghĩ.",
+      "Thực hiện từng bước, không làm tròn qua bước trung gian.",
+      "Thử lại đáp án với toàn bộ điều kiện."
+    ],
+    "errors": [
+      "Lẫn số chính xác với số làm tròn.",
+      "Nhầm thứ tự hàng nghìn/trăm/chục/đơn vị.",
+      "Bỏ qua điều kiện lớn hơn hoặc bé hơn khi chọn thẻ."
+    ],
+    "examples": [
+      [
+        "Số gồm 7 nghìn, 4 chục và 8 đơn vị; làm tròn đến trăm.",
+        [
+          "Viết số chính xác là 7048.",
+          "Hàng chục là 4 bé hơn 5 nên được 7000."
+        ]
+      ],
+      [
+        "Các thẻ IX, XIII, XVII, chọn thẻ lớn hơn 10 và bé hơn 15.",
+        [
+          "Đổi ra 9, 13, 17.",
+          "Chỉ 13 nằm trong khoảng; chọn XIII."
+        ]
+      ]
+    ],
+    "game": [
+      "Trạm thử thách số",
+      "Giải các nhiệm vụ tổng hợp về số và đọc lời giải từng bước."
+    ],
+    "mode": "treasure"
+  },
+  {
+    "topic": "Chu vi các hình phẳng quen thuộc",
+    "objectives": [
+      "Hiểu chu vi là tổng độ dài đường bao.",
+      "Tính chu vi tam giác, tứ giác, chữ nhật và vuông.",
+      "Đổi về cùng đơn vị trước tính; giải bài viền khung, rào và chừa cổng."
+    ],
+    "intro": "Tưởng tượng một chú kiến đi đúng một vòng quanh mép hình. Tổng quãng đường đó là chu vi. Các cạnh ở bên trong khi ghép hình không thuộc đường bao ngoài.",
+    "rules": [
+      "Tam giác: cộng độ dài ba cạnh. Tứ giác: cộng độ dài bốn cạnh.",
+      "Chữ nhật: chiều dài cộng chiều rộng, cùng đơn vị, rồi nhân 2.",
+      "Vuông: độ dài một cạnh nhân 4.",
+      "Chu vi là độ dài nên dùng cm, dm, m; không dùng cm².",
+      "Nửa chu vi chữ nhật bằng chiều dài cộng chiều rộng."
+    ],
+    "steps": [
+      "Xác định đường bao cần tính, có cạnh chung hoặc cổng không.",
+      "Đổi các độ dài về cùng đơn vị.",
+      "Cộng đủ các cạnh hoặc dùng quy tắc của chữ nhật/vuông.",
+      "Nếu chừa cổng, trừ phần cổng khỏi chu vi; ghi đơn vị."
+    ],
+    "errors": [
+      "Lấy dài nhân rộng để tính chu vi.",
+      "Cộng số đo khác đơn vị như 1 m và 35 cm mà không đổi.",
+      "Cộng cả cạnh ghép bên trong vào đường bao ngoài.",
+      "Quên nhân 2 sau khi cộng dài và rộng."
+    ],
+    "examples": [
+      [
+        "Khung chữ nhật dài 13 cm, rộng 7 cm, cần bao nhiêu cm nẹp?",
+        [
+          "Nửa chu vi: 13 + 7 = 20 cm.",
+          "Chu vi: 20 × 2 = 40 cm."
+        ]
+      ],
+      [
+        "Vườn vuông cạnh 11 m, chừa cổng 2 m.",
+        [
+          "Chu vi: 11 × 4 = 44 m.",
+          "Hàng rào: 44 - 2 = 42 m."
+        ]
+      ]
+    ],
+    "game": [
+      "Kiến đi quanh vườn",
+      "Kiểm tra kết quả chu vi, tránh nhầm với diện tích và cạnh bên trong."
+    ],
+    "mode": "tf",
+    "activities": [
+      {
+        "title": "Đo đường bao quyển vở",
+        "materials": [
+          "thước chia xăng-ti-mét",
+          "vở hình chữ nhật",
+          "giấy ghi"
+        ],
+        "steps": [
+          "Đo dài và rộng của một mặt bìa vở, ghi cùng đơn vị cm.",
+          "Tính dài cộng rộng rồi nhân 2.",
+          "Đo và cộng riêng cả bốn cạnh để đối chiếu."
+        ],
+        "check": [
+          "Hai cách cho cùng kết quả.",
+          "Đã ghi đơn vị cm, không ghi cm²."
+        ]
+      }
+    ]
+  },
+  {
+    "topic": "Diện tích qua ô đơn vị và xăng-ti-mét vuông",
+    "objectives": [
+      "Phân biệt diện tích phần mặt hình với độ dài đường bao.",
+      "So sánh diện tích bằng cùng loại ô đơn vị.",
+      "Đọc viết cm²; cộng, trừ, nhân, chia diện tích đơn giản."
+    ],
+    "intro": "Diện tích cho biết phần mặt phẳng mà hình chiếm. Dùng các ô vuông cùng kích thước phủ kín hình, không chồng và không bỏ trống; số ô giúp so sánh diện tích. Một ô vuông cạnh 1 cm có diện tích 1 cm².",
+    "rules": [
+      "Phải dùng cùng loại ô vuông trước khi so số ô.",
+      "Cùng số ô đơn vị có thể tạo những hình khác dạng nhưng bằng diện tích.",
+      "Cắt rồi ghép lại, không bỏ mảnh và không chồng lên nhau, thì diện tích giữ nguyên.",
+      "Ghép hai phần không chồng: cộng diện tích; lấy bớt một phần: trừ diện tích.",
+      "Hai nửa của cùng một ô ghép thành một ô nguyên.",
+      "cm² đọc là xăng-ti-mét vuông. Khi tính giữ đúng đơn vị diện tích."
+    ],
+    "steps": [
+      "Xem mỗi ô trong hình có cùng kích thước không.",
+      "Đếm theo hàng hoặc nhóm, tránh đếm lặp ô góc.",
+      "Với nửa ô, ghép hai nửa cùng loại thành một ô nguyên.",
+      "Ghi kết quả kèm cm² nếu mỗi ô là 1 cm²."
+    ],
+    "errors": [
+      "Thấy hình dài hơn thì kết luận diện tích lớn hơn mà chưa đếm.",
+      "So số ô khi các ô không bằng nhau.",
+      "Đếm phần chồng hai lần.",
+      "Dùng cm thay cm² cho diện tích."
+    ],
+    "examples": [
+      [
+        "Hình gồm 6 ô nguyên và 2 nửa ô 1 cm². Tính diện tích.",
+        [
+          "Hai nửa ghép thành một ô nguyên.",
+          "Có diện tích 6 + 1 = 7 cm²."
+        ]
+      ],
+      [
+        "Giấy 25 cm², cắt đi 8 cm².",
+        [
+          "Phần giấy còn lại được tính bằng phép trừ.",
+          "25 - 8 = 17 cm²."
+        ]
+      ]
+    ],
+    "game": [
+      "Ghép diện tích",
+      "Ghép mỗi nhiệm vụ diện tích với đáp án đúng, dùng năm cặp khác nhau mỗi lượt."
+    ],
+    "mode": "match",
+    "activities": [
+      {
+        "title": "Ghép hình cùng diện tích",
+        "materials": [
+          "6 ô vuông giấy bằng nhau"
+        ],
+        "steps": [
+          "Dùng cả sáu ô xếp một hình, không chồng lên nhau.",
+          "Xếp lại thành một hình khác, vẫn dùng đúng sáu ô.",
+          "Giải thích vì sao hai hình bằng diện tích dù khác hình dạng."
+        ],
+        "check": [
+          "Không làm mất hoặc thêm ô.",
+          "Phân biệt diện tích giữ nguyên với đường bao có thể thay đổi."
+        ]
+      }
+    ]
+  },
+  {
+    "topic": "Diện tích hình chữ nhật và hình vuông",
+    "objectives": [
+      "Tính diện tích chữ nhật bằng dài nhân rộng.",
+      "Tính diện tích vuông bằng cạnh nhân chính nó.",
+      "Đổi đơn vị độ dài trước khi tính; giải bài cắt ghép và phân biệt chu vi với diện tích."
+    ],
+    "intro": "Hình chữ nhật có thể chia thành các hàng ô vuông. Số ô ở mỗi hàng nhân với số hàng cho tổng số ô. Từ đó chiều dài nhân chiều rộng cho diện tích; hình vuông có hai kích thước bằng nhau nên lấy cạnh nhân cạnh.",
+    "rules": [
+      "Chữ nhật: diện tích bằng chiều dài nhân chiều rộng, cùng đơn vị.",
+      "Vuông: diện tích bằng độ dài một cạnh nhân với chính nó.",
+      "Dùng kích thước cm thì diện tích có đơn vị cm².",
+      "Phải đổi 2 dm thành 20 cm trước khi nhân với một độ dài cm.",
+      "Ghép các phần không chồng: cộng diện tích; cắt bỏ: trừ diện tích phần đã lấy.",
+      "Chu vi vuông là cạnh nhân 4, diện tích vuông là cạnh nhân cạnh."
+    ],
+    "steps": [
+      "Đọc xem đề hỏi chu vi hay diện tích.",
+      "Ghi hai kích thước cùng đơn vị; nếu thiếu, tìm từ dữ kiện.",
+      "Dùng phép nhân thích hợp, rồi cộng/trừ/chia cho phần ghép/cắt.",
+      "Kiểm tra đơn vị kết quả và tính hợp lí."
+    ],
+    "errors": [
+      "Dùng dài cộng rộng rồi nhân 2 để tính diện tích.",
+      "Lấy cạnh nhân 4 để tính diện tích hình vuông.",
+      "Nhân trực tiếp dm với cm.",
+      "Trừ độ dài cạnh thay vì trừ diện tích phần cắt."
+    ],
+    "examples": [
+      [
+        "Tấm bìa dài 16 cm, rộng 5 cm. Tính diện tích.",
+        [
+          "Mỗi hàng có 16 ô 1 cm², có 5 hàng.",
+          "16 × 5 = 80 cm²."
+        ]
+      ],
+      [
+        "Bìa vuông cạnh 6 cm cắt đi miếng 2 cm × 4 cm.",
+        [
+          "Diện tích bìa: 6 × 6 = 36 cm².",
+          "Diện tích phần cắt: 2 × 4 = 8 cm².",
+          "Phần còn: 36 - 8 = 28 cm²."
+        ]
+      ]
+    ],
+    "game": [
+      "Xưởng cắt ghép nhanh",
+      "Tính đúng diện tích và tránh nhầm chu vi trong thời gian lượt chơi."
+    ],
+    "mode": "speed"
+  }
+]

@@ -1,0 +1,824 @@
+{
+  "id": "TOAN3_T2_B50",
+  "subject": "toan",
+  "grade": 3,
+  "book": "Kết nối tri thức với cuộc sống",
+  "volume": 2,
+  "lesson_no": 50,
+  "title": "Chu vi hình tam giác, hình tứ giác, hình chữ nhật, hình vuông",
+  "topic": "Chu vi các hình phẳng quen thuộc",
+  "source": {
+    "pdf": "03-sgk-toan-3-tap-hai.pdf",
+    "printed_pages": [
+      21,
+      25
+    ],
+    "pdf_pages": [
+      22,
+      26
+    ],
+    "review": "Đã đọc trực quan toàn bộ trang nguồn cho bài này; nội dung và bài tập mới do AI biên soạn."
+  },
+  "objectives": [
+    "Hiểu chu vi là tổng độ dài đường bao.",
+    "Tính chu vi tam giác, tứ giác, chữ nhật và vuông.",
+    "Đổi về cùng đơn vị trước tính; giải bài viền khung, rào và chừa cổng."
+  ],
+  "knowledge": {
+    "introduction": "Tưởng tượng một chú kiến đi đúng một vòng quanh mép hình. Tổng quãng đường đó là chu vi. Các cạnh ở bên trong khi ghép hình không thuộc đường bao ngoài.",
+    "rules": [
+      "Tam giác: cộng độ dài ba cạnh. Tứ giác: cộng độ dài bốn cạnh.",
+      "Chữ nhật: chiều dài cộng chiều rộng, cùng đơn vị, rồi nhân 2.",
+      "Vuông: độ dài một cạnh nhân 4.",
+      "Chu vi là độ dài nên dùng cm, dm, m; không dùng cm².",
+      "Nửa chu vi chữ nhật bằng chiều dài cộng chiều rộng."
+    ],
+    "steps": [
+      "Xác định đường bao cần tính, có cạnh chung hoặc cổng không.",
+      "Đổi các độ dài về cùng đơn vị.",
+      "Cộng đủ các cạnh hoặc dùng quy tắc của chữ nhật/vuông.",
+      "Nếu chừa cổng, trừ phần cổng khỏi chu vi; ghi đơn vị."
+    ],
+    "common_errors": [
+      "Lấy dài nhân rộng để tính chu vi.",
+      "Cộng số đo khác đơn vị như 1 m và 35 cm mà không đổi.",
+      "Cộng cả cạnh ghép bên trong vào đường bao ngoài.",
+      "Quên nhân 2 sau khi cộng dài và rộng."
+    ]
+  },
+  "examples": [
+    {
+      "question": "Khung chữ nhật dài 13 cm, rộng 7 cm, cần bao nhiêu cm nẹp?",
+      "steps": [
+        "Nửa chu vi: 13 + 7 = 20 cm.",
+        "Chu vi: 20 × 2 = 40 cm."
+      ]
+    },
+    {
+      "question": "Vườn vuông cạnh 11 m, chừa cổng 2 m.",
+      "steps": [
+        "Chu vi: 11 × 4 = 44 m.",
+        "Hàng rào: 44 - 2 = 42 m."
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "question_id": "TOAN3_T2_B50_Q01",
+      "type": "mcq",
+      "question": "Chu vi một hình là tổng độ dài các gì?",
+      "options": [
+        "cạnh",
+        "góc",
+        "đường chéo",
+        "ô vuông"
+      ],
+      "correct_answer": "cạnh",
+      "distractors": [
+        "góc",
+        "đường chéo",
+        "ô vuông"
+      ],
+      "explanation": "Cộng độ dài tất cả các cạnh bao quanh hình.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B50_Q02",
+      "type": "fill",
+      "question": "Tam giác có các cạnh 4 cm, 5 cm, 6 cm. Chu vi bao nhiêu xăng-ti-mét?",
+      "correct_answer": "15",
+      "distractors": [
+        "9",
+        "11",
+        "20"
+      ],
+      "explanation": "4 + 5 + 6 = 15.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B50_Q03",
+      "type": "mcq",
+      "question": "Tứ giác có các cạnh 3 dm, 6 dm, 5 dm, 4 dm. Chu vi bao nhiêu đề-xi-mét?",
+      "options": [
+        "18",
+        "14",
+        "15",
+        "30"
+      ],
+      "correct_answer": "18",
+      "distractors": [
+        "14",
+        "15",
+        "30"
+      ],
+      "explanation": "3 + 6 + 5 + 4 = 18.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B50_Q04",
+      "type": "fill",
+      "question": "Hình vuông cạnh 9 cm có chu vi bao nhiêu xăng-ti-mét?",
+      "correct_answer": "36",
+      "distractors": [
+        "18",
+        "81",
+        "13"
+      ],
+      "explanation": "9 × 4 = 36.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B50_Q05",
+      "type": "mcq",
+      "question": "Hình chữ nhật dài 9 m, rộng 3 m. Chu vi bao nhiêu mét?",
+      "options": [
+        "24",
+        "12",
+        "27",
+        "18"
+      ],
+      "correct_answer": "24",
+      "distractors": [
+        "12",
+        "27",
+        "18"
+      ],
+      "explanation": "Cộng chiều dài và rộng được 12 m, nhân hai được 24 m.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B50_Q06",
+      "type": "fill",
+      "question": "Chu vi dùng đơn vị cm hay cm²? Viết đơn vị đúng.",
+      "correct_answer": "cm",
+      "distractors": [
+        "cm²",
+        "kg",
+        "l"
+      ],
+      "explanation": "Chu vi đo độ dài đường bao nên dùng cm.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B50_Q07",
+      "type": "mcq",
+      "question": "Hình chữ nhật có mấy cạnh dài bằng nhau?",
+      "options": [
+        "2",
+        "1",
+        "3",
+        "4"
+      ],
+      "correct_answer": "2",
+      "distractors": [
+        "1",
+        "3",
+        "4"
+      ],
+      "explanation": "Hai cạnh dài đối diện bằng nhau; hai cạnh rộng cũng bằng nhau.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B50_Q08",
+      "type": "fill",
+      "question": "Hình vuông có chu vi bằng độ dài một cạnh nhân mấy?",
+      "correct_answer": "4",
+      "distractors": [
+        "2",
+        "3",
+        "1"
+      ],
+      "explanation": "Có bốn cạnh bằng nhau nên nhân bốn.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B50_Q09",
+      "type": "mcq",
+      "question": "Hình chữ nhật dài 12 cm, rộng 4 cm. Nửa chu vi bao nhiêu xăng-ti-mét?",
+      "options": [
+        "16",
+        "32",
+        "48",
+        "8"
+      ],
+      "correct_answer": "16",
+      "distractors": [
+        "32",
+        "48",
+        "8"
+      ],
+      "explanation": "Nửa chu vi bằng chiều dài cộng chiều rộng: 12 + 4 = 16.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B50_Q10",
+      "type": "fill",
+      "question": "Tam giác có ba cạnh cùng dài 7 cm. Chu vi bao nhiêu xăng-ti-mét?",
+      "correct_answer": "21",
+      "distractors": [
+        "28",
+        "14",
+        "49"
+      ],
+      "explanation": "7 × 3 = 21.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B50_Q11",
+      "type": "mcq",
+      "question": "Bạn tính chu vi hình chữ nhật dài 8 cm, rộng 2 cm bằng 8 × 2. Kết quả chu vi đúng bao nhiêu xăng-ti-mét?",
+      "options": [
+        "20",
+        "16",
+        "10",
+        "12"
+      ],
+      "correct_answer": "20",
+      "distractors": [
+        "16",
+        "10",
+        "12"
+      ],
+      "explanation": "Chu vi là tổng bốn cạnh: 8 + 2 + 8 + 2 = 20.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B50_Q12",
+      "type": "fill",
+      "question": "Một cạnh hình vuông dài 15 mm. Chu vi bao nhiêu mi-li-mét?",
+      "correct_answer": "60",
+      "distractors": [
+        "30",
+        "225",
+        "19"
+      ],
+      "explanation": "15 × 4 = 60 mm.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B50_Q13",
+      "type": "mcq",
+      "question": "Hình chữ nhật dài 1 m, rộng 35 cm. Chu vi bao nhiêu xăng-ti-mét?",
+      "options": [
+        "270",
+        "72",
+        "135",
+        "235"
+      ],
+      "correct_answer": "270",
+      "distractors": [
+        "72",
+        "135",
+        "235"
+      ],
+      "explanation": "Đổi 1 m thành 100 cm; cộng 100 và 35 rồi nhân 2 được 270 cm.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B50_Q14",
+      "type": "fill",
+      "question": "Hai hình chữ nhật kích thước 8 cm × 4 cm và 7 cm × 5 cm. Chu vi hai hình có bằng nhau không?",
+      "correct_answer": "có",
+      "distractors": [
+        "không",
+        "chưa biết",
+        "chỉ diện tích bằng nhau"
+      ],
+      "explanation": "Hai cặp chiều dài cộng chiều rộng đều bằng 12 cm, nên chu vi đều 24 cm.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B50_Q15",
+      "type": "mcq",
+      "question": "Hình vuông có chu vi 32 cm. Cạnh dài bao nhiêu xăng-ti-mét?",
+      "options": [
+        "8",
+        "4",
+        "16",
+        "28"
+      ],
+      "correct_answer": "8",
+      "distractors": [
+        "4",
+        "16",
+        "28"
+      ],
+      "explanation": "Chia 32 cm cho bốn cạnh bằng nhau được 8 cm.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B50_Q16",
+      "type": "fill",
+      "question": "Hình chữ nhật có nửa chu vi 19 cm, chiều rộng 6 cm. Chiều dài bao nhiêu xăng-ti-mét?",
+      "correct_answer": "13",
+      "distractors": [
+        "25",
+        "38",
+        "7"
+      ],
+      "explanation": "Chiều dài và rộng cộng lại bằng 19; 19 - 6 = 13.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B50_Q17",
+      "type": "mcq",
+      "question": "Tam giác có chu vi 24 cm, hai cạnh dài 9 cm và 8 cm. Cạnh còn lại dài bao nhiêu xăng-ti-mét?",
+      "options": [
+        "7",
+        "15",
+        "16",
+        "17"
+      ],
+      "correct_answer": "7",
+      "distractors": [
+        "15",
+        "16",
+        "17"
+      ],
+      "explanation": "24 - 9 - 8 = 7.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B50_Q18",
+      "type": "fill",
+      "question": "Tứ giác có ba cạnh 5 m, 7 m, 8 m và chu vi 26 m. Cạnh thứ tư dài mấy mét?",
+      "correct_answer": "6",
+      "distractors": [
+        "20",
+        "4",
+        "12"
+      ],
+      "explanation": "26 - 5 - 7 - 8 = 6.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B50_Q19",
+      "type": "mcq",
+      "question": "Cạnh hình vuông tăng từ 4 cm lên 6 cm. Chu vi tăng bao nhiêu xăng-ti-mét?",
+      "options": [
+        "8",
+        "2",
+        "4",
+        "20"
+      ],
+      "correct_answer": "8",
+      "distractors": [
+        "2",
+        "4",
+        "20"
+      ],
+      "explanation": "Mỗi cạnh tăng 2 cm; bốn cạnh tăng 2 × 4 = 8 cm.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B50_Q20",
+      "type": "fill",
+      "question": "Chiều rộng hình chữ nhật giữ nguyên, chiều dài tăng 3 cm. Chu vi tăng bao nhiêu xăng-ti-mét?",
+      "correct_answer": "6",
+      "distractors": [
+        "3",
+        "9",
+        "12"
+      ],
+      "explanation": "Có hai cạnh dài, mỗi cạnh tăng 3 cm nên chu vi tăng 6 cm.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B50_Q21",
+      "type": "mcq",
+      "question": "Vườn hình chữ nhật dài 14 m, rộng 6 m, chừa cổng 3 m trên đường bao. Cần bao nhiêu mét hàng rào?",
+      "options": [
+        "37",
+        "40",
+        "43",
+        "20"
+      ],
+      "correct_answer": "37",
+      "distractors": [
+        "40",
+        "43",
+        "20"
+      ],
+      "explanation": "Chu vi là 40 m; chừa cổng 3 m còn 37 m hàng rào.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B50_Q22",
+      "type": "fill",
+      "question": "Một khung vuông cạnh 12 cm được quấn dây đúng một vòng, không chồng mép. Cần bao nhiêu xăng-ti-mét dây?",
+      "correct_answer": "48",
+      "distractors": [
+        "24",
+        "144",
+        "36"
+      ],
+      "explanation": "Bốn cạnh 12 cm có tổng 12 × 4 = 48 cm.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B50_Q23",
+      "type": "mcq",
+      "question": "Dây dài 70 cm dùng viền một tam giác có ba cạnh 18 cm, 20 cm, 22 cm. Còn bao nhiêu xăng-ti-mét dây?",
+      "options": [
+        "10",
+        "8",
+        "12",
+        "20"
+      ],
+      "correct_answer": "10",
+      "distractors": [
+        "8",
+        "12",
+        "20"
+      ],
+      "explanation": "Chu vi tam giác là 60 cm; 70 - 60 = 10.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B50_Q24",
+      "type": "fill",
+      "question": "Mỗi cạnh một hình vuông xếp bằng 5 que thẳng không chồng lên nhau. Cần tổng mấy que để xếp đường bao?",
+      "correct_answer": "20",
+      "distractors": [
+        "10",
+        "25",
+        "15"
+      ],
+      "explanation": "Bốn cạnh, mỗi cạnh năm que; 5 × 4 = 20.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B50_Q25",
+      "type": "mcq",
+      "question": "Một bảng hình chữ nhật dài 18 dm, rộng 12 dm. Dùng nẹp viền đủ bốn cạnh, cần bao nhiêu đề-xi-mét nẹp?",
+      "options": [
+        "60",
+        "30",
+        "216",
+        "48"
+      ],
+      "correct_answer": "60",
+      "distractors": [
+        "30",
+        "216",
+        "48"
+      ],
+      "explanation": "18 + 12 = 30; hai lần 30 là 60 dm.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B50_Q26",
+      "type": "fill",
+      "question": "Một khăn hình vuông có chu vi 100 cm. Mỗi cạnh khăn dài bao nhiêu xăng-ti-mét?",
+      "correct_answer": "25",
+      "distractors": [
+        "50",
+        "20",
+        "96"
+      ],
+      "explanation": "100 chia đều cho bốn cạnh, được 25 cm.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B50_Q27",
+      "type": "mcq",
+      "question": "Có 3 khung hình vuông riêng biệt, mỗi cạnh 7 cm. Tổng chiều dài nẹp cho ba khung bao nhiêu xăng-ti-mét?",
+      "options": [
+        "84",
+        "21",
+        "28",
+        "147"
+      ],
+      "correct_answer": "84",
+      "distractors": [
+        "21",
+        "28",
+        "147"
+      ],
+      "explanation": "Một khung có chu vi 28 cm; 28 × 3 = 84 cm.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B50_Q28",
+      "type": "fill",
+      "question": "Mảnh đất hình chữ nhật có chu vi 54 m và chiều rộng 9 m. Chiều dài bao nhiêu mét?",
+      "correct_answer": "18",
+      "distractors": [
+        "36",
+        "45",
+        "27"
+      ],
+      "explanation": "Nửa chu vi 27 m; 27 - 9 = 18 m.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B50_Q29",
+      "type": "mcq",
+      "question": "Hình tam giác trong hình A có các cạnh 6 cm, 8 cm, 10 cm. Đi một vòng đường bao dài bao nhiêu xăng-ti-mét?",
+      "options": [
+        "24",
+        "14",
+        "18",
+        "48"
+      ],
+      "correct_answer": "24",
+      "distractors": [
+        "14",
+        "18",
+        "48"
+      ],
+      "explanation": "6 + 8 + 10 = 24 cm; không chỉ cộng hai cạnh.",
+      "difficulty": "van_dung",
+      "figure": {
+        "path": "content/toan/tap-2/TOAN3_T2_B50_triangle.svg",
+        "caption": "Tam giác có ba cạnh 6 cm, 8 cm, 10 cm."
+      }
+    },
+    {
+      "question_id": "TOAN3_T2_B50_Q30",
+      "type": "fill",
+      "question": "Thợ làm khung dài 25 cm, rộng 15 cm. Nẹp dài 1 m có đủ viền một vòng không?",
+      "correct_answer": "có",
+      "distractors": [
+        "không",
+        "vừa đúng",
+        "không xác định"
+      ],
+      "explanation": "Chu vi khung là 80 cm, nhỏ hơn 100 cm nên đủ.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B50_Q31",
+      "type": "mcq",
+      "question": "Sợi dây 64 cm uốn thành hình vuông không thừa. Đổi sang hình chữ nhật rộng 10 cm, chiều dài bao nhiêu xăng-ti-mét?",
+      "options": [
+        "22",
+        "16",
+        "32",
+        "54"
+      ],
+      "correct_answer": "22",
+      "distractors": [
+        "16",
+        "32",
+        "54"
+      ],
+      "explanation": "Chu vi vẫn 64 cm, nửa chu vi 32 cm; 32 - 10 = 22.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B50_Q32",
+      "type": "fill",
+      "question": "Hai bồn vuông cạnh 3 m và 5 m rào riêng, không có cổng. Tổng hàng rào dài bao nhiêu mét?",
+      "correct_answer": "32",
+      "distractors": [
+        "16",
+        "30",
+        "34"
+      ],
+      "explanation": "Chu vi hai bồn lần lượt 12 m và 20 m; cộng được 32 m.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B50_Q33",
+      "type": "mcq",
+      "question": "Đường chạy hình chữ nhật dài 30 m, rộng 20 m. Đi 2 vòng hết bao nhiêu mét?",
+      "options": [
+        "200",
+        "100",
+        "120",
+        "1000"
+      ],
+      "correct_answer": "200",
+      "distractors": [
+        "100",
+        "120",
+        "1000"
+      ],
+      "explanation": "Một vòng dài 100 m; hai vòng dài 200 m.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B50_Q34",
+      "type": "fill",
+      "question": "Một cạnh sân vuông dài 20 m. Rào quanh sân, chừa hai cổng, mỗi cổng 2 m. Hàng rào dài bao nhiêu mét?",
+      "correct_answer": "76",
+      "distractors": [
+        "78",
+        "80",
+        "84"
+      ],
+      "explanation": "Chu vi 80 m, hai cổng rộng tổng 4 m; còn 76 m.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B50_Q35",
+      "type": "mcq",
+      "question": "Hình chữ nhật có chiều dài 16 cm và chiều rộng bằng nửa chiều dài. Chu vi bao nhiêu xăng-ti-mét?",
+      "options": [
+        "48",
+        "24",
+        "32",
+        "128"
+      ],
+      "correct_answer": "48",
+      "distractors": [
+        "24",
+        "32",
+        "128"
+      ],
+      "explanation": "Chiều rộng 8 cm; cộng 16 và 8 rồi nhân hai được 48 cm.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B50_Q36",
+      "type": "fill",
+      "question": "Một tam giác đều có chu vi 27 cm. Hình vuông có cạnh bằng cạnh tam giác đó. Chu vi hình vuông bao nhiêu xăng-ti-mét?",
+      "correct_answer": "36",
+      "distractors": [
+        "27",
+        "81",
+        "12"
+      ],
+      "explanation": "Cạnh tam giác 9 cm; vuông cạnh 9 cm có chu vi 36 cm.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B50_Q37",
+      "type": "mcq",
+      "question": "Đo được các cạnh tứ giác 11 cm, 13 cm, 9 cm, 15 cm. Dây 50 cm viền một vòng thì thừa bao nhiêu xăng-ti-mét?",
+      "options": [
+        "2",
+        "4",
+        "8",
+        "48"
+      ],
+      "correct_answer": "2",
+      "distractors": [
+        "4",
+        "8",
+        "48"
+      ],
+      "explanation": "Chu vi 11 + 13 + 9 + 15 = 48 cm; 50 - 48 = 2 cm.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B50_Q38",
+      "type": "fill",
+      "question": "Hình chữ nhật dài 2 dm, rộng 8 cm. Chu vi bao nhiêu xăng-ti-mét?",
+      "correct_answer": "56",
+      "distractors": [
+        "20",
+        "28",
+        "160"
+      ],
+      "explanation": "Đổi 2 dm thành 20 cm; tổng dài và rộng 28 cm, nhân hai được 56 cm.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B50_Q39",
+      "type": "mcq",
+      "question": "Hai hình vuông cạnh 4 cm ghép sát theo trọn một cạnh như hình B. Chu vi hình chữ nhật ngoài cùng bao nhiêu xăng-ti-mét?",
+      "options": [
+        "24",
+        "32",
+        "16",
+        "64"
+      ],
+      "correct_answer": "24",
+      "distractors": [
+        "32",
+        "16",
+        "64"
+      ],
+      "explanation": "Hình mới dài 8 cm rộng 4 cm; chu vi 24 cm. Cạnh ghép nằm bên trong không tính.",
+      "difficulty": "van_dung",
+      "figure": {
+        "path": "content/toan/tap-2/TOAN3_T2_B50_join.svg",
+        "caption": "Hai hình vuông cạnh 4 cm ghép theo trọn một cạnh."
+      }
+    },
+    {
+      "question_id": "TOAN3_T2_B50_Q40",
+      "type": "fill",
+      "question": "Một cuộn dây 90 cm cắt đoạn để viền khung chữ nhật 17 cm × 13 cm. Phần dây còn lại dài bao nhiêu xăng-ti-mét?",
+      "correct_answer": "30",
+      "distractors": [
+        "60",
+        "45",
+        "221"
+      ],
+      "explanation": "Chu vi khung là 60 cm; 90 - 60 = 30 cm.",
+      "difficulty": "van_dung"
+    }
+  ],
+  "games": [
+    {
+      "id": "TOAN3_T2_B50_GAME1",
+      "title": "Kiến đi quanh vườn",
+      "mode": "tf",
+      "objective": "Kiểm tra kết quả chu vi, tránh nhầm với diện tích và cạnh bên trong.",
+      "rules": [
+        "Mỗi lượt lấy 10 câu trong bài và đưa ra một kết quả để kiểm chứng.",
+        "Chọn Đúng nếu kết quả phù hợp, chọn Sai nếu không phù hợp; đọc lời giải trước khi sang câu.",
+        "Mỗi câu đúng được 10 điểm; tối đa 100 điểm."
+      ],
+      "question_ids": [
+        "TOAN3_T2_B50_Q01",
+        "TOAN3_T2_B50_Q02",
+        "TOAN3_T2_B50_Q03",
+        "TOAN3_T2_B50_Q04",
+        "TOAN3_T2_B50_Q05",
+        "TOAN3_T2_B50_Q06",
+        "TOAN3_T2_B50_Q07",
+        "TOAN3_T2_B50_Q08",
+        "TOAN3_T2_B50_Q09",
+        "TOAN3_T2_B50_Q10",
+        "TOAN3_T2_B50_Q11",
+        "TOAN3_T2_B50_Q12",
+        "TOAN3_T2_B50_Q13",
+        "TOAN3_T2_B50_Q14",
+        "TOAN3_T2_B50_Q15",
+        "TOAN3_T2_B50_Q16",
+        "TOAN3_T2_B50_Q17",
+        "TOAN3_T2_B50_Q18",
+        "TOAN3_T2_B50_Q19",
+        "TOAN3_T2_B50_Q20",
+        "TOAN3_T2_B50_Q21",
+        "TOAN3_T2_B50_Q22",
+        "TOAN3_T2_B50_Q23",
+        "TOAN3_T2_B50_Q24",
+        "TOAN3_T2_B50_Q25",
+        "TOAN3_T2_B50_Q26",
+        "TOAN3_T2_B50_Q27",
+        "TOAN3_T2_B50_Q28",
+        "TOAN3_T2_B50_Q29",
+        "TOAN3_T2_B50_Q30",
+        "TOAN3_T2_B50_Q31",
+        "TOAN3_T2_B50_Q32",
+        "TOAN3_T2_B50_Q33",
+        "TOAN3_T2_B50_Q34",
+        "TOAN3_T2_B50_Q35",
+        "TOAN3_T2_B50_Q36",
+        "TOAN3_T2_B50_Q37",
+        "TOAN3_T2_B50_Q38",
+        "TOAN3_T2_B50_Q39",
+        "TOAN3_T2_B50_Q40"
+      ],
+      "answer_source": "practice.correct_answer",
+      "feedback_source": "practice.explanation",
+      "max_score": 100
+    }
+  ],
+  "assessment": {
+    "session_size": 10,
+    "distribution": {
+      "nhan_biet": 3,
+      "thong_hieu": 3,
+      "van_dung": 4
+    },
+    "scoring": "Đúng lần đầu: 1 điểm; đúng sau một gợi ý: 0,5 điểm. Từ 90%: 3 sao; từ 60%: 2 sao; còn lại: 1 sao.",
+    "review_advice": "Xem lời giải các câu sai, đọc lại quy tắc, rồi làm một lượt mới."
+  },
+  "feedback": {
+    "correct": "Chính xác! Hãy đọc lời giải để củng cố cách làm.",
+    "incorrect": "Em thử lại một lần. Sau đó xem đáp án và cách giải."
+  },
+  "verification": {
+    "ai_authored": true,
+    "structure_checked": true,
+    "answer_reviewed": true,
+    "source_reviewed": true,
+    "teacher_approved": false
+  },
+  "status": "AI_CHECKED_AWAITING_TEACHER",
+  "activities": [
+    {
+      "title": "Đo đường bao quyển vở",
+      "materials": [
+        "thước chia xăng-ti-mét",
+        "vở hình chữ nhật",
+        "giấy ghi"
+      ],
+      "steps": [
+        "Đo dài và rộng của một mặt bìa vở, ghi cùng đơn vị cm.",
+        "Tính dài cộng rộng rồi nhân 2.",
+        "Đo và cộng riêng cả bốn cạnh để đối chiếu."
+      ],
+      "check": [
+        "Hai cách cho cùng kết quả.",
+        "Đã ghi đơn vị cm, không ghi cm²."
+      ]
+    }
+  ],
+  "figures": [
+    {
+      "path": "content/toan/tap-2/TOAN3_T2_B50_triangle.svg",
+      "caption": "Tam giác có ba cạnh 6 cm, 8 cm, 10 cm."
+    },
+    {
+      "path": "content/toan/tap-2/TOAN3_T2_B50_join.svg",
+      "caption": "Hai hình vuông cạnh 4 cm ghép theo trọn một cạnh."
+    }
+  ]
+}

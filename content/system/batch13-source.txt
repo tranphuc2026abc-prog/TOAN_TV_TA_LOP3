@@ -1,0 +1,164 @@
+Bài 49
+Chữ số hàng chục của 6387 là mấy?|8|Từ phải sang trái là đơn vị 7, chục 8, trăm 3, nghìn 6.|3;7;6
+Viết số “năm nghìn không trăm hai mươi sáu”.|5026|Không có trăm, có hai chục và sáu đơn vị.|5260;5206;5006
+Số 9004 có giá trị chữ số 9 là bao nhiêu?|9000|Chữ số 9 ở hàng nghìn.|9;90;900
+Số liền trước 4001 là số nào?|4000|Đếm lùi một từ 4001 được 4000.|4002;3999;4010
+Số nào lớn hơn giữa 6750 và 6570?|6750|Cùng 6 nghìn; hàng trăm 7 lớn hơn 5.|6570;6705;6507
+Làm tròn 816 đến chục.|820|Đơn vị 6 nên làm lên 820.|810;800;900
+Làm tròn 7342 đến trăm.|7300|Hàng chục 4 bé hơn 5 nên làm xuống 7300.|7400;7340;7350
+Số La Mã XV biểu thị số mấy?|15|XV là mười lăm.|14;16;20
+Viết 16 bằng chữ số La Mã.|XVI|X là mười và VI là sáu; ghép thành XVI.|XIV;XV;XIX
+Số lớn nhất trong 3980, 3890, 3908 là gì?|3980|Cùng 3 nghìn; so hàng trăm rồi hàng chục được 3980 lớn nhất.|3890;3908;3809
+Phân tích 8705: ngoài 8000 và 700 còn thiếu bao nhiêu?|5|8705 gồm 8000, 700, không chục và 5 đơn vị.|50;70;705
+Một bạn đọc 4602 thành bốn nghìn sáu trăm hai mươi. Số đúng với cách đọc đó là gì?|4620|Hai mươi là hai chục, không phải hai đơn vị.|4602;4062;4260
+Dãy 9890, 9900, 9910, ? tăng đều. Điền số tiếp theo.|9920|Mỗi bước thêm một chục.|9911;10000;9901
+Có bao nhiêu chữ số 0 trong cách viết mười nghìn?|4|10000 có chữ số 1 và bốn chữ số 0.|3;5;1
+Chọn số bé nhất trong 8019, 8109, 8190.|8019|Hàng trăm của 8019 là 0, nhỏ nhất.|8109;8190;8091
+Trong dãy La Mã XI, XII, ?, XIV, ô trống là gì?|XIII|Các giá trị tăng lần lượt 11, 12, 13, 14.|XIX;XV;IX
+Làm tròn 6475 đến chục được số nào?|6480|Đơn vị bằng 5 nên làm tròn lên.|6470;6500;6400
+Làm tròn 6475 trực tiếp đến trăm.|6500|Hàng chục 7 nên làm lên 6500.|6400;6480;6000
+Số 3388 có hai chữ số 3; chữ số 3 bên trái có giá trị gấp chữ số 3 bên phải mấy lần?|10|Một chữ số ở hàng nghìn, một ở hàng trăm; 3000 gấp 300 mười lần.|2;3;100
+Số nào trong 4250, 4249, 4350 làm tròn đến trăm được 4300?|4250|4250 lên 4300; 4249 xuống 4200; 4350 lên 4400.|4249;4350;4400
+Ba đội có 3450, 3540 và 3405 điểm. Đội về nhì có bao nhiêu điểm?|3450|Xếp giảm dần là 3540, 3450, 3405.|3540;3405;3504
+Số bí mật gồm 8 nghìn, 6 chục, 2 đơn vị. Làm tròn số ấy đến trăm được bao nhiêu?|8100|Số là 8062; hàng chục 6 nên làm lên 8100.|8000;8060;8070
+Một tủ có nhãn từ I đến XII, mất nhãn giữa VIII và X. Nhãn mất viết thế nào?|IX|VIII là 8, X là 10; nhãn ở giữa là 9, viết IX.|XI;VII;IV
+Dùng các thẻ 0, 2, 5, 9 mỗi thẻ một lần để viết số bé nhất có bốn chữ số rồi làm tròn đến trăm. Kết quả là gì?|2100|Số bé nhất là 2059; hàng chục 5 nên làm lên 2100.|2000;2600;9500
+Thư viện đánh số từ 6998. Sau khi cấp đúng 4 số liên tiếp kể cả số đầu, số cuối là bao nhiêu?|7001|Các số là 6998, 6999, 7000, 7001.|7002;7000;6999
+Tìm chữ số lớn nhất thay ? để 62?5 bé hơn 6274.|6|Nếu chọn 7 được 6275 lớn hơn 6274; lớn nhất phù hợp là 6.|7;8;9
+Tìm chữ số nhỏ nhất thay ? để 5?02 lớn hơn 5801.|8|Chọn 8 được 5802 lớn hơn 5801; mọi chữ số bé hơn 8 đều không được.|9;7;0
+Có hai thẻ XIV và XVII. Hiệu giữa giá trị lớn và bé là bao nhiêu?|3|XVII là 17, XIV là 14; chênh ba đơn vị.|1;2;4
+Một trường có 2849 học sinh trong tình huống giả định. Làm tròn trực tiếp đến trăm để viết báo cáo, ghi khoảng bao nhiêu học sinh?|2800|Hàng chục 4 nên làm xuống 2800, không làm tròn qua chục trước.|2900;2850;2840
+Dãy thẻ 7040, 7030, 7020 đang giảm đều. Thẻ thứ năm mang số nào?|7000|Hai thẻ tiếp theo là 7010 và 7000.|7010;6990;7025
+Túi A nặng 4312 g, B nặng 4132 g, C nặng 4321 g. Lấy túi nặng nhất trước thì lấy túi nào? Ghi tên A, B hoặc C.|C|4321 lớn hơn 4312 và 4132 nên lấy C trước.|A;B;không xác định
+Một vé ghi 9058. Đổi chỗ hàng chục và hàng đơn vị rồi làm tròn số mới đến chục. Được số nào?|9090|Đổi thành 9085; đơn vị 5 làm lên 9090.|9060;9080;9100
+Bạn cần thẻ La Mã biểu thị số chẵn lớn hơn 17 nhưng bé hơn 20. Thẻ cần lấy là gì?|XVIII|Số chẵn duy nhất trong khoảng là 18, viết XVIII.|XVII;XIX;XX
+Từ 10000 lấy bớt 1 đơn vị. Chữ số hàng trăm của kết quả là mấy?|9|Kết quả là 9999 nên hàng trăm là 9.|0;1;8
+Bảng ghi 2680 điểm chính xác, thông báo làm tròn đến trăm ghi 2700. Thông báo hơn số chính xác bao nhiêu điểm?|20|Từ 2680 đến 2700 chênh 20 điểm.|80;100;200
+Có bao nhiêu chữ số có thể điền vào 3?80 để số mới lớn hơn 3580?|4|Hàng trăm phải là 6, 7, 8 hoặc 9; có bốn cách.|3;5;6
+Máy chỉ nhận số lớn hơn 9000 và khi làm tròn đến trăm được 9000. Trong 8999, 9042, 9051, số nào được nhận?|9042|9042 lớn hơn 9000 và hàng chục 4 nên làm tròn xuống 9000.|8999;9051;9100
+Trong ba quyển XII, XV, XVIII, quyển có số thứ tự ở giữa mang số mấy theo chữ số thông thường?|15|Các số là 12, 15, 18; số ở giữa là 15.|12;18;16
+Một số có 4 nghìn, hàng trăm 0, hàng chục là số lớn nhất có một chữ số, đơn vị 6. Số ấy làm tròn đến trăm được bao nhiêu?|4100|Số là 4096; hàng chục 9 nên làm tròn lên 4100.|4000;4090;4200
+Có các thẻ số 9990, 9994, 9995. Có bao nhiêu thẻ làm tròn đến chục được 10000?|1|Chỉ 9995 làm lên 10000; hai thẻ kia làm tròn được 9990.|2;3;0
+Bài 50
+Chu vi một hình là tổng độ dài các gì?|cạnh|Cộng độ dài tất cả các cạnh bao quanh hình.|góc;đường chéo;ô vuông
+Tam giác có các cạnh 4 cm, 5 cm, 6 cm. Chu vi bao nhiêu xăng-ti-mét?|15|4 + 5 + 6 = 15.|9;11;20
+Tứ giác có các cạnh 3 dm, 6 dm, 5 dm, 4 dm. Chu vi bao nhiêu đề-xi-mét?|18|3 + 6 + 5 + 4 = 18.|14;15;30
+Hình vuông cạnh 9 cm có chu vi bao nhiêu xăng-ti-mét?|36|9 × 4 = 36.|18;81;13
+Hình chữ nhật dài 9 m, rộng 3 m. Chu vi bao nhiêu mét?|24|Cộng chiều dài và rộng được 12 m, nhân hai được 24 m.|12;27;18
+Chu vi dùng đơn vị cm hay cm²? Viết đơn vị đúng.|cm|Chu vi đo độ dài đường bao nên dùng cm.|cm²;kg;l
+Hình chữ nhật có mấy cạnh dài bằng nhau?|2|Hai cạnh dài đối diện bằng nhau; hai cạnh rộng cũng bằng nhau.|1;3;4
+Hình vuông có chu vi bằng độ dài một cạnh nhân mấy?|4|Có bốn cạnh bằng nhau nên nhân bốn.|2;3;1
+Hình chữ nhật dài 12 cm, rộng 4 cm. Nửa chu vi bao nhiêu xăng-ti-mét?|16|Nửa chu vi bằng chiều dài cộng chiều rộng: 12 + 4 = 16.|32;48;8
+Tam giác có ba cạnh cùng dài 7 cm. Chu vi bao nhiêu xăng-ti-mét?|21|7 × 3 = 21.|28;14;49
+Bạn tính chu vi hình chữ nhật dài 8 cm, rộng 2 cm bằng 8 × 2. Kết quả chu vi đúng bao nhiêu xăng-ti-mét?|20|Chu vi là tổng bốn cạnh: 8 + 2 + 8 + 2 = 20.|16;10;12
+Một cạnh hình vuông dài 15 mm. Chu vi bao nhiêu mi-li-mét?|60|15 × 4 = 60 mm.|30;225;19
+Hình chữ nhật dài 1 m, rộng 35 cm. Chu vi bao nhiêu xăng-ti-mét?|270|Đổi 1 m thành 100 cm; cộng 100 và 35 rồi nhân 2 được 270 cm.|72;135;235
+Hai hình chữ nhật kích thước 8 cm × 4 cm và 7 cm × 5 cm. Chu vi hai hình có bằng nhau không?|có|Hai cặp chiều dài cộng chiều rộng đều bằng 12 cm, nên chu vi đều 24 cm.|không;chưa biết;chỉ diện tích bằng nhau
+Hình vuông có chu vi 32 cm. Cạnh dài bao nhiêu xăng-ti-mét?|8|Chia 32 cm cho bốn cạnh bằng nhau được 8 cm.|4;16;28
+Hình chữ nhật có nửa chu vi 19 cm, chiều rộng 6 cm. Chiều dài bao nhiêu xăng-ti-mét?|13|Chiều dài và rộng cộng lại bằng 19; 19 - 6 = 13.|25;38;7
+Tam giác có chu vi 24 cm, hai cạnh dài 9 cm và 8 cm. Cạnh còn lại dài bao nhiêu xăng-ti-mét?|7|24 - 9 - 8 = 7.|15;16;17
+Tứ giác có ba cạnh 5 m, 7 m, 8 m và chu vi 26 m. Cạnh thứ tư dài mấy mét?|6|26 - 5 - 7 - 8 = 6.|20;4;12
+Cạnh hình vuông tăng từ 4 cm lên 6 cm. Chu vi tăng bao nhiêu xăng-ti-mét?|8|Mỗi cạnh tăng 2 cm; bốn cạnh tăng 2 × 4 = 8 cm.|2;4;20
+Chiều rộng hình chữ nhật giữ nguyên, chiều dài tăng 3 cm. Chu vi tăng bao nhiêu xăng-ti-mét?|6|Có hai cạnh dài, mỗi cạnh tăng 3 cm nên chu vi tăng 6 cm.|3;9;12
+Vườn hình chữ nhật dài 14 m, rộng 6 m, chừa cổng 3 m trên đường bao. Cần bao nhiêu mét hàng rào?|37|Chu vi là 40 m; chừa cổng 3 m còn 37 m hàng rào.|40;43;20
+Một khung vuông cạnh 12 cm được quấn dây đúng một vòng, không chồng mép. Cần bao nhiêu xăng-ti-mét dây?|48|Bốn cạnh 12 cm có tổng 12 × 4 = 48 cm.|24;144;36
+Dây dài 70 cm dùng viền một tam giác có ba cạnh 18 cm, 20 cm, 22 cm. Còn bao nhiêu xăng-ti-mét dây?|10|Chu vi tam giác là 60 cm; 70 - 60 = 10.|8;12;20
+Mỗi cạnh một hình vuông xếp bằng 5 que thẳng không chồng lên nhau. Cần tổng mấy que để xếp đường bao?|20|Bốn cạnh, mỗi cạnh năm que; 5 × 4 = 20.|10;25;15
+Một bảng hình chữ nhật dài 18 dm, rộng 12 dm. Dùng nẹp viền đủ bốn cạnh, cần bao nhiêu đề-xi-mét nẹp?|60|18 + 12 = 30; hai lần 30 là 60 dm.|30;216;48
+Một khăn hình vuông có chu vi 100 cm. Mỗi cạnh khăn dài bao nhiêu xăng-ti-mét?|25|100 chia đều cho bốn cạnh, được 25 cm.|50;20;96
+Có 3 khung hình vuông riêng biệt, mỗi cạnh 7 cm. Tổng chiều dài nẹp cho ba khung bao nhiêu xăng-ti-mét?|84|Một khung có chu vi 28 cm; 28 × 3 = 84 cm.|21;28;147
+Mảnh đất hình chữ nhật có chu vi 54 m và chiều rộng 9 m. Chiều dài bao nhiêu mét?|18|Nửa chu vi 27 m; 27 - 9 = 18 m.|36;45;27
+Hình tam giác trong hình A có các cạnh 6 cm, 8 cm, 10 cm. Đi một vòng đường bao dài bao nhiêu xăng-ti-mét?|24|6 + 8 + 10 = 24 cm; không chỉ cộng hai cạnh.|14;18;48
+Thợ làm khung dài 25 cm, rộng 15 cm. Nẹp dài 1 m có đủ viền một vòng không?|có|Chu vi khung là 80 cm, nhỏ hơn 100 cm nên đủ.|không;vừa đúng;không xác định
+Sợi dây 64 cm uốn thành hình vuông không thừa. Đổi sang hình chữ nhật rộng 10 cm, chiều dài bao nhiêu xăng-ti-mét?|22|Chu vi vẫn 64 cm, nửa chu vi 32 cm; 32 - 10 = 22.|16;32;54
+Hai bồn vuông cạnh 3 m và 5 m rào riêng, không có cổng. Tổng hàng rào dài bao nhiêu mét?|32|Chu vi hai bồn lần lượt 12 m và 20 m; cộng được 32 m.|16;30;34
+Đường chạy hình chữ nhật dài 30 m, rộng 20 m. Đi 2 vòng hết bao nhiêu mét?|200|Một vòng dài 100 m; hai vòng dài 200 m.|100;120;1000
+Một cạnh sân vuông dài 20 m. Rào quanh sân, chừa hai cổng, mỗi cổng 2 m. Hàng rào dài bao nhiêu mét?|76|Chu vi 80 m, hai cổng rộng tổng 4 m; còn 76 m.|78;80;84
+Hình chữ nhật có chiều dài 16 cm và chiều rộng bằng nửa chiều dài. Chu vi bao nhiêu xăng-ti-mét?|48|Chiều rộng 8 cm; cộng 16 và 8 rồi nhân hai được 48 cm.|24;32;128
+Một tam giác đều có chu vi 27 cm. Hình vuông có cạnh bằng cạnh tam giác đó. Chu vi hình vuông bao nhiêu xăng-ti-mét?|36|Cạnh tam giác 9 cm; vuông cạnh 9 cm có chu vi 36 cm.|27;81;12
+Đo được các cạnh tứ giác 11 cm, 13 cm, 9 cm, 15 cm. Dây 50 cm viền một vòng thì thừa bao nhiêu xăng-ti-mét?|2|Chu vi 11 + 13 + 9 + 15 = 48 cm; 50 - 48 = 2 cm.|4;8;48
+Hình chữ nhật dài 2 dm, rộng 8 cm. Chu vi bao nhiêu xăng-ti-mét?|56|Đổi 2 dm thành 20 cm; tổng dài và rộng 28 cm, nhân hai được 56 cm.|20;28;160
+Hai hình vuông cạnh 4 cm ghép sát theo trọn một cạnh như hình B. Chu vi hình chữ nhật ngoài cùng bao nhiêu xăng-ti-mét?|24|Hình mới dài 8 cm rộng 4 cm; chu vi 24 cm. Cạnh ghép nằm bên trong không tính.|32;16;64
+Một cuộn dây 90 cm cắt đoạn để viền khung chữ nhật 17 cm × 13 cm. Phần dây còn lại dài bao nhiêu xăng-ti-mét?|30|Chu vi khung là 60 cm; 90 - 60 = 30 cm.|60;45;221
+Bài 51
+Đơn vị xăng-ti-mét vuông viết tắt thế nào?|cm²|cm² là đơn vị diện tích, khác cm là đơn vị độ dài.|cm;dm;kg
+Một ô vuông cạnh 1 cm có diện tích mấy xăng-ti-mét vuông?|1|Diện tích hình vuông cạnh 1 cm là một xăng-ti-mét vuông.|2;4;10
+Hình gồm 7 ô vuông 1 cm² không chồng nhau có diện tích bao nhiêu xăng-ti-mét vuông?|7|Mỗi ô có diện tích 1 cm² nên bảy ô là 7 cm².|14;8;1
+Hình A gồm 8 ô đơn vị, hình B gồm 11 ô đơn vị giống nhau. Hình nào có diện tích lớn hơn? Ghi A hoặc B.|B|Đếm cùng một loại ô đơn vị: 11 lớn hơn 8.|A;bằng nhau;không biết
+Hai hình có cùng 9 ô đơn vị, không chồng lấn. Diện tích có bằng nhau không?|có|Cùng số ô đơn vị cùng kích thước nên diện tích bằng nhau.|không;chỉ khi cùng hình dạng;không xác định
+Đọc 24 cm²: hai mươi tư xăng-ti-mét hay hai mươi tư xăng-ti-mét vuông? Ghi tên đơn vị.|xăng-ti-mét vuông|Kí hiệu ² cho biết đang đo diện tích.|xăng-ti-mét;mét;mi-li-mét
+Viết phần số của “ba trăm linh sáu xăng-ti-mét vuông”.|306|Ba trăm, không chục, sáu đơn vị viết 306 cm².|360;3006;36
+Tính 18 cm² + 12 cm². Điền phần số.|30|18 + 12 = 30; giữ đơn vị cm².|6;216;20
+Tính 45 cm² - 17 cm². Điền phần số.|28|45 - 17 = 28; đơn vị vẫn là cm².|62;32;27
+Tính 6 cm² × 4. Điền phần số.|24|6 × 4 = 24; kết quả 24 cm².|10;2;20
+Hai hình có cùng số ô nhưng một hình dùng ô lớn gấp đôi diện tích ô của hình kia. Có thể kết luận diện tích bằng nhau không?|không|Phải dùng cùng đơn vị diện tích trước khi so sánh số ô.|có;luôn bằng nhau;chỉ phụ thuộc màu
+Một hình nằm hoàn toàn trong hình khác và phần ngoài còn diện tích. Hình bên trong có diện tích lớn hơn hay bé hơn? Ghi “bé hơn” hoặc “lớn hơn”.|bé hơn|Hình ngoài chứa toàn bộ hình trong và còn phần thêm.|lớn hơn;bằng nhau;không xác định
+Cắt một hình giấy thành hai mảnh rồi ghép không chồng, không bỏ mảnh. Tổng diện tích thay đổi không?|không|Cắt và đổi vị trí không làm mất hoặc thêm phần giấy.|có;tăng gấp đôi;giảm một nửa
+Một hình 15 cm² cắt thành hai mảnh; mảnh thứ nhất 6 cm². Mảnh kia bao nhiêu xăng-ti-mét vuông?|9|15 - 6 = 9.|21;6;10
+Hình xanh 13 cm², hình vàng 9 cm². Hình xanh hơn bao nhiêu xăng-ti-mét vuông?|4|13 - 9 = 4 cm².|22;3;5
+Tính 32 cm² : 4. Điền phần số.|8|Chia diện tích thành bốn phần bằng nhau, mỗi phần 8 cm².|128;28;6
+Hình L trong hình A gồm các ô vuông bằng nhau, mỗi ô 1 cm². Diện tích hình tô màu bao nhiêu xăng-ti-mét vuông?|5|Đếm ba ô ở cột dọc và hai ô thêm ở hàng dưới, không đếm ô góc hai lần.|6;4;9
+Hình chữ nhật trong hình B có 2 hàng, mỗi hàng 4 ô 1 cm². Diện tích bao nhiêu xăng-ti-mét vuông?|8|Đếm hai hàng bốn ô, tổng tám ô đơn vị.|6;12;4
+Hình gồm 10 ô 1 cm², bỏ đi 3 ô. Diện tích còn lại bao nhiêu xăng-ti-mét vuông?|7|Mười ô bớt ba ô còn bảy ô.|13;30;3
+Một hình có 4 ô nguyên và 2 nửa ô cùng loại. Diện tích bằng mấy ô nguyên?|5|Hai nửa ô ghép được một ô; thêm bốn ô là năm ô.|6;4;3
+Tấm bìa gồm 12 ô 1 cm². Cắt lấy 5 ô làm thẻ, phần còn lại có diện tích bao nhiêu xăng-ti-mét vuông?|7|12 - 5 = 7 cm².|17;5;60
+Hai miếng giấy diện tích 16 cm² và 23 cm² đặt sát, không chồng. Tổng diện tích bao nhiêu xăng-ti-mét vuông?|39|16 + 23 = 39 cm².|7;38;46
+Ghép 4 miếng giấy, mỗi miếng 9 cm², không chồng nhau. Diện tích hình ghép bao nhiêu xăng-ti-mét vuông?|36|9 × 4 = 36 cm².|13;18;32
+Hình ghép 28 cm² chia thành 7 mảnh bằng diện tích. Mỗi mảnh bao nhiêu xăng-ti-mét vuông?|4|28 : 7 = 4 cm².|21;35;7
+Lan có miếng đỏ 40 cm², miếng xanh ít hơn miếng đỏ 12 cm². Miếng xanh bao nhiêu xăng-ti-mét vuông?|28|40 - 12 = 28 cm².|52;12;30
+Hình A trong hình minh họa có 5 ô 1 cm², hình B có 8 ô như thế. B hơn A bao nhiêu xăng-ti-mét vuông?|3|8 - 5 = 3 cm².|13;5;4
+Một nhãn cần 6 cm² giấy. Cắt 5 nhãn không chồng từ giấy 42 cm², không có phần hao hụt khác. Còn bao nhiêu xăng-ti-mét vuông?|12|Năm nhãn dùng 6 × 5 = 30 cm²; 42 - 30 = 12 cm².|36;30;17
+Hình M có 3 ô nguyên, hình N có 6 nửa ô cùng loại. Diện tích hai hình có bằng nhau không?|có|Sáu nửa ô ghép được ba ô nguyên.|không;N gấp đôi M;M gấp đôi N
+Dán hai miếng 10 cm² và 8 cm² sao cho phần chồng là 2 cm². Diện tích phần giấy được phủ bao nhiêu xăng-ti-mét vuông?|16|Cộng hai diện tích là 18 cm² rồi trừ 2 cm² bị tính hai lần.|18;20;14
+Một hình có 4 ô 1 cm² và 4 nửa ô cùng loại. Diện tích bao nhiêu xăng-ti-mét vuông?|6|Bốn nửa ô bằng hai ô; thêm bốn ô nguyên được sáu.|8;4;5
+Ba miếng 7 cm², 11 cm² và 12 cm² ghép kín, không chồng. Miếng giấy mới có diện tích bao nhiêu xăng-ti-mét vuông?|30|7 + 11 + 12 = 30 cm².|23;19;31
+Tấm bìa 50 cm² được cắt một mảnh 18 cm² và một mảnh 15 cm². Phần còn lại bao nhiêu xăng-ti-mét vuông?|17|50 - 18 - 15 = 17 cm².|33;32;35
+An nói hai hình bằng diện tích thì phải giống hệt hình dạng. Chỉ dựa vào cùng 6 ô đơn vị, kết luận đó đúng hay sai?|sai|Cùng sáu ô có thể ghép thành nhiều hình khác nhau mà vẫn cùng diện tích.|đúng;chỉ đúng với màu xanh;không có diện tích
+Một con vật giấy gồm 9 ô 1 cm². Thêm 3 ô cùng loại làm đuôi, không chồng. Diện tích mới bao nhiêu xăng-ti-mét vuông?|12|9 + 3 = 12 cm².|6;27;10
+Một hình gồm 18 ô đơn vị được chia đều diện tích thành ba phần. Mỗi phần có mấy ô đơn vị?|6|18 : 3 = 6 ô.|15;9;21
+Một miếng giấy 36 cm², miếng thứ hai bằng nửa miếng đó. Ghép hai miếng không chồng được bao nhiêu xăng-ti-mét vuông?|54|Miếng thứ hai 18 cm²; 36 + 18 = 54 cm².|18;72;48
+Một hình có diện tích 21 cm² sau khi ghép thêm mảnh 8 cm² không chồng. Hình ban đầu có diện tích bao nhiêu xăng-ti-mét vuông?|13|21 - 8 = 13 cm².|29;8;14
+Từ hình gồm 16 ô 1 cm², cắt bỏ 4 ô góc. Không có ô bỏ trùng nhau. Phần còn lại bao nhiêu xăng-ti-mét vuông?|12|16 - 4 = 12 cm².|20;4;8
+Nhóm A ghép 5 miếng mỗi miếng 4 cm², nhóm B ghép 3 miếng mỗi miếng 7 cm²; đều không chồng. Nhóm nào có hình lớn hơn? Ghi A hoặc B.|B|A có 20 cm², B có 21 cm² nên hình B lớn hơn.|A;bằng nhau;không biết
+Có 24 ô 1 cm². Dùng 9 ô ghép hình cá và 8 ô ghép hình cây, không dùng chung ô. Còn mấy ô?|7|24 - 9 - 8 = 7 ô.|15;16;17
+Bài 52
+Hình chữ nhật dài 7 cm, rộng 4 cm. Diện tích bao nhiêu xăng-ti-mét vuông?|28|7 × 4 = 28 cm².|22;11;14
+Hình vuông cạnh 6 cm có diện tích bao nhiêu xăng-ti-mét vuông?|36|6 × 6 = 36 cm².|24;12;18
+Muốn tính diện tích hình chữ nhật, nhân chiều dài với gì?|chiều rộng|Hai kích thước cùng đơn vị; dài nhân rộng cho diện tích.|2;4;chu vi
+Hình vuông cạnh 9 cm. Diện tích dùng đơn vị cm hay cm²?|cm²|Diện tích đo phần mặt hình nên dùng cm².|cm;mm;dm
+Hình chữ nhật có 5 hàng, mỗi hàng 8 ô 1 cm². Diện tích bao nhiêu xăng-ti-mét vuông?|40|8 × 5 = 40 cm².|13;26;45
+Hình vuông cạnh 1 cm có diện tích bao nhiêu xăng-ti-mét vuông?|1|1 × 1 = 1 cm².|2;4;10
+Hình chữ nhật dài 10 cm, rộng 3 cm có diện tích bao nhiêu xăng-ti-mét vuông?|30|10 × 3 = 30 cm².|26;13;60
+Hình vuông cạnh 8 cm có chu vi bao nhiêu xăng-ti-mét?|32|Chu vi khác diện tích: 8 × 4 = 32 cm.|64;16;24
+Hình vuông cạnh 8 cm có diện tích bao nhiêu xăng-ti-mét vuông?|64|Diện tích là 8 × 8 = 64 cm².|32;16;128
+Hình chữ nhật dài 12 cm, rộng 2 cm. Diện tích bao nhiêu xăng-ti-mét vuông?|24|12 × 2 = 24 cm².|28;14;48
+Bạn lấy dài cộng rộng rồi nhân 2 để tính diện tích. Bạn đã dùng công thức của đại lượng nào?|chu vi|Cộng hai kích thước rồi nhân hai là chu vi, không phải diện tích.|diện tích;chiều dài;chiều rộng
+Hình chữ nhật dài 2 dm, rộng 5 cm. Diện tích bao nhiêu xăng-ti-mét vuông?|100|Đổi 2 dm thành 20 cm; 20 × 5 = 100 cm².|10;50;25
+Hai hình chữ nhật kích thước 9 cm × 4 cm và 6 cm × 6 cm có diện tích bằng nhau không?|có|Cả hai tích đều bằng 36 cm²; hình 6 cm × 6 cm cũng là hình vuông.|không;chỉ chu vi bằng nhau;chưa đủ dữ kiện
+Một hình vuông có chu vi 20 cm. Diện tích bao nhiêu xăng-ti-mét vuông?|25|Cạnh là 20 : 4 = 5 cm; diện tích 5 × 5 = 25 cm².|20;100;16
+Hình chữ nhật diện tích 42 cm², rộng 6 cm. Dài bao nhiêu xăng-ti-mét?|7|42 : 6 = 7 cm; kiểm tra 7 × 6 = 42.|36;48;8
+Giữ chiều rộng hình chữ nhật, tăng chiều dài gấp đôi. Diện tích tăng gấp mấy lần?|2|Số hàng không đổi, số ô mỗi hàng gấp đôi nên tổng diện tích gấp đôi.|4;3;1
+Hình vuông cạnh từ 3 cm tăng thành 6 cm. Diện tích tăng gấp mấy lần?|4|Diện tích từ 9 cm² lên 36 cm², tăng gấp bốn lần.|2;3;6
+Hình chữ nhật dài 11 cm, rộng 4 cm. Diện tích hơn hình vuông cạnh 6 cm bao nhiêu xăng-ti-mét vuông?|8|Hình chữ nhật 44 cm², hình vuông 36 cm²; chênh 8 cm².|7;80;40
+Tấm bìa vuông cạnh 7 cm, cắt hình vuông cạnh 2 cm. Phần còn lại có diện tích bao nhiêu xăng-ti-mét vuông?|45|Diện tích ban đầu 49 cm², mảnh cắt 4 cm²; còn 45 cm².|47;25;53
+Hình chữ nhật dài 8 cm, rộng 5 cm chia đều diện tích làm 4 phần. Mỗi phần bao nhiêu xăng-ti-mét vuông?|10|Diện tích 40 cm²; chia 4 được 10 cm².|13;20;32
+Một tấm thiệp dài 15 cm, rộng 8 cm. Diện tích một mặt thiệp bao nhiêu xăng-ti-mét vuông?|120|15 × 8 = 120 cm².|46;23;240
+Một nhãn vuông cạnh 4 cm. Làm 6 nhãn rời cần tổng diện tích giấy bao nhiêu xăng-ti-mét vuông, không tính hao hụt?|96|Mỗi nhãn 16 cm²; 16 × 6 = 96 cm².|24;64;80
+Tấm kính dài 25 cm, rộng 10 cm. Cắt ra miếng dài 10 cm, rộng 6 cm. Phần kính còn lại bao nhiêu xăng-ti-mét vuông?|190|Kính ban đầu 250 cm², miếng cắt 60 cm²; còn 190 cm².|240;310;150
+Một hình vuông cạnh 9 cm cắt bỏ miếng chữ nhật 3 cm × 5 cm. Còn bao nhiêu xăng-ti-mét vuông?|66|Hình vuông 81 cm², miếng cắt 15 cm²; còn 66 cm².|76;96;72
+Hai hình chữ nhật 8 cm × 3 cm và 5 cm × 3 cm ghép theo cạnh rộng như hình C. Diện tích hình ghép bao nhiêu xăng-ti-mét vuông?|39|Chiều dài mới 13 cm, rộng 3 cm; 13 × 3 = 39 cm².|24;15;78
+Miếng giấy hình chữ nhật dài 14 cm, rộng 6 cm. Gấp đôi sao cho hai nửa trùng khít. Diện tích một nửa tờ giấy bao nhiêu xăng-ti-mét vuông?|42|Diện tích cả tờ 84 cm²; một nửa là 42 cm².|84;40;20
+Một khung vuông có chu vi 28 cm. Tấm bìa che kín bên trong vừa khung, cạnh bằng cạnh khung. Diện tích bìa bao nhiêu xăng-ti-mét vuông?|49|Cạnh khung 7 cm; bìa vuông có diện tích 7 × 7 = 49 cm².|28;56;196
+Hình chữ nhật có chu vi 30 cm, chiều rộng 5 cm. Diện tích bao nhiêu xăng-ti-mét vuông?|50|Nửa chu vi 15 cm, dài 10 cm; diện tích 10 × 5 = 50 cm².|75;150;25
+Bốn miếng vuông cạnh 3 cm ghép kín thành một hình vuông lớn, không chồng. Diện tích hình lớn bao nhiêu xăng-ti-mét vuông?|36|Mỗi miếng 9 cm²; bốn miếng có diện tích 36 cm².|12;18;24
+Một tấm bìa 12 cm × 9 cm cắt được các thẻ 3 cm × 3 cm, không hao hụt. Có bao nhiêu thẻ?|12|Theo chiều dài có 4 thẻ, theo chiều rộng có 3 thẻ; 4 × 3 = 12.|9;36;108
+Một bìa vuông cạnh 10 cm được tô 4 ô vuông rời, mỗi ô cạnh 2 cm, không chồng. Diện tích chưa tô bao nhiêu xăng-ti-mét vuông?|84|Diện tích cả bìa 100 cm²; phần tô 4 × 4 = 16 cm²; còn 84 cm².|92;96;116
+Miếng giấy dài 18 cm, rộng 4 cm. Một miếng vuông có cùng diện tích nhưng chưa biết cạnh. Diện tích miếng vuông là bao nhiêu xăng-ti-mét vuông?|72|Cùng diện tích với chữ nhật nên bằng 18 × 4 = 72 cm²; không cần tìm cạnh.|44;22;36
+Tấm bìa vuông cạnh 8 cm được chia thành hai miếng diện tích 24 cm² và phần còn lại. Phần còn lại bao nhiêu xăng-ti-mét vuông?|40|Diện tích vuông 64 cm²; 64 - 24 = 40 cm².|88;32;16
+Tờ giấy 20 cm × 12 cm cắt thành 3 miếng bằng diện tích. Mỗi miếng bao nhiêu xăng-ti-mét vuông?|80|Diện tích 240 cm²; chia ba được 80 cm².|60;120;720
+Hình bậc thang trong hình D ghép từ chữ nhật 10 cm × 4 cm và hình vuông cạnh 3 cm, không chồng diện tích. Tổng diện tích bao nhiêu xăng-ti-mét vuông?|49|Chữ nhật 40 cm², vuông 9 cm²; cộng được 49 cm².|43;52;120
+Hình chữ nhật có diện tích 56 cm², chiều dài 8 cm. Chu vi bao nhiêu xăng-ti-mét?|30|Chiều rộng 7 cm; tổng hai kích thước 15 cm, chu vi 30 cm.|56;28;15
+Tấm ảnh 9 cm × 6 cm đặt trên bìa 11 cm × 8 cm. Diện tích phần bìa không bị ảnh che bao nhiêu xăng-ti-mét vuông?|34|Bìa 88 cm², ảnh 54 cm²; phần còn thấy 34 cm².|88;54;142
+Miếng vuông cạnh 5 cm và miếng chữ nhật 7 cm × 4 cm. Miếng nào có diện tích lớn hơn? Viết “vuông” hoặc “chữ nhật”.|chữ nhật|Vuông có 25 cm²; chữ nhật có 28 cm² nên chữ nhật lớn hơn.|vuông;bằng nhau;không biết
+Tấm vải dài 30 cm, rộng 20 cm cắt đi hai miếng vuông cạnh 5 cm, không chồng. Phần còn lại bao nhiêu xăng-ti-mét vuông?|550|Vải 600 cm², hai miếng vuông tổng 50 cm²; còn 550 cm².|590;575;650
+Hình chữ nhật dài 10 cm rộng 6 cm. Giữ rộng, tăng dài thêm 2 cm. Diện tích tăng bao nhiêu xăng-ti-mét vuông?|12|Dải thêm dài 2 cm, rộng 6 cm; diện tích tăng 2 × 6 = 12 cm².|2;4;24

@@ -1,0 +1,831 @@
+{
+  "id": "TOAN3_T2_B51",
+  "subject": "toan",
+  "grade": 3,
+  "book": "Kết nối tri thức với cuộc sống",
+  "volume": 2,
+  "lesson_no": 51,
+  "title": "Diện tích của một hình. Xăng-ti-mét vuông",
+  "topic": "Diện tích qua ô đơn vị và xăng-ti-mét vuông",
+  "source": {
+    "pdf": "03-sgk-toan-3-tap-hai.pdf",
+    "printed_pages": [
+      26,
+      29
+    ],
+    "pdf_pages": [
+      27,
+      30
+    ],
+    "review": "Đã đọc trực quan toàn bộ trang nguồn cho bài này; nội dung và bài tập mới do AI biên soạn."
+  },
+  "objectives": [
+    "Phân biệt diện tích phần mặt hình với độ dài đường bao.",
+    "So sánh diện tích bằng cùng loại ô đơn vị.",
+    "Đọc viết cm²; cộng, trừ, nhân, chia diện tích đơn giản."
+  ],
+  "knowledge": {
+    "introduction": "Diện tích cho biết phần mặt phẳng mà hình chiếm. Dùng các ô vuông cùng kích thước phủ kín hình, không chồng và không bỏ trống; số ô giúp so sánh diện tích. Một ô vuông cạnh 1 cm có diện tích 1 cm².",
+    "rules": [
+      "Phải dùng cùng loại ô vuông trước khi so số ô.",
+      "Cùng số ô đơn vị có thể tạo những hình khác dạng nhưng bằng diện tích.",
+      "Cắt rồi ghép lại, không bỏ mảnh và không chồng lên nhau, thì diện tích giữ nguyên.",
+      "Ghép hai phần không chồng: cộng diện tích; lấy bớt một phần: trừ diện tích.",
+      "Hai nửa của cùng một ô ghép thành một ô nguyên.",
+      "cm² đọc là xăng-ti-mét vuông. Khi tính giữ đúng đơn vị diện tích."
+    ],
+    "steps": [
+      "Xem mỗi ô trong hình có cùng kích thước không.",
+      "Đếm theo hàng hoặc nhóm, tránh đếm lặp ô góc.",
+      "Với nửa ô, ghép hai nửa cùng loại thành một ô nguyên.",
+      "Ghi kết quả kèm cm² nếu mỗi ô là 1 cm²."
+    ],
+    "common_errors": [
+      "Thấy hình dài hơn thì kết luận diện tích lớn hơn mà chưa đếm.",
+      "So số ô khi các ô không bằng nhau.",
+      "Đếm phần chồng hai lần.",
+      "Dùng cm thay cm² cho diện tích."
+    ]
+  },
+  "examples": [
+    {
+      "question": "Hình gồm 6 ô nguyên và 2 nửa ô 1 cm². Tính diện tích.",
+      "steps": [
+        "Hai nửa ghép thành một ô nguyên.",
+        "Có diện tích 6 + 1 = 7 cm²."
+      ]
+    },
+    {
+      "question": "Giấy 25 cm², cắt đi 8 cm².",
+      "steps": [
+        "Phần giấy còn lại được tính bằng phép trừ.",
+        "25 - 8 = 17 cm²."
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "question_id": "TOAN3_T2_B51_Q01",
+      "type": "mcq",
+      "question": "Đơn vị xăng-ti-mét vuông viết tắt thế nào?",
+      "options": [
+        "cm²",
+        "cm",
+        "dm",
+        "kg"
+      ],
+      "correct_answer": "cm²",
+      "distractors": [
+        "cm",
+        "dm",
+        "kg"
+      ],
+      "explanation": "cm² là đơn vị diện tích, khác cm là đơn vị độ dài.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B51_Q02",
+      "type": "fill",
+      "question": "Một ô vuông cạnh 1 cm có diện tích mấy xăng-ti-mét vuông?",
+      "correct_answer": "1",
+      "distractors": [
+        "2",
+        "4",
+        "10"
+      ],
+      "explanation": "Diện tích hình vuông cạnh 1 cm là một xăng-ti-mét vuông.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B51_Q03",
+      "type": "mcq",
+      "question": "Hình gồm 7 ô vuông 1 cm² không chồng nhau có diện tích bao nhiêu xăng-ti-mét vuông?",
+      "options": [
+        "7",
+        "14",
+        "8",
+        "1"
+      ],
+      "correct_answer": "7",
+      "distractors": [
+        "14",
+        "8",
+        "1"
+      ],
+      "explanation": "Mỗi ô có diện tích 1 cm² nên bảy ô là 7 cm².",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B51_Q04",
+      "type": "fill",
+      "question": "Hình A gồm 8 ô đơn vị, hình B gồm 11 ô đơn vị giống nhau. Hình nào có diện tích lớn hơn? Ghi A hoặc B.",
+      "correct_answer": "B",
+      "distractors": [
+        "A",
+        "bằng nhau",
+        "không biết"
+      ],
+      "explanation": "Đếm cùng một loại ô đơn vị: 11 lớn hơn 8.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B51_Q05",
+      "type": "mcq",
+      "question": "Hai hình có cùng 9 ô đơn vị, không chồng lấn. Diện tích có bằng nhau không?",
+      "options": [
+        "có",
+        "không",
+        "chỉ khi cùng hình dạng",
+        "không xác định"
+      ],
+      "correct_answer": "có",
+      "distractors": [
+        "không",
+        "chỉ khi cùng hình dạng",
+        "không xác định"
+      ],
+      "explanation": "Cùng số ô đơn vị cùng kích thước nên diện tích bằng nhau.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B51_Q06",
+      "type": "fill",
+      "question": "Đọc 24 cm²: hai mươi tư xăng-ti-mét hay hai mươi tư xăng-ti-mét vuông? Ghi tên đơn vị.",
+      "correct_answer": "xăng-ti-mét vuông",
+      "distractors": [
+        "xăng-ti-mét",
+        "mét",
+        "mi-li-mét"
+      ],
+      "explanation": "Kí hiệu ² cho biết đang đo diện tích.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B51_Q07",
+      "type": "mcq",
+      "question": "Viết phần số của “ba trăm linh sáu xăng-ti-mét vuông”.",
+      "options": [
+        "306",
+        "360",
+        "3006",
+        "36"
+      ],
+      "correct_answer": "306",
+      "distractors": [
+        "360",
+        "3006",
+        "36"
+      ],
+      "explanation": "Ba trăm, không chục, sáu đơn vị viết 306 cm².",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B51_Q08",
+      "type": "fill",
+      "question": "Tính 18 cm² + 12 cm². Điền phần số.",
+      "correct_answer": "30",
+      "distractors": [
+        "6",
+        "216",
+        "20"
+      ],
+      "explanation": "18 + 12 = 30; giữ đơn vị cm².",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B51_Q09",
+      "type": "mcq",
+      "question": "Tính 45 cm² - 17 cm². Điền phần số.",
+      "options": [
+        "28",
+        "62",
+        "32",
+        "27"
+      ],
+      "correct_answer": "28",
+      "distractors": [
+        "62",
+        "32",
+        "27"
+      ],
+      "explanation": "45 - 17 = 28; đơn vị vẫn là cm².",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B51_Q10",
+      "type": "fill",
+      "question": "Tính 6 cm² × 4. Điền phần số.",
+      "correct_answer": "24",
+      "distractors": [
+        "10",
+        "2",
+        "20"
+      ],
+      "explanation": "6 × 4 = 24; kết quả 24 cm².",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B51_Q11",
+      "type": "mcq",
+      "question": "Hai hình có cùng số ô nhưng một hình dùng ô lớn gấp đôi diện tích ô của hình kia. Có thể kết luận diện tích bằng nhau không?",
+      "options": [
+        "không",
+        "có",
+        "luôn bằng nhau",
+        "chỉ phụ thuộc màu"
+      ],
+      "correct_answer": "không",
+      "distractors": [
+        "có",
+        "luôn bằng nhau",
+        "chỉ phụ thuộc màu"
+      ],
+      "explanation": "Phải dùng cùng đơn vị diện tích trước khi so sánh số ô.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B51_Q12",
+      "type": "fill",
+      "question": "Một hình nằm hoàn toàn trong hình khác và phần ngoài còn diện tích. Hình bên trong có diện tích lớn hơn hay bé hơn? Ghi “bé hơn” hoặc “lớn hơn”.",
+      "correct_answer": "bé hơn",
+      "distractors": [
+        "lớn hơn",
+        "bằng nhau",
+        "không xác định"
+      ],
+      "explanation": "Hình ngoài chứa toàn bộ hình trong và còn phần thêm.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B51_Q13",
+      "type": "mcq",
+      "question": "Cắt một hình giấy thành hai mảnh rồi ghép không chồng, không bỏ mảnh. Tổng diện tích thay đổi không?",
+      "options": [
+        "không",
+        "có",
+        "tăng gấp đôi",
+        "giảm một nửa"
+      ],
+      "correct_answer": "không",
+      "distractors": [
+        "có",
+        "tăng gấp đôi",
+        "giảm một nửa"
+      ],
+      "explanation": "Cắt và đổi vị trí không làm mất hoặc thêm phần giấy.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B51_Q14",
+      "type": "fill",
+      "question": "Một hình 15 cm² cắt thành hai mảnh; mảnh thứ nhất 6 cm². Mảnh kia bao nhiêu xăng-ti-mét vuông?",
+      "correct_answer": "9",
+      "distractors": [
+        "21",
+        "6",
+        "10"
+      ],
+      "explanation": "15 - 6 = 9.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B51_Q15",
+      "type": "mcq",
+      "question": "Hình xanh 13 cm², hình vàng 9 cm². Hình xanh hơn bao nhiêu xăng-ti-mét vuông?",
+      "options": [
+        "4",
+        "22",
+        "3",
+        "5"
+      ],
+      "correct_answer": "4",
+      "distractors": [
+        "22",
+        "3",
+        "5"
+      ],
+      "explanation": "13 - 9 = 4 cm².",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B51_Q16",
+      "type": "fill",
+      "question": "Tính 32 cm² : 4. Điền phần số.",
+      "correct_answer": "8",
+      "distractors": [
+        "128",
+        "28",
+        "6"
+      ],
+      "explanation": "Chia diện tích thành bốn phần bằng nhau, mỗi phần 8 cm².",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B51_Q17",
+      "type": "mcq",
+      "question": "Hình L trong hình A gồm các ô vuông bằng nhau, mỗi ô 1 cm². Diện tích hình tô màu bao nhiêu xăng-ti-mét vuông?",
+      "options": [
+        "5",
+        "6",
+        "4",
+        "9"
+      ],
+      "correct_answer": "5",
+      "distractors": [
+        "6",
+        "4",
+        "9"
+      ],
+      "explanation": "Đếm ba ô ở cột dọc và hai ô thêm ở hàng dưới, không đếm ô góc hai lần.",
+      "difficulty": "thong_hieu",
+      "figure": {
+        "path": "content/toan/tap-2/TOAN3_T2_B51_A.svg",
+        "caption": "Hình L gồm năm ô đơn vị."
+      }
+    },
+    {
+      "question_id": "TOAN3_T2_B51_Q18",
+      "type": "fill",
+      "question": "Hình chữ nhật trong hình B có 2 hàng, mỗi hàng 4 ô 1 cm². Diện tích bao nhiêu xăng-ti-mét vuông?",
+      "correct_answer": "8",
+      "distractors": [
+        "6",
+        "12",
+        "4"
+      ],
+      "explanation": "Đếm hai hàng bốn ô, tổng tám ô đơn vị.",
+      "difficulty": "thong_hieu",
+      "figure": {
+        "path": "content/toan/tap-2/TOAN3_T2_B51_B.svg",
+        "caption": "Hình chữ nhật gồm tám ô đơn vị."
+      }
+    },
+    {
+      "question_id": "TOAN3_T2_B51_Q19",
+      "type": "mcq",
+      "question": "Hình gồm 10 ô 1 cm², bỏ đi 3 ô. Diện tích còn lại bao nhiêu xăng-ti-mét vuông?",
+      "options": [
+        "7",
+        "13",
+        "30",
+        "3"
+      ],
+      "correct_answer": "7",
+      "distractors": [
+        "13",
+        "30",
+        "3"
+      ],
+      "explanation": "Mười ô bớt ba ô còn bảy ô.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B51_Q20",
+      "type": "fill",
+      "question": "Một hình có 4 ô nguyên và 2 nửa ô cùng loại. Diện tích bằng mấy ô nguyên?",
+      "correct_answer": "5",
+      "distractors": [
+        "6",
+        "4",
+        "3"
+      ],
+      "explanation": "Hai nửa ô ghép được một ô; thêm bốn ô là năm ô.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B51_Q21",
+      "type": "mcq",
+      "question": "Tấm bìa gồm 12 ô 1 cm². Cắt lấy 5 ô làm thẻ, phần còn lại có diện tích bao nhiêu xăng-ti-mét vuông?",
+      "options": [
+        "7",
+        "17",
+        "5",
+        "60"
+      ],
+      "correct_answer": "7",
+      "distractors": [
+        "17",
+        "5",
+        "60"
+      ],
+      "explanation": "12 - 5 = 7 cm².",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B51_Q22",
+      "type": "fill",
+      "question": "Hai miếng giấy diện tích 16 cm² và 23 cm² đặt sát, không chồng. Tổng diện tích bao nhiêu xăng-ti-mét vuông?",
+      "correct_answer": "39",
+      "distractors": [
+        "7",
+        "38",
+        "46"
+      ],
+      "explanation": "16 + 23 = 39 cm².",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B51_Q23",
+      "type": "mcq",
+      "question": "Ghép 4 miếng giấy, mỗi miếng 9 cm², không chồng nhau. Diện tích hình ghép bao nhiêu xăng-ti-mét vuông?",
+      "options": [
+        "36",
+        "13",
+        "18",
+        "32"
+      ],
+      "correct_answer": "36",
+      "distractors": [
+        "13",
+        "18",
+        "32"
+      ],
+      "explanation": "9 × 4 = 36 cm².",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B51_Q24",
+      "type": "fill",
+      "question": "Hình ghép 28 cm² chia thành 7 mảnh bằng diện tích. Mỗi mảnh bao nhiêu xăng-ti-mét vuông?",
+      "correct_answer": "4",
+      "distractors": [
+        "21",
+        "35",
+        "7"
+      ],
+      "explanation": "28 : 7 = 4 cm².",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B51_Q25",
+      "type": "mcq",
+      "question": "Lan có miếng đỏ 40 cm², miếng xanh ít hơn miếng đỏ 12 cm². Miếng xanh bao nhiêu xăng-ti-mét vuông?",
+      "options": [
+        "28",
+        "52",
+        "12",
+        "30"
+      ],
+      "correct_answer": "28",
+      "distractors": [
+        "52",
+        "12",
+        "30"
+      ],
+      "explanation": "40 - 12 = 28 cm².",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B51_Q26",
+      "type": "fill",
+      "question": "Hình A trong hình minh họa có 5 ô 1 cm², hình B có 8 ô như thế. B hơn A bao nhiêu xăng-ti-mét vuông?",
+      "correct_answer": "3",
+      "distractors": [
+        "13",
+        "5",
+        "4"
+      ],
+      "explanation": "8 - 5 = 3 cm².",
+      "difficulty": "van_dung",
+      "figure": {
+        "path": "content/toan/tap-2/TOAN3_T2_B51_AB.svg",
+        "caption": "Hai hình A và B dùng cùng loại ô 1 cm²."
+      }
+    },
+    {
+      "question_id": "TOAN3_T2_B51_Q27",
+      "type": "mcq",
+      "question": "Một nhãn cần 6 cm² giấy. Cắt 5 nhãn không chồng từ giấy 42 cm², không có phần hao hụt khác. Còn bao nhiêu xăng-ti-mét vuông?",
+      "options": [
+        "12",
+        "36",
+        "30",
+        "17"
+      ],
+      "correct_answer": "12",
+      "distractors": [
+        "36",
+        "30",
+        "17"
+      ],
+      "explanation": "Năm nhãn dùng 6 × 5 = 30 cm²; 42 - 30 = 12 cm².",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B51_Q28",
+      "type": "fill",
+      "question": "Hình M có 3 ô nguyên, hình N có 6 nửa ô cùng loại. Diện tích hai hình có bằng nhau không?",
+      "correct_answer": "có",
+      "distractors": [
+        "không",
+        "N gấp đôi M",
+        "M gấp đôi N"
+      ],
+      "explanation": "Sáu nửa ô ghép được ba ô nguyên.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B51_Q29",
+      "type": "mcq",
+      "question": "Dán hai miếng 10 cm² và 8 cm² sao cho phần chồng là 2 cm². Diện tích phần giấy được phủ bao nhiêu xăng-ti-mét vuông?",
+      "options": [
+        "16",
+        "18",
+        "20",
+        "14"
+      ],
+      "correct_answer": "16",
+      "distractors": [
+        "18",
+        "20",
+        "14"
+      ],
+      "explanation": "Cộng hai diện tích là 18 cm² rồi trừ 2 cm² bị tính hai lần.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B51_Q30",
+      "type": "fill",
+      "question": "Một hình có 4 ô 1 cm² và 4 nửa ô cùng loại. Diện tích bao nhiêu xăng-ti-mét vuông?",
+      "correct_answer": "6",
+      "distractors": [
+        "8",
+        "4",
+        "5"
+      ],
+      "explanation": "Bốn nửa ô bằng hai ô; thêm bốn ô nguyên được sáu.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B51_Q31",
+      "type": "mcq",
+      "question": "Ba miếng 7 cm², 11 cm² và 12 cm² ghép kín, không chồng. Miếng giấy mới có diện tích bao nhiêu xăng-ti-mét vuông?",
+      "options": [
+        "30",
+        "23",
+        "19",
+        "31"
+      ],
+      "correct_answer": "30",
+      "distractors": [
+        "23",
+        "19",
+        "31"
+      ],
+      "explanation": "7 + 11 + 12 = 30 cm².",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B51_Q32",
+      "type": "fill",
+      "question": "Tấm bìa 50 cm² được cắt một mảnh 18 cm² và một mảnh 15 cm². Phần còn lại bao nhiêu xăng-ti-mét vuông?",
+      "correct_answer": "17",
+      "distractors": [
+        "33",
+        "32",
+        "35"
+      ],
+      "explanation": "50 - 18 - 15 = 17 cm².",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B51_Q33",
+      "type": "mcq",
+      "question": "An nói hai hình bằng diện tích thì phải giống hệt hình dạng. Chỉ dựa vào cùng 6 ô đơn vị, kết luận đó đúng hay sai?",
+      "options": [
+        "sai",
+        "đúng",
+        "chỉ đúng với màu xanh",
+        "không có diện tích"
+      ],
+      "correct_answer": "sai",
+      "distractors": [
+        "đúng",
+        "chỉ đúng với màu xanh",
+        "không có diện tích"
+      ],
+      "explanation": "Cùng sáu ô có thể ghép thành nhiều hình khác nhau mà vẫn cùng diện tích.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B51_Q34",
+      "type": "fill",
+      "question": "Một con vật giấy gồm 9 ô 1 cm². Thêm 3 ô cùng loại làm đuôi, không chồng. Diện tích mới bao nhiêu xăng-ti-mét vuông?",
+      "correct_answer": "12",
+      "distractors": [
+        "6",
+        "27",
+        "10"
+      ],
+      "explanation": "9 + 3 = 12 cm².",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B51_Q35",
+      "type": "mcq",
+      "question": "Một hình gồm 18 ô đơn vị được chia đều diện tích thành ba phần. Mỗi phần có mấy ô đơn vị?",
+      "options": [
+        "6",
+        "15",
+        "9",
+        "21"
+      ],
+      "correct_answer": "6",
+      "distractors": [
+        "15",
+        "9",
+        "21"
+      ],
+      "explanation": "18 : 3 = 6 ô.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B51_Q36",
+      "type": "fill",
+      "question": "Một miếng giấy 36 cm², miếng thứ hai bằng nửa miếng đó. Ghép hai miếng không chồng được bao nhiêu xăng-ti-mét vuông?",
+      "correct_answer": "54",
+      "distractors": [
+        "18",
+        "72",
+        "48"
+      ],
+      "explanation": "Miếng thứ hai 18 cm²; 36 + 18 = 54 cm².",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B51_Q37",
+      "type": "mcq",
+      "question": "Một hình có diện tích 21 cm² sau khi ghép thêm mảnh 8 cm² không chồng. Hình ban đầu có diện tích bao nhiêu xăng-ti-mét vuông?",
+      "options": [
+        "13",
+        "29",
+        "8",
+        "14"
+      ],
+      "correct_answer": "13",
+      "distractors": [
+        "29",
+        "8",
+        "14"
+      ],
+      "explanation": "21 - 8 = 13 cm².",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B51_Q38",
+      "type": "fill",
+      "question": "Từ hình gồm 16 ô 1 cm², cắt bỏ 4 ô góc. Không có ô bỏ trùng nhau. Phần còn lại bao nhiêu xăng-ti-mét vuông?",
+      "correct_answer": "12",
+      "distractors": [
+        "20",
+        "4",
+        "8"
+      ],
+      "explanation": "16 - 4 = 12 cm².",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B51_Q39",
+      "type": "mcq",
+      "question": "Nhóm A ghép 5 miếng mỗi miếng 4 cm², nhóm B ghép 3 miếng mỗi miếng 7 cm²; đều không chồng. Nhóm nào có hình lớn hơn? Ghi A hoặc B.",
+      "options": [
+        "B",
+        "A",
+        "bằng nhau",
+        "không biết"
+      ],
+      "correct_answer": "B",
+      "distractors": [
+        "A",
+        "bằng nhau",
+        "không biết"
+      ],
+      "explanation": "A có 20 cm², B có 21 cm² nên hình B lớn hơn.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B51_Q40",
+      "type": "fill",
+      "question": "Có 24 ô 1 cm². Dùng 9 ô ghép hình cá và 8 ô ghép hình cây, không dùng chung ô. Còn mấy ô?",
+      "correct_answer": "7",
+      "distractors": [
+        "15",
+        "16",
+        "17"
+      ],
+      "explanation": "24 - 9 - 8 = 7 ô.",
+      "difficulty": "van_dung"
+    }
+  ],
+  "games": [
+    {
+      "id": "TOAN3_T2_B51_GAME1",
+      "title": "Ghép diện tích",
+      "mode": "match",
+      "objective": "Ghép mỗi nhiệm vụ diện tích với đáp án đúng, dùng năm cặp khác nhau mỗi lượt.",
+      "rules": [
+        "Mỗi lượt chọn 5 câu có 5 đáp án khác nhau.",
+        "Chọn câu hỏi bên trái rồi đáp án bên phải. Sai thì thử lại.",
+        "Mỗi cặp đúng 10 điểm; tối đa 50 điểm."
+      ],
+      "question_ids": [
+        "TOAN3_T2_B51_Q01",
+        "TOAN3_T2_B51_Q02",
+        "TOAN3_T2_B51_Q03",
+        "TOAN3_T2_B51_Q04",
+        "TOAN3_T2_B51_Q05",
+        "TOAN3_T2_B51_Q06",
+        "TOAN3_T2_B51_Q07",
+        "TOAN3_T2_B51_Q08",
+        "TOAN3_T2_B51_Q09",
+        "TOAN3_T2_B51_Q10",
+        "TOAN3_T2_B51_Q11",
+        "TOAN3_T2_B51_Q12",
+        "TOAN3_T2_B51_Q13",
+        "TOAN3_T2_B51_Q14",
+        "TOAN3_T2_B51_Q15",
+        "TOAN3_T2_B51_Q16",
+        "TOAN3_T2_B51_Q17",
+        "TOAN3_T2_B51_Q18",
+        "TOAN3_T2_B51_Q19",
+        "TOAN3_T2_B51_Q20",
+        "TOAN3_T2_B51_Q21",
+        "TOAN3_T2_B51_Q22",
+        "TOAN3_T2_B51_Q23",
+        "TOAN3_T2_B51_Q24",
+        "TOAN3_T2_B51_Q25",
+        "TOAN3_T2_B51_Q26",
+        "TOAN3_T2_B51_Q27",
+        "TOAN3_T2_B51_Q28",
+        "TOAN3_T2_B51_Q29",
+        "TOAN3_T2_B51_Q30",
+        "TOAN3_T2_B51_Q31",
+        "TOAN3_T2_B51_Q32",
+        "TOAN3_T2_B51_Q33",
+        "TOAN3_T2_B51_Q34",
+        "TOAN3_T2_B51_Q35",
+        "TOAN3_T2_B51_Q36",
+        "TOAN3_T2_B51_Q37",
+        "TOAN3_T2_B51_Q38",
+        "TOAN3_T2_B51_Q39",
+        "TOAN3_T2_B51_Q40"
+      ],
+      "answer_source": "practice.correct_answer",
+      "feedback_source": "practice.explanation",
+      "max_score": 50
+    }
+  ],
+  "assessment": {
+    "session_size": 10,
+    "distribution": {
+      "nhan_biet": 3,
+      "thong_hieu": 3,
+      "van_dung": 4
+    },
+    "scoring": "Đúng lần đầu: 1 điểm; đúng sau một gợi ý: 0,5 điểm. Từ 90%: 3 sao; từ 60%: 2 sao; còn lại: 1 sao.",
+    "review_advice": "Xem lời giải các câu sai, đọc lại quy tắc, rồi làm một lượt mới."
+  },
+  "feedback": {
+    "correct": "Chính xác! Hãy đọc lời giải để củng cố cách làm.",
+    "incorrect": "Em thử lại một lần. Sau đó xem đáp án và cách giải."
+  },
+  "verification": {
+    "ai_authored": true,
+    "structure_checked": true,
+    "answer_reviewed": true,
+    "source_reviewed": true,
+    "teacher_approved": false
+  },
+  "status": "AI_CHECKED_AWAITING_TEACHER",
+  "activities": [
+    {
+      "title": "Ghép hình cùng diện tích",
+      "materials": [
+        "6 ô vuông giấy bằng nhau"
+      ],
+      "steps": [
+        "Dùng cả sáu ô xếp một hình, không chồng lên nhau.",
+        "Xếp lại thành một hình khác, vẫn dùng đúng sáu ô.",
+        "Giải thích vì sao hai hình bằng diện tích dù khác hình dạng."
+      ],
+      "check": [
+        "Không làm mất hoặc thêm ô.",
+        "Phân biệt diện tích giữ nguyên với đường bao có thể thay đổi."
+      ]
+    }
+  ],
+  "figures": [
+    {
+      "path": "content/toan/tap-2/TOAN3_T2_B51_A.svg",
+      "caption": "Hình L gồm năm ô đơn vị."
+    },
+    {
+      "path": "content/toan/tap-2/TOAN3_T2_B51_B.svg",
+      "caption": "Hình chữ nhật gồm tám ô đơn vị."
+    },
+    {
+      "path": "content/toan/tap-2/TOAN3_T2_B51_AB.svg",
+      "caption": "Hai hình A và B dùng cùng loại ô 1 cm²."
+    }
+  ]
+}

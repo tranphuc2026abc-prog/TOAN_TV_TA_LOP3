@@ -1,3 +1,13 @@
+# Batch 13 đã tích hợp — 08/11/2026
+
+Toán 49–52: 4 JSON/Markdown, 160 câu mới theo phân mức 10/10/20, 4 trò chơi, 7 SVG tự dựng đã render và xem. Đã đọc trực quan trang in 17–34 (PDF 18–35) của Toán tập 2 bản sẵn có; chưa đối chiếu hash PDF với repo. Nội dung gồm ôn số/La Mã/làm tròn, chu vi tam giác/tứ giác/chữ nhật/vuông, diện tích và cm², diện tích chữ nhật/vuông. Câu hỏi và tình huống biên soạn mới, không chép hệ thống bài tập sách.
+
+validate_site.py, validate_content.py, hồi quy Batch 7–9, 12–13 và test_content_dom.cjs toàn bộ 52 bài đạt. Kiểm tra mới có 75 đáp án neo tính độc lập, đổi đơn vị, cạnh chung, cắt/ghép, số ô SVG không trùng và diện tích hình đúng tỉ lệ. SVG hiển thị trong các câu cần hình. Chưa có Chromium để kiểm thử trình duyệt thật; kiểm tra đẳng thức tự động chưa bao quát đầy đủ biểu thức có ngoặc. Không đổi giao diện hay dữ liệu wl3.
+
+Tổng đã biên soạn/kiểm tra/tích hợp: 52/168 mục, 2080 câu, 52 trò chơi. Giáo viên đã duyệt 4 (Toán 1–4), còn 48 AI_CHECKED_AWAITING_TEACHER. Còn 116 mục: Toán 53–81 (29), Tiếng Việt 62, Tiếng Anh 25. Checkpoint tiếp Batch 14 Toán 53–56, phải đọc nguồn tương ứng trước biên soạn. Không làm lại 52 bài đã tích hợp. Commit Batch 12: 376b18d30a3a5e7bcc238ac4db4cddb4db8ea0f1; cả hai workflow Pages của commit đó đã success. Commit Batch 13 cần xác minh sau ghi.
+
+## Lịch sử
+
 # Batch 12 đã tích hợp — 08/11/2026
 
 Toán tập 2 Bài 45–48: 4 JSON, 4 Markdown, 160 câu mới (mỗi bài 10 nhận biết/10 thông hiểu/20 vận dụng), 4 trò chơi, 1 SVG đồng hồ La Mã tự dựng đã render và xem. Đã đọc trực quan trang in 4–16 (PDF 5–17) bản nguồn sẵn có; chưa đối chiếu hash với PDF trong repo. Chủ đề: cấu tạo số có bốn chữ số và 10000; so sánh; La Mã I–XX; làm tròn đến chục/trăm. Không sao chép toàn văn hay hệ thống bài tập sách.
