@@ -80,3 +80,44 @@ Một máy in mỗi phút in 245 trang. Sau 8 phút, còn thiếu 1040 trang m�
 Tìm chữ số a trong 2a05 nhân 4 bằng 10020.|5|10020 chia 4 được 2505 nên a bằng 5.|0;2;4
 Tính 18000 trừ 24000 chia 4.|12000|Thực hiện chia trước: 6000; sau đó 18000 trừ 6000 được 12000.|1500;6000;24000
 Có 90000 đồng mua 4 quyển vở, mỗi quyển 12000 đồng, và 3 bút, mỗi bút 9000 đồng. Còn bao nhiêu đồng?|15000|Vở hết 48000, bút hết 27000; tổng 75000, còn 15000 đồng.|75000;42000;27000
+Bài 79
+Hình vuông có mấy góc vuông?|4|Bốn đỉnh của hình vuông đều là góc vuông.|2;3;5
+Một hình tròn có tâm O. Đoạn nối O với một điểm trên đường tròn gọi là gì?|bán kính|Đoạn từ tâm đến đường tròn là bán kính.|đường kính;cạnh;chu vi
+Đổi 7 cm thành mm.|70|Mỗi cm bằng 10 mm nên 7 cm bằng 70 mm.|7;700;17
+Đổi 2 kg thành g.|2000|Mỗi kg bằng 1000 g nên 2 kg bằng 2000 g.|200;20;20000
+Một lít bằng bao nhiêu mi-li-lít?|1000|Quan hệ đơn vị: 1 lít bằng 1000 ml.|100;10;10000
+Chu vi hình tam giác có ba cạnh 4 cm, 5 cm, 6 cm là bao nhiêu cm?|15|Cộng độ dài ba cạnh: 4 cộng 5 cộng 6 bằng 15 cm.|30;9;11
+Diện tích hình vuông cạnh 3 cm bằng bao nhiêu cm vuông?|9|Lấy cạnh nhân cạnh: 3 nhân 3 bằng 9 cm vuông.|12;6;3
+Tháng 9 có bao nhiêu ngày?|30|Tháng 9 có 30 ngày.|31;28;29
+Một giờ có bao nhiêu phút?|60|Theo quan hệ đơn vị thời gian, một giờ bằng 60 phút.|100;30;24
+Đơn vị nào dùng đo diện tích: cm vuông, cm, kg hay lít?|cm vuông|Diện tích đếm các ô vuông đơn vị nên dùng cm vuông.|cm;kg;lít
+Hình chữ nhật dài 9 cm, rộng 4 cm. Chu vi bằng bao nhiêu cm?|26|Tổng dài rộng là 13 cm; gấp đôi được 26 cm.|36;13;18
+Hình chữ nhật dài 9 cm, rộng 4 cm. Diện tích bằng bao nhiêu cm vuông?|36|Lấy chiều dài nhân chiều rộng: 9 nhân 4 bằng 36.|26;13;18
+Đoạn AB dài 18 cm, M là trung điểm. AM dài bao nhiêu cm?|9|Trung điểm chia đoạn thành hai phần bằng nhau, mỗi phần 9 cm.|18;36;8
+Bình có 1 lít 250 ml nước. Bình có bao nhiêu ml nước?|1250|Đổi 1 lít thành 1000 ml, cộng 250 ml được 1250 ml.|250;1025;125
+Một túi nặng 3 kg 80 g. Khối lượng là bao nhiêu g?|3080|3 kg bằng 3000 g; thêm 80 g được 3080 g.|3800;380;3008
+Dây dài 2 m, cắt bớt 35 cm. Còn bao nhiêu cm?|165|Đổi 2 m bằng 200 cm rồi trừ 35 được 165 cm.|235;65;175
+Bắt đầu học lúc 8 giờ 20 phút, học 30 phút. Kết thúc lúc mấy giờ mấy phút?|8 giờ 50 phút|Thêm 30 phút vào 8 giờ 20 phút được 8 giờ 50 phút.|8 giờ 40 phút;9 giờ 20 phút;9 giờ 50 phút
+Nếu ngày 29 tháng 4 là thứ Hai thì ngày 1 tháng 5 là thứ mấy?|thứ Tư|Tháng 4 có 30 ngày: ngày 30 thứ Ba, ngày 1 tháng 5 thứ Tư.|thứ Ba;thứ Năm;thứ Sáu
+Một hình vuông chu vi 28 cm. Cạnh dài bao nhiêu cm?|7|Bốn cạnh bằng nhau nên lấy 28 chia 4 được 7 cm.|14;4;24
+Hai hình chữ nhật cùng diện tích có chắc cùng chu vi không?|không|Ví dụ 2 nhân 6 và 3 nhân 4 đều có diện tích 12, nhưng chu vi lần lượt 16 và 14.|có;luôn bằng nhau;chỉ khác đơn vị
+Vườn hình chữ nhật rộng 7 m, dài hơn rộng 5 m. Chu vi vườn bao nhiêu m?|38|Chiều dài 12 m; tổng dài rộng 19 m, gấp đôi được 38 m.|84;24;19
+Một sân hình vuông cạnh 8 m. Để lối vào rộng 2 m, phần còn lại làm hàng rào. Cần bao nhiêu m hàng rào?|30|Chu vi 32 m, bỏ phần lối vào 2 m còn 30 m.|32;34;62
+Tấm bìa hình chữ nhật dài 12 cm, rộng 5 cm. Cắt bỏ hình vuông cạnh 3 cm. Phần còn lại có diện tích bao nhiêu cm vuông?|51|Bìa ban đầu 60 cm vuông; hình cắt bỏ 9 cm vuông; còn 51.|60;57;69
+Ghép hai hình vuông cạnh 4 cm sát nhau theo trọn một cạnh, không chồng lên nhau. Hình chữ nhật tạo thành có chu vi bao nhiêu cm?|24|Hình mới dài 8 cm, rộng 4 cm; chu vi 24 cm.|32;16;64
+Hai mảnh bìa không chồng lên nhau có diện tích 18 và 27 cm vuông. Diện tích cả hai bằng bao nhiêu cm vuông?|45|Không có phần trùng nên cộng 18 và 27 được 45.|9;90;486
+Một can có 3 lít nước. Rót đầy 4 cốc, mỗi cốc 250 ml. Can còn bao nhiêu ml?|2000|Bốn cốc lấy 1000 ml; từ 3000 ml còn 2000 ml.|1000;2750;4000
+Một gói bột nặng 2 kg. Chia thành 5 túi bằng nhau. Mỗi túi nặng bao nhiêu g?|400|2000 g chia 5 được 400 g mỗi túi.|40;500;2500
+Ba đoạn dây dài 85 cm, 75 cm và 40 cm nối tiếp, bỏ qua phần nối. Tổng dài bao nhiêu m?|2|Tổng là 200 cm, đổi được 2 m.|200;20;1
+Xe khởi hành 9 giờ 45 phút, đến nơi sau 35 phút. Xe đến lúc nào?|10 giờ 20 phút|Đi 15 phút đến 10 giờ, thêm 20 phút đến 10 giờ 20 phút.|9 giờ 80 phút;10 giờ 10 phút;10 giờ 35 phút
+Buổi diễn từ 14 giờ 10 phút đến 15 giờ. Kéo dài bao nhiêu phút?|50|Từ phút thứ 10 đến phút thứ 60 của giờ có 50 phút.|40;60;70
+Một hộp bút 28000 đồng, hai quyển vở mỗi quyển 8500 đồng. Đưa 50000 đồng được trả lại bao nhiêu đồng?|5000|Hai vở hết 17000, cộng hộp bút là 45000; còn 5000 đồng.|45000;22000;13500
+Từ thứ Sáu đến thứ Hai tuần sau, không tính ngày bắt đầu, qua mấy ngày?|3|Lần lượt qua thứ Bảy, Chủ nhật, thứ Hai là 3 ngày.|2;4;7
+Một hình chữ nhật có chu vi 34 cm, chiều dài 11 cm. Chiều rộng bằng bao nhiêu cm?|6|Nửa chu vi 17 cm; trừ chiều dài 11 còn chiều rộng 6 cm.|12;23;17
+Sàn phòng dài 6 m, rộng 4 m. Một tấm thảm phủ 8 m vuông. Phần sàn chưa phủ có diện tích bao nhiêu m vuông?|16|Sàn có diện tích 24 m vuông; trừ 8 còn 16 m vuông.|24;20;32
+Hai đoạn đường nối tiếp dài 1 km và 350 m. Đi được 875 m. Còn bao nhiêu m?|475|Tổng dài 1350 m; trừ 875 còn 475 m.|525;1225;650
+Một quả cân 500 g và hai quả cân 200 g cân bằng một túi đậu. Túi đậu nặng bao nhiêu g?|900|Tổng các quả cân là 500 cộng 200 cộng 200 bằng 900 g.|700;1000;450
+Bình có 1800 ml nước, uống 300 ml rồi chia đều phần còn lại vào 3 chai. Mỗi chai có bao nhiêu ml?|500|Còn 1500 ml; chia 3 được 500 ml mỗi chai.|600;1500;400
+Hai hình tam giác ghép theo một cạnh chung dài 5 cm, không chồng phần bên trong. Tổng chu vi hai tam giác là 32 cm. Chu vi đường bao ngoài bằng bao nhiêu cm?|22|Cạnh chung nằm bên trong và bị tính hai lần; bỏ 10 cm khỏi 32 cm còn 22 cm.|27;32;42
+Đường kính hình tròn dài 16 cm. Hai bán kính nối tiếp từ đầu này qua tâm đến đầu kia có tổng độ dài bao nhiêu cm?|16|Hai bán kính tạo thành đường kính nên tổng bằng 16 cm.|8;32;4
+Một chuyến đi bắt đầu lúc 7 giờ 50 phút, đi 25 phút rồi nghỉ 10 phút, tiếp tục đi 15 phút. Kết thúc lúc nào?|8 giờ 40 phút|Tổng thời gian là 50 phút; thêm vào 7 giờ 50 phút được 8 giờ 40 phút.|8 giờ 30 phút;8 giờ 20 phút;9 giờ

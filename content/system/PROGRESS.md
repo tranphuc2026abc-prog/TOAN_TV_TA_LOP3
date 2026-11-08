@@ -1,3 +1,13 @@
+# Checkpoint Bài 79 — 09/11/2026
+
+Đã đọc trực quan trang in 121–122 (PDF 122–123), Toán tập 2: trung điểm/bán kính/góc vuông, chu vi tam giác/tứ giác, cạnh chung, diện tích ghép, đơn vị độ dài/khối lượng/dung tích, đồng hồ/lịch và tiền. Đã bổ sung 40 câu mới Bài 79 vào batch20-source.txt; giữ nguồn Bài 77–78. Hiện có 120 câu, mỗi bài 10/10/20; số dòng và bốn phương án khác nhau đạt.
+
+Chưa tích hợp. Khi đóng gói phải dựng SVG mới cho các câu Bài 79 về hình vuông/chữ nhật, cắt ghép, cạnh chung, bán kính; không dùng ảnh SGK. Cần đọc nguồn và biên soạn Bài 80, hoàn thiện kiến thức/ví dụ/game/JSON/Markdown, kiểm tra đáp án độc lập và chạy hồi quy/DOM cả batch trước khi tăng INDEX. Không tạo lại 120 câu đã lưu.
+
+Tiến độ tích hợp vẫn 76/168, 3040 câu, 76 trò chơi; giáo viên duyệt 4, 72 chờ duyệt; 92 mục nháp. Chưa có học liệu Bài 79 trên luồng học chính.
+
+## Lịch sử
+
 # Checkpoint Bài 78 — 09/11/2026
 
 Đã đọc trực quan toàn bộ trang in 118–120 (PDF 119–121) Toán tập 2: nhân/chia, thương có 0, biểu thức có ngoặc và phối hợp, tìm chữ số, giá đơn vị, gấp/giảm số lần, phần còn lại. Đã bổ sung 40 câu mới Bài 78, giữ nguyên 40 câu Bài 77; mỗi bài phân theo thứ tự 10/10/20. Có cặp tình huống phân biệt số xe chứa hết và số bó đủ, phép tính ngược, số dư, chia nhiều tầng. Kiểm tra số dòng và bốn lựa chọn khác nhau đạt. Chưa đóng gói JSON/Markdown hay tích hợp, chưa chạy DOM cho bài mới.
