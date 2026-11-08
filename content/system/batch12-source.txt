@@ -1,0 +1,164 @@
+Bài 45
+Số 5726 có chữ số hàng nghìn là mấy?|5|Từ trái sang phải là nghìn, trăm, chục, đơn vị; hàng nghìn là 5.|7;2;6
+Trong số 8043, chữ số hàng trăm là mấy?|0|8043 gồm 8 nghìn, 0 trăm, 4 chục, 3 đơn vị.|8;4;3
+Giá trị của chữ số 6 trong 3612 là bao nhiêu?|600|Chữ số 6 ở hàng trăm nên biểu thị 600.|6;60;6000
+Viết số gồm 4 nghìn, 2 trăm, 0 chục và 8 đơn vị.|4208|Giữ chữ số 0 ở hàng chục: 4208.|4280;4028;428
+Số nhỏ nhất có bốn chữ số là số nào?|1000|999 có ba chữ số; số tiếp theo là 1000 có bốn chữ số.|100;999;1001
+Mười nghìn viết bằng các chữ số như thế nào?|10000|Mười nhóm một nghìn tạo thành 10000.|1000;100;10001
+Số liền sau 5999 là số nào?|6000|Đếm thêm một từ 5999 được 6000.|5998;5990;6001
+Số liền trước 8000 là số nào?|7999|Đếm lùi một từ 8000 được 7999.|8001;7900;7990
+Số 9300 có bao nhiêu chục trọn vẹn?|930|9300 gồm 930 nhóm mười; không nhầm với chữ số hàng chục là 0.|93;9;0
+Số gồm 7 nghìn và 9 đơn vị viết thế nào?|7009|Hàng trăm và hàng chục đều bằng 0.|7090;7900;709
+Số nào có cách đọc “sáu nghìn không trăm linh hai”?|6002|Không có trăm và chục nên viết hai chữ số 0 giữa 6 và 2.|6020;6200;6000
+Điền phần còn thiếu: 4825 gồm 4000, 800, 20 và bao nhiêu đơn vị?|5|Chữ số cuối 5 biểu thị năm đơn vị.|50;25;500
+Vì sao không thể bỏ chữ số 0 ở giữa số 3074? Chọn giá trị của số sau khi bỏ 0.|374|Bỏ 0 làm các hàng dịch chỗ; 3074 trở thành 374, không còn cùng giá trị.|3074;3004;304
+Một số có 9 nghìn, hàng trăm và chục bằng nhau và đều bằng 2, đơn vị là 6. Đó là số nào?|9226|Viết lần lượt bốn hàng: 9, 2, 2, 6.|9262;9296;9622
+Trong dãy 4198, 4199, ?, 4201, số bị che là số nào?|4200|Dãy tăng từng đơn vị, sau 4199 là 4200.|4190;4202;4100
+Dãy 6700, 6800, 6900, ? tăng đều. Điền số kế tiếp.|7000|Mỗi bước tăng một trăm; sau 6900 là 7000.|6910;6999;7100
+Số 5407 được đổi thành 5470 bằng cách đổi chỗ hai hàng nào? Viết tên hàng theo thứ tự “... và ...”.|chục và đơn vị|Chữ số 0 và 7 đổi chỗ ở hàng chục và hàng đơn vị.|nghìn và trăm;trăm và chục;nghìn và đơn vị
+Nếu thêm một nghìn vào 2080 thì được số nào?|3080|Chỉ tăng hàng nghìn từ 2 lên 3; các hàng còn lại giữ nguyên.|2180;2090;2800
+Từ số 9999 đếm thêm một đơn vị được số có mấy chữ số?|5|Được 10000, gồm năm chữ số.|4;3;6
+Số 7050 gồm 7000 và phần còn lại bằng bao nhiêu?|50|Không có trăm và đơn vị; phần còn lại là năm chục.|5;500;750
+Thư viện đánh số nhãn từ 2997 liên tiếp. Nhãn thứ tư ghi số nào?|3000|Bốn nhãn lần lượt là 2997, 2998, 2999, 3000.|3001;2999;2998
+Một quyển sách bị mất tờ giữa hai trang còn nguyên ghi 248 và 251. Trang đầu của tờ mất mang số nào?|249|Các trang theo thứ tự 248, 249, 250, 251; tờ mất có trang 249 và 250.|247;250;252
+Dùng mỗi thẻ 1, 0, 5, 8 đúng một lần, lập số lớn nhất có hàng nghìn là 5.|5810|Cố định 5 rồi xếp các thẻ còn lại giảm dần: 8, 1, 0.|5801;5180;8510
+Dùng mỗi thẻ 0, 3, 3, 7 đúng một lần. Số bé nhất có bốn chữ số là số nào?|3037|Đặt 3 ở đầu vì 0 không đứng đầu số bốn chữ số; sau đó 0, 3, 7.|0337;3307;3073
+Máy đếm đang hiện 8998. Sau hai lần tăng một đơn vị, máy hiện số nào?|9000|8998 đến 8999 rồi đến 9000.|8999;9001;8900
+Có 6 túi, mỗi túi đúng một nghìn hạt; thêm 4 hộp mỗi hộp một trăm hạt và 3 hạt rời. Có bao nhiêu hạt?|6403|Sáu nghìn, bốn trăm, không chục, ba đơn vị tạo thành 6403.|6430;6043;6340
+Mã khóa có bốn chữ số: hàng nghìn 2, hàng trăm gấp đôi hàng nghìn, hàng chục 0, hàng đơn vị 9. Mã khóa là gì?|2409|Gấp đôi 2 là 4; bốn hàng là 2, 4, 0, 9.|2490;2049;4209
+Một vé mang số 6000. Vé ngay trước và ngay sau nó có tổng chữ số hàng đơn vị bằng bao nhiêu?|10|Hai vé là 5999 và 6001; chữ số đơn vị 9 và 1 có tổng 10.|0;9;2
+Bảng hiển thị 7306 bị đổi nhầm hàng trăm thành 8. Số mới là số nào?|7806|Thay chữ số 3 ở hàng trăm bằng 8, giữ 7, 0, 6.|7386;8306;7368
+Một kho có đúng 10000 chiếc bút, đã đóng đủ 9 hộp, mỗi hộp 1000 chiếc. Phần chưa đóng có bao nhiêu chiếc?|1000|Mười nghìn gồm mười nhóm nghìn; đã dùng chín nhóm nên còn một nhóm nghìn.|100;9000;1
+Từ 4000, đếm lùi từng trăm ba bước. Dừng ở số nào?|3700|Ba bước là 3900, 3800, 3700.|3997;4300;3600
+Tìm số có bốn chữ số lớn hơn 7000, bé hơn 7002.|7001|Chỉ có 7001 nằm giữa hai số nguyên cách nhau hai đơn vị.|7000;7002;7010
+Bé viết 5 nghìn 6 chục thành 5600. Số đúng phải là số nào?|5060|Không có trăm; 6 nằm ở hàng chục nên viết 5060.|5600;5006;560
+Số nhà gồm bốn chữ số, đọc “bốn nghìn ba trăm mười lăm”. Viết số nhà.|4315|Bốn nghìn, ba trăm, một chục, năm đơn vị là 4315.|4305;4351;4135
+Bốn nhãn 8010, 8020, 8030, 8040 tăng đều. Nhãn ngay sau đó là số nào?|8050|Mỗi nhãn tăng một chục; sau 8040 là 8050.|8041;8140;8005
+Đổi một thẻ nghìn thành các thẻ trăm cùng giá trị. Cần bao nhiêu thẻ trăm?|10|Một nghìn bằng mười trăm.|100;1;1000
+Trong các số 4072, 4702, 4720, số nào có 0 trăm và 7 chục?|4072|4072 có hàng trăm 0, hàng chục 7; hai số kia có 7 trăm.|4702;4720;4027
+Máy in đã in vé 9997. In tiếp đúng ba vé liên tiếp thì vé cuối mang số nào?|10000|Ba vé tiếp là 9998, 9999, 10000.|9999;10001;9998
+Lập số có bốn chữ số khác nhau từ 0, 2, 6, 9, mỗi thẻ dùng một lần; hàng nghìn là 6 và hàng đơn vị là 0. Số lớn nhất là số nào?|6920|Hai hàng giữa dùng 9 rồi 2 để số lớn nhất.|6290;6902;9620
+Một số có 3 nghìn, 15 chục, không có đơn vị lẻ. Viết số đó.|3150|Mười lăm chục là 150; ghép với 3000 được 3150.|3015;3510;3500
+Bài 46
+Điền dấu vào chỗ trống: 4521 ... 3521.|>|Hàng nghìn 4 lớn hơn 3.|<;=;không đủ dữ kiện
+Điền dấu: 7082 ... 7802.|<|Hàng nghìn bằng nhau; hàng trăm 0 bé hơn 8.|>;=;không đủ dữ kiện
+Điền dấu: 6194 ... 6194.|=|Bốn chữ số tương ứng đều bằng nhau.|>;<;không đủ dữ kiện
+Số nào lớn hơn: 998 hay 1002?|1002|Số có bốn chữ số lớn hơn số có ba chữ số.|998;999;1000
+Số lớn nhất trong 8030, 8300, 8003 là số nào?|8300|Cùng 8 nghìn, số 8300 có hàng trăm lớn nhất.|8030;8003;8000
+Số bé nhất trong 2910, 2901, 2190 là số nào?|2190|Cùng 2 nghìn, hàng trăm 1 bé hơn 9.|2910;2901;2991
+Điền dấu: 9999 ... 10000.|<|10000 có năm chữ số; 9999 có bốn chữ số.|>;=;không đủ dữ kiện
+So sánh 4326 và 4329: số nào bé hơn?|4326|Ba hàng đầu bằng nhau; 6 đơn vị bé hơn 9 đơn vị.|4329;4392;4293
+Số lớn nhất có bốn chữ số là số nào?|9999|Mỗi hàng đều lấy chữ số lớn nhất 9.|10000;9000;999
+Số bé nhất có bốn chữ số khác nhau là số nào?|1023|Chọn 1 ở đầu, rồi 0, 2, 3 để nhỏ nhất và không trùng chữ số.|1000;1230;0123
+Hai số 5708 và 5710 khác nhau đầu tiên ở hàng nào khi xét từ trái sang phải?|chục|Nghìn và trăm bằng nhau; hàng chục 0 và 1 khác nhau.|nghìn;trăm;đơn vị
+Điền dấu: 3040 ... 3000 + 40.|=|Vế phải biểu diễn đúng ba nghìn và bốn chục.|>;<;không đủ dữ kiện
+Bạn so sánh 900 và 1200 bằng chữ số đầu rồi chọn 900 lớn hơn. Số thực sự lớn hơn là gì?|1200|Cần so số chữ số trước; 1200 có bốn chữ số còn 900 có ba.|900;9000;100
+Sắp xếp tăng dần 6201, 6210, 6021. Số ở giữa là số nào?|6201|Thứ tự đúng: 6021, 6201, 6210.|6021;6210;6120
+Điền chữ số lớn nhất vào 4?35 để số đó bé hơn 4535.|4|Cùng hàng nghìn; hàng trăm phải nhỏ hơn 5, lớn nhất là 4 vì các hàng sau giống nhau.|5;9;0
+Điền chữ số nhỏ nhất vào 6?09 để số đó lớn hơn 6709.|8|Hàng trăm phải lớn hơn 7; nhỏ nhất là 8.|7;0;9
+Trong 4444, 4404, 4044, số nào gần 4000 nhất mà vẫn lớn hơn 4000?|4044|4044 nhỏ nhất trong ba số lớn hơn 4000 nên gần 4000 nhất.|4404;4444;4000
+Sắp xếp giảm dần 9120, 9210, 9201. Số đứng cuối là số nào?|9120|Hàng trăm 1 bé hơn 2 nên 9120 nhỏ nhất.|9210;9201;9102
+Hai số đều có hàng nghìn 3, hàng trăm 8, hàng chục 5. Số có đơn vị 2 hay 7 lớn hơn? Viết số lớn hơn.|3857|Chỉ khác hàng đơn vị; 7 lớn hơn 2.|3852;3875;3587
+Số bé nhất có bốn chữ số giống nhau là số nào?|1111|Không thể bắt đầu bằng 0; chọn chữ số 1 cho cả bốn hàng.|0000;1000;9999
+Ba bể chứa lần lượt 2405 l, 2450 l và 2045 l. Bể nhiều nước nhất có bao nhiêu lít?|2450|Cùng 2 nghìn, so trăm rồi chục; 2450 lớn nhất.|2405;2045;2504
+Ba tuyến đường dài 3180 m, 3081 m và 3108 m. Tuyến ngắn nhất dài bao nhiêu mét?|3081|Hàng trăm 0 nhỏ hơn 1 nên 3081 nhỏ nhất.|3180;3108;3801
+Bình có 5070 điểm, An có 5700 điểm, Chi có 5007 điểm. Người đứng thứ hai có bao nhiêu điểm?|5070|Thứ tự giảm dần là 5700, 5070, 5007.|5700;5007;5750
+Cần chọn túi nhẹ hơn 3200 g trong hai túi 3199 g và 3299 g. Khối lượng túi phù hợp là bao nhiêu gam?|3199|3199 bé hơn 3200; 3299 lớn hơn 3200.|3299;3200;3300
+Két chỉ nhận mã lớn hơn 8200 và bé hơn 8210. Trong 8199, 8206, 8210, mã nào hợp lệ?|8206|8206 nằm trong khoảng mở; hai số còn lại không thỏa.|8199;8210;8200
+Dùng mỗi thẻ 0, 4, 6, 8 một lần để tạo số bốn chữ số lớn nhất.|8640|Xếp các thẻ giảm dần từ trái sang phải.|8460;8604;8046
+Dùng mỗi thẻ 0, 1, 7, 9 một lần để tạo số bốn chữ số bé nhất.|1079|Đặt 1 trước 0 để có bốn chữ số, rồi 7 và 9.|0179;1097;1709
+Hai lớp thu gom 3560 và 3650 vỏ hộp. Lớp nào thu nhiều hơn? Ghi số vỏ hộp lớn hơn.|3650|Cùng 3 nghìn; hàng trăm 6 lớn hơn 5.|3560;3506;3605
+Một cuộc thi xếp điểm tăng dần 6998, 7000, ?, 7005. Trong 6999, 7003, 7006, số nào điền đúng?|7003|7003 lớn hơn 7000 và bé hơn 7005.|6999;7006;6998
+Bốn kiện hàng nặng 4512 g, 4521 g, 4152 g, 4251 g. Chuyển từ nặng đến nhẹ, kiện cuối nặng bao nhiêu gam?|4152|4152 có hàng trăm nhỏ nhất nên nhẹ nhất.|4512;4521;4251
+Có bao nhiêu số nguyên lớn hơn 4997 và bé hơn 5001?|3|Các số là 4998, 4999, 5000.|2;4;1
+Đội A đọc 2008 trang, đội B đọc 2080 trang. Đội C đọc nhiều hơn A nhưng ít hơn B. Trong 2000, 2050, 2088, đội C có thể đọc bao nhiêu trang?|2050|2008 bé hơn 2050 và 2050 bé hơn 2080.|2000;2088;2080
+Một máy cần số bốn chữ số lớn hơn 9998. Số duy nhất máy nhận là số nào?|9999|10000 đã có năm chữ số; chỉ còn 9999.|9998;10000;9989
+Tìm chữ số lớn nhất để 73?2 bé hơn 7351.|4|Nếu hàng chục là 5 thì 7352 lớn hơn 7351; vì vậy lớn nhất là 4.|5;6;9
+Tìm chữ số nhỏ nhất để 42?8 lớn hơn 4269.|7|Hàng chục 6 cho 4268 vẫn nhỏ; chọn 7 là nhỏ nhất phù hợp.|6;8;0
+Bảng xếp hạng ghi giảm dần: 8012, 8102, 8002. Số nào phải chuyển lên đầu để sửa đúng?|8102|8102 lớn nhất; thứ tự đúng là 8102, 8012, 8002.|8012;8002;8021
+Một phòng chỉ chứa được tối đa 1500 hộp. Chọn lô nhiều hộp nhất nhưng vẫn vừa phòng: 1498, 1500, 1502.|1500|Tối đa cho phép bằng 1500; lô 1502 vượt sức chứa.|1498;1502;1499
+Có ba số 6080, 6008, 6800. Đọc từ bé đến lớn thì số thứ hai là số nào?|6080|6008 bé hơn 6080, và 6080 bé hơn 6800.|6008;6800;6088
+Hai tấm thẻ ghi 4709 và 4790. Đổi chỗ chữ số chục và đơn vị trên thẻ bé hơn thì thẻ đó ghi số nào?|4790|Thẻ bé hơn là 4709; đổi 0 với 9 được 4790, bằng thẻ kia.|4709;4907;4079
+Chọn số lớn nhất đồng thời bé hơn 6000: 5999, 6000, 6001, 5909.|5999|Trong các số nhỏ hơn 6000, 5999 lớn hơn 5909.|6000;6001;5909
+Bài 47
+Chữ số La Mã I biểu thị số mấy?|1|I biểu thị một.|5;10;2
+Chữ số La Mã V biểu thị số mấy?|5|V biểu thị năm.|1;10;4
+Chữ số La Mã X biểu thị số mấy?|10|X biểu thị mười.|5;9;20
+Số III được đọc là số mấy?|3|Ba chữ I ghép lại biểu thị ba.|2;4;8
+Số IV biểu thị số mấy?|4|I đứng trước V trong IV biểu thị bốn.|6;5;9
+Số VI biểu thị số mấy?|6|V rồi I biểu thị năm thêm một, được sáu.|4;7;9
+Viết số 9 bằng chữ số La Mã.|IX|IX là cách viết chuẩn của số chín.|XI;IV;VIIII
+Số XII biểu thị số mấy?|12|X là mười, II là hai; ghép thành mười hai.|11;13;20
+Viết số 20 bằng chữ số La Mã.|XX|Hai chữ X biểu thị hai chục.|XII;XV;IIX
+Số XVIII biểu thị số mấy?|18|X biểu thị mười, VIII biểu thị tám; đó là mười tám.|17;13;19
+Trong IV và VI, số nào lớn hơn? Ghi bằng La Mã.|VI|VI là 6 còn IV là 4, nên VI lớn hơn.|IV;V;IX
+Số nào đứng ngay sau XIV trong dãy số La Mã tăng từng đơn vị?|XV|XIV là 14; tiếp theo 15 viết XV.|XIII;XVI;XIX
+Số ngay trước XIX được viết thế nào bằng La Mã?|XVIII|XIX là 19; số liền trước 18 viết XVIII.|XX;XVII;XIV
+Trong XI và IX, số nào nhỏ hơn? Ghi bằng La Mã.|IX|XI là 11 còn IX là 9.|XI;X;XII
+Sắp xếp VII, IV, IX tăng dần. Số ở giữa viết bằng La Mã là gì?|VII|Các giá trị tương ứng 7, 4, 9; thứ tự IV, VII, IX.|IV;IX;VI
+Một bạn viết số 14 thành XVI. Cách viết đúng là gì?|XIV|XIV là 14, còn XVI là 16; vị trí I rất quan trọng.|XVI;XIIII;IXV
+Một chữ I cần 1 que, V cần 2 que, X cần 2 que. Xếp số VII cần mấy que?|4|V cần hai que, hai I cần hai que nữa, tổng bốn.|3;5;7
+Với quy ước I dùng 1 que, V và X mỗi chữ dùng 2 que, xếp XIII cần mấy que?|5|X dùng hai que, III dùng ba que, tổng năm.|4;6;13
+Đồng hồ ghi giờ bằng La Mã. Vị trí đối diện XII là số nào?|VI|XII ở trên cùng, VI ở dưới cùng, đối diện nhau.|III;IX;XI
+Mặt đồng hồ có kim phút ở XII và kim giờ ở IV. Đồng hồ chỉ mấy giờ đúng?|4|Kim phút ở XII chỉ phút 0; kim giờ ở IV chỉ 4 giờ.|6;9;12
+Sách có các mục I, II, III, IV. Mục tiếp theo phải ghi thế nào?|V|Sau mục 4 là mục 5, viết V.|VI;IIII;IX
+Đội em nhận thẻ XVII, đội bạn nhận thẻ XV. Thẻ đội em lớn hơn mấy đơn vị?|2|XVII là 17 và XV là 15; chênh nhau hai đơn vị.|1;3;5
+Có 8 ngăn tủ đánh số La Mã từ I. Ngăn cuối ghi gì?|VIII|Ngăn thứ tám mang số VIII.|VII;IX;XIII
+Nam đọc nhầm XI thành 9. Viết bằng La Mã số mà Nam định đọc.|IX|Số 9 viết IX; XI thực ra là 11.|XI;IV;VI
+Rạp có các hàng XII, XIII, XIV, XV. Hàng thứ ba trong danh sách mang số mấy theo chữ số thông thường?|14|Hàng thứ ba là XIV, tương ứng 14.|12;13;15
+Trò chơi yêu cầu chọn thẻ từ 10 đến 15, kể cả hai đầu. Trong IX, XIV, XVI, thẻ nào phù hợp?|XIV|XIV là 14 nằm trong khoảng; IX là 9, XVI là 16 ở ngoài.|IX;XVI;XVII
+Các ô đường đi ghi XVI, XVII, ?, XIX, XX. Ô trống ghi La Mã nào?|XVIII|Dãy tăng từ 16 đến 20, ô thiếu là 18.|XIV;XV;XXI
+Bình có thẻ VIII, An có thẻ XI. Cộng giá trị hai thẻ rồi viết kết quả bằng La Mã.|XIX|Giá trị hai thẻ là 8 và 11; tổng 19 viết XIX.|XVII;XVIII;XX
+Từ thẻ XX bớt giá trị thẻ V. Viết kết quả bằng La Mã.|XV|Hai mươi bớt năm còn mười lăm, viết XV.|XIV;XVI;XIX
+Mỗi chữ I dùng 1 que; V và X mỗi chữ dùng 2 que. Xếp đồng thời IV và VI cần tổng mấy que?|6|Mỗi số dùng ba que; hai số cần sáu que.|4;5;8
+Mỗi chữ I dùng 1 que; V và X mỗi chữ dùng 2 que. Có 7 que, xếp XVIII xong còn mấy que?|0|XVIII cần 2 que cho X, 2 cho V, 3 cho III, đủ 7 que.|1;2;3
+Một tấm biển ghi X, tấm tiếp theo phải tăng thêm 4. Tấm tiếp theo viết La Mã nào?|XIV|Mười thêm bốn được mười bốn, viết XIV.|XVI;IX;XV
+Đồng hồ trong hình minh họa có kim phút xanh ở XII, kim giờ đỏ ở VII. Đồng hồ chỉ mấy giờ đúng?|7|Kim dài ở XII chỉ phút 0, kim ngắn ở VII chỉ 7 giờ.|5;8;12
+Trên đồng hồ La Mã, từ III đi theo chiều kim đồng hồ ba vị trí giờ, dừng ở số nào?|VI|Đi qua IV, V rồi đến VI.|V;VII;IX
+Buổi tập bắt đầu lúc VIII giờ sáng và kết thúc lúc X giờ sáng cùng ngày. Tập kéo dài mấy giờ?|2|VIII là 8, X là 10; từ 8 đến 10 là hai giờ.|1;3;4
+Thẻ số sau khi thêm I vào bên phải X trở thành số mấy theo chữ số thông thường?|11|XI biểu thị 11; khác với IX là 9.|9;10;12
+Bảng tên có hai số XIV và XIX. Số lớn hơn được viết bằng chữ số thông thường là bao nhiêu?|19|XIV là 14, XIX là 19; 19 lớn hơn.|14;16;9
+Một bạn dùng VVV để ghi 15. Viết lại 15 theo cách La Mã đã học.|XV|Mười lăm viết XV; không lặp V ba lần.|VVV;XIV;XVI
+Đội tìm kho báu cần thẻ lớn hơn XVI nhưng bé hơn XVIII. Thẻ duy nhất phải tìm là gì?|XVII|Giữa 16 và 18 chỉ có 17, viết XVII.|XV;XVI;XIX
+Trong các thẻ II, IV, VI, VIII, X, có bao nhiêu thẻ biểu thị số lớn hơn 5?|3|VI, VIII và X lần lượt là 6, 8, 10; có ba thẻ.|2;4;5
+Bài 48
+Làm tròn 324 đến hàng chục được số nào?|320|Chữ số đơn vị 4 bé hơn 5 nên làm tròn xuống.|330;300;324
+Làm tròn 687 đến hàng chục.|690|Chữ số đơn vị 7 lớn hơn 5 nên làm tròn lên.|680;700;687
+Làm tròn 145 đến hàng chục được số nào?|150|Chữ số đơn vị bằng 5 nên làm tròn lên.|140;100;145
+Làm tròn 230 đến hàng chục.|230|Số đã tròn chục thì giữ nguyên.|200;240;300
+Làm tròn 4216 đến hàng trăm được số nào?|4200|Chữ số hàng chục là 1 bé hơn 5.|4300;4220;4210
+Làm tròn 4762 đến hàng trăm.|4800|Hàng chục là 6 nên làm tròn lên.|4700;4760;5000
+Làm tròn 2350 đến hàng trăm được số nào?|2400|Hàng chục bằng 5 nên làm tròn lên.|2300;2350;2360
+Làm tròn 8100 đến hàng trăm.|8100|8100 đã là số tròn trăm.|8000;8200;8110
+Muốn làm tròn đến hàng chục, cần xét chữ số ở hàng nào?|đơn vị|So chữ số hàng đơn vị với 5 để quyết định làm tròn.|nghìn;trăm;chục
+Muốn làm tròn đến hàng trăm, cần xét chữ số ở hàng nào?|chục|So hàng chục với 5, rồi viết hàng chục và đơn vị thành 0.|đơn vị;trăm;nghìn
+Vì sao 2541 làm tròn đến hàng trăm được 2500? Ghi chữ số quyết định.|4|Hàng chục là 4 bé hơn 5 nên làm tròn xuống.|1;5;2
+Số 3685 làm tròn đến chục và đến trăm có cùng kết quả không? Trả lời “có” hoặc “không”.|không|Đến chục được 3690, đến trăm được 3700, hai kết quả khác nhau.|có;3685;3700
+Làm tròn 2998 đến hàng chục được số nào?|3000|Hàng đơn vị là 8; chục tiếp theo sau 2990 là 3000.|2990;2900;3010
+Làm tròn 9950 đến hàng trăm.|10000|Hàng chục bằng 5, tăng từ 9900 lên 10000.|9900;9950;1000
+Trong 542 và 548, số nào làm tròn đến chục được 550?|548|548 có đơn vị 8 nên lên 550; 542 xuống 540.|542;540;552
+Trong 6149 và 6150, số nào làm tròn đến trăm được 6200?|6150|6150 có hàng chục 5 nên lên 6200; 6149 xuống 6100.|6149;6100;6049
+Bạn làm tròn 834 đến hàng trăm thành 830. Kết quả đúng là bao nhiêu?|800|830 là kết quả đến chục; đến trăm phải xét hàng chục 3 và được 800.|830;900;840
+Số 1260 đã tròn chục. Khi làm tròn đến trăm, được số nào?|1300|Hàng chục là 6 nên tăng hàng trăm, được 1300.|1260;1200;1270
+Số nào nằm đúng giữa 450 và 460?|455|455 cách mỗi số tròn chục 5 đơn vị; khi làm tròn đến chục được 460.|454;456;450
+Số nào nằm đúng giữa 7200 và 7300?|7250|7250 cách mỗi đầu 50 đơn vị; quy tắc làm tròn đến trăm chọn 7300.|7205;7240;7260
+Vườn có 1236 cây. Báo cáo làm tròn đến chục ghi khoảng bao nhiêu cây?|1240|Hàng đơn vị 6 nên làm tròn lên 1240.|1230;1200;1300
+Đường đi dài 3478 m. Làm tròn đến trăm để giới thiệu, viết khoảng bao nhiêu mét?|3500|Hàng chục 7 nên tăng từ 3400 lên 3500.|3400;3480;3000
+Thư viện có 5624 cuốn. Bạn nói khoảng 5620 cuốn. Bạn đã làm tròn đến hàng nào?|chục|Đến chục được 5620 vì đơn vị 4; đến trăm sẽ là 5600.|trăm;nghìn;đơn vị
+Một trại có 6831 con gà. Làm tròn đến trăm được bao nhiêu con?|6800|Hàng chục 3 bé hơn 5 nên xuống 6800.|6900;6830;6840
+Tìm số nhỏ nhất có ba chữ số làm tròn đến hàng chục được 270.|265|265 là điểm giữa 260 và 270, đã được làm tròn lên 270; 264 xuống 260.|264;260;270
+Tìm số lớn nhất làm tròn đến hàng chục được 480.|484|Các số từ 475 đến 484 làm tròn được 480; 485 lên 490.|485;489;479
+Tìm số nhỏ nhất làm tròn đến hàng trăm được 3600.|3550|Từ 3550 bắt đầu làm tròn lên 3600; 3549 vẫn xuống 3500.|3500;3549;3600
+Tìm số lớn nhất làm tròn đến hàng trăm được 9100.|9149|9149 có hàng chục 4 nên xuống 9100; 9150 lên 9200.|9150;9199;9099
+Hai lớp có 234 và 236 học sinh tham gia một ngày hội giả định. Làm tròn từng số đến chục rồi cộng, được bao nhiêu?|470|234 xuống 230, 236 lên 240; 230 + 240 = 470.|460;480;500
+Một bạn làm tròn 1449 đến chục trước rồi làm tròn kết quả đến trăm, được 1500. Nếu làm tròn trực tiếp 1449 đến trăm, được bao nhiêu?|1400|Làm trực tiếp phải xét hàng chục 4, không lấy kết quả trung gian 1450.|1500;1450;1440
+Trong 2004, 2005, 2049, số nào khi làm tròn đến chục vẫn bằng 2000?|2004|Đơn vị 4 làm xuống 2000; hai số kia thành 2010 và 2050.|2005;2049;2050
+Máy làm tròn đến trăm biến 7182 thành 7200. Đưa 7437 vào cùng máy được số nào?|7400|Hàng chục của 7437 là 3 bé hơn 5 nên xuống 7400.|7440;7500;7430
+Một xe chạy 4996 m. Làm tròn đến chục và đến trăm đều được số nào?|5000|Đến chục tăng qua 4990 thành 5000; đến trăm cũng tăng thành 5000.|4990;4900;5100
+Ghi số nguyên nhỏ nhất lớn hơn 6500 mà làm tròn đến trăm vẫn được 6500.|6501|6501 lớn hơn 6500 và hàng chục bằng 0; đó là số đầu tiên thỏa mãn.|6500;6550;6600
+Cửa hàng bán 2873 tấm thiệp. Hai bạn báo khoảng 2870 và 2900 tấm. Số nào là kết quả làm tròn đến trăm?|2900|Đến trăm xét chữ số chục 7 nên làm lên 2900.|2870;2800;2880
+Số bí mật là 38?4. Điền chữ số nhỏ nhất vào dấu hỏi để làm tròn số đến trăm được 3900.|5|Hàng chục từ 5 trở lên mới làm tròn lên 3900; nhỏ nhất là 5.|4;0;9
+Số bí mật là 52?9. Điền chữ số lớn nhất vào dấu hỏi để làm tròn đến trăm được 5200.|4|Hàng chục nhỏ hơn 5 mới làm tròn xuống; lớn nhất là 4.|5;9;8
+Một báo cáo ghi 7300 khi làm tròn đến trăm. Trong 7249, 7250, 7350, số thực tế có thể là số nào?|7250|7250 làm lên 7300; 7249 xuống 7200 và 7350 lên 7400.|7249;7350;7400
+Có 195 vé. Làm tròn số vé đến chục để ước lượng được bao nhiêu vé?|200|Đơn vị là 5 nên lên chục kế tiếp 200; đây là số ước lượng.|190;195;100
+Một kho có 3872 kg gạo. Biển ước lượng đến trăm ghi 3900 kg. Biển này nhiều hơn số thực tế bao nhiêu ki-lô-gam?|28|Từ 3872 đến 3900 chênh 28 kg; số làm tròn không phải lượng chính xác.|72;128;100

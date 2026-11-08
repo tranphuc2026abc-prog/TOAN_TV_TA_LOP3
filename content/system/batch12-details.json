@@ -1,0 +1,212 @@
+[
+  {
+    "topic": "Cấu tạo thập phân trong phạm vi 10000",
+    "objectives": [
+      "Đọc, viết số có bốn chữ số, kể cả số có chữ số 0 ở giữa.",
+      "Phân biệt chữ số với giá trị của chữ số theo hàng.",
+      "Đếm tiếp, đếm lùi và vận dụng cấu tạo số trong tình huống thực tế."
+    ],
+    "intro": "Mỗi chữ số có một vị trí. Trong 5824, chữ số 5 chỉ năm nghìn, 8 chỉ tám trăm, 2 chỉ hai chục và 4 chỉ bốn đơn vị. Chữ số 0 giữ chỗ khi một hàng không có đơn vị nào.",
+    "rules": [
+      "Các hàng từ trái sang phải: nghìn, trăm, chục, đơn vị.",
+      "Một nghìn bằng mười trăm; một trăm bằng mười chục; một chục bằng mười đơn vị.",
+      "10000 đọc là mười nghìn, có năm chữ số và bằng mười nhóm một nghìn.",
+      "Khi đếm qua 999, 1999, ... cần chuyển sang nghìn tiếp theo."
+    ],
+    "steps": [
+      "Xác định từng hàng; có thể kẻ bảng bốn cột.",
+      "Điền đủ chữ số cho mỗi hàng, dùng 0 để giữ chỗ.",
+      "Đọc hoặc phân tích số rồi đối chiếu lại với dữ kiện."
+    ],
+    "errors": [
+      "Bỏ 0 ở giữa làm thay đổi giá trị của số.",
+      "Nhầm chữ số hàng chục với tổng số chục trong một số.",
+      "Cho 0 đứng đầu khi lập một số có bốn chữ số."
+    ],
+    "examples": [
+      [
+        "Viết số có 5 nghìn, 8 trăm, 2 chục và 4 đơn vị.",
+        [
+          "Ghi bốn chữ số theo thứ tự hàng: 5, 8, 2, 4.",
+          "Số cần viết là 5824; đọc năm nghìn tám trăm hai mươi tư."
+        ]
+      ],
+      [
+        "Có 4 nghìn và 7 đơn vị, không có trăm và chục. Viết số.",
+        [
+          "Giữ hai vị trí giữa bằng chữ số 0.",
+          "Viết 4007, đọc bốn nghìn không trăm linh bảy."
+        ]
+      ]
+    ],
+    "game": [
+      "Kho báu bốn chữ số",
+      "Đọc đúng cấu tạo và giải quyết các nhiệm vụ số trong phạm vi 10000."
+    ],
+    "mode": "treasure"
+  },
+  {
+    "topic": "So sánh và sắp thứ tự số trong phạm vi 10000",
+    "objectives": [
+      "Dùng đúng dấu lớn hơn, bé hơn và bằng.",
+      "So sánh theo số chữ số rồi theo hàng từ trái sang phải.",
+      "Chọn giá trị phù hợp giới hạn và sắp xếp dữ liệu."
+    ],
+    "intro": "So sánh giống như tìm điểm khác nhau đầu tiên. Trước hết đếm chữ số. Với hai số cùng có bốn chữ số, xét hàng nghìn trước, rồi đến trăm, chục, đơn vị.",
+    "rules": [
+      "Số có ít chữ số hơn thì bé hơn khi viết ở dạng thông thường không có 0 ở đầu.",
+      "Với cùng số chữ số, hàng đầu tiên khác nhau từ trái sang phải quyết định số lớn hơn.",
+      "Nếu mọi hàng tương ứng bằng nhau, hai số bằng nhau.",
+      "Tăng dần là từ bé đến lớn; giảm dần là từ lớn đến bé."
+    ],
+    "steps": [
+      "Kiểm tra số chữ số của mỗi số.",
+      "Nếu bằng nhau, so lần lượt các hàng từ trái sang phải.",
+      "Dừng ở hàng đầu tiên khác nhau, chọn dấu và đọc lại cả câu so sánh.",
+      "Với nhiều số, tìm nhỏ nhất hoặc lớn nhất trước rồi tiếp tục phần còn lại."
+    ],
+    "errors": [
+      "Chỉ nhìn hàng đơn vị rồi kết luận.",
+      "Quên xét số chữ số trước khi so các chữ số đầu.",
+      "Nhầm điều kiện bé hơn với bé hơn hoặc bằng trong bài giới hạn."
+    ],
+    "examples": [
+      [
+        "So sánh 6814 và 6841.",
+        [
+          "Hàng nghìn cùng 6, hàng trăm cùng 8.",
+          "Hàng chục 1 bé hơn 4 nên 6814 < 6841."
+        ]
+      ],
+      [
+        "Xếp 5072, 5027, 5207 tăng dần.",
+        [
+          "Cùng hàng nghìn 5; 5207 có hàng trăm lớn hơn hai số kia.",
+          "So 5027 và 5072 ở hàng chục: 2 bé hơn 7.",
+          "Thứ tự: 5027, 5072, 5207."
+        ]
+      ]
+    ],
+    "game": [
+      "Trọng tài so sánh",
+      "Kiểm chứng kết quả và đọc lời giải để tìm hàng quyết định."
+    ],
+    "mode": "tf"
+  },
+  {
+    "topic": "Đọc, viết chữ số La Mã từ I đến XX",
+    "objectives": [
+      "Nhận biết I, V, X và đọc viết các số từ 1 đến 20.",
+      "Phân biệt IV với VI, IX với XI, XIV với XVI.",
+      "Vận dụng đọc mục sách, nhãn tủ và đồng hồ ghi La Mã."
+    ],
+    "intro": "Số La Mã dùng những kí hiệu như I, V, X. Ta học các cách viết chuẩn từ 1 đến 20. Vị trí kí hiệu rất quan trọng: IV là 4 nhưng VI là 6; IX là 9 nhưng XI là 11.",
+    "rules": [
+      "I = 1; V = 5; X = 10.",
+      "Từ 1 đến 10: I, II, III, IV, V, VI, VII, VIII, IX, X.",
+      "Từ 11 đến 20: XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX.",
+      "Dùng IV cho 4 và IX cho 9; không tùy ý lặp V hoặc đổi thứ tự kí hiệu.",
+      "Trên đồng hồ, XII ở trên, III bên phải, VI dưới, IX bên trái."
+    ],
+    "steps": [
+      "Tách phần chục X nếu có, nhận biết phần còn lại theo bảng.",
+      "Đọc giá trị rồi kiểm tra vị trí I trước hoặc sau V, X.",
+      "Khi viết, đối chiếu bảng từ 1 đến 20.",
+      "Đọc đồng hồ giờ đúng: kim phút ở XII, kim giờ chỉ vị trí giờ."
+    ],
+    "errors": [
+      "Đọc IV thành 6 hoặc IX thành 11.",
+      "Viết số 15 bằng VVV thay vì XV.",
+      "Đếm số kí tự rồi coi đó là giá trị của số."
+    ],
+    "examples": [
+      [
+        "XIV và XVI có giá trị bao nhiêu?",
+        [
+          "XIV gồm X và IV, là 14.",
+          "XVI gồm X và VI, là 16.",
+          "Vị trí của I tạo ra hai giá trị khác nhau."
+        ]
+      ],
+      [
+        "I cần 1 que, V và X mỗi chữ cần 2 que. Xếp XVII dùng mấy que?",
+        [
+          "X dùng 2 que, V dùng 2 que, II dùng 2 que.",
+          "Cần 2 + 2 + 2 = 6 que."
+        ]
+      ]
+    ],
+    "game": [
+      "Ghép thẻ La Mã",
+      "Ghép câu hỏi với giá trị hoặc cách viết chính xác; mỗi lượt có năm đáp án khác nhau."
+    ],
+    "mode": "match",
+    "activities": [
+      {
+        "title": "Xếp thẻ từ I đến XX",
+        "materials": [
+          "que tính",
+          "giấy ghi số từ 1 đến 20"
+        ],
+        "steps": [
+          "Chọn một thẻ số rồi dùng que xếp cách viết La Mã.",
+          "Đổi vai để bạn đọc số vừa xếp.",
+          "Đối chiếu bảng; đặc biệt kiểm tra IV, IX, XIV, XIX."
+        ],
+        "check": [
+          "Em phân biệt được IV và VI.",
+          "Em giải thích được vì sao IX khác XI."
+        ]
+      }
+    ]
+  },
+  {
+    "topic": "Làm tròn đến hàng chục và hàng trăm",
+    "objectives": [
+      "Làm tròn đến chục bằng cách xét hàng đơn vị.",
+      "Làm tròn đến trăm bằng cách xét hàng chục.",
+      "Dùng số làm tròn để ước lượng, phân biệt với số chính xác."
+    ],
+    "intro": "Làm tròn giúp nói một số gần đúng, dễ nhớ. Ta chọn số tròn chục hoặc tròn trăm gần với số ban đầu. Nếu ở đúng giữa hai mốc thì chọn mốc lớn hơn.",
+    "rules": [
+      "Đến chục: xét đơn vị; 0 đến 4 làm xuống, 5 đến 9 làm lên; kết quả tận cùng bằng 0.",
+      "Đến trăm: xét hàng chục; 0 đến 4 làm xuống, 5 đến 9 làm lên; kết quả tận cùng bằng 00.",
+      "Số đã tròn ở hàng cần làm tròn được giữ nguyên.",
+      "Làm tròn trực tiếp đến hàng được hỏi; không tự làm tròn qua một hàng trung gian.",
+      "Từ “khoảng” biểu thị ước lượng; không dùng số ước lượng thay số chính xác khi đếm đồ vật."
+    ],
+    "steps": [
+      "Đọc rõ yêu cầu làm tròn đến chục hay trăm.",
+      "Xác định hàng cần xét: đơn vị hoặc chục.",
+      "So với 5, giữ hoặc tăng phần bên trái, thay phần bên phải bằng 0.",
+      "Kiểm tra số mới là tròn chục hoặc tròn trăm và hợp lí với số ban đầu."
+    ],
+    "errors": [
+      "Làm tròn đến trăm nhưng lại nhìn hàng đơn vị.",
+      "Gặp chữ số 5 vẫn làm tròn xuống.",
+      "Quên chuyển sang nghìn kế tiếp khi tăng qua 999 hoặc 9999.",
+      "Làm tròn hai lần có thể cho kết quả khác làm tròn trực tiếp."
+    ],
+    "examples": [
+      [
+        "Làm tròn 4637 đến chục và đến trăm.",
+        [
+          "Đến chục: đơn vị 7 nên làm lên 4640.",
+          "Đến trăm: hàng chục 3 nên làm xuống 4600."
+        ]
+      ],
+      [
+        "Làm tròn 2849 trực tiếp đến trăm.",
+        [
+          "Hàng chục là 4 nên giữ 28 trăm.",
+          "Kết quả là 2800; không làm tròn trước thành 2850."
+        ]
+      ]
+    ],
+    "game": [
+      "Máy làm tròn nhanh",
+      "Chọn đúng hàng cần xét và kết quả trong thời gian của lượt chơi."
+    ],
+    "mode": "speed"
+  }
+]

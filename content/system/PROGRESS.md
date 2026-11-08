@@ -1,3 +1,13 @@
+# Batch 12 đã tích hợp — 08/11/2026
+
+Toán tập 2 Bài 45–48: 4 JSON, 4 Markdown, 160 câu mới (mỗi bài 10 nhận biết/10 thông hiểu/20 vận dụng), 4 trò chơi, 1 SVG đồng hồ La Mã tự dựng đã render và xem. Đã đọc trực quan trang in 4–16 (PDF 5–17) bản nguồn sẵn có; chưa đối chiếu hash với PDF trong repo. Chủ đề: cấu tạo số có bốn chữ số và 10000; so sánh; La Mã I–XX; làm tròn đến chục/trăm. Không sao chép toàn văn hay hệ thống bài tập sách.
+
+Kiểm tra validate_site.py/validate_content.py, hồi quy Batch 7–9 và Batch 12, test_content_dom.cjs trên 48 bài đều đạt: 1920 câu, lượt 10 câu 3/3/4, bốn chế độ trò chơi, đáp án/lời giải/hình, lưu/nạp wl3 và fallback. Hồi quy mới tính độc lập chuyển hàng, thứ tự, La Mã và biên làm tròn. Chưa kiểm thử Chromium thật; kiểm tra đẳng thức tự động chưa bao quát đầy đủ biểu thức có ngoặc. Không thay đổi index.html, loader hay khóa wl3.
+
+Tổng: AI đã biên soạn/kiểm tra và tích hợp 48/168 mục, 1920 câu, 48 trò chơi. Giáo viên đã duyệt 4 (Toán 1–4); 44 mục AI_CHECKED_AWAITING_TEACHER. Còn 120 mục: Toán 49–81 (33), Tiếng Việt 62, Tiếng Anh 25. Checkpoint tiếp Batch 13 Toán 49–52; đọc nguồn tập 2 tương ứng trước biên soạn, không tạo lại Batch 12. Actions/Pages của commit Batch 11 trước lượt này đã thành công; commit Batch 12 cần xác minh sau khi ghi.
+
+## Lịch sử
+
 # Batch 11 đã tích hợp — 08/11/2026
 
 Đã đóng gói Toán 41–44: 4 JSON/Markdown, 160 câu, 4 trò chơi, 2 SVG tự dựng Bài 43 đã render và xem. Nguồn trang in 113–121 đã đọc trực quan các lượt trước. Kiểm tra dữ liệu/cú pháp, hồi quy và DOM toàn bộ 44 bài đạt. Chưa kiểm thử Chromium thật; tự động kiểm tra đẳng thức chưa bao quát đầy đủ biểu thức ngoặc. Tổng 44/168 mục, 1760 câu, 44 trò chơi; giáo viên duyệt 4, chờ duyệt 40. Còn 124 mục: Toán tập 2 Bài 45–81 (37), Tiếng Việt 62, Tiếng Anh 25. Checkpoint tiếp Toán 45–48; đọc PDF tập 2 trước khi biên soạn. Mọi bài mới AI_CHECKED_AWAITING_TEACHER.

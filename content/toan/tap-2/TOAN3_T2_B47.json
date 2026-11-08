@@ -1,0 +1,815 @@
+{
+  "id": "TOAN3_T2_B47",
+  "subject": "toan",
+  "grade": 3,
+  "book": "Kết nối tri thức với cuộc sống",
+  "volume": 2,
+  "lesson_no": 47,
+  "title": "Làm quen với chữ số La Mã",
+  "topic": "Đọc, viết chữ số La Mã từ I đến XX",
+  "source": {
+    "pdf": "03-sgk-toan-3-tap-hai.pdf",
+    "printed_pages": [
+      12,
+      14
+    ],
+    "pdf_pages": [
+      13,
+      15
+    ],
+    "review": "Đã đọc trực quan toàn bộ trang nguồn cho bài này; nội dung và bài tập mới do AI biên soạn."
+  },
+  "objectives": [
+    "Nhận biết I, V, X và đọc viết các số từ 1 đến 20.",
+    "Phân biệt IV với VI, IX với XI, XIV với XVI.",
+    "Vận dụng đọc mục sách, nhãn tủ và đồng hồ ghi La Mã."
+  ],
+  "knowledge": {
+    "introduction": "Số La Mã dùng những kí hiệu như I, V, X. Ta học các cách viết chuẩn từ 1 đến 20. Vị trí kí hiệu rất quan trọng: IV là 4 nhưng VI là 6; IX là 9 nhưng XI là 11.",
+    "rules": [
+      "I = 1; V = 5; X = 10.",
+      "Từ 1 đến 10: I, II, III, IV, V, VI, VII, VIII, IX, X.",
+      "Từ 11 đến 20: XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX.",
+      "Dùng IV cho 4 và IX cho 9; không tùy ý lặp V hoặc đổi thứ tự kí hiệu.",
+      "Trên đồng hồ, XII ở trên, III bên phải, VI dưới, IX bên trái."
+    ],
+    "steps": [
+      "Tách phần chục X nếu có, nhận biết phần còn lại theo bảng.",
+      "Đọc giá trị rồi kiểm tra vị trí I trước hoặc sau V, X.",
+      "Khi viết, đối chiếu bảng từ 1 đến 20.",
+      "Đọc đồng hồ giờ đúng: kim phút ở XII, kim giờ chỉ vị trí giờ."
+    ],
+    "common_errors": [
+      "Đọc IV thành 6 hoặc IX thành 11.",
+      "Viết số 15 bằng VVV thay vì XV.",
+      "Đếm số kí tự rồi coi đó là giá trị của số."
+    ]
+  },
+  "examples": [
+    {
+      "question": "XIV và XVI có giá trị bao nhiêu?",
+      "steps": [
+        "XIV gồm X và IV, là 14.",
+        "XVI gồm X và VI, là 16.",
+        "Vị trí của I tạo ra hai giá trị khác nhau."
+      ]
+    },
+    {
+      "question": "I cần 1 que, V và X mỗi chữ cần 2 que. Xếp XVII dùng mấy que?",
+      "steps": [
+        "X dùng 2 que, V dùng 2 que, II dùng 2 que.",
+        "Cần 2 + 2 + 2 = 6 que."
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "question_id": "TOAN3_T2_B47_Q01",
+      "type": "mcq",
+      "question": "Chữ số La Mã I biểu thị số mấy?",
+      "options": [
+        "1",
+        "5",
+        "10",
+        "2"
+      ],
+      "correct_answer": "1",
+      "distractors": [
+        "5",
+        "10",
+        "2"
+      ],
+      "explanation": "I biểu thị một.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B47_Q02",
+      "type": "fill",
+      "question": "Chữ số La Mã V biểu thị số mấy?",
+      "correct_answer": "5",
+      "distractors": [
+        "1",
+        "10",
+        "4"
+      ],
+      "explanation": "V biểu thị năm.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B47_Q03",
+      "type": "mcq",
+      "question": "Chữ số La Mã X biểu thị số mấy?",
+      "options": [
+        "10",
+        "5",
+        "9",
+        "20"
+      ],
+      "correct_answer": "10",
+      "distractors": [
+        "5",
+        "9",
+        "20"
+      ],
+      "explanation": "X biểu thị mười.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B47_Q04",
+      "type": "fill",
+      "question": "Số III được đọc là số mấy?",
+      "correct_answer": "3",
+      "distractors": [
+        "2",
+        "4",
+        "8"
+      ],
+      "explanation": "Ba chữ I ghép lại biểu thị ba.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B47_Q05",
+      "type": "mcq",
+      "question": "Số IV biểu thị số mấy?",
+      "options": [
+        "4",
+        "6",
+        "5",
+        "9"
+      ],
+      "correct_answer": "4",
+      "distractors": [
+        "6",
+        "5",
+        "9"
+      ],
+      "explanation": "I đứng trước V trong IV biểu thị bốn.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B47_Q06",
+      "type": "fill",
+      "question": "Số VI biểu thị số mấy?",
+      "correct_answer": "6",
+      "distractors": [
+        "4",
+        "7",
+        "9"
+      ],
+      "explanation": "V rồi I biểu thị năm thêm một, được sáu.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B47_Q07",
+      "type": "mcq",
+      "question": "Viết số 9 bằng chữ số La Mã.",
+      "options": [
+        "IX",
+        "XI",
+        "IV",
+        "VIIII"
+      ],
+      "correct_answer": "IX",
+      "distractors": [
+        "XI",
+        "IV",
+        "VIIII"
+      ],
+      "explanation": "IX là cách viết chuẩn của số chín.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B47_Q08",
+      "type": "fill",
+      "question": "Số XII biểu thị số mấy?",
+      "correct_answer": "12",
+      "distractors": [
+        "11",
+        "13",
+        "20"
+      ],
+      "explanation": "X là mười, II là hai; ghép thành mười hai.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B47_Q09",
+      "type": "mcq",
+      "question": "Viết số 20 bằng chữ số La Mã.",
+      "options": [
+        "XX",
+        "XII",
+        "XV",
+        "IIX"
+      ],
+      "correct_answer": "XX",
+      "distractors": [
+        "XII",
+        "XV",
+        "IIX"
+      ],
+      "explanation": "Hai chữ X biểu thị hai chục.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B47_Q10",
+      "type": "fill",
+      "question": "Số XVIII biểu thị số mấy?",
+      "correct_answer": "18",
+      "distractors": [
+        "17",
+        "13",
+        "19"
+      ],
+      "explanation": "X biểu thị mười, VIII biểu thị tám; đó là mười tám.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B47_Q11",
+      "type": "mcq",
+      "question": "Trong IV và VI, số nào lớn hơn? Ghi bằng La Mã.",
+      "options": [
+        "VI",
+        "IV",
+        "V",
+        "IX"
+      ],
+      "correct_answer": "VI",
+      "distractors": [
+        "IV",
+        "V",
+        "IX"
+      ],
+      "explanation": "VI là 6 còn IV là 4, nên VI lớn hơn.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B47_Q12",
+      "type": "fill",
+      "question": "Số nào đứng ngay sau XIV trong dãy số La Mã tăng từng đơn vị?",
+      "correct_answer": "XV",
+      "distractors": [
+        "XIII",
+        "XVI",
+        "XIX"
+      ],
+      "explanation": "XIV là 14; tiếp theo 15 viết XV.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B47_Q13",
+      "type": "mcq",
+      "question": "Số ngay trước XIX được viết thế nào bằng La Mã?",
+      "options": [
+        "XVIII",
+        "XX",
+        "XVII",
+        "XIV"
+      ],
+      "correct_answer": "XVIII",
+      "distractors": [
+        "XX",
+        "XVII",
+        "XIV"
+      ],
+      "explanation": "XIX là 19; số liền trước 18 viết XVIII.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B47_Q14",
+      "type": "fill",
+      "question": "Trong XI và IX, số nào nhỏ hơn? Ghi bằng La Mã.",
+      "correct_answer": "IX",
+      "distractors": [
+        "XI",
+        "X",
+        "XII"
+      ],
+      "explanation": "XI là 11 còn IX là 9.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B47_Q15",
+      "type": "mcq",
+      "question": "Sắp xếp VII, IV, IX tăng dần. Số ở giữa viết bằng La Mã là gì?",
+      "options": [
+        "VII",
+        "IV",
+        "IX",
+        "VI"
+      ],
+      "correct_answer": "VII",
+      "distractors": [
+        "IV",
+        "IX",
+        "VI"
+      ],
+      "explanation": "Các giá trị tương ứng 7, 4, 9; thứ tự IV, VII, IX.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B47_Q16",
+      "type": "fill",
+      "question": "Một bạn viết số 14 thành XVI. Cách viết đúng là gì?",
+      "correct_answer": "XIV",
+      "distractors": [
+        "XVI",
+        "XIIII",
+        "IXV"
+      ],
+      "explanation": "XIV là 14, còn XVI là 16; vị trí I rất quan trọng.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B47_Q17",
+      "type": "mcq",
+      "question": "Một chữ I cần 1 que, V cần 2 que, X cần 2 que. Xếp số VII cần mấy que?",
+      "options": [
+        "4",
+        "3",
+        "5",
+        "7"
+      ],
+      "correct_answer": "4",
+      "distractors": [
+        "3",
+        "5",
+        "7"
+      ],
+      "explanation": "V cần hai que, hai I cần hai que nữa, tổng bốn.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B47_Q18",
+      "type": "fill",
+      "question": "Với quy ước I dùng 1 que, V và X mỗi chữ dùng 2 que, xếp XIII cần mấy que?",
+      "correct_answer": "5",
+      "distractors": [
+        "4",
+        "6",
+        "13"
+      ],
+      "explanation": "X dùng hai que, III dùng ba que, tổng năm.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B47_Q19",
+      "type": "mcq",
+      "question": "Đồng hồ ghi giờ bằng La Mã. Vị trí đối diện XII là số nào?",
+      "options": [
+        "VI",
+        "III",
+        "IX",
+        "XI"
+      ],
+      "correct_answer": "VI",
+      "distractors": [
+        "III",
+        "IX",
+        "XI"
+      ],
+      "explanation": "XII ở trên cùng, VI ở dưới cùng, đối diện nhau.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B47_Q20",
+      "type": "fill",
+      "question": "Mặt đồng hồ có kim phút ở XII và kim giờ ở IV. Đồng hồ chỉ mấy giờ đúng?",
+      "correct_answer": "4",
+      "distractors": [
+        "6",
+        "9",
+        "12"
+      ],
+      "explanation": "Kim phút ở XII chỉ phút 0; kim giờ ở IV chỉ 4 giờ.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B47_Q21",
+      "type": "mcq",
+      "question": "Sách có các mục I, II, III, IV. Mục tiếp theo phải ghi thế nào?",
+      "options": [
+        "V",
+        "VI",
+        "IIII",
+        "IX"
+      ],
+      "correct_answer": "V",
+      "distractors": [
+        "VI",
+        "IIII",
+        "IX"
+      ],
+      "explanation": "Sau mục 4 là mục 5, viết V.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B47_Q22",
+      "type": "fill",
+      "question": "Đội em nhận thẻ XVII, đội bạn nhận thẻ XV. Thẻ đội em lớn hơn mấy đơn vị?",
+      "correct_answer": "2",
+      "distractors": [
+        "1",
+        "3",
+        "5"
+      ],
+      "explanation": "XVII là 17 và XV là 15; chênh nhau hai đơn vị.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B47_Q23",
+      "type": "mcq",
+      "question": "Có 8 ngăn tủ đánh số La Mã từ I. Ngăn cuối ghi gì?",
+      "options": [
+        "VIII",
+        "VII",
+        "IX",
+        "XIII"
+      ],
+      "correct_answer": "VIII",
+      "distractors": [
+        "VII",
+        "IX",
+        "XIII"
+      ],
+      "explanation": "Ngăn thứ tám mang số VIII.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B47_Q24",
+      "type": "fill",
+      "question": "Nam đọc nhầm XI thành 9. Viết bằng La Mã số mà Nam định đọc.",
+      "correct_answer": "IX",
+      "distractors": [
+        "XI",
+        "IV",
+        "VI"
+      ],
+      "explanation": "Số 9 viết IX; XI thực ra là 11.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B47_Q25",
+      "type": "mcq",
+      "question": "Rạp có các hàng XII, XIII, XIV, XV. Hàng thứ ba trong danh sách mang số mấy theo chữ số thông thường?",
+      "options": [
+        "14",
+        "12",
+        "13",
+        "15"
+      ],
+      "correct_answer": "14",
+      "distractors": [
+        "12",
+        "13",
+        "15"
+      ],
+      "explanation": "Hàng thứ ba là XIV, tương ứng 14.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B47_Q26",
+      "type": "fill",
+      "question": "Trò chơi yêu cầu chọn thẻ từ 10 đến 15, kể cả hai đầu. Trong IX, XIV, XVI, thẻ nào phù hợp?",
+      "correct_answer": "XIV",
+      "distractors": [
+        "IX",
+        "XVI",
+        "XVII"
+      ],
+      "explanation": "XIV là 14 nằm trong khoảng; IX là 9, XVI là 16 ở ngoài.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B47_Q27",
+      "type": "mcq",
+      "question": "Các ô đường đi ghi XVI, XVII, ?, XIX, XX. Ô trống ghi La Mã nào?",
+      "options": [
+        "XVIII",
+        "XIV",
+        "XV",
+        "XXI"
+      ],
+      "correct_answer": "XVIII",
+      "distractors": [
+        "XIV",
+        "XV",
+        "XXI"
+      ],
+      "explanation": "Dãy tăng từ 16 đến 20, ô thiếu là 18.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B47_Q28",
+      "type": "fill",
+      "question": "Bình có thẻ VIII, An có thẻ XI. Cộng giá trị hai thẻ rồi viết kết quả bằng La Mã.",
+      "correct_answer": "XIX",
+      "distractors": [
+        "XVII",
+        "XVIII",
+        "XX"
+      ],
+      "explanation": "Giá trị hai thẻ là 8 và 11; tổng 19 viết XIX.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B47_Q29",
+      "type": "mcq",
+      "question": "Từ thẻ XX bớt giá trị thẻ V. Viết kết quả bằng La Mã.",
+      "options": [
+        "XV",
+        "XIV",
+        "XVI",
+        "XIX"
+      ],
+      "correct_answer": "XV",
+      "distractors": [
+        "XIV",
+        "XVI",
+        "XIX"
+      ],
+      "explanation": "Hai mươi bớt năm còn mười lăm, viết XV.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B47_Q30",
+      "type": "fill",
+      "question": "Mỗi chữ I dùng 1 que; V và X mỗi chữ dùng 2 que. Xếp đồng thời IV và VI cần tổng mấy que?",
+      "correct_answer": "6",
+      "distractors": [
+        "4",
+        "5",
+        "8"
+      ],
+      "explanation": "Mỗi số dùng ba que; hai số cần sáu que.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B47_Q31",
+      "type": "mcq",
+      "question": "Mỗi chữ I dùng 1 que; V và X mỗi chữ dùng 2 que. Có 7 que, xếp XVIII xong còn mấy que?",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "correct_answer": "0",
+      "distractors": [
+        "1",
+        "2",
+        "3"
+      ],
+      "explanation": "XVIII cần 2 que cho X, 2 cho V, 3 cho III, đủ 7 que.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B47_Q32",
+      "type": "fill",
+      "question": "Một tấm biển ghi X, tấm tiếp theo phải tăng thêm 4. Tấm tiếp theo viết La Mã nào?",
+      "correct_answer": "XIV",
+      "distractors": [
+        "XVI",
+        "IX",
+        "XV"
+      ],
+      "explanation": "Mười thêm bốn được mười bốn, viết XIV.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B47_Q33",
+      "type": "mcq",
+      "question": "Đồng hồ trong hình minh họa có kim phút xanh ở XII, kim giờ đỏ ở VII. Đồng hồ chỉ mấy giờ đúng?",
+      "options": [
+        "7",
+        "5",
+        "8",
+        "12"
+      ],
+      "correct_answer": "7",
+      "distractors": [
+        "5",
+        "8",
+        "12"
+      ],
+      "explanation": "Kim dài ở XII chỉ phút 0, kim ngắn ở VII chỉ 7 giờ.",
+      "difficulty": "van_dung",
+      "figure": {
+        "path": "content/toan/tap-2/TOAN3_T2_B47_clock.svg",
+        "caption": "Kim phút xanh ở XII; kim giờ đỏ ở VII. Đồng hồ chỉ giờ đúng."
+      }
+    },
+    {
+      "question_id": "TOAN3_T2_B47_Q34",
+      "type": "fill",
+      "question": "Trên đồng hồ La Mã, từ III đi theo chiều kim đồng hồ ba vị trí giờ, dừng ở số nào?",
+      "correct_answer": "VI",
+      "distractors": [
+        "V",
+        "VII",
+        "IX"
+      ],
+      "explanation": "Đi qua IV, V rồi đến VI.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B47_Q35",
+      "type": "mcq",
+      "question": "Buổi tập bắt đầu lúc VIII giờ sáng và kết thúc lúc X giờ sáng cùng ngày. Tập kéo dài mấy giờ?",
+      "options": [
+        "2",
+        "1",
+        "3",
+        "4"
+      ],
+      "correct_answer": "2",
+      "distractors": [
+        "1",
+        "3",
+        "4"
+      ],
+      "explanation": "VIII là 8, X là 10; từ 8 đến 10 là hai giờ.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B47_Q36",
+      "type": "fill",
+      "question": "Thẻ số sau khi thêm I vào bên phải X trở thành số mấy theo chữ số thông thường?",
+      "correct_answer": "11",
+      "distractors": [
+        "9",
+        "10",
+        "12"
+      ],
+      "explanation": "XI biểu thị 11; khác với IX là 9.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B47_Q37",
+      "type": "mcq",
+      "question": "Bảng tên có hai số XIV và XIX. Số lớn hơn được viết bằng chữ số thông thường là bao nhiêu?",
+      "options": [
+        "19",
+        "14",
+        "16",
+        "9"
+      ],
+      "correct_answer": "19",
+      "distractors": [
+        "14",
+        "16",
+        "9"
+      ],
+      "explanation": "XIV là 14, XIX là 19; 19 lớn hơn.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B47_Q38",
+      "type": "fill",
+      "question": "Một bạn dùng VVV để ghi 15. Viết lại 15 theo cách La Mã đã học.",
+      "correct_answer": "XV",
+      "distractors": [
+        "VVV",
+        "XIV",
+        "XVI"
+      ],
+      "explanation": "Mười lăm viết XV; không lặp V ba lần.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B47_Q39",
+      "type": "mcq",
+      "question": "Đội tìm kho báu cần thẻ lớn hơn XVI nhưng bé hơn XVIII. Thẻ duy nhất phải tìm là gì?",
+      "options": [
+        "XVII",
+        "XV",
+        "XVI",
+        "XIX"
+      ],
+      "correct_answer": "XVII",
+      "distractors": [
+        "XV",
+        "XVI",
+        "XIX"
+      ],
+      "explanation": "Giữa 16 và 18 chỉ có 17, viết XVII.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B47_Q40",
+      "type": "fill",
+      "question": "Trong các thẻ II, IV, VI, VIII, X, có bao nhiêu thẻ biểu thị số lớn hơn 5?",
+      "correct_answer": "3",
+      "distractors": [
+        "2",
+        "4",
+        "5"
+      ],
+      "explanation": "VI, VIII và X lần lượt là 6, 8, 10; có ba thẻ.",
+      "difficulty": "van_dung"
+    }
+  ],
+  "games": [
+    {
+      "id": "TOAN3_T2_B47_GAME1",
+      "title": "Ghép thẻ La Mã",
+      "mode": "match",
+      "objective": "Ghép câu hỏi với giá trị hoặc cách viết chính xác; mỗi lượt có năm đáp án khác nhau.",
+      "rules": [
+        "Mỗi lượt chọn 5 câu có 5 đáp án khác nhau.",
+        "Chọn câu hỏi bên trái rồi đáp án bên phải. Sai thì thử lại.",
+        "Mỗi cặp đúng 10 điểm; tối đa 50 điểm."
+      ],
+      "question_ids": [
+        "TOAN3_T2_B47_Q01",
+        "TOAN3_T2_B47_Q02",
+        "TOAN3_T2_B47_Q03",
+        "TOAN3_T2_B47_Q04",
+        "TOAN3_T2_B47_Q05",
+        "TOAN3_T2_B47_Q06",
+        "TOAN3_T2_B47_Q07",
+        "TOAN3_T2_B47_Q08",
+        "TOAN3_T2_B47_Q09",
+        "TOAN3_T2_B47_Q10",
+        "TOAN3_T2_B47_Q11",
+        "TOAN3_T2_B47_Q12",
+        "TOAN3_T2_B47_Q13",
+        "TOAN3_T2_B47_Q14",
+        "TOAN3_T2_B47_Q15",
+        "TOAN3_T2_B47_Q16",
+        "TOAN3_T2_B47_Q17",
+        "TOAN3_T2_B47_Q18",
+        "TOAN3_T2_B47_Q19",
+        "TOAN3_T2_B47_Q20",
+        "TOAN3_T2_B47_Q21",
+        "TOAN3_T2_B47_Q22",
+        "TOAN3_T2_B47_Q23",
+        "TOAN3_T2_B47_Q24",
+        "TOAN3_T2_B47_Q25",
+        "TOAN3_T2_B47_Q26",
+        "TOAN3_T2_B47_Q27",
+        "TOAN3_T2_B47_Q28",
+        "TOAN3_T2_B47_Q29",
+        "TOAN3_T2_B47_Q30",
+        "TOAN3_T2_B47_Q31",
+        "TOAN3_T2_B47_Q32",
+        "TOAN3_T2_B47_Q33",
+        "TOAN3_T2_B47_Q34",
+        "TOAN3_T2_B47_Q35",
+        "TOAN3_T2_B47_Q36",
+        "TOAN3_T2_B47_Q37",
+        "TOAN3_T2_B47_Q38",
+        "TOAN3_T2_B47_Q39",
+        "TOAN3_T2_B47_Q40"
+      ],
+      "answer_source": "practice.correct_answer",
+      "feedback_source": "practice.explanation",
+      "max_score": 50
+    }
+  ],
+  "assessment": {
+    "session_size": 10,
+    "distribution": {
+      "nhan_biet": 3,
+      "thong_hieu": 3,
+      "van_dung": 4
+    },
+    "scoring": "Đúng lần đầu: 1 điểm; đúng sau một gợi ý: 0,5 điểm. Từ 90%: 3 sao; từ 60%: 2 sao; còn lại: 1 sao.",
+    "review_advice": "Xem lời giải các câu sai, đọc lại quy tắc, rồi làm một lượt mới."
+  },
+  "feedback": {
+    "correct": "Chính xác! Hãy đọc lời giải để củng cố cách làm.",
+    "incorrect": "Em thử lại một lần. Sau đó xem đáp án và cách giải."
+  },
+  "verification": {
+    "ai_authored": true,
+    "structure_checked": true,
+    "answer_reviewed": true,
+    "source_reviewed": true,
+    "teacher_approved": false
+  },
+  "status": "AI_CHECKED_AWAITING_TEACHER",
+  "activities": [
+    {
+      "title": "Xếp thẻ từ I đến XX",
+      "materials": [
+        "que tính",
+        "giấy ghi số từ 1 đến 20"
+      ],
+      "steps": [
+        "Chọn một thẻ số rồi dùng que xếp cách viết La Mã.",
+        "Đổi vai để bạn đọc số vừa xếp.",
+        "Đối chiếu bảng; đặc biệt kiểm tra IV, IX, XIV, XIX."
+      ],
+      "check": [
+        "Em phân biệt được IV và VI.",
+        "Em giải thích được vì sao IX khác XI."
+      ]
+    }
+  ],
+  "figures": [
+    {
+      "path": "content/toan/tap-2/TOAN3_T2_B47_clock.svg",
+      "caption": "Kim phút xanh ở XII; kim giờ đỏ ở VII. Đồng hồ chỉ giờ đúng."
+    }
+  ]
+}

@@ -1,0 +1,784 @@
+{
+  "id": "TOAN3_T2_B45",
+  "subject": "toan",
+  "grade": 3,
+  "book": "Kết nối tri thức với cuộc sống",
+  "volume": 2,
+  "lesson_no": 45,
+  "title": "Các số có bốn chữ số. Số 10 000",
+  "topic": "Cấu tạo thập phân trong phạm vi 10000",
+  "source": {
+    "pdf": "03-sgk-toan-3-tap-hai.pdf",
+    "printed_pages": [
+      4,
+      8
+    ],
+    "pdf_pages": [
+      5,
+      9
+    ],
+    "review": "Đã đọc trực quan toàn bộ trang nguồn cho bài này; nội dung và bài tập mới do AI biên soạn."
+  },
+  "objectives": [
+    "Đọc, viết số có bốn chữ số, kể cả số có chữ số 0 ở giữa.",
+    "Phân biệt chữ số với giá trị của chữ số theo hàng.",
+    "Đếm tiếp, đếm lùi và vận dụng cấu tạo số trong tình huống thực tế."
+  ],
+  "knowledge": {
+    "introduction": "Mỗi chữ số có một vị trí. Trong 5824, chữ số 5 chỉ năm nghìn, 8 chỉ tám trăm, 2 chỉ hai chục và 4 chỉ bốn đơn vị. Chữ số 0 giữ chỗ khi một hàng không có đơn vị nào.",
+    "rules": [
+      "Các hàng từ trái sang phải: nghìn, trăm, chục, đơn vị.",
+      "Một nghìn bằng mười trăm; một trăm bằng mười chục; một chục bằng mười đơn vị.",
+      "10000 đọc là mười nghìn, có năm chữ số và bằng mười nhóm một nghìn.",
+      "Khi đếm qua 999, 1999, ... cần chuyển sang nghìn tiếp theo."
+    ],
+    "steps": [
+      "Xác định từng hàng; có thể kẻ bảng bốn cột.",
+      "Điền đủ chữ số cho mỗi hàng, dùng 0 để giữ chỗ.",
+      "Đọc hoặc phân tích số rồi đối chiếu lại với dữ kiện."
+    ],
+    "common_errors": [
+      "Bỏ 0 ở giữa làm thay đổi giá trị của số.",
+      "Nhầm chữ số hàng chục với tổng số chục trong một số.",
+      "Cho 0 đứng đầu khi lập một số có bốn chữ số."
+    ]
+  },
+  "examples": [
+    {
+      "question": "Viết số có 5 nghìn, 8 trăm, 2 chục và 4 đơn vị.",
+      "steps": [
+        "Ghi bốn chữ số theo thứ tự hàng: 5, 8, 2, 4.",
+        "Số cần viết là 5824; đọc năm nghìn tám trăm hai mươi tư."
+      ]
+    },
+    {
+      "question": "Có 4 nghìn và 7 đơn vị, không có trăm và chục. Viết số.",
+      "steps": [
+        "Giữ hai vị trí giữa bằng chữ số 0.",
+        "Viết 4007, đọc bốn nghìn không trăm linh bảy."
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "question_id": "TOAN3_T2_B45_Q01",
+      "type": "mcq",
+      "question": "Số 5726 có chữ số hàng nghìn là mấy?",
+      "options": [
+        "5",
+        "7",
+        "2",
+        "6"
+      ],
+      "correct_answer": "5",
+      "distractors": [
+        "7",
+        "2",
+        "6"
+      ],
+      "explanation": "Từ trái sang phải là nghìn, trăm, chục, đơn vị; hàng nghìn là 5.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B45_Q02",
+      "type": "fill",
+      "question": "Trong số 8043, chữ số hàng trăm là mấy?",
+      "correct_answer": "0",
+      "distractors": [
+        "8",
+        "4",
+        "3"
+      ],
+      "explanation": "8043 gồm 8 nghìn, 0 trăm, 4 chục, 3 đơn vị.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B45_Q03",
+      "type": "mcq",
+      "question": "Giá trị của chữ số 6 trong 3612 là bao nhiêu?",
+      "options": [
+        "600",
+        "6",
+        "60",
+        "6000"
+      ],
+      "correct_answer": "600",
+      "distractors": [
+        "6",
+        "60",
+        "6000"
+      ],
+      "explanation": "Chữ số 6 ở hàng trăm nên biểu thị 600.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B45_Q04",
+      "type": "fill",
+      "question": "Viết số gồm 4 nghìn, 2 trăm, 0 chục và 8 đơn vị.",
+      "correct_answer": "4208",
+      "distractors": [
+        "4280",
+        "4028",
+        "428"
+      ],
+      "explanation": "Giữ chữ số 0 ở hàng chục: 4208.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B45_Q05",
+      "type": "mcq",
+      "question": "Số nhỏ nhất có bốn chữ số là số nào?",
+      "options": [
+        "1000",
+        "100",
+        "999",
+        "1001"
+      ],
+      "correct_answer": "1000",
+      "distractors": [
+        "100",
+        "999",
+        "1001"
+      ],
+      "explanation": "999 có ba chữ số; số tiếp theo là 1000 có bốn chữ số.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B45_Q06",
+      "type": "fill",
+      "question": "Mười nghìn viết bằng các chữ số như thế nào?",
+      "correct_answer": "10000",
+      "distractors": [
+        "1000",
+        "100",
+        "10001"
+      ],
+      "explanation": "Mười nhóm một nghìn tạo thành 10000.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B45_Q07",
+      "type": "mcq",
+      "question": "Số liền sau 5999 là số nào?",
+      "options": [
+        "6000",
+        "5998",
+        "5990",
+        "6001"
+      ],
+      "correct_answer": "6000",
+      "distractors": [
+        "5998",
+        "5990",
+        "6001"
+      ],
+      "explanation": "Đếm thêm một từ 5999 được 6000.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B45_Q08",
+      "type": "fill",
+      "question": "Số liền trước 8000 là số nào?",
+      "correct_answer": "7999",
+      "distractors": [
+        "8001",
+        "7900",
+        "7990"
+      ],
+      "explanation": "Đếm lùi một từ 8000 được 7999.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B45_Q09",
+      "type": "mcq",
+      "question": "Số 9300 có bao nhiêu chục trọn vẹn?",
+      "options": [
+        "930",
+        "93",
+        "9",
+        "0"
+      ],
+      "correct_answer": "930",
+      "distractors": [
+        "93",
+        "9",
+        "0"
+      ],
+      "explanation": "9300 gồm 930 nhóm mười; không nhầm với chữ số hàng chục là 0.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B45_Q10",
+      "type": "fill",
+      "question": "Số gồm 7 nghìn và 9 đơn vị viết thế nào?",
+      "correct_answer": "7009",
+      "distractors": [
+        "7090",
+        "7900",
+        "709"
+      ],
+      "explanation": "Hàng trăm và hàng chục đều bằng 0.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B45_Q11",
+      "type": "mcq",
+      "question": "Số nào có cách đọc “sáu nghìn không trăm linh hai”?",
+      "options": [
+        "6002",
+        "6020",
+        "6200",
+        "6000"
+      ],
+      "correct_answer": "6002",
+      "distractors": [
+        "6020",
+        "6200",
+        "6000"
+      ],
+      "explanation": "Không có trăm và chục nên viết hai chữ số 0 giữa 6 và 2.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B45_Q12",
+      "type": "fill",
+      "question": "Điền phần còn thiếu: 4825 gồm 4000, 800, 20 và bao nhiêu đơn vị?",
+      "correct_answer": "5",
+      "distractors": [
+        "50",
+        "25",
+        "500"
+      ],
+      "explanation": "Chữ số cuối 5 biểu thị năm đơn vị.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B45_Q13",
+      "type": "mcq",
+      "question": "Vì sao không thể bỏ chữ số 0 ở giữa số 3074? Chọn giá trị của số sau khi bỏ 0.",
+      "options": [
+        "374",
+        "3074",
+        "3004",
+        "304"
+      ],
+      "correct_answer": "374",
+      "distractors": [
+        "3074",
+        "3004",
+        "304"
+      ],
+      "explanation": "Bỏ 0 làm các hàng dịch chỗ; 3074 trở thành 374, không còn cùng giá trị.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B45_Q14",
+      "type": "fill",
+      "question": "Một số có 9 nghìn, hàng trăm và chục bằng nhau và đều bằng 2, đơn vị là 6. Đó là số nào?",
+      "correct_answer": "9226",
+      "distractors": [
+        "9262",
+        "9296",
+        "9622"
+      ],
+      "explanation": "Viết lần lượt bốn hàng: 9, 2, 2, 6.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B45_Q15",
+      "type": "mcq",
+      "question": "Trong dãy 4198, 4199, ?, 4201, số bị che là số nào?",
+      "options": [
+        "4200",
+        "4190",
+        "4202",
+        "4100"
+      ],
+      "correct_answer": "4200",
+      "distractors": [
+        "4190",
+        "4202",
+        "4100"
+      ],
+      "explanation": "Dãy tăng từng đơn vị, sau 4199 là 4200.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B45_Q16",
+      "type": "fill",
+      "question": "Dãy 6700, 6800, 6900, ? tăng đều. Điền số kế tiếp.",
+      "correct_answer": "7000",
+      "distractors": [
+        "6910",
+        "6999",
+        "7100"
+      ],
+      "explanation": "Mỗi bước tăng một trăm; sau 6900 là 7000.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B45_Q17",
+      "type": "mcq",
+      "question": "Số 5407 được đổi thành 5470 bằng cách đổi chỗ hai hàng nào? Viết tên hàng theo thứ tự “... và ...”.",
+      "options": [
+        "chục và đơn vị",
+        "nghìn và trăm",
+        "trăm và chục",
+        "nghìn và đơn vị"
+      ],
+      "correct_answer": "chục và đơn vị",
+      "distractors": [
+        "nghìn và trăm",
+        "trăm và chục",
+        "nghìn và đơn vị"
+      ],
+      "explanation": "Chữ số 0 và 7 đổi chỗ ở hàng chục và hàng đơn vị.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B45_Q18",
+      "type": "fill",
+      "question": "Nếu thêm một nghìn vào 2080 thì được số nào?",
+      "correct_answer": "3080",
+      "distractors": [
+        "2180",
+        "2090",
+        "2800"
+      ],
+      "explanation": "Chỉ tăng hàng nghìn từ 2 lên 3; các hàng còn lại giữ nguyên.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B45_Q19",
+      "type": "mcq",
+      "question": "Từ số 9999 đếm thêm một đơn vị được số có mấy chữ số?",
+      "options": [
+        "5",
+        "4",
+        "3",
+        "6"
+      ],
+      "correct_answer": "5",
+      "distractors": [
+        "4",
+        "3",
+        "6"
+      ],
+      "explanation": "Được 10000, gồm năm chữ số.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B45_Q20",
+      "type": "fill",
+      "question": "Số 7050 gồm 7000 và phần còn lại bằng bao nhiêu?",
+      "correct_answer": "50",
+      "distractors": [
+        "5",
+        "500",
+        "750"
+      ],
+      "explanation": "Không có trăm và đơn vị; phần còn lại là năm chục.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B45_Q21",
+      "type": "mcq",
+      "question": "Thư viện đánh số nhãn từ 2997 liên tiếp. Nhãn thứ tư ghi số nào?",
+      "options": [
+        "3000",
+        "3001",
+        "2999",
+        "2998"
+      ],
+      "correct_answer": "3000",
+      "distractors": [
+        "3001",
+        "2999",
+        "2998"
+      ],
+      "explanation": "Bốn nhãn lần lượt là 2997, 2998, 2999, 3000.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B45_Q22",
+      "type": "fill",
+      "question": "Một quyển sách bị mất tờ giữa hai trang còn nguyên ghi 248 và 251. Trang đầu của tờ mất mang số nào?",
+      "correct_answer": "249",
+      "distractors": [
+        "247",
+        "250",
+        "252"
+      ],
+      "explanation": "Các trang theo thứ tự 248, 249, 250, 251; tờ mất có trang 249 và 250.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B45_Q23",
+      "type": "mcq",
+      "question": "Dùng mỗi thẻ 1, 0, 5, 8 đúng một lần, lập số lớn nhất có hàng nghìn là 5.",
+      "options": [
+        "5810",
+        "5801",
+        "5180",
+        "8510"
+      ],
+      "correct_answer": "5810",
+      "distractors": [
+        "5801",
+        "5180",
+        "8510"
+      ],
+      "explanation": "Cố định 5 rồi xếp các thẻ còn lại giảm dần: 8, 1, 0.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B45_Q24",
+      "type": "fill",
+      "question": "Dùng mỗi thẻ 0, 3, 3, 7 đúng một lần. Số bé nhất có bốn chữ số là số nào?",
+      "correct_answer": "3037",
+      "distractors": [
+        "0337",
+        "3307",
+        "3073"
+      ],
+      "explanation": "Đặt 3 ở đầu vì 0 không đứng đầu số bốn chữ số; sau đó 0, 3, 7.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B45_Q25",
+      "type": "mcq",
+      "question": "Máy đếm đang hiện 8998. Sau hai lần tăng một đơn vị, máy hiện số nào?",
+      "options": [
+        "9000",
+        "8999",
+        "9001",
+        "8900"
+      ],
+      "correct_answer": "9000",
+      "distractors": [
+        "8999",
+        "9001",
+        "8900"
+      ],
+      "explanation": "8998 đến 8999 rồi đến 9000.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B45_Q26",
+      "type": "fill",
+      "question": "Có 6 túi, mỗi túi đúng một nghìn hạt; thêm 4 hộp mỗi hộp một trăm hạt và 3 hạt rời. Có bao nhiêu hạt?",
+      "correct_answer": "6403",
+      "distractors": [
+        "6430",
+        "6043",
+        "6340"
+      ],
+      "explanation": "Sáu nghìn, bốn trăm, không chục, ba đơn vị tạo thành 6403.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B45_Q27",
+      "type": "mcq",
+      "question": "Mã khóa có bốn chữ số: hàng nghìn 2, hàng trăm gấp đôi hàng nghìn, hàng chục 0, hàng đơn vị 9. Mã khóa là gì?",
+      "options": [
+        "2409",
+        "2490",
+        "2049",
+        "4209"
+      ],
+      "correct_answer": "2409",
+      "distractors": [
+        "2490",
+        "2049",
+        "4209"
+      ],
+      "explanation": "Gấp đôi 2 là 4; bốn hàng là 2, 4, 0, 9.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B45_Q28",
+      "type": "fill",
+      "question": "Một vé mang số 6000. Vé ngay trước và ngay sau nó có tổng chữ số hàng đơn vị bằng bao nhiêu?",
+      "correct_answer": "10",
+      "distractors": [
+        "0",
+        "9",
+        "2"
+      ],
+      "explanation": "Hai vé là 5999 và 6001; chữ số đơn vị 9 và 1 có tổng 10.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B45_Q29",
+      "type": "mcq",
+      "question": "Bảng hiển thị 7306 bị đổi nhầm hàng trăm thành 8. Số mới là số nào?",
+      "options": [
+        "7806",
+        "7386",
+        "8306",
+        "7368"
+      ],
+      "correct_answer": "7806",
+      "distractors": [
+        "7386",
+        "8306",
+        "7368"
+      ],
+      "explanation": "Thay chữ số 3 ở hàng trăm bằng 8, giữ 7, 0, 6.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B45_Q30",
+      "type": "fill",
+      "question": "Một kho có đúng 10000 chiếc bút, đã đóng đủ 9 hộp, mỗi hộp 1000 chiếc. Phần chưa đóng có bao nhiêu chiếc?",
+      "correct_answer": "1000",
+      "distractors": [
+        "100",
+        "9000",
+        "1"
+      ],
+      "explanation": "Mười nghìn gồm mười nhóm nghìn; đã dùng chín nhóm nên còn một nhóm nghìn.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B45_Q31",
+      "type": "mcq",
+      "question": "Từ 4000, đếm lùi từng trăm ba bước. Dừng ở số nào?",
+      "options": [
+        "3700",
+        "3997",
+        "4300",
+        "3600"
+      ],
+      "correct_answer": "3700",
+      "distractors": [
+        "3997",
+        "4300",
+        "3600"
+      ],
+      "explanation": "Ba bước là 3900, 3800, 3700.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B45_Q32",
+      "type": "fill",
+      "question": "Tìm số có bốn chữ số lớn hơn 7000, bé hơn 7002.",
+      "correct_answer": "7001",
+      "distractors": [
+        "7000",
+        "7002",
+        "7010"
+      ],
+      "explanation": "Chỉ có 7001 nằm giữa hai số nguyên cách nhau hai đơn vị.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B45_Q33",
+      "type": "mcq",
+      "question": "Bé viết 5 nghìn 6 chục thành 5600. Số đúng phải là số nào?",
+      "options": [
+        "5060",
+        "5600",
+        "5006",
+        "560"
+      ],
+      "correct_answer": "5060",
+      "distractors": [
+        "5600",
+        "5006",
+        "560"
+      ],
+      "explanation": "Không có trăm; 6 nằm ở hàng chục nên viết 5060.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B45_Q34",
+      "type": "fill",
+      "question": "Số nhà gồm bốn chữ số, đọc “bốn nghìn ba trăm mười lăm”. Viết số nhà.",
+      "correct_answer": "4315",
+      "distractors": [
+        "4305",
+        "4351",
+        "4135"
+      ],
+      "explanation": "Bốn nghìn, ba trăm, một chục, năm đơn vị là 4315.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B45_Q35",
+      "type": "mcq",
+      "question": "Bốn nhãn 8010, 8020, 8030, 8040 tăng đều. Nhãn ngay sau đó là số nào?",
+      "options": [
+        "8050",
+        "8041",
+        "8140",
+        "8005"
+      ],
+      "correct_answer": "8050",
+      "distractors": [
+        "8041",
+        "8140",
+        "8005"
+      ],
+      "explanation": "Mỗi nhãn tăng một chục; sau 8040 là 8050.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B45_Q36",
+      "type": "fill",
+      "question": "Đổi một thẻ nghìn thành các thẻ trăm cùng giá trị. Cần bao nhiêu thẻ trăm?",
+      "correct_answer": "10",
+      "distractors": [
+        "100",
+        "1",
+        "1000"
+      ],
+      "explanation": "Một nghìn bằng mười trăm.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B45_Q37",
+      "type": "mcq",
+      "question": "Trong các số 4072, 4702, 4720, số nào có 0 trăm và 7 chục?",
+      "options": [
+        "4072",
+        "4702",
+        "4720",
+        "4027"
+      ],
+      "correct_answer": "4072",
+      "distractors": [
+        "4702",
+        "4720",
+        "4027"
+      ],
+      "explanation": "4072 có hàng trăm 0, hàng chục 7; hai số kia có 7 trăm.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B45_Q38",
+      "type": "fill",
+      "question": "Máy in đã in vé 9997. In tiếp đúng ba vé liên tiếp thì vé cuối mang số nào?",
+      "correct_answer": "10000",
+      "distractors": [
+        "9999",
+        "10001",
+        "9998"
+      ],
+      "explanation": "Ba vé tiếp là 9998, 9999, 10000.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B45_Q39",
+      "type": "mcq",
+      "question": "Lập số có bốn chữ số khác nhau từ 0, 2, 6, 9, mỗi thẻ dùng một lần; hàng nghìn là 6 và hàng đơn vị là 0. Số lớn nhất là số nào?",
+      "options": [
+        "6920",
+        "6290",
+        "6902",
+        "9620"
+      ],
+      "correct_answer": "6920",
+      "distractors": [
+        "6290",
+        "6902",
+        "9620"
+      ],
+      "explanation": "Hai hàng giữa dùng 9 rồi 2 để số lớn nhất.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B45_Q40",
+      "type": "fill",
+      "question": "Một số có 3 nghìn, 15 chục, không có đơn vị lẻ. Viết số đó.",
+      "correct_answer": "3150",
+      "distractors": [
+        "3015",
+        "3510",
+        "3500"
+      ],
+      "explanation": "Mười lăm chục là 150; ghép với 3000 được 3150.",
+      "difficulty": "van_dung"
+    }
+  ],
+  "games": [
+    {
+      "id": "TOAN3_T2_B45_GAME1",
+      "title": "Kho báu bốn chữ số",
+      "mode": "treasure",
+      "objective": "Đọc đúng cấu tạo và giải quyết các nhiệm vụ số trong phạm vi 10000.",
+      "rules": [
+        "Mỗi lượt lấy 10 câu từ bài học.",
+        "Chọn đáp án, đọc lời giải rồi sang câu tiếp theo.",
+        "Mỗi câu đúng được 10 điểm; tối đa 100 điểm."
+      ],
+      "question_ids": [
+        "TOAN3_T2_B45_Q01",
+        "TOAN3_T2_B45_Q02",
+        "TOAN3_T2_B45_Q03",
+        "TOAN3_T2_B45_Q04",
+        "TOAN3_T2_B45_Q05",
+        "TOAN3_T2_B45_Q06",
+        "TOAN3_T2_B45_Q07",
+        "TOAN3_T2_B45_Q08",
+        "TOAN3_T2_B45_Q09",
+        "TOAN3_T2_B45_Q10",
+        "TOAN3_T2_B45_Q11",
+        "TOAN3_T2_B45_Q12",
+        "TOAN3_T2_B45_Q13",
+        "TOAN3_T2_B45_Q14",
+        "TOAN3_T2_B45_Q15",
+        "TOAN3_T2_B45_Q16",
+        "TOAN3_T2_B45_Q17",
+        "TOAN3_T2_B45_Q18",
+        "TOAN3_T2_B45_Q19",
+        "TOAN3_T2_B45_Q20",
+        "TOAN3_T2_B45_Q21",
+        "TOAN3_T2_B45_Q22",
+        "TOAN3_T2_B45_Q23",
+        "TOAN3_T2_B45_Q24",
+        "TOAN3_T2_B45_Q25",
+        "TOAN3_T2_B45_Q26",
+        "TOAN3_T2_B45_Q27",
+        "TOAN3_T2_B45_Q28",
+        "TOAN3_T2_B45_Q29",
+        "TOAN3_T2_B45_Q30",
+        "TOAN3_T2_B45_Q31",
+        "TOAN3_T2_B45_Q32",
+        "TOAN3_T2_B45_Q33",
+        "TOAN3_T2_B45_Q34",
+        "TOAN3_T2_B45_Q35",
+        "TOAN3_T2_B45_Q36",
+        "TOAN3_T2_B45_Q37",
+        "TOAN3_T2_B45_Q38",
+        "TOAN3_T2_B45_Q39",
+        "TOAN3_T2_B45_Q40"
+      ],
+      "answer_source": "practice.correct_answer",
+      "feedback_source": "practice.explanation",
+      "max_score": 100
+    }
+  ],
+  "assessment": {
+    "session_size": 10,
+    "distribution": {
+      "nhan_biet": 3,
+      "thong_hieu": 3,
+      "van_dung": 4
+    },
+    "scoring": "Đúng lần đầu: 1 điểm; đúng sau một gợi ý: 0,5 điểm. Từ 90%: 3 sao; từ 60%: 2 sao; còn lại: 1 sao.",
+    "review_advice": "Xem lời giải các câu sai, đọc lại quy tắc, rồi làm một lượt mới."
+  },
+  "feedback": {
+    "correct": "Chính xác! Hãy đọc lời giải để củng cố cách làm.",
+    "incorrect": "Em thử lại một lần. Sau đó xem đáp án và cách giải."
+  },
+  "verification": {
+    "ai_authored": true,
+    "structure_checked": true,
+    "answer_reviewed": true,
+    "source_reviewed": true,
+    "teacher_approved": false
+  },
+  "status": "AI_CHECKED_AWAITING_TEACHER"
+}
