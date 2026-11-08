@@ -1,3 +1,7 @@
+## Đủ câu nguồn Batch 11 — 08/11/2026
+
+Đã bổ sung 40 câu Bài 44, batch11-source.txt hiện đủ 160 câu Bài 41–44 (10/10/20 mỗi bài). Chưa đóng gói, chưa tích hợp và chưa kiểm thử đầy đủ câu mới. Tiếp theo hoàn tất kiến thức/ví dụ/game, SVG cần thiết và JSON/Markdown của cả batch, chạy kiểm tra rồi cập nhật INDEX. Không tạo lại 160 câu đã lưu. Tổng đang tích hợp giữ 40/168 mục, 1600 câu, 40 trò chơi; giáo viên duyệt 4, chờ duyệt 36. Đây là checkpoint nguồn, không phải batch học liệu hoàn chỉnh.
+
 ## Checkpoint Bài 43 — 08/11/2026
 
 Đã nối 40 câu nguồn Bài 43 vào batch11-source.txt; nguồn Batch 11 hiện 120/160 câu Bài 41–43. Các câu có dữ kiện chữ tường minh về góc, trung điểm, đường tròn, khối và đo lường; hai câu về ghép/sơn khối cần bổ sung SVG minh họa khi đóng gói, chưa tính là sẵn sàng. Kiểm tra số dòng, không trùng trong bài, bốn lựa chọn khác nhau đạt. Chưa kiểm thử tích hợp hay thẩm định hình cho bài mới.

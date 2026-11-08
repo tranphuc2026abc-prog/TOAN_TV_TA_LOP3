@@ -121,3 +121,44 @@ Một tấm gỗ dày 6 mm, chồng khít 8 tấm. Tổng dày mấy mm?|48|6 ×
 Nhiệt độ mô phỏng sáng 23 °C, trưa 31 °C, tối 26 °C. Trưa cao hơn tối mấy độ C?|5|31 - 26 = 5 độ C.|8;3;57
 Một bình 1 l đã có 750 ml. Rót thêm 400 ml thì tràn mấy ml?|150|750 + 400 = 1150; 1150 - 1000 = 150 ml.|250;400;1150
 Hai gói tổng 850 g, gói đầu 325 g. Gói sau hơn gói đầu mấy gam?|200|850 - 325 = 525; 525 - 325 = 200 g.|525;175;1175
+Bài 44
+Tính 213 × 2.|426|213 × 2 = 426.|423;416;436
+Tính 936 : 3.|312|936 : 3 = 312.|302;322;321
+Tính 84 : 4.|21|84 : 4 = 21.|20;24;22
+Một phần ba của 27 là mấy?|9|27 : 3 = 9.|24;30;3
+Hình vuông có mấy cạnh?|4|Hình vuông có bốn cạnh bằng nhau.|3;5;6
+Khối lập phương có mấy đỉnh?|8|Khối có 8 đỉnh, kể cả đỉnh khuất.|6;12;4
+Tính 18 + 7 × 2.|32|7 × 2 = 14; 18 + 14 = 32.|50;25;36
+Tính 60 : (2 × 5).|6|2 × 5 = 10; 60 : 10 = 6.|150;10;12
+1 dm bằng mấy mm?|100|1 dm bằng 10 cm, bằng 100 mm.|10;1000;1
+Tính 500 g cộng 250 g, được mấy gam?|750|500 + 250 = 750 g.|250;650;850
+AB 16 cm, M trung điểm. AM mấy cm?|8|16 : 2 = 8 cm.|16;32;6
+Đường kính 18 mm, bán kính mấy mm?|9|18 : 2 = 9 mm.|18;36;16
+Chia 725 cho 6 thương 120. Dư mấy?|5|6 × 120 + 5 = 725.|6;4;2
+Bạn tính 105 × 4 bằng 420. Đúng không? Trả lời có hoặc không.|có|105 × 4 = 420.|không;chỉ 42;chỉ 405
+Tính 48 : 8 × 3.|18|48 : 8 = 6; 6 × 3 = 18.|2;6;24
+Tính 240 - (80 + 60).|100|80 + 60 = 140; 240 - 140 = 100.|220;160;380
+Số 42 gấp mấy lần 7?|6|42 : 7 = 6 lần.|35;49;7
+Vật từ vạch 6 mm đến 41 mm dài mấy mm?|35|41 - 6 = 35 mm.|41;47;34
+Cân thăng bằng: hộp và 80 g bằng 450 g. Hộp mấy gam?|370|450 - 80 = 370 g.|530;450;80
+Ca 1 l có 650 ml. Cần thêm mấy ml để đầy?|350|1000 - 650 = 350 ml.|650;1000;450
+Ba hộp mỗi hộp 142 thẻ. Có mấy thẻ?|426|142 × 3 = 426 thẻ.|145;416;436
+Có 864 cây chia đều 6 vườn. Mỗi vườn mấy cây?|144|864 : 6 = 144 cây.|134;154;140
+Có 4 túi mỗi túi 125 g, thêm gói 250 g. Tổng mấy gam?|750|125 × 4 = 500; 500 + 250 = 750 g.|375;500;875
+Đường gấp khúc có các đoạn 26 mm, 35 mm, 39 mm. Dài mấy mm?|100|26 + 35 + 39 = 100 mm.|61;90;110
+Dây 8 cm cắt bớt 25 mm. Còn mấy mm?|55|8 cm bằng 80 mm; 80 - 25 = 55 mm.|17;33;105
+Có 920 ml chia đều 4 ca. Một ca uống 80 ml, ca đó còn mấy ml?|150|920 : 4 = 230; 230 - 80 = 150 ml.|230;840;310
+Một tổ làm 18 cờ, tổ khác gấp 3 lần. Tổng mấy cờ?|72|18 × 3 = 54; 18 + 54 = 72 cờ.|54;21;36
+Có 375 nhãn, mỗi trang 8 nhãn. Ít nhất mấy trang chứa hết?|47|8 × 46 + 7 = 375; phần dư cần trang thứ 47.|46;48;45
+Có 375 nhãn dán các trang đúng 8 nhãn. Có mấy trang đầy?|46|8 × 46 + 7 = 375, có 46 trang đầy.|47;45;7
+Một phần năm của 150 hạt được đem gieo. Còn mấy hạt?|120|150 : 5 = 30; 150 - 30 = 120 hạt.|30;145;180
+Mỗi đoạn 24 mm, có 5 đoạn. Cắt bỏ tổng 35 mm. Còn mấy mm?|85|24 × 5 = 120; 120 - 35 = 85 mm.|120;109;155
+Lọ rỗng 70 g, cả lọ và hạt 670 g. Hạt chia 3 phần, mỗi phần mấy gam?|200|670 - 70 = 600; 600 : 3 = 200 g.|600;223;246
+Hai dây dài 18 cm và 6 cm. Dây dài gấp ngắn mấy lần?|3|18 : 6 = 3 lần.|12;24;6
+Có 7 nhóm mỗi nhóm 12 em. Chia lại thành 6 đội. Mỗi đội mấy em?|14|7 × 12 = 84; 84 : 6 = 14 em.|84;19;12
+Một hộp chữ nhật gắn một nhãn ở mỗi mặt. Bốn hộp rời cần mấy nhãn?|24|6 × 4 = 24 nhãn.|32;48;10
+Nhiệt độ mô phỏng sáng 22 °C, trưa tăng 8 độ, tối giảm 5 độ. Tối mấy °C?|25|22 + 8 = 30; 30 - 5 = 25 °C.|35;17;30
+Có 1 l nước, rót ba cốc mỗi cốc 180 ml. Còn mấy ml?|460|180 × 3 = 540; 1000 - 540 = 460 ml.|540;820;360
+Tuần đầu góp 35 quyển, tuần sau gấp 4 lần. Hai tuần góp mấy quyển?|175|35 × 4 = 140; 35 + 140 = 175 quyển.|140;39;105
+Có 3 túi mỗi túi 216 hạt, dùng 48 hạt rồi chia đều 6 luống. Mỗi luống mấy hạt?|100|216 × 3 = 648; 648 - 48 = 600; 600 : 6 = 100 hạt.|600;108;116
+Mỗi khung vuông cần 4 que. Có 92 que, làm 15 khung. Còn đủ làm mấy khung?|8|92 : 4 = 23; 23 - 15 = 8 khung.|23;77;7
