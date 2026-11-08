@@ -1,0 +1,804 @@
+{
+  "id": "TOAN3_T2_B58",
+  "subject": "toan",
+  "grade": 3,
+  "book": "Kết nối tri thức với cuộc sống",
+  "volume": 2,
+  "lesson_no": 58,
+  "title": "Luyện tập chung",
+  "topic": "Phối hợp bốn phép tính trong phạm vi 10000",
+  "source": {
+    "pdf": "03-sgk-toan-3-tap-hai.pdf",
+    "printed_pages": [
+      52,
+      55
+    ],
+    "pdf_pages": [
+      53,
+      56
+    ],
+    "review": "Đã đọc trực quan toàn bộ trang nguồn cho bài này; nội dung và bài tập mới do AI biên soạn."
+  },
+  "objectives": [
+    "Thực hiện đúng phép tính có ngoặc và thứ tự tính.",
+    "Tìm thành phần chưa biết của nhân/chia đơn giản.",
+    "Giải tình huống nhiều nhóm, chia phần và nhiệm vụ hai hoặc ba bước."
+  ],
+  "knowledge": {
+    "introduction": "Một bài có thể cần nhiều phép tính. Hãy xác định lượng trong một nhóm, số nhóm, phần đã dùng hoặc còn lại. Viết kết quả từng bước sẽ giúp không nhầm gấp nhiều lần với hơn một số đơn vị.",
+    "rules": [
+      "Có ngoặc thì tính trong ngoặc trước.",
+      "Không có ngoặc: nhân/chia trước, cộng/trừ sau.",
+      "Các phép cùng mức ưu tiên tính từ trái sang phải.",
+      "Tìm thừa số chưa biết: lấy tích chia thừa số đã biết. Tìm số bị chia: lấy thương nhân số chia.",
+      "Trung điểm chia đoạn thẳng thành hai đoạn bằng nhau; chu vi vuông bằng cạnh nhân 4."
+    ],
+    "steps": [
+      "Tóm tắt lượng đã biết và điều cần tìm.",
+      "Chọn phép tính cho từng quan hệ: gấp, giảm số lần, thêm/bớt.",
+      "Thực hiện từng bước đúng thứ tự, giữ đơn vị.",
+      "Kiểm tra tổng/phần còn lại hoặc dùng phép tính ngược."
+    ],
+    "common_errors": [
+      "Tính cộng trước chia khi không có ngoặc.",
+      "Nhầm “giảm bốn lần” với “bớt bốn đơn vị”.",
+      "Tính được số trong một nhóm nhưng chưa nhân số nhóm được hỏi.",
+      "Quên phần dư khi cần đựng hết."
+    ]
+  },
+  "examples": [
+    {
+      "question": "Tính (1800 + 2400) : 6.",
+      "steps": [
+        "Trong ngoặc: 1800 + 2400 = 4200.",
+        "Sau đó 4200 : 6 = 700."
+      ]
+    },
+    {
+      "question": "Tính 1200 + 1600 : 4.",
+      "steps": [
+        "Chia trước: 1600 : 4 = 400.",
+        "Cộng sau: 1200 + 400 = 1600."
+      ]
+    },
+    {
+      "question": "Có ba hộp, mỗi hộp 1400 nhãn; đã dùng 600 nhãn. Còn bao nhiêu?",
+      "steps": [
+        "Ban đầu: 1400 × 3 = 4200 nhãn.",
+        "Còn lại: 4200 - 600 = 3600 nhãn."
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "question_id": "TOAN3_T2_B58_Q01",
+      "type": "mcq",
+      "question": "Tính 1206 × 4.",
+      "options": [
+        "4824",
+        "4804",
+        "4814",
+        "4820"
+      ],
+      "correct_answer": "4824",
+      "distractors": [
+        "4804",
+        "4814",
+        "4820"
+      ],
+      "explanation": "1206 × 4 = 4824; hàng chục nhận số nhớ từ đơn vị.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B58_Q02",
+      "type": "fill",
+      "question": "Tính 9636 : 3.",
+      "correct_answer": "3212",
+      "distractors": [
+        "3122",
+        "3210",
+        "3312"
+      ],
+      "explanation": "9636 : 3 = 3212.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B58_Q03",
+      "type": "mcq",
+      "question": "Tính 4205 + 1695.",
+      "options": [
+        "5900",
+        "5800",
+        "5890",
+        "6000"
+      ],
+      "correct_answer": "5900",
+      "distractors": [
+        "5800",
+        "5890",
+        "6000"
+      ],
+      "explanation": "4205 + 1695 = 5900.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B58_Q04",
+      "type": "fill",
+      "question": "Tính 7004 - 2586.",
+      "correct_answer": "4418",
+      "distractors": [
+        "4518",
+        "4408",
+        "5418"
+      ],
+      "explanation": "7004 - 2586 = 4418; kiểm tra 4418 + 2586 = 7004.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B58_Q05",
+      "type": "mcq",
+      "question": "Trong biểu thức có dấu ngoặc, thực hiện phần trong ngoặc trước hay sau? Viết trước hoặc sau.",
+      "options": [
+        "trước",
+        "sau",
+        "tùy ý",
+        "chỉ khi có nhân"
+      ],
+      "correct_answer": "trước",
+      "distractors": [
+        "sau",
+        "tùy ý",
+        "chỉ khi có nhân"
+      ],
+      "explanation": "Dấu ngoặc yêu cầu tính phần bên trong trước.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B58_Q06",
+      "type": "fill",
+      "question": "Tính 1080 × 5.",
+      "correct_answer": "5400",
+      "distractors": [
+        "5040",
+        "5800",
+        "1085"
+      ],
+      "explanation": "1080 × 5 = 5400.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B58_Q07",
+      "type": "mcq",
+      "question": "Tính 8100 : 9.",
+      "options": [
+        "900",
+        "90",
+        "901",
+        "9000"
+      ],
+      "correct_answer": "900",
+      "distractors": [
+        "90",
+        "901",
+        "9000"
+      ],
+      "explanation": "Chín trăm nhân 9 bằng 8100.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B58_Q08",
+      "type": "fill",
+      "question": "Số dư của phép chia 5501 cho 5 là mấy?",
+      "correct_answer": "1",
+      "distractors": [
+        "0",
+        "5",
+        "4"
+      ],
+      "explanation": "1100 × 5 + 1 = 5501.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B58_Q09",
+      "type": "mcq",
+      "question": "Tính 3400 + 600.",
+      "options": [
+        "4000",
+        "3460",
+        "3900",
+        "4600"
+      ],
+      "correct_answer": "4000",
+      "distractors": [
+        "3460",
+        "3900",
+        "4600"
+      ],
+      "explanation": "34 trăm thêm 6 trăm thành 40 trăm.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B58_Q10",
+      "type": "fill",
+      "question": "Tính 6000 - 2750.",
+      "correct_answer": "3250",
+      "distractors": [
+        "3350",
+        "4250",
+        "8750"
+      ],
+      "explanation": "6000 - 2750 = 3250.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B58_Q11",
+      "type": "mcq",
+      "question": "Tính giá trị biểu thức (1500 + 2500) : 4.",
+      "options": [
+        "1000",
+        "2125",
+        "4000",
+        "1600"
+      ],
+      "correct_answer": "1000",
+      "distractors": [
+        "2125",
+        "4000",
+        "1600"
+      ],
+      "explanation": "Trong ngoặc được 4000; chia 4 được 1000.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B58_Q12",
+      "type": "fill",
+      "question": "Tính giá trị biểu thức 1305 × (7 - 3).",
+      "correct_answer": "5220",
+      "distractors": [
+        "9132",
+        "5210",
+        "5230"
+      ],
+      "explanation": "Trong ngoặc được 4; 1305 × 4 = 5220.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B58_Q13",
+      "type": "mcq",
+      "question": "Tìm số còn thiếu: ? × 3 = 2754.",
+      "options": [
+        "918",
+        "917",
+        "828",
+        "8262"
+      ],
+      "correct_answer": "918",
+      "distractors": [
+        "917",
+        "828",
+        "8262"
+      ],
+      "explanation": "2754 : 3 = 918; 918 × 3 = 2754.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B58_Q14",
+      "type": "fill",
+      "question": "Tìm số còn thiếu: ? : 4 = 725.",
+      "correct_answer": "2900",
+      "distractors": [
+        "721",
+        "729",
+        "181"
+      ],
+      "explanation": "Số bị chia bằng thương nhân số chia; 725 × 4 = 2900.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B58_Q15",
+      "type": "mcq",
+      "question": "Chọn kết quả lớn hơn: 1240 × 3 hay 7500 : 2. Ghi giá trị lớn hơn.",
+      "options": [
+        "3750",
+        "3720",
+        "30",
+        "7490"
+      ],
+      "correct_answer": "3750",
+      "distractors": [
+        "3720",
+        "30",
+        "7490"
+      ],
+      "explanation": "Hai kết quả là 3720 và 3750; 3750 lớn hơn.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B58_Q16",
+      "type": "fill",
+      "question": "Tính 1620 : 3 × 2 theo thứ tự từ trái sang phải.",
+      "correct_answer": "1080",
+      "distractors": [
+        "270",
+        "540",
+        "3240"
+      ],
+      "explanation": "1620 : 3 = 540; 540 × 2 = 1080.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B58_Q17",
+      "type": "mcq",
+      "question": "Tính 4800 - 600 × 3.",
+      "options": [
+        "3000",
+        "12600",
+        "4200",
+        "6600"
+      ],
+      "correct_answer": "3000",
+      "distractors": [
+        "12600",
+        "4200",
+        "6600"
+      ],
+      "explanation": "Nhân trước: 600 × 3 = 1800; 4800 - 1800 = 3000.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B58_Q18",
+      "type": "fill",
+      "question": "Một số giảm 4 lần là lấy số đó chia 4 hay trừ 4? Viết chia hoặc trừ.",
+      "correct_answer": "chia",
+      "distractors": [
+        "trừ",
+        "cộng",
+        "nhân"
+      ],
+      "explanation": "Giảm một số đi bốn lần là chia số đó cho 4.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B58_Q19",
+      "type": "mcq",
+      "question": "Một bạn tính 1000 + 2000 : 5 thành 600. Kết quả đúng là bao nhiêu?",
+      "options": [
+        "1400",
+        "600",
+        "3000",
+        "1200"
+      ],
+      "correct_answer": "1400",
+      "distractors": [
+        "600",
+        "3000",
+        "1200"
+      ],
+      "explanation": "Chia trước: 2000 : 5 = 400; 1000 + 400 = 1400.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B58_Q20",
+      "type": "fill",
+      "question": "Muốn tìm một phần ba của 4500, kết quả là bao nhiêu?",
+      "correct_answer": "1500",
+      "distractors": [
+        "4497",
+        "13500",
+        "3000"
+      ],
+      "explanation": "4500 : 3 = 1500.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B58_Q21",
+      "type": "mcq",
+      "question": "Một đội có 1450 cây giống, đội thứ hai có gấp 3 lần. Cả hai đội có bao nhiêu cây?",
+      "options": [
+        "5800",
+        "4350",
+        "2900",
+        "7250"
+      ],
+      "correct_answer": "5800",
+      "distractors": [
+        "4350",
+        "2900",
+        "7250"
+      ],
+      "explanation": "Đội thứ hai 4350 cây; tổng 1450 + 4350 = 5800.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B58_Q22",
+      "type": "fill",
+      "question": "Bốn thùng mỗi thùng 1250 chai, đã dùng 875 chai. Còn bao nhiêu chai?",
+      "correct_answer": "4125",
+      "distractors": [
+        "5000",
+        "4000",
+        "5875"
+      ],
+      "explanation": "Ban đầu 5000 chai; 5000 - 875 = 4125.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B58_Q23",
+      "type": "mcq",
+      "question": "Sáu hộp bút có tổng 4836 chiếc bằng nhau mỗi hộp. Mua thêm 194 chiếc vào một hộp. Hộp đó có bao nhiêu chiếc?",
+      "options": [
+        "1000",
+        "806",
+        "5030",
+        "900"
+      ],
+      "correct_answer": "1000",
+      "distractors": [
+        "806",
+        "5030",
+        "900"
+      ],
+      "explanation": "Mỗi hộp 806 chiếc; 806 + 194 = 1000.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B58_Q24",
+      "type": "fill",
+      "question": "Tàu có 8400 kg hàng. Dỡ xuống để số hàng còn lại bằng một phần tư ban đầu. Đã dỡ bao nhiêu ki-lô-gam?",
+      "correct_answer": "6300",
+      "distractors": [
+        "2100",
+        "8396",
+        "4200"
+      ],
+      "explanation": "Còn lại 2100 kg; dỡ 8400 - 2100 = 6300 kg.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B58_Q25",
+      "type": "mcq",
+      "question": "Hai đường đi: A gồm 4 đoạn mỗi đoạn 420 m; B gồm 3 đoạn mỗi đoạn 550 m. Đường nào ngắn hơn? Ghi A hoặc B.",
+      "options": [
+        "B",
+        "A",
+        "bằng nhau",
+        "không xác định"
+      ],
+      "correct_answer": "B",
+      "distractors": [
+        "A",
+        "bằng nhau",
+        "không xác định"
+      ],
+      "explanation": "A dài 1680 m, B dài 1650 m nên B ngắn hơn.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B58_Q26",
+      "type": "fill",
+      "question": "Một dây dài 1680 cm chia thành 5 đoạn bằng nhau. Mỗi đoạn dài bao nhiêu xăng-ti-mét?",
+      "correct_answer": "336",
+      "distractors": [
+        "335",
+        "340",
+        "8400"
+      ],
+      "explanation": "1680 : 5 = 336 cm.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B58_Q27",
+      "type": "mcq",
+      "question": "Mỗi pin đồ chơi nặng như nhau. Bốn pin tổng 840 g. Thân máy không pin nặng 1200 g; lắp 3 pin nặng tổng bao nhiêu gam?",
+      "options": [
+        "1830",
+        "2040",
+        "1410",
+        "2520"
+      ],
+      "correct_answer": "1830",
+      "distractors": [
+        "2040",
+        "1410",
+        "2520"
+      ],
+      "explanation": "Mỗi pin 210 g; ba pin 630 g, thêm thân 1200 g được 1830 g.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B58_Q28",
+      "type": "fill",
+      "question": "Một khung lập phương có 12 cạnh. Mỗi cạnh dài 30 cm, chỉ viền 8 cạnh không nằm sát mặt đất. Tổng dây viền bao nhiêu xăng-ti-mét?",
+      "correct_answer": "240",
+      "distractors": [
+        "360",
+        "120",
+        "90"
+      ],
+      "explanation": "Có 8 cạnh cần viền; 30 × 8 = 240 cm; dữ kiện 12 cạnh giúp phân biệt với viền toàn bộ.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B58_Q29",
+      "type": "mcq",
+      "question": "Một cột mốc ở trung điểm cạnh khu đất vuông dài 1840 m như hình A. Từ đầu cạnh tới cột mốc dài bao nhiêu mét?",
+      "options": [
+        "920",
+        "1840",
+        "3680",
+        "460"
+      ],
+      "correct_answer": "920",
+      "distractors": [
+        "1840",
+        "3680",
+        "460"
+      ],
+      "explanation": "Trung điểm chia cạnh thành hai đoạn bằng nhau; 1840 : 2 = 920 m.",
+      "difficulty": "van_dung",
+      "figure": {
+        "path": "content/toan/tap-2/TOAN3_T2_B58_A.svg",
+        "caption": "Khu đất vuông ABCD, cạnh AB dài 1840 m, I là trung điểm AB."
+      }
+    },
+    {
+      "question_id": "TOAN3_T2_B58_Q30",
+      "type": "fill",
+      "question": "Khu đất vuông cạnh 1840 m có chu vi bao nhiêu mét?",
+      "correct_answer": "7360",
+      "distractors": [
+        "3680",
+        "920",
+        "7260"
+      ],
+      "explanation": "1840 × 4 = 7360 m.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B58_Q31",
+      "type": "mcq",
+      "question": "Máy A sản xuất 1025 hộp mỗi giờ trong 4 giờ. Máy B sản xuất tổng 3900 hộp. A nhiều hơn B bao nhiêu hộp?",
+      "options": [
+        "200",
+        "100",
+        "4100",
+        "4925"
+      ],
+      "correct_answer": "200",
+      "distractors": [
+        "100",
+        "4100",
+        "4925"
+      ],
+      "explanation": "A làm 4100 hộp; 4100 - 3900 = 200 hộp.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B58_Q32",
+      "type": "fill",
+      "question": "Một đường dài 4200 m lát bằng các tấm nối tiếp dài 6 m, không chồng, không hở. Cần bao nhiêu tấm?",
+      "correct_answer": "700",
+      "distractors": [
+        "70",
+        "699",
+        "25200"
+      ],
+      "explanation": "4200 : 6 = 700 tấm.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B58_Q33",
+      "type": "mcq",
+      "question": "Một kho có 7150 kg gạo. Lấy ra 1150 kg rồi chia phần còn lại đều cho 5 xe. Mỗi xe bao nhiêu ki-lô-gam?",
+      "options": [
+        "1200",
+        "1430",
+        "6000",
+        "600"
+      ],
+      "correct_answer": "1200",
+      "distractors": [
+        "1430",
+        "6000",
+        "600"
+      ],
+      "explanation": "Còn 6000 kg; 6000 : 5 = 1200 kg.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B58_Q34",
+      "type": "fill",
+      "question": "Chia 3085 nhãn vào các túi tối đa 4 nhãn. Cần ít nhất bao nhiêu túi để đựng hết?",
+      "correct_answer": "772",
+      "distractors": [
+        "771",
+        "770",
+        "773"
+      ],
+      "explanation": "771 × 4 + 1 = 3085; cần thêm một túi cho nhãn lẻ.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B58_Q35",
+      "type": "mcq",
+      "question": "Một cuộn dây dài 9500 cm, cắt 3 đoạn mỗi đoạn 1250 cm. Phần còn lại bao nhiêu xăng-ti-mét?",
+      "options": [
+        "5750",
+        "8250",
+        "3750",
+        "5650"
+      ],
+      "correct_answer": "5750",
+      "distractors": [
+        "8250",
+        "3750",
+        "5650"
+      ],
+      "explanation": "Ba đoạn dài 3750 cm; 9500 - 3750 = 5750 cm.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B58_Q36",
+      "type": "fill",
+      "question": "Ba bạn góp lần lượt 1500, 2200, 2300 viên sỏi. Chia đều tổng số sỏi vào 6 hộp, mỗi hộp bao nhiêu viên?",
+      "correct_answer": "1000",
+      "distractors": [
+        "6000",
+        "100",
+        "900"
+      ],
+      "explanation": "Tổng 6000 viên; 6000 : 6 = 1000 viên.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B58_Q37",
+      "type": "mcq",
+      "question": "Ba bao hàng mỗi bao 2100 kg. Chuyển bớt 900 kg tổng cộng rồi chia đều phần còn lại vào 3 xe. Mỗi xe bao nhiêu ki-lô-gam?",
+      "options": [
+        "1800",
+        "1200",
+        "2100",
+        "5400"
+      ],
+      "correct_answer": "1800",
+      "distractors": [
+        "1200",
+        "2100",
+        "5400"
+      ],
+      "explanation": "Có 6300 kg, còn 5400 kg sau chuyển bớt; 5400 : 3 = 1800 kg.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B58_Q38",
+      "type": "fill",
+      "question": "Có 2016 chiếc cúc chia đều cho 8 nhóm. Mỗi nhóm dùng 152 chiếc. Tất cả các nhóm còn tổng bao nhiêu chiếc?",
+      "correct_answer": "800",
+      "distractors": [
+        "100",
+        "1864",
+        "1216"
+      ],
+      "explanation": "Mỗi nhóm nhận 252 chiếc, còn 100 chiếc; 100 × 8 = 800 chiếc.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B58_Q39",
+      "type": "mcq",
+      "question": "Tính số cuối của máy: bắt đầu 1200, nhân 3, trừ 600, chia 5.",
+      "options": [
+        "600",
+        "720",
+        "3000",
+        "120"
+      ],
+      "correct_answer": "600",
+      "distractors": [
+        "720",
+        "3000",
+        "120"
+      ],
+      "explanation": "1200 × 3 = 3600; bớt 600 còn 3000; 3000 : 5 = 600.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B58_Q40",
+      "type": "fill",
+      "question": "Một thùng 3600 ml nước chia đều vào 4 chai; mỗi chai lại rót đều vào 3 cốc. Một cốc có bao nhiêu mi-li-lít?",
+      "correct_answer": "300",
+      "distractors": [
+        "900",
+        "1200",
+        "100"
+      ],
+      "explanation": "Một chai có 900 ml; chia ba được 300 ml mỗi cốc.",
+      "difficulty": "van_dung"
+    }
+  ],
+  "games": [
+    {
+      "id": "TOAN3_T2_B58_GAME1",
+      "title": "Xưởng tính nhiều bước",
+      "mode": "speed",
+      "objective": "Chọn đúng phép tính và thứ tự trước khi trả lời trong thời gian lượt chơi.",
+      "rules": [
+        "Trả lời các câu thuộc bài trong 60 giây.",
+        "Mỗi câu đúng được 10 điểm, sai không được điểm; chuyển ngay sang câu tiếp.",
+        "Hết giờ thì kết thúc. Điểm riêng của lượt chơi, không thay kết quả luyện tập."
+      ],
+      "question_ids": [
+        "TOAN3_T2_B58_Q01",
+        "TOAN3_T2_B58_Q02",
+        "TOAN3_T2_B58_Q03",
+        "TOAN3_T2_B58_Q04",
+        "TOAN3_T2_B58_Q05",
+        "TOAN3_T2_B58_Q06",
+        "TOAN3_T2_B58_Q07",
+        "TOAN3_T2_B58_Q08",
+        "TOAN3_T2_B58_Q09",
+        "TOAN3_T2_B58_Q10",
+        "TOAN3_T2_B58_Q11",
+        "TOAN3_T2_B58_Q12",
+        "TOAN3_T2_B58_Q13",
+        "TOAN3_T2_B58_Q14",
+        "TOAN3_T2_B58_Q15",
+        "TOAN3_T2_B58_Q16",
+        "TOAN3_T2_B58_Q17",
+        "TOAN3_T2_B58_Q18",
+        "TOAN3_T2_B58_Q19",
+        "TOAN3_T2_B58_Q20",
+        "TOAN3_T2_B58_Q21",
+        "TOAN3_T2_B58_Q22",
+        "TOAN3_T2_B58_Q23",
+        "TOAN3_T2_B58_Q24",
+        "TOAN3_T2_B58_Q25",
+        "TOAN3_T2_B58_Q26",
+        "TOAN3_T2_B58_Q27",
+        "TOAN3_T2_B58_Q28",
+        "TOAN3_T2_B58_Q29",
+        "TOAN3_T2_B58_Q30",
+        "TOAN3_T2_B58_Q31",
+        "TOAN3_T2_B58_Q32",
+        "TOAN3_T2_B58_Q33",
+        "TOAN3_T2_B58_Q34",
+        "TOAN3_T2_B58_Q35",
+        "TOAN3_T2_B58_Q36",
+        "TOAN3_T2_B58_Q37",
+        "TOAN3_T2_B58_Q38",
+        "TOAN3_T2_B58_Q39",
+        "TOAN3_T2_B58_Q40"
+      ],
+      "answer_source": "practice.correct_answer",
+      "feedback_source": "practice.explanation",
+      "max_score": null
+    }
+  ],
+  "assessment": {
+    "session_size": 10,
+    "distribution": {
+      "nhan_biet": 3,
+      "thong_hieu": 3,
+      "van_dung": 4
+    },
+    "scoring": "Đúng lần đầu: 1 điểm; đúng sau một gợi ý: 0,5 điểm. Từ 90%: 3 sao; từ 60%: 2 sao; còn lại: 1 sao.",
+    "review_advice": "Xem lời giải các câu sai, đọc lại quy tắc, rồi làm một lượt mới."
+  },
+  "feedback": {
+    "correct": "Chính xác! Hãy đọc lời giải để củng cố cách làm.",
+    "incorrect": "Em thử lại một lần. Sau đó xem đáp án và cách giải."
+  },
+  "verification": {
+    "ai_authored": true,
+    "structure_checked": true,
+    "answer_reviewed": true,
+    "source_reviewed": true,
+    "teacher_approved": false
+  },
+  "status": "AI_CHECKED_AWAITING_TEACHER",
+  "figures": [
+    {
+      "path": "content/toan/tap-2/TOAN3_T2_B58_A.svg",
+      "caption": "Khu đất vuông ABCD, cạnh AB dài 1840 m, I là trung điểm AB."
+    }
+  ]
+}

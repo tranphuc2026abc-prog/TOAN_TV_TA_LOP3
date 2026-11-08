@@ -1,0 +1,164 @@
+Bài 57
+Tính 8424 : 4.|2106|8424 : 4 = 2106; không bỏ chữ số 0 ở hàng chục của thương.|216;2016;2104
+Nhẩm 6000 : 3.|2000|Sáu nghìn chia ba phần bằng nhau, mỗi phần hai nghìn.|3000;200;18000
+Tính 4848 : 2.|2424|Chia lần lượt các hàng từ trái sang phải được 2424.|2244;2404;9696
+Trong phép chia đặt dọc, bắt đầu xét từ bên nào? Viết trái hoặc phải.|trái|Bắt đầu từ hàng cao nhất bên trái, khác với cộng và nhân đặt dọc.|phải;giữa;tùy ý
+Số dư của phép chia cho 5 phải bé hơn số nào?|5|Số dư luôn bé hơn số chia, ở đây là 5.|4;6;10
+Tính 3150 : 5.|630|31 chia 5 được 6 dư 1, hạ 5 được 15 chia 5 được 3, hạ 0 được 0; thương 630.|63;603;650
+Số chia là 4, thương là 502, số dư là 3. Số bị chia là bao nhiêu?|2011|502 × 4 + 3 = 2011.|2008;2012;2005
+Tính 7070 : 7.|1010|7070 : 7 = 1010; phải ghi đủ các chữ số 0 trong thương.|110;1001;101
+Chia 1000 cho 1 được bao nhiêu?|1000|Một số chia cho 1 bằng chính số đó.|1;0;100
+Một phép chia cho 3 có dư 0. Phép chia đó có phải chia hết không?|có|Số dư bằng 0 nghĩa là chia hết.|không;chưa biết;chỉ khi thương bằng 3
+Tính 2564 : 4.|641|25 chia 4 được 6 dư 1; hạ 6 được 16, chia được 4; hạ 4 chia được 1. Thương 641.|640;614;651
+Tính 4703 : 5; viết theo mẫu “thương dư số dư”.|940 dư 3|940 × 5 + 3 = 4703; số dư 3 bé hơn 5.|94 dư 3;940 dư 5;941 dư 2
+Bạn viết 6030 : 3 = 21 vì bỏ các chữ số 0. Thương đúng là bao nhiêu?|2010|6030 : 3 = 2010; các hàng có thương 0 vẫn cần ghi.|210;2001;2030
+Chia 3210 cho 8 được thương 401. Số dư bao nhiêu?|2|401 × 8 = 3208; 3210 - 3208 = 2, bé hơn 8.|0;1;8
+Một bạn ghi 2080 chia 6 được 345 dư 10. Sau điều chỉnh, thương đúng là bao nhiêu?|346|Dư 10 còn đủ thêm một nhóm 6; 346 × 6 + 4 = 2080.|345;347;344
+Tính 5004 : 6.|834|50 chia 6 được 8 dư 2; hạ 0 được 20, chia được 3 dư 2; hạ 4 được 24, chia được 4.|84;804;843
+Muốn kiểm tra 8245 chia 4 được 2061 dư 1, tính 2061 × 4 rồi cộng số nào?|1|Thương nhân số chia cộng số dư bằng số bị chia; cộng 1.|4;2061;8245
+Một số có bốn chữ số chia 9, số đầu bên trái là 1. Lần chia đầu có cần lấy hai chữ số đầu không?|có|Một nghìn chia 9 chưa đủ một nghìn trong thương nên xét hai chữ số đầu để bắt đầu.|không;luôn lấy ba chữ số;chỉ xét đơn vị
+Trong phép chia 4080 : 4, thương có mấy chữ số?|4|4080 : 4 = 1020, gồm bốn chữ số, kể cả hai chữ số 0.|2;3;5
+Chia 1867 cho 3. Chỉ ghi số dư.|1|622 × 3 + 1 = 1867, số dư là 1.|0;2;3
+Có 3608 chiếc cúc chia đều vào 4 túi. Mỗi túi bao nhiêu chiếc?|902|3608 : 4 = 902 chiếc mỗi túi.|92;920;904
+Có 4523 quả cam, mỗi hộp 6 quả. Đóng được nhiều nhất bao nhiêu hộp đầy?|753|753 × 6 + 5 = 4523; đóng 753 hộp đầy, còn 5 quả.|754;752;755
+Có 4523 quả cam, mỗi hộp tối đa 6 quả. Cần ít nhất bao nhiêu hộp để đựng hết?|754|753 hộp đầy còn 5 quả, cần thêm một hộp; tổng 754 hộp.|753;752;755
+Một sợi dây 7400 cm chia thành 8 đoạn bằng nhau. Mỗi đoạn bao nhiêu xăng-ti-mét?|925|7400 : 8 = 925 cm.|95;920;950
+Bốn đội trồng tổng 6284 cây, số cây mỗi đội bằng nhau. Một đội trồng bao nhiêu cây?|1571|6284 : 4 = 1571 cây.|1561;1570;1671
+Kho có 5290 kg thóc, xuất một phần năm số đó. Đã xuất bao nhiêu ki-lô-gam?|1058|Một phần năm của 5290 là 5290 : 5 = 1058 kg.|158;1050;4232
+Kho có 5290 kg thóc, xuất một phần năm số đó. Còn bao nhiêu ki-lô-gam?|4232|Đã xuất 1058 kg; 5290 - 1058 = 4232 kg.|1058;4242;5295
+Một trường có 1825 chiếc ghế, xếp mỗi hàng 7 chiếc. Xếp được nhiều nhất bao nhiêu hàng đủ 7 chiếc?|260|260 × 7 + 5 = 1825; có 260 hàng đủ và 5 ghế lẻ.|261;250;265
+Một xe đi 4872 m trong 6 phút, mỗi phút đi đều nhau. Mỗi phút đi bao nhiêu mét?|812|4872 : 6 = 812 m.|82;821;802
+Có 2050 hạt chia đều vào 4 hộp, chỉ chia số hạt nguyên. Sau khi mỗi hộp nhận nhiều nhất bằng nhau, còn mấy hạt?|2|512 × 4 + 2 = 2050; còn 2 hạt.|0;1;4
+Ba bao gạo nặng bằng nhau có tổng 4500 kg. Một bao được chia thành 5 phần bằng nhau. Mỗi phần bao nhiêu ki-lô-gam?|300|Một bao 1500 kg; 1500 : 5 = 300 kg.|900;1500;100
+Có 6408 tờ giấy chia đều cho 8 lớp. Mỗi lớp dùng 200 tờ. Mỗi lớp còn bao nhiêu tờ?|601|Mỗi lớp nhận 801 tờ; 801 - 200 = 601 tờ.|801;6208;600
+Tấm vải 3225 cm cắt các đoạn 4 cm. Phần vải thừa không đủ một đoạn dài bao nhiêu xăng-ti-mét?|1|806 × 4 + 1 = 3225; còn 1 cm.|0;2;4
+Một máy làm 5607 sản phẩm trong 7 ngày, mỗi ngày bằng nhau. Mỗi ngày làm bao nhiêu sản phẩm?|801|5607 : 7 = 801; không bỏ chữ số 0 hàng chục.|81;810;800
+Có 1980 viên bi chia đều vào 9 hộp. Hai hộp chứa tổng bao nhiêu viên?|440|Mỗi hộp 220 viên; hai hộp 220 × 2 = 440 viên.|220;990;396
+Một vườn có 3120 cây, chia đều thành 4 khu. Khu A có thêm 120 cây mới. Lúc này khu A có bao nhiêu cây?|900|Ban đầu mỗi khu 780 cây; thêm 120 được 900 cây.|780;800;3240
+Nhà máy có 9015 viên gạch, mỗi xe chở tối đa 8 viên trong mô hình đồ chơi. Cần ít nhất bao nhiêu chuyến để chở hết?|1127|1126 × 8 + 7 = 9015; còn 7 viên nên cần thêm một chuyến.|1126;1125;1128
+Một số chia 7 được 305 dư 6. Nếu thêm 1 vào số đó rồi chia 7 thì thương mới là bao nhiêu?|306|Số ban đầu 2141; thêm 1 được 2142, gồm 306 nhóm 7.|305;307;304
+Lớp có 1736 nhãn chia đều cho 7 tổ. Mỗi tổ tặng 48 nhãn cho thư viện. Mỗi tổ còn bao nhiêu nhãn?|200|Mỗi tổ nhận 248 nhãn; 248 - 48 = 200 nhãn.|248;1688;240
+Một đội chia 2825 cây giống vào 5 luống bằng nhau. Sau đó mỗi luống thêm 35 cây. Mỗi luống lúc này có bao nhiêu cây?|600|2825 : 5 = 565; 565 + 35 = 600 cây.|565;2860;570
+Bài 58
+Tính 1206 × 4.|4824|1206 × 4 = 4824; hàng chục nhận số nhớ từ đơn vị.|4804;4814;4820
+Tính 9636 : 3.|3212|9636 : 3 = 3212.|3122;3210;3312
+Tính 4205 + 1695.|5900|4205 + 1695 = 5900.|5800;5890;6000
+Tính 7004 - 2586.|4418|7004 - 2586 = 4418; kiểm tra 4418 + 2586 = 7004.|4518;4408;5418
+Trong biểu thức có dấu ngoặc, thực hiện phần trong ngoặc trước hay sau? Viết trước hoặc sau.|trước|Dấu ngoặc yêu cầu tính phần bên trong trước.|sau;tùy ý;chỉ khi có nhân
+Tính 1080 × 5.|5400|1080 × 5 = 5400.|5040;5800;1085
+Tính 8100 : 9.|900|Chín trăm nhân 9 bằng 8100.|90;901;9000
+Số dư của phép chia 5501 cho 5 là mấy?|1|1100 × 5 + 1 = 5501.|0;5;4
+Tính 3400 + 600.|4000|34 trăm thêm 6 trăm thành 40 trăm.|3460;3900;4600
+Tính 6000 - 2750.|3250|6000 - 2750 = 3250.|3350;4250;8750
+Tính giá trị biểu thức (1500 + 2500) : 4.|1000|Trong ngoặc được 4000; chia 4 được 1000.|2125;4000;1600
+Tính giá trị biểu thức 1305 × (7 - 3).|5220|Trong ngoặc được 4; 1305 × 4 = 5220.|9132;5210;5230
+Tìm số còn thiếu: ? × 3 = 2754.|918|2754 : 3 = 918; 918 × 3 = 2754.|917;828;8262
+Tìm số còn thiếu: ? : 4 = 725.|2900|Số bị chia bằng thương nhân số chia; 725 × 4 = 2900.|721;729;181
+Chọn kết quả lớn hơn: 1240 × 3 hay 7500 : 2. Ghi giá trị lớn hơn.|3750|Hai kết quả là 3720 và 3750; 3750 lớn hơn.|3720;30;7490
+Tính 1620 : 3 × 2 theo thứ tự từ trái sang phải.|1080|1620 : 3 = 540; 540 × 2 = 1080.|270;540;3240
+Tính 4800 - 600 × 3.|3000|Nhân trước: 600 × 3 = 1800; 4800 - 1800 = 3000.|12600;4200;6600
+Một số giảm 4 lần là lấy số đó chia 4 hay trừ 4? Viết chia hoặc trừ.|chia|Giảm một số đi bốn lần là chia số đó cho 4.|trừ;cộng;nhân
+Một bạn tính 1000 + 2000 : 5 thành 600. Kết quả đúng là bao nhiêu?|1400|Chia trước: 2000 : 5 = 400; 1000 + 400 = 1400.|600;3000;1200
+Muốn tìm một phần ba của 4500, kết quả là bao nhiêu?|1500|4500 : 3 = 1500.|4497;13500;3000
+Một đội có 1450 cây giống, đội thứ hai có gấp 3 lần. Cả hai đội có bao nhiêu cây?|5800|Đội thứ hai 4350 cây; tổng 1450 + 4350 = 5800.|4350;2900;7250
+Bốn thùng mỗi thùng 1250 chai, đã dùng 875 chai. Còn bao nhiêu chai?|4125|Ban đầu 5000 chai; 5000 - 875 = 4125.|5000;4000;5875
+Sáu hộp bút có tổng 4836 chiếc bằng nhau mỗi hộp. Mua thêm 194 chiếc vào một hộp. Hộp đó có bao nhiêu chiếc?|1000|Mỗi hộp 806 chiếc; 806 + 194 = 1000.|806;5030;900
+Tàu có 8400 kg hàng. Dỡ xuống để số hàng còn lại bằng một phần tư ban đầu. Đã dỡ bao nhiêu ki-lô-gam?|6300|Còn lại 2100 kg; dỡ 8400 - 2100 = 6300 kg.|2100;8396;4200
+Hai đường đi: A gồm 4 đoạn mỗi đoạn 420 m; B gồm 3 đoạn mỗi đoạn 550 m. Đường nào ngắn hơn? Ghi A hoặc B.|B|A dài 1680 m, B dài 1650 m nên B ngắn hơn.|A;bằng nhau;không xác định
+Một dây dài 1680 cm chia thành 5 đoạn bằng nhau. Mỗi đoạn dài bao nhiêu xăng-ti-mét?|336|1680 : 5 = 336 cm.|335;340;8400
+Mỗi pin đồ chơi nặng như nhau. Bốn pin tổng 840 g. Thân máy không pin nặng 1200 g; lắp 3 pin nặng tổng bao nhiêu gam?|1830|Mỗi pin 210 g; ba pin 630 g, thêm thân 1200 g được 1830 g.|2040;1410;2520
+Một khung lập phương có 12 cạnh. Mỗi cạnh dài 30 cm, chỉ viền 8 cạnh không nằm sát mặt đất. Tổng dây viền bao nhiêu xăng-ti-mét?|240|Có 8 cạnh cần viền; 30 × 8 = 240 cm; dữ kiện 12 cạnh giúp phân biệt với viền toàn bộ.|360;120;90
+Một cột mốc ở trung điểm cạnh khu đất vuông dài 1840 m như hình A. Từ đầu cạnh tới cột mốc dài bao nhiêu mét?|920|Trung điểm chia cạnh thành hai đoạn bằng nhau; 1840 : 2 = 920 m.|1840;3680;460
+Khu đất vuông cạnh 1840 m có chu vi bao nhiêu mét?|7360|1840 × 4 = 7360 m.|3680;920;7260
+Máy A sản xuất 1025 hộp mỗi giờ trong 4 giờ. Máy B sản xuất tổng 3900 hộp. A nhiều hơn B bao nhiêu hộp?|200|A làm 4100 hộp; 4100 - 3900 = 200 hộp.|100;4100;4925
+Một đường dài 4200 m lát bằng các tấm nối tiếp dài 6 m, không chồng, không hở. Cần bao nhiêu tấm?|700|4200 : 6 = 700 tấm.|70;699;25200
+Một kho có 7150 kg gạo. Lấy ra 1150 kg rồi chia phần còn lại đều cho 5 xe. Mỗi xe bao nhiêu ki-lô-gam?|1200|Còn 6000 kg; 6000 : 5 = 1200 kg.|1430;6000;600
+Chia 3085 nhãn vào các túi tối đa 4 nhãn. Cần ít nhất bao nhiêu túi để đựng hết?|772|771 × 4 + 1 = 3085; cần thêm một túi cho nhãn lẻ.|771;770;773
+Một cuộn dây dài 9500 cm, cắt 3 đoạn mỗi đoạn 1250 cm. Phần còn lại bao nhiêu xăng-ti-mét?|5750|Ba đoạn dài 3750 cm; 9500 - 3750 = 5750 cm.|8250;3750;5650
+Ba bạn góp lần lượt 1500, 2200, 2300 viên sỏi. Chia đều tổng số sỏi vào 6 hộp, mỗi hộp bao nhiêu viên?|1000|Tổng 6000 viên; 6000 : 6 = 1000 viên.|6000;100;900
+Ba bao hàng mỗi bao 2100 kg. Chuyển bớt 900 kg tổng cộng rồi chia đều phần còn lại vào 3 xe. Mỗi xe bao nhiêu ki-lô-gam?|1800|Có 6300 kg, còn 5400 kg sau chuyển bớt; 5400 : 3 = 1800 kg.|1200;2100;5400
+Có 2016 chiếc cúc chia đều cho 8 nhóm. Mỗi nhóm dùng 152 chiếc. Tất cả các nhóm còn tổng bao nhiêu chiếc?|800|Mỗi nhóm nhận 252 chiếc, còn 100 chiếc; 100 × 8 = 800 chiếc.|100;1864;1216
+Tính số cuối của máy: bắt đầu 1200, nhân 3, trừ 600, chia 5.|600|1200 × 3 = 3600; bớt 600 còn 3000; 3000 : 5 = 600.|720;3000;120
+Một thùng 3600 ml nước chia đều vào 4 chai; mỗi chai lại rót đều vào 3 cốc. Một cốc có bao nhiêu mi-li-lít?|300|Một chai có 900 ml; chia ba được 300 ml mỗi cốc.|900;1200;100
+Bài 59
+Chữ số hàng chục nghìn của 58324 là mấy?|5|Năm hàng từ trái sang phải: chục nghìn, nghìn, trăm, chục, đơn vị.|8;3;2
+Trong số 70406, chữ số hàng nghìn là mấy?|0|70406 có 7 chục nghìn, 0 nghìn, 4 trăm, 0 chục, 6 đơn vị.|7;4;6
+Giá trị chữ số 8 trong 28615 là bao nhiêu?|8000|8 ở hàng nghìn nên biểu thị 8000.|8;80;80000
+Viết số gồm 3 chục nghìn, 4 nghìn, 0 trăm, 2 chục, 7 đơn vị.|34027|Ghi đủ năm hàng theo thứ tự 3, 4, 0, 2, 7.|34207;30427;34072
+Số bé nhất có năm chữ số là số nào?|10000|9999 còn bốn chữ số; số tiếp theo 10000 có năm chữ số.|9999;1000;10001
+Viết “một trăm nghìn” bằng chữ số.|100000|Một trăm nghìn gồm chữ số 1 và năm chữ số 0.|10000;1000;100001
+Số liền sau 29999 là số nào?|30000|Đếm thêm một đơn vị từ 29999 được 30000.|29998;29000;30001
+Số liền trước 60000 là số nào?|59999|Lùi một đơn vị từ 60000 được 59999.|60001;59000;59990
+Một chục nghìn bằng bao nhiêu nghìn?|10|10000 gồm mười nhóm 1000.|100;1;1000
+Số 100000 có mấy chữ số?|6|Gồm một chữ số 1 và năm chữ số 0, tất cả sáu chữ số.|5;4;7
+Số “bảy mươi hai nghìn không trăm linh năm” viết thế nào?|72005|72 nghìn, không trăm, không chục, năm đơn vị: 72005.|72050;72500;70205
+Số 40508 gồm 40000, 500 và phần còn lại bằng bao nhiêu?|8|Không có nghìn và chục; phần còn lại là 8 đơn vị.|80;508;5008
+Số 90909 có chữ số 9 ở mấy hàng?|3|9 xuất hiện ở chục nghìn, trăm và đơn vị, tổng ba hàng.|2;4;5
+Dãy 48500, 48600, 48700, ? tăng đều. Số tiếp theo là gì?|48800|Mỗi bước tăng 100; sau 48700 là 48800.|48710;49800;48000
+Dãy 25000, 30000, 35000, ? tăng đều. Số tiếp theo là gì?|40000|Mỗi bước tăng 5000, nên sau 35000 là 40000.|36000;45000;35001
+Số gồm 6 chục nghìn và 12 trăm là số nào?|61200|12 trăm là 1200; gộp với 60000 được 61200.|60120;62000;60012
+Bỏ chữ số 0 ở giữa số 50723 thì được số nào?|5723|Bỏ vị trí giữ hàng làm số còn bốn chữ số, thành 5723, khác số cũ.|50723;5023;57023
+Đếm theo chục nghìn từ 70000, hai bước tiếp theo. Số dừng là bao nhiêu?|90000|Hai bước là 80000 và 90000.|70002;72000;100000
+Làm tròn 43678 đến hàng chục được số nào?|43680|Đơn vị 8 nên làm tròn lên chục kế tiếp 43680.|43670;43700;43000
+Làm tròn 58234 đến hàng trăm.|58200|Hàng chục 3 bé hơn 5 nên làm tròn xuống 58200.|58300;58230;58000
+Mã vé đầu 49998, in liên tiếp 4 vé kể cả vé đầu. Vé cuối ghi số nào?|50001|Bốn vé là 49998, 49999, 50000, 50001.|50002;50000;49999
+Dùng mỗi thẻ 0, 2, 5, 7, 9 một lần. Lập số có năm chữ số bé nhất.|20579|Đặt chữ số khác 0 nhỏ nhất là 2 ở đầu, sau đó 0, 5, 7, 9.|02579;20759;25079
+Dùng mỗi thẻ 0, 1, 4, 6, 8 một lần. Lập số có năm chữ số lớn nhất.|86410|Xếp các chữ số giảm dần: 8, 6, 4, 1, 0.|84610;86401;86140
+Một kho có 8 bó nhãn, mỗi bó 10000 nhãn, thêm 2 túi mỗi túi 1000 nhãn và 9 nhãn lẻ. Có bao nhiêu nhãn?|82009|8 chục nghìn, 2 nghìn, 0 trăm, 0 chục, 9 đơn vị là 82009.|82900;80209;82090
+Mã khóa có năm chữ số: chục nghìn là 4, nghìn bằng 2 lần 4, ba hàng sau lần lượt 0, 3, 1. Mã là gì?|48031|Hàng nghìn là 8; viết lần lượt 4, 8, 0, 3, 1.|40831;48301;48013
+Từ 100000 lùi một đơn vị. Chữ số hàng chục nghìn của kết quả là mấy?|9|Kết quả 99999, hàng chục nghìn là 9.|1;0;8
+Một số gồm 2 chục nghìn, 30 trăm, 4 chục và 6 đơn vị. Viết số đó.|23046|30 trăm là 3000; gộp thành 23046.|20346;23406;23064
+Bảng đếm đang ở 79990. Mỗi lần tăng 10. Sau ba lần tăng, bảng hiện số nào?|80020|Các bước: 80000, 80010, 80020.|79993;80030;80000
+Một tờ giấy bị rách che hàng trăm trong 65?24. Biết hàng trăm bằng hàng đơn vị. Số ban đầu là số nào?|65424|Hàng đơn vị là 4 nên điền 4 vào hàng trăm.|65224;65024;65442
+Số nhà đọc “chín mươi nghìn tám trăm mười sáu”. Viết số nhà.|90816|90 nghìn, 8 trăm, 1 chục, 6 đơn vị: 90816.|98016;90861;90186
+Lập số từ các thẻ 0, 3, 6, 8, 9 dùng một lần; cố định chục nghìn 6 và đơn vị 0. Số lớn nhất là gì?|69830|Hai hàng giữa đầu tiên chọn 9 rồi 8, tiếp theo 3, cuối 0.|68930;69380;96830
+Có bao nhiêu số nguyên lớn hơn 89997 và bé hơn 90001?|3|Đó là 89998, 89999, 90000.|2;4;1
+Một số có 5 chục nghìn, chữ số nghìn 0, chữ số trăm 7, chục 0 và đơn vị 2. Làm tròn đến trăm được gì?|50700|Số là 50702; hàng chục 0 nên xuống 50700.|50000;50710;50800
+Biển báo quãng đường ghi 60945 m. Làm tròn đến chục được bao nhiêu mét?|60950|Đơn vị bằng 5 nên làm tròn lên 60950.|60940;61000;60900
+Từ 95000, đếm lùi mỗi bước 5000. Sau hai bước đến số nào?|85000|Lần lượt 90000 rồi 85000.|94998;90000;80000
+Có đúng 10 gói, mỗi gói 10000 nhãn. Tổng số nhãn là bao nhiêu?|100000|Mười chục nghìn hợp thành một trăm nghìn.|10000;1000;1000000
+Viết số có năm chữ số mà mọi hàng đều bằng 2, rồi cho biết giá trị chữ số ở hàng trăm.|200|Số là 22222; chữ số 2 hàng trăm biểu thị 200.|2;2000;20000
+Dãy nhãn 99996, 99997, 99998, ?, ? kết thúc ở 100000. Số bị che thứ nhất là gì?|99999|Đếm từng đơn vị từ 99998: 99999 rồi 100000.|99990;100000;100001
+Một số có năm chữ số, hàng chục nghìn là 1, các hàng còn lại đều 0, rồi tăng hàng đơn vị thành 8. Số mới là gì?|10008|Giữ đủ năm hàng, chỉ đổi đơn vị từ 0 thành 8.|10080;10800;18000
+Một máy đánh số bắt đầu 40000, sau đó tăng từng nghìn. Số thứ sáu trong dãy là số nào?|45000|Các số là 40000, 41000, 42000, 43000, 44000, 45000.|46000;40006;50000
+Bài 60
+Số nào lớn hơn: 48210 hay 47210?|48210|Cùng hàng chục nghìn 4; hàng nghìn 8 lớn hơn 7.|47210;48012;47012
+Số nào bé hơn: 70503 hay 75003?|70503|Cùng 7 chục nghìn, hàng nghìn 0 bé hơn 5.|75003;70350;75300
+Số 9999 so với 10001 thì lớn hơn hay bé hơn? Viết bé hơn hoặc lớn hơn.|bé hơn|9999 có bốn chữ số, 10001 có năm chữ số.|lớn hơn;bằng nhau;không so được
+Số lớn nhất có năm chữ số là số nào?|99999|Chọn 9 cho cả năm hàng; 100000 đã có sáu chữ số.|100000;90000;9999
+Số bé nhất trong 63210, 63012, 63120 là gì?|63012|Cùng 63 nghìn; hàng trăm 0 nhỏ nhất.|63210;63120;63201
+Số lớn nhất trong 80901, 81009, 81090 là gì?|81090|Sau chục nghìn 8, hàng nghìn 1 lớn hơn 0; giữa hai số 81 nghìn, hàng chục 9 lớn hơn 0.|80901;81009;8190
+So sánh 99999 và 100000: số nào lớn hơn?|100000|Số có sáu chữ số lớn hơn số có năm chữ số.|99999;99990;10000
+Hai số 54826 và 54829 khác nhau đầu tiên ở hàng nào khi xét từ trái sang phải?|đơn vị|Bốn hàng đầu giống nhau; 6 và 9 ở đơn vị khác nhau.|chục;trăm;nghìn
+Số 76040 có bằng 70000 + 6000 + 40 không? Trả lời có hoặc không.|có|Biểu thức phân tích đúng 7 chục nghìn, 6 nghìn và 4 chục.|không;chỉ gần bằng;không xác định
+Trong 23456 và 23546, số nào lớn hơn?|23546|Chục nghìn và nghìn giống nhau; hàng trăm 5 lớn hơn 4.|23456;23465;2354
+Bạn chỉ nhìn hàng đơn vị nên cho 72019 lớn hơn 72100. Số thực sự lớn hơn là gì?|72100|Xét từ trái sang: hàng trăm 1 lớn hơn 0, không xét đơn vị trước.|72019;72091;7210
+Điền chữ số lớn nhất vào 46?21 để số đó bé hơn 46521.|4|Hàng trăm phải bé hơn 5 vì các hàng còn lại giống nhau, lớn nhất là 4.|5;6;9
+Điền chữ số nhỏ nhất vào 82?06 để số đó lớn hơn 82706.|8|Hàng trăm phải lớn hơn 7, nhỏ nhất là 8.|7;9;0
+Sắp xếp tăng dần 39018, 39108, 38918. Số ở giữa là gì?|39018|Thứ tự 38918, 39018, 39108.|38918;39108;39818
+Sắp xếp giảm dần 65430, 65340, 65403. Số cuối là gì?|65340|65340 có hàng trăm 3 bé hơn hai số có hàng trăm 4.|65430;65403;65304
+Có bao nhiêu số nguyên lớn hơn 59998 và bé hơn 60002?|3|Các số là 59999, 60000, 60001.|2;4;1
+Số bé nhất có năm chữ số khác nhau là số nào?|10234|Chọn 1 trước vì 0 không đứng đầu, rồi 0, 2, 3, 4.|01234;10000;12340
+Số lớn nhất có năm chữ số khác nhau là số nào?|98765|Chọn năm chữ số khác nhau lớn nhất và xếp giảm dần.|99999;98764;97685
+Hai số có cùng ba chữ số đầu 718. Số có hai chữ số cuối 09 và số có hai chữ số cuối 90, số nào lớn hơn?|71890|Hàng chục 9 lớn hơn 0, nên 71890 lớn hơn 71809.|71809;71908;71089
+Một bạn nói 61000 bằng 60000 + 100. Giá trị đúng của vế sau là gì?|60100|100 là một trăm, không phải một nghìn; vế sau bằng 60100.|61000;60010;60001
+Ba kho chứa 45280, 45820, 45082 kg gạo. Kho nhiều nhất chứa bao nhiêu ki-lô-gam?|45820|Cùng 45 nghìn; hàng trăm 8 lớn nhất.|45280;45082;4582
+Ba tuyến đường dài 20805 m, 20580 m, 20850 m. Tuyến ngắn nhất dài bao nhiêu mét?|20580|Cùng 20 nghìn; hàng trăm 5 bé hơn 8.|20805;20850;20508
+Ba đội có 78120, 78021, 78210 điểm. Đội xếp thứ hai có bao nhiêu điểm?|78120|Tăng dần là 78021, 78120, 78210; số giữa 78120.|78021;78210;78012
+Một sân chỉ nhận tối đa 35000 người. Trong các nhóm 34999, 35000, 35001, chọn số lớn nhất vẫn trong giới hạn.|35000|Tối đa cho phép bằng 35000; 35001 vượt giới hạn.|34999;35001;34990
+Mã hợp lệ phải lớn hơn 62000 và bé hơn 62100. Trong 61999, 62045, 62100, chọn mã đúng.|62045|62045 nằm giữa hai giới hạn, không bằng đầu mút.|61999;62100;62000
+Dùng các thẻ 0, 2, 4, 7, 8 mỗi thẻ một lần. Số lớn nhất có năm chữ số là gì?|87420|Xếp từ lớn đến bé: 8, 7, 4, 2, 0.|87240;84720;87402
+Dùng các thẻ 0, 1, 5, 6, 9 mỗi thẻ một lần. Số bé nhất có năm chữ số là gì?|10569|Đặt 1 đầu tiên, rồi các thẻ còn lại tăng dần 0, 5, 6, 9.|01569;10659;15069
+Biển số thử nghiệm có dạng 38?7?. Dùng cùng một chữ số cho hai dấu hỏi; muốn số lớn nhất nhưng bé hơn 38575. Điền chữ số nào?|4|Chọn 5 sẽ thành 38575 bằng giới hạn nên không được; lớn nhất còn lại là 4, được 38474.|5;6;9
+Số ghi trên ba xe là 56308, 56083, 56803. Xe đã đi nhiều ki-lô-mét nhất có số nào?|56803|Hàng trăm 8 lớn hơn 3 và 0, nên 56803 lớn nhất.|56308;56083;5683
+Có các số 90000, 89999, 90001. Cần chọn số lớn hơn 90000 nhưng bé hơn 90001. Ghi “không có” nếu không có số phù hợp.|không có|Không có số nguyên nào nằm đúng giữa hai số nguyên liên tiếp 90000 và 90001.|90001;90000;89999
+Một bảng xếp điểm giảm dần ghi 47320, 47230, 47302. Số nào phải đứng thứ hai khi sửa đúng?|47302|Thứ tự đúng: 47320, 47302, 47230.|47320;47230;47203
+Có bao nhiêu chữ số có thể điền vào 54?10 để số đó lớn hơn 54610?|3|Hàng trăm phải là 7, 8 hoặc 9; có ba cách.|2;4;6
+Tìm chữ số nhỏ nhất để 526?9 lớn hơn 52688.|8|Chọn 8 được 52689 lớn hơn 52688; chọn 7 trở xuống đều bé hơn.|7;9;0
+Giữa các số 48990, 49980, 50010, chọn số lớn nhất nhưng vẫn bé hơn 50000.|49980|Hai số đầu bé hơn 50000; 49980 lớn hơn 48990. 50010 bị loại.|48990;50010;50000
+Sắp các gói 60815 g, 68105 g, 61085 g từ nhẹ đến nặng. Gói cuối nặng bao nhiêu gam?|68105|68105 có hàng nghìn 8 lớn nhất trong các số cùng 6 chục nghìn.|60815;61085;68015
+Trong 80008, 80800, 88000, số bé nhất là gì?|80008|Cùng 8 chục nghìn; xét nghìn rồi trăm, 80008 nhỏ nhất.|80800;88000;80080
+Mã đầu 99998, mã cuối 100000. Có bao nhiêu mã nguyên nằm đúng giữa hai mã đó?|1|Chỉ có mã 99999.|0;2;3
+Hình cây lựa chọn B ghi hai cành đầu 71240 và 72140; chọn cành có số lớn hơn. Cành vừa chọn lại có hai nhánh 72500 và 72450. Đích đến ghi số nào?|72500|Đầu tiên chọn 72140; ở chỗ rẽ tiếp chọn 72500 lớn hơn 72450.|71240;72450;72140
+Một số năm chữ số có bốn hàng đầu lần lượt là 4, 9, 9, 9. Muốn số đó bé hơn 49995, chữ số đơn vị lớn nhất có thể là mấy?|4|Đơn vị phải nhỏ hơn 5, lớn nhất là 4, tạo số 49994.|5;9;6
+Tổng 30000 + 7000 + 900 + 90 + 9 so với 38000, số nào lớn hơn?|38000|Tổng vế đầu là 37999, bé hơn 38000 một đơn vị.|37999;37990;37000

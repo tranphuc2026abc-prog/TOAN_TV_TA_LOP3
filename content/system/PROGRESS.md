@@ -1,3 +1,13 @@
+# Batch 15 đã tích hợp — 08/11/2026
+
+Toán 57–60: 4 JSON/Markdown, 160 câu mới phân mức 10/10/20, 4 trò chơi, 2 SVG mới đã render và xem. Đã đọc trực quan toàn bộ trang in 47–63 (PDF 48–64) Toán tập 2 bản sẵn có; chưa đối chiếu hash PDF với repo. Nội dung: chia số bốn chữ số, chia có dư và thương có 0; ôn bốn phép tính/ngoặc; số năm chữ số và 100000; so sánh trong phạm vi 100000. Câu hỏi/tình huống/lời giải biên soạn mới.
+
+validate_site.py/validate_content.py, hồi quy Batch 7–9, 12–15 và test_content_dom.cjs toàn bộ 60 bài đạt. Hồi quy mới: 15 câu tính trực tiếp, 117 đáp án neo tính độc lập, chia dài/0 trong thương, số dư bé hơn số chia, nhóm đầy so với chứa hết, mốc 100000, điều kiện biên và tham chiếu SVG. Các bài cũ, lượt 10 câu 3/3/4, bốn trò chơi, lời giải/hình, lưu/nạp wl3 và fallback vẫn đạt. Chưa kiểm thử Chromium thật vì chưa có trình duyệt này; bộ kiểm tra đẳng thức tự động chưa bao quát đầy đủ ngoặc, các biểu thức mới có ngoặc được kiểm tra riêng trong hồi quy. Không sửa giao diện, loader hay dữ liệu tiến độ học sinh.
+
+Tổng đã biên soạn/kiểm tra/tích hợp 60/168 mục, 2400 câu, 60 trò chơi. Giáo viên duyệt 4 (Toán 1–4); 56 mục AI_CHECKED_AWAITING_TEACHER. Còn 108 mục: Toán 61–81 (21), Tiếng Việt 62, Tiếng Anh 25. Checkpoint tiếp Batch 16 Toán 61–64, đọc nguồn tương ứng trước khi biên soạn. Không làm lại nội dung đã tích hợp. Commit Batch 14: 991d15621996b5c6ae26561f9547be6b17164f4c; cả hai workflow Pages đã success. Commit Batch 15 cần xác minh sau khi ghi.
+
+## Lịch sử
+
 # Batch 14 đã tích hợp — 08/11/2026
 
 Toán 53–56: 4 JSON/Markdown, 160 câu (10/10/20 mỗi bài), 4 trò chơi, 3 SVG mới đã render và xem. Đã đọc trực quan toàn bộ trang in 35–46 (PDF 36–47) Toán tập 2 bản đang có; chưa đối chiếu hash với PDF trong repo. Nội dung: ôn chu vi/diện tích; cộng/trừ trong 10000; nhân số bốn chữ số với số một chữ số. Tình huống, phương án nhiễu và lời giải biên soạn mới. INDEX nay ghi ngày cập nhật thực tế UTC khi tái tạo.

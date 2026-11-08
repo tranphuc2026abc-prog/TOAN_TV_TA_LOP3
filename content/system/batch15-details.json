@@ -1,0 +1,209 @@
+[
+  {
+    "topic": "Chia số bốn chữ số, có dư và có chữ số 0 trong thương",
+    "objectives": [
+      "Thực hiện chia từ hàng cao nhất, ghi đúng các chữ số của thương.",
+      "Phân biệt chia hết và chia có dư; số dư bé hơn số chia.",
+      "Vận dụng chia đều, một phần của số và số nhóm/đồ chứa cần thiết."
+    ],
+    "intro": "Chia đều một lượng lớn có thể làm lần lượt từ trái sang phải. Ở mỗi lượt, chia, nhân, trừ rồi hạ chữ số tiếp theo. Nếu đã bắt đầu viết thương mà một lượt chưa đủ chia, vẫn phải ghi chữ số 0 ở hàng đó.",
+    "rules": [
+      "Lấy đủ chữ số đầu để bắt đầu chia; tiếp tục hạ từng chữ số một.",
+      "Mỗi lượt: chia, nhân, trừ, hạ. Không bỏ lượt có thương 0.",
+      "Số bị chia bằng thương nhân số chia rồi cộng số dư.",
+      "Số dư phải không âm và bé hơn số chia; dư 0 là chia hết.",
+      "Đếm nhóm đầy chỉ lấy thương; muốn chứa hết mà còn dư cần thêm một đồ chứa."
+    ],
+    "steps": [
+      "Đặt phép chia, xét một hoặc hai chữ số đầu.",
+      "Chọn chữ số thương phù hợp; nhân và trừ để biết phần dư tạm.",
+      "Hạ chữ số tiếp theo; ghi đủ các chữ số thương, kể cả 0.",
+      "Cuối cùng kiểm tra số dư và nhân ngược.",
+      "Đọc ngữ cảnh để quyết định chỉ nhóm đầy hay cần thêm một nhóm cho phần dư."
+    ],
+    "errors": [
+      "Bỏ chữ số 0 giữa hoặc cuối thương.",
+      "Dừng khi còn chữ số chưa hạ.",
+      "Ghi số dư bằng hoặc lớn hơn số chia.",
+      "Lấy thương làm số hộp cần thiết dù còn vật chưa đựng."
+    ],
+    "examples": [
+      [
+        "Tính 7248 : 6.",
+        [
+          "7 chia 6 được 1, dư 1; hạ 2 thành 12.",
+          "12 chia 6 được 2, dư 0; hạ 4.",
+          "4 chia 6 được 0, viết 0; hạ 8 thành 48.",
+          "48 chia 6 được 8, hết dư. Thương là 1208.",
+          "Kiểm tra 1208 × 6 = 7248."
+        ]
+      ],
+      [
+        "Có 2227 quả, mỗi hộp tối đa 4 quả. Cần ít nhất bao nhiêu hộp?",
+        [
+          "556 × 4 + 3 = 2227; có 556 hộp đầy và 3 quả lẻ.",
+          "Để đựng hết cần thêm một hộp: 557 hộp."
+        ]
+      ]
+    ],
+    "game": [
+      "Ghép thương và số dư",
+      "Ghép năm nhiệm vụ với các kết quả khác nhau; ghi đủ chữ số 0 trong thương."
+    ],
+    "mode": "match"
+  },
+  {
+    "topic": "Phối hợp bốn phép tính trong phạm vi 10000",
+    "objectives": [
+      "Thực hiện đúng phép tính có ngoặc và thứ tự tính.",
+      "Tìm thành phần chưa biết của nhân/chia đơn giản.",
+      "Giải tình huống nhiều nhóm, chia phần và nhiệm vụ hai hoặc ba bước."
+    ],
+    "intro": "Một bài có thể cần nhiều phép tính. Hãy xác định lượng trong một nhóm, số nhóm, phần đã dùng hoặc còn lại. Viết kết quả từng bước sẽ giúp không nhầm gấp nhiều lần với hơn một số đơn vị.",
+    "rules": [
+      "Có ngoặc thì tính trong ngoặc trước.",
+      "Không có ngoặc: nhân/chia trước, cộng/trừ sau.",
+      "Các phép cùng mức ưu tiên tính từ trái sang phải.",
+      "Tìm thừa số chưa biết: lấy tích chia thừa số đã biết. Tìm số bị chia: lấy thương nhân số chia.",
+      "Trung điểm chia đoạn thẳng thành hai đoạn bằng nhau; chu vi vuông bằng cạnh nhân 4."
+    ],
+    "steps": [
+      "Tóm tắt lượng đã biết và điều cần tìm.",
+      "Chọn phép tính cho từng quan hệ: gấp, giảm số lần, thêm/bớt.",
+      "Thực hiện từng bước đúng thứ tự, giữ đơn vị.",
+      "Kiểm tra tổng/phần còn lại hoặc dùng phép tính ngược."
+    ],
+    "errors": [
+      "Tính cộng trước chia khi không có ngoặc.",
+      "Nhầm “giảm bốn lần” với “bớt bốn đơn vị”.",
+      "Tính được số trong một nhóm nhưng chưa nhân số nhóm được hỏi.",
+      "Quên phần dư khi cần đựng hết."
+    ],
+    "examples": [
+      [
+        "Tính (1800 + 2400) : 6.",
+        [
+          "Trong ngoặc: 1800 + 2400 = 4200.",
+          "Sau đó 4200 : 6 = 700."
+        ]
+      ],
+      [
+        "Tính 1200 + 1600 : 4.",
+        [
+          "Chia trước: 1600 : 4 = 400.",
+          "Cộng sau: 1200 + 400 = 1600."
+        ]
+      ],
+      [
+        "Có ba hộp, mỗi hộp 1400 nhãn; đã dùng 600 nhãn. Còn bao nhiêu?",
+        [
+          "Ban đầu: 1400 × 3 = 4200 nhãn.",
+          "Còn lại: 4200 - 600 = 3600 nhãn."
+        ]
+      ]
+    ],
+    "game": [
+      "Xưởng tính nhiều bước",
+      "Chọn đúng phép tính và thứ tự trước khi trả lời trong thời gian lượt chơi."
+    ],
+    "mode": "speed"
+  },
+  {
+    "topic": "Cấu tạo số có năm chữ số và 100000",
+    "objectives": [
+      "Đọc viết số có năm chữ số, kể cả nhiều hàng bằng 0.",
+      "Phân tích giá trị từng hàng; nhận biết 100000.",
+      "Đếm qua mốc chục nghìn, giải mã thẻ và vận dụng làm tròn đã học."
+    ],
+    "intro": "Bên trái hàng nghìn là hàng chục nghìn. Số có năm chữ số có các hàng: chục nghìn, nghìn, trăm, chục, đơn vị. Mười chục nghìn tạo thành một trăm nghìn, viết 100000; số này đã có sáu chữ số.",
+    "rules": [
+      "Hàng từ trái sang phải: chục nghìn, nghìn, trăm, chục, đơn vị.",
+      "Giá trị chữ số phụ thuộc vị trí; cùng chữ số 8 nhưng ở hàng nghìn là 8000, ở chục nghìn là 80000.",
+      "Không có lượng ở hàng nào thì dùng 0 giữ chỗ, không bỏ hàng.",
+      "10000 là số bé nhất có năm chữ số; 99999 là số lớn nhất có năm chữ số.",
+      "Đếm qua 19999, 29999,... phải chuyển chục nghìn; sau 99999 là 100000."
+    ],
+    "steps": [
+      "Lập bảng năm cột theo thứ tự hàng.",
+      "Điền đủ chữ số, đặc biệt các hàng 0.",
+      "Đọc phần nghìn rồi phần trăm/chục/đơn vị.",
+      "Phân tích lại hoặc đếm ngược để kiểm tra."
+    ],
+    "errors": [
+      "Đọc 72005 thành 72050 hoặc 72500.",
+      "Bỏ 0 làm số giảm số chữ số và đổi giá trị.",
+      "Nhầm chữ số một hàng với giá trị của nó.",
+      "Cho rằng 100000 vẫn chỉ có năm chữ số."
+    ],
+    "examples": [
+      [
+        "Viết số có 4 chục nghìn, 1 nghìn, 0 trăm, 6 chục, 3 đơn vị.",
+        [
+          "Điền các hàng lần lượt: 4, 1, 0, 6, 3.",
+          "Viết 41063; đọc bốn mươi mốt nghìn không trăm sáu mươi ba."
+        ]
+      ],
+      [
+        "Đếm tiếp từ 99998 thêm hai lần, mỗi lần một đơn vị.",
+        [
+          "Lần thứ nhất: 99999.",
+          "Lần thứ hai: 100000, đọc một trăm nghìn."
+        ]
+      ]
+    ],
+    "game": [
+      "Kho báu năm chữ số",
+      "Đọc mã số, giữ đúng hàng 0 và vượt các mốc chục nghìn."
+    ],
+    "mode": "treasure"
+  },
+  {
+    "topic": "So sánh và sắp thứ tự trong phạm vi 100000",
+    "objectives": [
+      "So số chữ số, sau đó so các hàng từ trái sang phải.",
+      "Sắp xếp tăng/giảm và tìm giá trị theo giới hạn.",
+      "Vận dụng chọn mã, thứ hạng, quãng đường và khối lượng."
+    ],
+    "intro": "Quy tắc so sánh đã biết được mở rộng lên hàng chục nghìn. Hai số cùng năm chữ số: so chục nghìn trước, rồi nghìn, trăm, chục, đơn vị. Hàng đầu tiên khác nhau quyết định kết quả.",
+    "rules": [
+      "Số có ít chữ số hơn thì bé hơn khi không có 0 thừa ở đầu.",
+      "Cùng số chữ số: xét các cặp cùng hàng từ trái sang phải.",
+      "Mọi hàng tương ứng giống nhau thì hai số bằng nhau.",
+      "Tăng dần: bé đến lớn; giảm dần: lớn đến bé.",
+      "Lớn hơn/bé hơn không gồm số bằng giới hạn; tối đa cho phép bằng giới hạn."
+    ],
+    "steps": [
+      "Viết các số thẳng hàng, đếm số chữ số.",
+      "So từ hàng cao nhất; dừng ở hàng đầu tiên khác nhau.",
+      "Với nhiều số, tìm lớn nhất/nhỏ nhất hoặc số ở giữa bằng sắp thứ tự.",
+      "Thử đáp án với tất cả điều kiện, không chỉ một điều kiện."
+    ],
+    "errors": [
+      "Chỉ nhìn đơn vị nên đánh giá sai số lớn hơn.",
+      "Nhầm 100000 với số có năm chữ số.",
+      "Chấp nhận số bằng giới hạn trong điều kiện lớn hơn/bé hơn.",
+      "Khi đi theo cây lựa chọn chỉ nhìn số ở đích mà bỏ điều kiện tại chỗ rẽ."
+    ],
+    "examples": [
+      [
+        "So sánh 67418 và 67381.",
+        [
+          "Chục nghìn cùng 6, nghìn cùng 7.",
+          "Hàng trăm 4 lớn hơn 3 nên 67418 lớn hơn 67381."
+        ]
+      ],
+      [
+        "Chọn số lớn nhất dưới 45000 trong 44998, 45000, 45001.",
+        [
+          "45000 và 45001 không thỏa điều kiện bé hơn 45000.",
+          "Chọn 44998."
+        ]
+      ]
+    ],
+    "game": [
+      "Trọng tài số lớn",
+      "Kiểm chứng so sánh và lựa chọn theo đúng các giới hạn."
+    ],
+    "mode": "tf"
+  }
+]
