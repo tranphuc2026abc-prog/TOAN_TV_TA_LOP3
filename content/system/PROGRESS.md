@@ -1,3 +1,11 @@
+# Checkpoint nguồn Batch 18 — 08/11/2026
+
+Đã đọc trực quan trang in 88–93 (PDF 89–94) Toán tập 2 cho Bài 69. Đã soạn 40 câu nguồn mới theo thứ tự 10/10/20 trong batch18-source.txt: đổi đơn vị thời gian, giờ trước/sau và khoảng thời gian, lịch theo dữ kiện ngày đầu tháng, tháng tuổi và tiền giả định/tiền thừa. Kiểm tra số dòng, không trùng câu trong bài, bốn lựa chọn khác nhau. Không có câu đòi quan sát hình chưa được cung cấp; dữ kiện đều viết bằng chữ. Chưa đóng gói hay tích hợp. Tiếp đọc nguồn Bài 70–72, biên soạn ba bài còn lại và hoàn thiện JSON/Markdown/game/kiểm thử cả batch. Không làm lại 40 câu Bài 69.
+
+Tổng tích hợp giữ 68/168 mục, 2720 câu, 68 trò chơi; giáo viên duyệt 4, chờ duyệt 64; còn 100 mục. INDEX không tăng số hoàn thành cho checkpoint nguồn.
+
+## Lịch sử
+
 # Batch 17 đã tích hợp — 08/11/2026
 
 Toán 65–68: 4 JSON/Markdown, 160 câu mới (10/10/20 mỗi bài), 4 trò chơi, 3 SVG tự dựng và 3 hoạt động thực hành giấy/đồng hồ/lịch/thẻ mệnh giá. Đã đọc trực quan trang in 76–87 (PDF 77–88) của chính Toán tập 2 trong repo, blob SHA 1a55eb09c9cf573935fa38911d48a5311575b09c. Nội dung ôn cộng/trừ có ngoặc, xem giờ tới từng phút, tháng/năm, lập lịch, khoảng thời gian, đổi tiền và tiền thừa. Câu hỏi và tình huống mới, không chép hệ thống bài tập sách.

@@ -1,0 +1,41 @@
+Bài 69
+Đổi 4 giờ thành phút.|240|Mỗi giờ 60 phút; 4 × 60 = 240 phút.|40;180;400
+Đổi 2 tuần thành ngày.|14|Mỗi tuần 7 ngày; 2 × 7 = 14 ngày.|12;10;21
+Đổi 5 năm thành tháng.|60|Mỗi năm 12 tháng; 5 × 12 = 60 tháng.|50;17;120
+Đổi 2 ngày thành giờ.|48|Mỗi ngày 24 giờ; 2 × 24 = 48 giờ.|24;36;72
+9 giờ kém 15 phút là 8 giờ bao nhiêu phút?|45|Trước 9 giờ 15 phút là 8 giờ 45 phút.|15;30;50
+Buổi chiều, 16 giờ là mấy giờ theo cách nói 12 giờ?|4|16 giờ tương ứng 4 giờ chiều.|6;3;5
+Một tờ 10000 đồng và một tờ 5000 đồng có tổng bao nhiêu đồng?|15000|10000 + 5000 = 15000 đồng.|5000;20000;10000
+Ba tờ 2000 đồng có tổng bao nhiêu đồng?|6000|2000 × 3 = 6000 đồng.|2003;5000;8000
+Một tuần có mấy ngày Chủ nhật?|1|Trong bảy ngày liên tiếp của một tuần có một ngày Chủ nhật.|2;7;0
+Tháng 4 có bao nhiêu ngày?|30|Tháng 4 có 30 ngày.|28;29;31
+Lan đến lúc 7 giờ 48 phút, Minh đến lúc 7 giờ 52 phút. Ai đến trước?|Lan|Cùng 7 giờ, phút 48 ít hơn phút 52.|Minh;cùng lúc;không xác định
+Từ 8 giờ 35 phút đến 9 giờ là bao nhiêu phút?|25|Từ phút 35 đến phút 60 còn 25 phút.|35;20;65
+Một buổi học bắt đầu 14 giờ 10 phút, kéo dài 35 phút. Kết thúc lúc 14 giờ bao nhiêu phút?|45|10 + 35 = 45 phút, chưa sang giờ mới.|35;25;50
+Đổi 1 giờ 45 phút thành phút.|105|60 + 45 = 105 phút.|145;85;95
+Đổi 1 tuần 5 ngày thành ngày.|12|7 + 5 = 12 ngày.|15;10;35
+Đổi 2 năm 3 tháng thành tháng.|27|24 + 3 = 27 tháng.|23;26;36
+Đổi 1 ngày 8 giờ thành giờ.|32|24 + 8 = 32 giờ.|18;28;48
+Có 20000 đồng, mua vở giá giả định 8500 đồng. Còn bao nhiêu đồng?|11500|20000 - 8500 = 11500 đồng.|12500;8500;28500
+Một món giá giả định 12000 đồng. Trả một tờ 10000 đồng thì còn thiếu bao nhiêu đồng?|2000|12000 - 10000 = 2000 đồng.|10000;22000;1200
+Trong tháng có ngày 1 là thứ Hai, ngày 8 là thứ mấy?|thứ Hai|Sau đúng một tuần, thứ trong tuần lặp lại.|thứ Ba;Chủ nhật;thứ Tư
+Xe khởi hành 6 giờ 45 phút, đến nơi 7 giờ 20 phút cùng sáng. Đi hết bao nhiêu phút?|35|Đến 7 giờ mất 15 phút, thêm 20 phút; tổng 35 phút.|25;45;75
+Phim bắt đầu 19 giờ 40 phút và dài 50 phút. Kết thúc lúc 20 giờ bao nhiêu phút?|30|20 phút đến 20 giờ, còn 30 phút; kết thúc 20 giờ 30 phút.|10;50;40
+Bé tập đàn từ 17 giờ 15 phút đến 17 giờ 50 phút, nghỉ 10 phút rồi tập thêm 20 phút. Tổng thời gian tập, không tính nghỉ, là bao nhiêu phút?|55|Lượt đầu 35 phút, lượt sau 20 phút; tổng 55 phút.|65;45;60
+Ngày 1 tháng 6 của một năm giả định là thứ Hai. Ngày 21 tháng 6 là thứ mấy?|Chủ nhật|Ngày 1 đến ngày 21 cách 20 ngày; thứ Hai tiến 20 ngày là Chủ nhật.|thứ Hai;thứ Bảy;thứ Ba
+Một tháng 30 ngày bắt đầu vào thứ Hai. Có bao nhiêu ngày Chủ nhật trong tháng?|4|Các Chủ nhật là ngày 7, 14, 21, 28; có bốn ngày.|5;3;6
+Một tháng có các thứ Bảy là ngày 6, 13, 20, 27. Bắt đầu học vẽ từ ngày 13 vào mỗi thứ Bảy, trong tháng có mấy buổi?|3|Các buổi từ ngày 13 là 13, 20, 27; có ba buổi.|2;4;5
+Bé hiện 6 tuổi 8 tháng. Còn bao nhiêu tháng nữa tròn 7 tuổi?|4|Một tuổi có 12 tháng; 12 - 8 = 4 tháng.|8;6;12
+An sinh tháng 2, Bình sinh sau An 4 tháng trong cùng năm. Bình sinh tháng mấy?|6|Tháng 2 tiến bốn tháng là tháng 6.|4;5;7
+Hà sinh tháng 9, Nam sinh trước Hà 3 tháng trong cùng năm. Nam sinh tháng mấy?|6|Tháng 9 lùi ba tháng là tháng 6.|3;12;7
+Có 3 tờ 5000 đồng và 2 tờ 2000 đồng. Mua món giá giả định 14000 đồng. Còn bao nhiêu đồng?|5000|Có 19000 đồng; 19000 - 14000 = 5000 đồng.|4000;15000;33000
+Hai chiếc bút cùng giá giả định có tổng giá 12000 đồng. Mua 3 chiếc như thế hết bao nhiêu đồng?|18000|Một chiếc 6000 đồng; ba chiếc 18000 đồng.|24000;12000;36000
+Đổi một tờ 20000 đồng thành các tờ 5000 đồng bằng giá trị. Cần mấy tờ?|4|20000 : 5000 = 4 tờ.|2;5;10
+Một đồ chơi giá giả định 17000 đồng, trả 20000 đồng. Tiền thừa gồm một tờ 2000 đồng và mấy tờ 1000 đồng?|1|Tiền thừa 3000 đồng; ngoài 2000 đồng còn 1000 đồng, một tờ.|2;3;4
+Lịch hẹn có ngày 10 là thứ Tư. Hẹn sau đúng 9 ngày là thứ mấy?|thứ Sáu|Sau 7 ngày vẫn thứ Tư; thêm 2 ngày là thứ Sáu.|thứ Năm;thứ Bảy;Chủ nhật
+Bắt đầu 10 giờ 25 phút, mỗi bước kim đồng hồ tiến 5 phút. Sau 7 bước là mấy giờ đúng?|11|Bảy bước là 35 phút; 10 giờ 25 phút thêm 35 phút thành 11 giờ.|10;12;9
+Bạn cần tới lớp trước 7 giờ 30 phút. Đi mất 20 phút, khởi hành 7 giờ 15 phút. Bạn đến muộn mấy phút?|5|Đến 7 giờ 35 phút, muộn hơn 7 giờ 30 phút là 5 phút.|10;15;0
+Một hoạt động bắt đầu 15 giờ 50 phút, kết thúc 16 giờ 25 phút. Nếu bắt đầu sớm hơn 10 phút mà giữ nguyên thời lượng, kết thúc lúc 16 giờ bao nhiêu phút?|15|Thời lượng giữ nguyên, giờ kết thúc cũng sớm hơn 10 phút: 16 giờ 15 phút.|35;5;25
+Cửa hàng cho đổi món giá giả định 9000 đồng sang món 14500 đồng. Người mua cần bù thêm bao nhiêu đồng?|5500|14500 - 9000 = 5500 đồng.|4500;23500;5000
+Mua hai quyển vở giá giả định 7000 đồng mỗi quyển và một bút 4500 đồng. Trả 20000 đồng, nhận lại bao nhiêu đồng?|1500|Vở hết 14000 đồng, cả ba món 18500 đồng; còn 1500 đồng.|2500;6000;4500
+Hẹn sau 2 tuần 3 ngày kể từ thứ Hai. Ngày hẹn là thứ mấy?|thứ Năm|Hai tuần vẫn thứ Hai, thêm ba ngày là thứ Năm.|thứ Tư;thứ Sáu;Chủ nhật
