@@ -80,3 +80,44 @@ Một nhóm có 9 hộp, mỗi hộp 8 bút. Tặng 4 hộp nguyên. Còn mấy 
 Có 600 ml, rót thêm 120 ml rồi chia đều 6 ca. Mỗi ca mấy ml?|120|600 + 120 = 720; 720 : 6 = 120 ml.|620;720;100
 Cần 5 bó mỗi bó 24 que. Đã có 75 que. Cần thêm mấy que?|45|5 × 24 = 120; 120 - 75 = 45 que.|120;51;195
 Có 72 viên chia hộp 6 viên rồi ghép 3 hộp thành một bộ. Được mấy bộ?|4|72 : 6 = 12 hộp; 12 : 3 = 4 bộ.|12;36;24
+Bài 43
+Một góc kiểm tra vừa khít góc vuông của ê ke là góc gì?|góc vuông|Hai cạnh của góc trùng hai cạnh góc vuông của ê ke.|góc không vuông;đoạn thẳng;đường tròn
+Hình vuông có mấy góc vuông?|4|Bốn góc hình vuông đều vuông.|2;3;6
+Hình chữ nhật có mấy cặp cạnh đối diện bằng nhau?|2|Hai cạnh dài bằng nhau và hai cạnh rộng bằng nhau.|1;3;4
+Khối lập phương có mấy mặt?|6|Khối có 6 mặt là các hình vuông bằng nhau.|8;12;4
+Khối hộp chữ nhật có mấy đỉnh?|8|Tính đủ cả các đỉnh bị khuất có 8 đỉnh.|6;12;4
+Đường tròn tâm O, điểm A trên đường tròn. OA gọi là gì?|bán kính|Đoạn nối tâm với một điểm trên đường tròn là bán kính.|đường kính;cạnh;trung điểm
+Đường kính bằng mấy lần bán kính?|2|Đường kính đi qua tâm gồm hai bán kính.|1;3;4
+1 cm bằng mấy mm?|10|Mỗi cm gồm 10 khoảng dài 1 mm.|100;1;1000
+1 kg bằng mấy gam?|1000|Một ki-lô-gam bằng một nghìn gam.|100;10;1
+1 l bằng mấy ml?|1000|Một lít bằng một nghìn mi-li-lít.|100;10;1
+M nằm giữa A và B, AM bằng MB. M có là trung điểm AB không? Trả lời có hoặc không.|có|M vừa nằm giữa vừa cách đều A và B.|không;chỉ khi AB thẳng đứng;chỉ khi AB nằm ngang
+P nằm giữa A và B, AP 3 cm, PB 5 cm. P có là trung điểm không? Trả lời có hoặc không.|không|Hai đoạn 3 cm và 5 cm không bằng nhau.|có;luôn đúng;chỉ cần nằm giữa
+AB 18 cm, M là trung điểm. AM mấy cm?|9|18 : 2 = 9 cm.|18;36;8
+Bán kính 7 cm thì đường kính mấy cm?|14|7 × 2 = 14 cm.|7;9;21
+Đường kính 20 mm thì bán kính mấy mm?|10|20 : 2 = 10 mm.|20;40;18
+Vật từ vạch 8 mm đến 37 mm của thước dài mấy mm?|29|37 - 8 = 29 mm.|37;45;28
+Cân thăng bằng: túi và 50 g bên trái, 400 g bên phải. Túi mấy gam?|350|400 - 50 = 350 g.|450;400;50
+Ca tối đa 500 ml đang có 350 ml. Cần thêm mấy ml để đầy?|150|500 - 350 = 150 ml.|500;850;250
+Một khối hộp có 6 mặt, hỏi số cạnh có phải cũng bằng 6 không? Trả lời có hoặc không.|không|Khối hộp chữ nhật có 12 cạnh, khác số mặt.|có;luôn bằng;chỉ 3 cạnh
+So 4 cm với 38 mm, đoạn đầu dài hơn mấy mm?|2|4 cm bằng 40 mm; 40 - 38 = 2 mm.|34;42;78
+Đường gấp khúc có ba đoạn dài 19 mm, 27 mm, 34 mm. Tổng dài mấy mm?|80|19 + 27 + 34 = 80 mm.|61;70;90
+Có 1 m dây, cắt 245 mm rồi 355 mm. Còn mấy mm?|400|245 + 355 = 600; 1000 - 600 = 400 mm.|600;755;645
+Hai gói mỗi gói 125 g, thêm túi 350 g. Tổng mấy gam?|600|125 × 2 = 250; 250 + 350 = 600 g.|475;500;700
+Có 900 ml chia đều 3 ca, mỗi ca rót ra 80 ml. Mỗi ca còn mấy ml?|220|900 : 3 = 300; 300 - 80 = 220 ml.|300;820;380
+Một khung vuông cần mỗi cạnh một que. Làm 7 khung rời cần mấy que?|28|4 × 7 = 28 que.|11;21;35
+Dán một nhãn mỗi mặt cho 3 hộp lập phương rời. Cần mấy nhãn?|18|6 × 3 = 18 nhãn.|24;36;9
+Gắn một hạt mỗi đỉnh cho 2 hộp chữ nhật rời. Cần mấy hạt?|16|8 × 2 = 16 hạt.|12;24;10
+Làm khung lập phương mỗi cạnh một que. Đã có 7 que thì cần thêm mấy?|5|12 - 7 = 5 que.|1;6;19
+Đường kính một vòng tròn 30 cm. Một dây dài bằng 3 bán kính dài mấy cm?|45|30 : 2 = 15; 15 × 3 = 45 cm.|90;15;60
+AB dài 24 mm, M trung điểm. N trung điểm AM. AN dài mấy mm?|6|24 : 2 = 12; 12 : 2 = 6 mm.|12;24;8
+Một đoạn dài 7 cm, đoạn khác 46 mm. Tổng hai đoạn mấy mm?|116|7 cm bằng 70 mm; 70 + 46 = 116 mm.|53;24;106
+Lọ và hạt nặng 620 g, lọ rỗng 120 g. Chia hạt 5 phần, mỗi phần mấy gam?|100|620 - 120 = 500; 500 : 5 = 100 g.|124;500;148
+Ba chai mỗi chai 250 ml đổ vào bình tối đa 1 l. Thiếu mấy ml mới đầy?|250|250 × 3 = 750; 1000 - 750 = 250 ml.|750;500;100
+Sơn tất cả mặt ngoài hộp ghép từ khối nhỏ theo dạng 3 × 3 × 3. Có mấy khối nhỏ ở góc được sơn 3 mặt?|8|Chỉ các khối nhỏ tại 8 đỉnh được sơn 3 mặt; mỗi chiều có ít nhất 2 khối.|6;12;27
+Ghép 2 khối lập phương sát nhau theo một mặt. Tổng số mặt vuông nhỏ còn lộ ra ngoài là mấy?|10|6 × 2 = 12 mặt ban đầu; hai mặt tiếp xúc bị che, còn 12 - 2 = 10.|12;8;6
+Bốn đoạn bằng nhau ghép thành đường gấp khúc tổng 96 mm. Mỗi đoạn mấy mm?|24|96 : 4 = 24 mm.|92;20;28
+Một tấm gỗ dày 6 mm, chồng khít 8 tấm. Tổng dày mấy mm?|48|6 × 8 = 48 mm.|14;42;56
+Nhiệt độ mô phỏng sáng 23 °C, trưa 31 °C, tối 26 °C. Trưa cao hơn tối mấy độ C?|5|31 - 26 = 5 độ C.|8;3;57
+Một bình 1 l đã có 750 ml. Rót thêm 400 ml thì tràn mấy ml?|150|750 + 400 = 1150; 1150 - 1000 = 150 ml.|250;400;1150
+Hai gói tổng 850 g, gói đầu 325 g. Gói sau hơn gói đầu mấy gam?|200|850 - 325 = 525; 525 - 325 = 200 g.|525;175;1175

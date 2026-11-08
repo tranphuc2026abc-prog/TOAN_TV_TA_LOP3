@@ -1,3 +1,9 @@
+## Checkpoint Bài 43 — 08/11/2026
+
+Đã nối 40 câu nguồn Bài 43 vào batch11-source.txt; nguồn Batch 11 hiện 120/160 câu Bài 41–43. Các câu có dữ kiện chữ tường minh về góc, trung điểm, đường tròn, khối và đo lường; hai câu về ghép/sơn khối cần bổ sung SVG minh họa khi đóng gói, chưa tính là sẵn sàng. Kiểm tra số dòng, không trùng trong bài, bốn lựa chọn khác nhau đạt. Chưa kiểm thử tích hợp hay thẩm định hình cho bài mới.
+
+Tiếp Bài 44, nội dung hướng dẫn/ví dụ/game và SVG của Bài 43–44; kiểm thử cả batch trước khi đưa vào INDEX. Tổng tích hợp vẫn 40/168 mục, 1600 câu, 40 game; giáo viên duyệt 4, chờ duyệt 36, còn 128 mục. Không tạo lại 120 câu nguồn Bài 41–43. Nguồn trang 113–121 đã đọc ở các lượt trước.
+
 ## Hiển thị trạng thái tải học liệu — 08/11/2026
 
 Đã bổ sung dòng trạng thái trên giao diện ghi số học liệu riêng thực sự tải được /168. Bộ tải INDEX và JSON dùng cache:no-cache để yêu cầu tái xác thực dữ liệu khi tải trang. Không xóa wl3 hay đổi hồ sơ/XP/sao. Mục đích phân biệt bài đã tích hợp với câu nguồn soạn dở; Bài 41–42 vẫn chưa tích hợp. Tổng nội dung giữ 40/168 bài, 1600 câu, 40 trò chơi; giáo viên duyệt 4, chờ duyệt 36. Tiếp tục Batch 11 Bài 43–44 và đóng gói cả batch. Kiểm thử npm test toàn bộ đạt; chưa kiểm thử Chromium thật.
