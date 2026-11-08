@@ -1,3 +1,11 @@
+# Nguồn Batch 18 đủ 160 câu — 08/11/2026
+
+Đã đọc trực quan trang in 101–102 (PDF 102–103) Toán tập 2 và bổ sung 40 câu Bài 72: thứ tự nhân/chia, ngoặc, phép tính ngược, tìm chữ số và tình huống phối hợp nhiều bước. Giữ nguyên nguồn Bài 69–71. batch18-source.txt hiện đủ 160 câu, phân mức theo thứ tự 10/10/20 mỗi bài; kiểm tra số dòng, không trùng trong từng bài và bốn lựa chọn khác nhau đạt. Chưa tích hợp: cần hoàn thiện mục tiêu/kiến thức/hướng dẫn/lỗi/ví dụ/game, JSON/Markdown và hồi quy cả batch; không tạo lại 160 câu đã lưu.
+
+Tổng tích hợp vẫn 68/168 mục, 2720 câu, 68 trò chơi; giáo viên duyệt 4, chờ duyệt 64. Còn 100 mục. INDEX không tăng số hoàn thành cho nguồn chưa đóng gói.
+
+## Lịch sử
+
 # Checkpoint câu nguồn Bài 71 — 08/11/2026
 
 Đã bổ sung 40 câu Bài 71 theo thứ tự 10/10/20, nối sau 80 câu Bài 69–70 đã lưu. Câu vận dụng mới gồm kiểm tra phần dư/điều chỉnh, suy luận độ dài thương, chia nhiều tầng, phần đã dùng, so hai cách chia và tác động khi bớt một nhóm. Nguồn trang 97–100 đã đọc trực quan lượt trước. Kiểm tra số dòng, không trùng câu trong bài và bốn lựa chọn khác nhau đạt. Chưa tích hợp, chưa chạy DOM bài mới. Tiếp Bài 72 và hoàn thiện kiến thức/ví dụ/game/JSON/Markdown, kiểm thử cả Batch 18 trước khi tăng INDEX. Không tạo lại 120 câu nguồn đã lưu.

@@ -121,3 +121,44 @@ Một số chia 8 được 1500 dư 7. Bớt 8 khỏi số ban đầu rồi chia
 Chia 40000 tấm bìa đều vào 5 thùng. Sau đó lấy 1250 tấm từ mỗi thùng. Tổng số bìa còn trong 5 thùng là bao nhiêu?|33750|Mỗi thùng 8000 tấm, còn 6750 tấm; 6750 × 5 = 33750.|6750;38750;6250
 Máy chia 54006 thành 6 phần bằng nhau, rồi bớt 1000 ở mỗi phần. Mỗi phần mới là bao nhiêu?|8001|54006 : 6 = 9001; bớt 1000 còn 8001.|9001;8000;53006
 Có 24010 hạt chia đều vào 7 túi, chỉ dùng số hạt nguyên. Mỗi túi nhận 3430 hạt. Số hạt còn lại có phải bằng 0 không?|có|3430 × 7 = 24010, chia hết.|không;dư 1;dư 7
+Bài 72
+Tính 15000 × 4.|60000|15 nghìn lấy bốn lần là 60 nghìn.|45000;15004;6000
+Tính 72000 : 8.|9000|72 nghìn chia 8 bằng 9 nghìn.|900;8000;90000
+Tính 3000 × 2 × 5.|30000|3000 × 2 = 6000; 6000 × 5 = 30000.|6000;15000;3000
+Tính 48000 : 6 : 2.|4000|48000 : 6 = 8000; 8000 : 2 = 4000.|16000;8000;12000
+Trong biểu thức chỉ gồm nhân và chia, không có ngoặc, thực hiện từ bên nào?|trái|Các phép cùng mức ưu tiên tính từ trái sang phải.|phải;giữa;tùy ý
+Tính 12400 × 1.|12400|Nhân 1 giữ nguyên số.|1;12401;0
+Tính 50721 : 1.|50721|Chia 1 giữ nguyên số.|1;50720;0
+Tính 12345 × 0.|0|Một số nhân 0 bằng 0.|12345;1;123450
+Một số chia 5 có số dư lớn nhất là mấy?|4|Số dư phải bé hơn 5.|5;6;0
+Trong 18000 × 3, tích là bao nhiêu?|54000|18 nghìn lấy ba lần là 54 nghìn.|21000;5400;60000
+Tính 24000 : (2 × 3).|4000|Trong ngoặc bằng 6; 24000 : 6 = 4000.|36000;12000;8000
+Tính 16000 × (12 : 3).|64000|Trong ngoặc bằng 4; 16000 × 4 = 64000.|48000;192000;4000
+Tính 45000 : (18 : 6).|15000|Trong ngoặc bằng 3; 45000 : 3 = 15000.|2500;135000;4500
+Tính 12506 × 4.|50024|12506 × 4 = 50024; giữ đủ các hàng.|50004;50204;50020
+Tính 96012 : 4.|24003|96012 : 4 = 24003; hàng trăm và chục của thương là 0.|2403;24300;24000
+Bạn tính 30000 : 3 × 2 thành 5000. Kết quả đúng là gì?|20000|Chia trước theo thứ tự trái sang phải: được 10000, rồi nhân 2 được 20000.|5000;10000;60000
+Tính 1200 + 21000 : 7.|4200|Chia trước được 3000; thêm 1200 được 4200.|22200;3171;3000
+Tính 80000 - 15000 × 3.|35000|Nhân trước được 45000; 80000 - 45000 = 35000.|195000;65000;45000
+Tìm số còn thiếu: ? × 5 = 65000.|13000|65000 : 5 = 13000.|64995;325000;15000
+Tìm số còn thiếu: ? : 6 = 12500.|75000|Số bị chia bằng thương nhân số chia: 12500 × 6 = 75000.|12506;12494;2083
+Có 3 tờ 20000 đồng, mua 12 đồ dùng cùng giá giả định và hết tiền. Mỗi đồ dùng bao nhiêu đồng?|5000|Tổng 60000 đồng; chia 12 phần, mỗi phần 5000 đồng.|60000;12000;2000
+Một vườn có 4200 cây bưởi, số cam gấp 4 lần số bưởi. Cả hai loại bao nhiêu cây?|21000|Cam có 16800 cây; thêm 4200 cây bưởi được 21000.|16800;8400;25200
+Xưởng làm 14500 hộp mỗi ngày trong 4 ngày. Chia đều số hộp đó cho 5 kho. Mỗi kho nhận bao nhiêu hộp?|11600|Bốn ngày làm 58000 hộp; chia 5 được 11600.|58000;2900;14500
+Một trường có 36024 nhãn chia đều vào 6 thùng. Lấy 4 thùng đem phát, tổng có bao nhiêu nhãn?|24016|Mỗi thùng 6004 nhãn; bốn thùng 24016 nhãn.|6004;24000;30020
+Một sợi dây 75000 cm cắt ra 5 đoạn, mỗi đoạn 12000 cm. Còn bao nhiêu xăng-ti-mét?|15000|Năm đoạn dùng 60000 cm; còn 15000 cm.|63000;60000;3000
+Chia 40003 hạt vào các gói tối đa 5 hạt. Cần ít nhất bao nhiêu gói để chứa hết?|8001|8000 gói đầy còn 3 hạt; thêm một gói.|8000;8003;8002
+Một cửa hàng có 6 kiện mỗi kiện 12500 sản phẩm. Đã bán 27000 sản phẩm. Còn bao nhiêu sản phẩm?|48000|Có 75000 sản phẩm; 75000 - 27000 = 48000.|75000;39500;102000
+Hai xe mỗi xe chở 18000 kg, xe thứ ba chở bằng một nửa một xe đầu. Tổng ba xe chở bao nhiêu ki-lô-gam?|45000|Hai xe đầu 36000 kg, xe thứ ba 9000 kg; tổng 45000 kg.|54000;36000;27000
+Máy tính bắt đầu 10500, nhân 6 rồi chia 3. Số cuối là gì?|21000|10500 × 6 = 63000; 63000 : 3 = 21000.|63000;3500;31500
+Một chuyến dài 60000 m gồm 4 chặng bằng nhau. Sau 3 chặng còn bao nhiêu mét?|15000|Mỗi chặng 15000 m; còn đúng một chặng.|45000;20000;30000
+Tổng số gạo ở 3 bao bằng nhau là 24000 kg. Mỗi bao lấy bớt 1500 kg. Tổng còn lại bao nhiêu ki-lô-gam?|19500|Mỗi bao ban đầu 8000 kg, còn 6500 kg; cả ba còn 19500 kg.|22500;6500;24000
+Một số chia 4 được 8000 dư 2. Nhân số ban đầu với 2 được bao nhiêu?|64004|Số ban đầu 32002; 32002 × 2 = 64004.|64000;16004;32004
+Một nhóm nhận 7 hộp, mỗi hộp 10005 thẻ. Cần đủ 72000 thẻ. Còn thiếu bao nhiêu thẻ?|1965|Nhận 70035 thẻ; 72000 - 70035 = 1965 thẻ.|2000;1935;70035
+Tìm chữ số ? trong 12?50 × 4 = 51000.|7|12750 × 4 = 51000; hàng trăm là 7.|5;6;8
+Có hai cách tính: A là 24000 : 4 × 2; B là 24000 : (4 × 2). A hơn B bao nhiêu?|9000|A bằng 12000, B bằng 3000; chênh 9000.|0;3000;6000
+Một máy đóng 12000 nhãn mỗi giờ. Máy thứ hai đóng bằng một nửa máy đầu. Trong 3 giờ, hai máy đóng tổng bao nhiêu nhãn?|54000|Máy hai 6000 nhãn mỗi giờ; hai máy 18000 mỗi giờ; ba giờ 54000.|36000;18000;72000
+Một kho chuyển 45000 kg hàng bằng các chuyến đều 9 chuyến. Sau đó thêm 2 chuyến cùng lượng mỗi chuyến. Tổng đã chuyển bao nhiêu ki-lô-gam?|55000|Mỗi chuyến 5000 kg; hai chuyến thêm 10000 kg, tổng 55000 kg.|50000;90000;10000
+Cửa hàng bán 5 bộ đồ dùng giá giả định 14000 đồng mỗi bộ, rồi hoàn tiền 2000 đồng cho mỗi bộ. Thu thực tế tổng bao nhiêu đồng?|60000|Mỗi bộ còn thu 12000 đồng; năm bộ thu 60000 đồng.|68000;70000;12000
+Có 28008 chiếc cúc. Dùng một phần tư số đó, phần còn lại chia đều cho 3 lớp. Mỗi lớp bao nhiêu chiếc?|7002|Một phần tư là 7002 chiếc; còn ba phần như vậy, chia ba nên mỗi lớp 7002 chiếc.|9336;21006;7000
+Một xe chở 32000 kg, chia đều cho 4 kho. Kho A nhận thêm 1250 kg từ một nguồn khác. Kho A có bao nhiêu ki-lô-gam vừa nhận?|9250|Mỗi kho nhận 8000 kg; thêm 1250 được 9250 kg.|8000;33250;6750
