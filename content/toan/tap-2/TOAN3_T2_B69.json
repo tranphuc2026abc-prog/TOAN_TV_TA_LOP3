@@ -1,0 +1,782 @@
+{
+  "id": "TOAN3_T2_B69",
+  "subject": "toan",
+  "grade": 3,
+  "book": "Kết nối tri thức với cuộc sống",
+  "volume": 2,
+  "lesson_no": 69,
+  "title": "Luyện tập chung",
+  "topic": "Ôn thời gian, lịch và tiền",
+  "source": {
+    "pdf": "03-sgk-toan-3-tap-hai.pdf",
+    "printed_pages": [
+      88,
+      93
+    ],
+    "pdf_pages": [
+      89,
+      94
+    ],
+    "review": "Đã đọc trực quan toàn bộ trang nguồn cho bài này; nội dung và bài tập mới do AI biên soạn."
+  },
+  "objectives": [
+    "Đổi đơn vị thời gian và tính khoảng thời gian.",
+    "Suy luận thứ/ngày theo dữ kiện lịch.",
+    "Tính giá giả định và tiền thừa."
+  ],
+  "knowledge": {
+    "introduction": "Mỗi giờ 60 phút, mỗi ngày 24 giờ, mỗi tuần 7 ngày, mỗi năm 12 tháng. Khi tính thời gian qua giờ mới, tách phần tới giờ đúng rồi cộng phần còn lại.",
+    "rules": [
+      "Đổi về cùng đơn vị trước khi cộng hoặc so sánh.",
+      "Sau 7 ngày thì thứ trong tuần lặp lại.",
+      "Tiền thừa bằng tiền trả trừ tổng giá các món."
+    ],
+    "steps": [
+      "Ghi rõ lúc bắt đầu, kết thúc hoặc ngày mốc.",
+      "Đổi đơn vị hoặc tách qua mốc giờ.",
+      "Tính từng bước, ghi đơn vị và kiểm tra."
+    ],
+    "common_errors": [
+      "Lấy phút lớn trừ phút bé mà quên qua giờ mới.",
+      "Đếm cả ngày đầu khi đề hỏi số ngày sau một mốc.",
+      "Quên nhân số món cùng giá."
+    ]
+  },
+  "examples": [
+    {
+      "question": "Xe đi từ 8 giờ 45 đến 9 giờ 10, mất bao lâu?",
+      "steps": [
+        "Đến 9 giờ mất 15 phút; thêm 10 phút.",
+        "Tổng 25 phút."
+      ]
+    },
+    {
+      "question": "Món hàng giả định 6500 đồng, trả 10000 đồng.",
+      "steps": [
+        "10000 - 6500 = 3500 đồng tiền thừa."
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "question_id": "TOAN3_T2_B69_Q01",
+      "type": "mcq",
+      "question": "Đổi 4 giờ thành phút.",
+      "options": [
+        "240",
+        "40",
+        "180",
+        "400"
+      ],
+      "correct_answer": "240",
+      "distractors": [
+        "40",
+        "180",
+        "400"
+      ],
+      "explanation": "Mỗi giờ 60 phút; 4 × 60 = 240 phút.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B69_Q02",
+      "type": "fill",
+      "question": "Đổi 2 tuần thành ngày.",
+      "correct_answer": "14",
+      "distractors": [
+        "12",
+        "10",
+        "21"
+      ],
+      "explanation": "Mỗi tuần 7 ngày; 2 × 7 = 14 ngày.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B69_Q03",
+      "type": "mcq",
+      "question": "Đổi 5 năm thành tháng.",
+      "options": [
+        "60",
+        "50",
+        "17",
+        "120"
+      ],
+      "correct_answer": "60",
+      "distractors": [
+        "50",
+        "17",
+        "120"
+      ],
+      "explanation": "Mỗi năm 12 tháng; 5 × 12 = 60 tháng.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B69_Q04",
+      "type": "fill",
+      "question": "Đổi 2 ngày thành giờ.",
+      "correct_answer": "48",
+      "distractors": [
+        "24",
+        "36",
+        "72"
+      ],
+      "explanation": "Mỗi ngày 24 giờ; 2 × 24 = 48 giờ.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B69_Q05",
+      "type": "mcq",
+      "question": "9 giờ kém 15 phút là 8 giờ bao nhiêu phút?",
+      "options": [
+        "45",
+        "15",
+        "30",
+        "50"
+      ],
+      "correct_answer": "45",
+      "distractors": [
+        "15",
+        "30",
+        "50"
+      ],
+      "explanation": "Trước 9 giờ 15 phút là 8 giờ 45 phút.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B69_Q06",
+      "type": "fill",
+      "question": "Buổi chiều, 16 giờ là mấy giờ theo cách nói 12 giờ?",
+      "correct_answer": "4",
+      "distractors": [
+        "6",
+        "3",
+        "5"
+      ],
+      "explanation": "16 giờ tương ứng 4 giờ chiều.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B69_Q07",
+      "type": "mcq",
+      "question": "Một tờ 10000 đồng và một tờ 5000 đồng có tổng bao nhiêu đồng?",
+      "options": [
+        "15000",
+        "5000",
+        "20000",
+        "10000"
+      ],
+      "correct_answer": "15000",
+      "distractors": [
+        "5000",
+        "20000",
+        "10000"
+      ],
+      "explanation": "10000 + 5000 = 15000 đồng.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B69_Q08",
+      "type": "fill",
+      "question": "Ba tờ 2000 đồng có tổng bao nhiêu đồng?",
+      "correct_answer": "6000",
+      "distractors": [
+        "2003",
+        "5000",
+        "8000"
+      ],
+      "explanation": "2000 × 3 = 6000 đồng.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B69_Q09",
+      "type": "mcq",
+      "question": "Một tuần có mấy ngày Chủ nhật?",
+      "options": [
+        "1",
+        "2",
+        "7",
+        "0"
+      ],
+      "correct_answer": "1",
+      "distractors": [
+        "2",
+        "7",
+        "0"
+      ],
+      "explanation": "Trong bảy ngày liên tiếp của một tuần có một ngày Chủ nhật.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B69_Q10",
+      "type": "fill",
+      "question": "Tháng 4 có bao nhiêu ngày?",
+      "correct_answer": "30",
+      "distractors": [
+        "28",
+        "29",
+        "31"
+      ],
+      "explanation": "Tháng 4 có 30 ngày.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B69_Q11",
+      "type": "mcq",
+      "question": "Lan đến lúc 7 giờ 48 phút, Minh đến lúc 7 giờ 52 phút. Ai đến trước?",
+      "options": [
+        "Lan",
+        "Minh",
+        "cùng lúc",
+        "không xác định"
+      ],
+      "correct_answer": "Lan",
+      "distractors": [
+        "Minh",
+        "cùng lúc",
+        "không xác định"
+      ],
+      "explanation": "Cùng 7 giờ, phút 48 ít hơn phút 52.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B69_Q12",
+      "type": "fill",
+      "question": "Từ 8 giờ 35 phút đến 9 giờ là bao nhiêu phút?",
+      "correct_answer": "25",
+      "distractors": [
+        "35",
+        "20",
+        "65"
+      ],
+      "explanation": "Từ phút 35 đến phút 60 còn 25 phút.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B69_Q13",
+      "type": "mcq",
+      "question": "Một buổi học bắt đầu 14 giờ 10 phút, kéo dài 35 phút. Kết thúc lúc 14 giờ bao nhiêu phút?",
+      "options": [
+        "45",
+        "35",
+        "25",
+        "50"
+      ],
+      "correct_answer": "45",
+      "distractors": [
+        "35",
+        "25",
+        "50"
+      ],
+      "explanation": "10 + 35 = 45 phút, chưa sang giờ mới.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B69_Q14",
+      "type": "fill",
+      "question": "Đổi 1 giờ 45 phút thành phút.",
+      "correct_answer": "105",
+      "distractors": [
+        "145",
+        "85",
+        "95"
+      ],
+      "explanation": "60 + 45 = 105 phút.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B69_Q15",
+      "type": "mcq",
+      "question": "Đổi 1 tuần 5 ngày thành ngày.",
+      "options": [
+        "12",
+        "15",
+        "10",
+        "35"
+      ],
+      "correct_answer": "12",
+      "distractors": [
+        "15",
+        "10",
+        "35"
+      ],
+      "explanation": "7 + 5 = 12 ngày.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B69_Q16",
+      "type": "fill",
+      "question": "Đổi 2 năm 3 tháng thành tháng.",
+      "correct_answer": "27",
+      "distractors": [
+        "23",
+        "26",
+        "36"
+      ],
+      "explanation": "24 + 3 = 27 tháng.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B69_Q17",
+      "type": "mcq",
+      "question": "Đổi 1 ngày 8 giờ thành giờ.",
+      "options": [
+        "32",
+        "18",
+        "28",
+        "48"
+      ],
+      "correct_answer": "32",
+      "distractors": [
+        "18",
+        "28",
+        "48"
+      ],
+      "explanation": "24 + 8 = 32 giờ.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B69_Q18",
+      "type": "fill",
+      "question": "Có 20000 đồng, mua vở giá giả định 8500 đồng. Còn bao nhiêu đồng?",
+      "correct_answer": "11500",
+      "distractors": [
+        "12500",
+        "8500",
+        "28500"
+      ],
+      "explanation": "20000 - 8500 = 11500 đồng.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B69_Q19",
+      "type": "mcq",
+      "question": "Một món giá giả định 12000 đồng. Trả một tờ 10000 đồng thì còn thiếu bao nhiêu đồng?",
+      "options": [
+        "2000",
+        "10000",
+        "22000",
+        "1200"
+      ],
+      "correct_answer": "2000",
+      "distractors": [
+        "10000",
+        "22000",
+        "1200"
+      ],
+      "explanation": "12000 - 10000 = 2000 đồng.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B69_Q20",
+      "type": "fill",
+      "question": "Trong tháng có ngày 1 là thứ Hai, ngày 8 là thứ mấy?",
+      "correct_answer": "thứ Hai",
+      "distractors": [
+        "thứ Ba",
+        "Chủ nhật",
+        "thứ Tư"
+      ],
+      "explanation": "Sau đúng một tuần, thứ trong tuần lặp lại.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B69_Q21",
+      "type": "mcq",
+      "question": "Xe khởi hành 6 giờ 45 phút, đến nơi 7 giờ 20 phút cùng sáng. Đi hết bao nhiêu phút?",
+      "options": [
+        "35",
+        "25",
+        "45",
+        "75"
+      ],
+      "correct_answer": "35",
+      "distractors": [
+        "25",
+        "45",
+        "75"
+      ],
+      "explanation": "Đến 7 giờ mất 15 phút, thêm 20 phút; tổng 35 phút.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B69_Q22",
+      "type": "fill",
+      "question": "Phim bắt đầu 19 giờ 40 phút và dài 50 phút. Kết thúc lúc 20 giờ bao nhiêu phút?",
+      "correct_answer": "30",
+      "distractors": [
+        "10",
+        "50",
+        "40"
+      ],
+      "explanation": "20 phút đến 20 giờ, còn 30 phút; kết thúc 20 giờ 30 phút.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B69_Q23",
+      "type": "mcq",
+      "question": "Bé tập đàn từ 17 giờ 15 phút đến 17 giờ 50 phút, nghỉ 10 phút rồi tập thêm 20 phút. Tổng thời gian tập, không tính nghỉ, là bao nhiêu phút?",
+      "options": [
+        "55",
+        "65",
+        "45",
+        "60"
+      ],
+      "correct_answer": "55",
+      "distractors": [
+        "65",
+        "45",
+        "60"
+      ],
+      "explanation": "Lượt đầu 35 phút, lượt sau 20 phút; tổng 55 phút.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B69_Q24",
+      "type": "fill",
+      "question": "Ngày 1 tháng 6 của một năm giả định là thứ Hai. Ngày 21 tháng 6 là thứ mấy?",
+      "correct_answer": "Chủ nhật",
+      "distractors": [
+        "thứ Hai",
+        "thứ Bảy",
+        "thứ Ba"
+      ],
+      "explanation": "Ngày 1 đến ngày 21 cách 20 ngày; thứ Hai tiến 20 ngày là Chủ nhật.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B69_Q25",
+      "type": "mcq",
+      "question": "Một tháng 30 ngày bắt đầu vào thứ Hai. Có bao nhiêu ngày Chủ nhật trong tháng?",
+      "options": [
+        "4",
+        "5",
+        "3",
+        "6"
+      ],
+      "correct_answer": "4",
+      "distractors": [
+        "5",
+        "3",
+        "6"
+      ],
+      "explanation": "Các Chủ nhật là ngày 7, 14, 21, 28; có bốn ngày.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B69_Q26",
+      "type": "fill",
+      "question": "Một tháng có các thứ Bảy là ngày 6, 13, 20, 27. Bắt đầu học vẽ từ ngày 13 vào mỗi thứ Bảy, trong tháng có mấy buổi?",
+      "correct_answer": "3",
+      "distractors": [
+        "2",
+        "4",
+        "5"
+      ],
+      "explanation": "Các buổi từ ngày 13 là 13, 20, 27; có ba buổi.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B69_Q27",
+      "type": "mcq",
+      "question": "Bé hiện 6 tuổi 8 tháng. Còn bao nhiêu tháng nữa tròn 7 tuổi?",
+      "options": [
+        "4",
+        "8",
+        "6",
+        "12"
+      ],
+      "correct_answer": "4",
+      "distractors": [
+        "8",
+        "6",
+        "12"
+      ],
+      "explanation": "Một tuổi có 12 tháng; 12 - 8 = 4 tháng.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B69_Q28",
+      "type": "fill",
+      "question": "An sinh tháng 2, Bình sinh sau An 4 tháng trong cùng năm. Bình sinh tháng mấy?",
+      "correct_answer": "6",
+      "distractors": [
+        "4",
+        "5",
+        "7"
+      ],
+      "explanation": "Tháng 2 tiến bốn tháng là tháng 6.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B69_Q29",
+      "type": "mcq",
+      "question": "Hà sinh tháng 9, Nam sinh trước Hà 3 tháng trong cùng năm. Nam sinh tháng mấy?",
+      "options": [
+        "6",
+        "3",
+        "12",
+        "7"
+      ],
+      "correct_answer": "6",
+      "distractors": [
+        "3",
+        "12",
+        "7"
+      ],
+      "explanation": "Tháng 9 lùi ba tháng là tháng 6.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B69_Q30",
+      "type": "fill",
+      "question": "Có 3 tờ 5000 đồng và 2 tờ 2000 đồng. Mua món giá giả định 14000 đồng. Còn bao nhiêu đồng?",
+      "correct_answer": "5000",
+      "distractors": [
+        "4000",
+        "15000",
+        "33000"
+      ],
+      "explanation": "Có 19000 đồng; 19000 - 14000 = 5000 đồng.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B69_Q31",
+      "type": "mcq",
+      "question": "Hai chiếc bút cùng giá giả định có tổng giá 12000 đồng. Mua 3 chiếc như thế hết bao nhiêu đồng?",
+      "options": [
+        "18000",
+        "24000",
+        "12000",
+        "36000"
+      ],
+      "correct_answer": "18000",
+      "distractors": [
+        "24000",
+        "12000",
+        "36000"
+      ],
+      "explanation": "Một chiếc 6000 đồng; ba chiếc 18000 đồng.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B69_Q32",
+      "type": "fill",
+      "question": "Đổi một tờ 20000 đồng thành các tờ 5000 đồng bằng giá trị. Cần mấy tờ?",
+      "correct_answer": "4",
+      "distractors": [
+        "2",
+        "5",
+        "10"
+      ],
+      "explanation": "20000 : 5000 = 4 tờ.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B69_Q33",
+      "type": "mcq",
+      "question": "Một đồ chơi giá giả định 17000 đồng, trả 20000 đồng. Tiền thừa gồm một tờ 2000 đồng và mấy tờ 1000 đồng?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct_answer": "1",
+      "distractors": [
+        "2",
+        "3",
+        "4"
+      ],
+      "explanation": "Tiền thừa 3000 đồng; ngoài 2000 đồng còn 1000 đồng, một tờ.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B69_Q34",
+      "type": "fill",
+      "question": "Lịch hẹn có ngày 10 là thứ Tư. Hẹn sau đúng 9 ngày là thứ mấy?",
+      "correct_answer": "thứ Sáu",
+      "distractors": [
+        "thứ Năm",
+        "thứ Bảy",
+        "Chủ nhật"
+      ],
+      "explanation": "Sau 7 ngày vẫn thứ Tư; thêm 2 ngày là thứ Sáu.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B69_Q35",
+      "type": "mcq",
+      "question": "Bắt đầu 10 giờ 25 phút, mỗi bước kim đồng hồ tiến 5 phút. Sau 7 bước là mấy giờ đúng?",
+      "options": [
+        "11",
+        "10",
+        "12",
+        "9"
+      ],
+      "correct_answer": "11",
+      "distractors": [
+        "10",
+        "12",
+        "9"
+      ],
+      "explanation": "Bảy bước là 35 phút; 10 giờ 25 phút thêm 35 phút thành 11 giờ.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B69_Q36",
+      "type": "fill",
+      "question": "Bạn cần tới lớp trước 7 giờ 30 phút. Đi mất 20 phút, khởi hành 7 giờ 15 phút. Bạn đến muộn mấy phút?",
+      "correct_answer": "5",
+      "distractors": [
+        "10",
+        "15",
+        "0"
+      ],
+      "explanation": "Đến 7 giờ 35 phút, muộn hơn 7 giờ 30 phút là 5 phút.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B69_Q37",
+      "type": "mcq",
+      "question": "Một hoạt động bắt đầu 15 giờ 50 phút, kết thúc 16 giờ 25 phút. Nếu bắt đầu sớm hơn 10 phút mà giữ nguyên thời lượng, kết thúc lúc 16 giờ bao nhiêu phút?",
+      "options": [
+        "15",
+        "35",
+        "5",
+        "25"
+      ],
+      "correct_answer": "15",
+      "distractors": [
+        "35",
+        "5",
+        "25"
+      ],
+      "explanation": "Thời lượng giữ nguyên, giờ kết thúc cũng sớm hơn 10 phút: 16 giờ 15 phút.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B69_Q38",
+      "type": "fill",
+      "question": "Cửa hàng cho đổi món giá giả định 9000 đồng sang món 14500 đồng. Người mua cần bù thêm bao nhiêu đồng?",
+      "correct_answer": "5500",
+      "distractors": [
+        "4500",
+        "23500",
+        "5000"
+      ],
+      "explanation": "14500 - 9000 = 5500 đồng.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B69_Q39",
+      "type": "mcq",
+      "question": "Mua hai quyển vở giá giả định 7000 đồng mỗi quyển và một bút 4500 đồng. Trả 20000 đồng, nhận lại bao nhiêu đồng?",
+      "options": [
+        "1500",
+        "2500",
+        "6000",
+        "4500"
+      ],
+      "correct_answer": "1500",
+      "distractors": [
+        "2500",
+        "6000",
+        "4500"
+      ],
+      "explanation": "Vở hết 14000 đồng, cả ba món 18500 đồng; còn 1500 đồng.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B69_Q40",
+      "type": "fill",
+      "question": "Hẹn sau 2 tuần 3 ngày kể từ thứ Hai. Ngày hẹn là thứ mấy?",
+      "correct_answer": "thứ Năm",
+      "distractors": [
+        "thứ Tư",
+        "thứ Sáu",
+        "Chủ nhật"
+      ],
+      "explanation": "Hai tuần vẫn thứ Hai, thêm ba ngày là thứ Năm.",
+      "difficulty": "van_dung"
+    }
+  ],
+  "games": [
+    {
+      "id": "TOAN3_T2_B69_GAME1",
+      "title": "Hành trình đúng giờ",
+      "mode": "treasure",
+      "objective": "Trả lời các nhiệm vụ trong bài, xem lời giải và thử lại để củng cố cách làm.",
+      "rules": [
+        "Mỗi lượt lấy 10 câu từ bài học.",
+        "Chọn đáp án, đọc lời giải rồi sang câu tiếp theo.",
+        "Mỗi câu đúng được 10 điểm; tối đa 100 điểm."
+      ],
+      "question_ids": [
+        "TOAN3_T2_B69_Q01",
+        "TOAN3_T2_B69_Q02",
+        "TOAN3_T2_B69_Q03",
+        "TOAN3_T2_B69_Q04",
+        "TOAN3_T2_B69_Q05",
+        "TOAN3_T2_B69_Q06",
+        "TOAN3_T2_B69_Q07",
+        "TOAN3_T2_B69_Q08",
+        "TOAN3_T2_B69_Q09",
+        "TOAN3_T2_B69_Q10",
+        "TOAN3_T2_B69_Q11",
+        "TOAN3_T2_B69_Q12",
+        "TOAN3_T2_B69_Q13",
+        "TOAN3_T2_B69_Q14",
+        "TOAN3_T2_B69_Q15",
+        "TOAN3_T2_B69_Q16",
+        "TOAN3_T2_B69_Q17",
+        "TOAN3_T2_B69_Q18",
+        "TOAN3_T2_B69_Q19",
+        "TOAN3_T2_B69_Q20",
+        "TOAN3_T2_B69_Q21",
+        "TOAN3_T2_B69_Q22",
+        "TOAN3_T2_B69_Q23",
+        "TOAN3_T2_B69_Q24",
+        "TOAN3_T2_B69_Q25",
+        "TOAN3_T2_B69_Q26",
+        "TOAN3_T2_B69_Q27",
+        "TOAN3_T2_B69_Q28",
+        "TOAN3_T2_B69_Q29",
+        "TOAN3_T2_B69_Q30",
+        "TOAN3_T2_B69_Q31",
+        "TOAN3_T2_B69_Q32",
+        "TOAN3_T2_B69_Q33",
+        "TOAN3_T2_B69_Q34",
+        "TOAN3_T2_B69_Q35",
+        "TOAN3_T2_B69_Q36",
+        "TOAN3_T2_B69_Q37",
+        "TOAN3_T2_B69_Q38",
+        "TOAN3_T2_B69_Q39",
+        "TOAN3_T2_B69_Q40"
+      ],
+      "answer_source": "practice.correct_answer",
+      "feedback_source": "practice.explanation",
+      "max_score": 100
+    }
+  ],
+  "assessment": {
+    "session_size": 10,
+    "distribution": {
+      "nhan_biet": 3,
+      "thong_hieu": 3,
+      "van_dung": 4
+    },
+    "scoring": "Đúng lần đầu: 1 điểm; đúng sau một gợi ý: 0,5 điểm. Từ 90%: 3 sao; từ 60%: 2 sao; còn lại: 1 sao.",
+    "review_advice": "Xem lời giải các câu sai, đọc lại quy tắc, rồi làm một lượt mới."
+  },
+  "feedback": {
+    "correct": "Chính xác! Hãy đọc lời giải để củng cố cách làm.",
+    "incorrect": "Em thử lại một lần. Sau đó xem đáp án và cách giải."
+  },
+  "verification": {
+    "ai_authored": true,
+    "structure_checked": true,
+    "answer_reviewed": true,
+    "source_reviewed": true,
+    "teacher_approved": false
+  },
+  "status": "AI_CHECKED_AWAITING_TEACHER"
+}

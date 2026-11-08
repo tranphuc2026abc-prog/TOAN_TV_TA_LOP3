@@ -1,0 +1,784 @@
+{
+  "id": "TOAN3_T2_B70",
+  "subject": "toan",
+  "grade": 3,
+  "book": "Kết nối tri thức với cuộc sống",
+  "volume": 2,
+  "lesson_no": 70,
+  "title": "Nhân số có năm chữ số với số có một chữ số",
+  "topic": "Nhân số có năm chữ số",
+  "source": {
+    "pdf": "03-sgk-toan-3-tap-hai.pdf",
+    "printed_pages": [
+      94,
+      96
+    ],
+    "pdf_pages": [
+      95,
+      97
+    ],
+    "review": "Đã đọc trực quan toàn bộ trang nguồn cho bài này; nội dung và bài tập mới do AI biên soạn."
+  },
+  "objectives": [
+    "Đặt tính đúng cột đơn vị.",
+    "Nhân có nhớ qua các hàng, kể cả chữ số 0.",
+    "Giải bài nhiều nhóm bằng nhau và lượng thêm/bớt."
+  ],
+  "knowledge": {
+    "introduction": "Nhân từ đơn vị sang trái. Ở mỗi hàng, nhân chữ số với thừa số rồi cộng số nhớ; ghi chữ số đơn vị và chuyển phần còn lại sang hàng tiếp theo.",
+    "rules": [
+      "Số nhớ được cộng sau khi nhân từng chữ số.",
+      "Nhân 1 giữ nguyên, nhân 0 bằng 0.",
+      "Lượng trong một nhóm nhân số nhóm cho tổng lượng."
+    ],
+    "steps": [
+      "Xác định số mỗi nhóm và số nhóm.",
+      "Nhân từ phải sang trái, ghi rõ số nhớ.",
+      "Xử lí lượng thêm hoặc bớt sau phép nhân."
+    ],
+    "common_errors": [
+      "Nhân cả số nhớ thêm một lần.",
+      "Bỏ số nhớ khi gặp chữ số 0.",
+      "Quên bước thêm hoặc bớt trong câu hỏi."
+    ]
+  },
+  "examples": [
+    {
+      "question": "Tính 12017 × 4.",
+      "steps": [
+        "7 × 4 = 28, viết 8 nhớ 2.",
+        "1 × 4 + 2 = 6; các hàng tiếp theo lần lượt 0, 8, 4.",
+        "Tích là 48068."
+      ]
+    },
+    {
+      "question": "Ba kiện mỗi kiện 14000 kg, bớt 2000 kg.",
+      "steps": [
+        "14000 × 3 = 42000 kg.",
+        "42000 - 2000 = 40000 kg."
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "question_id": "TOAN3_T2_B70_Q01",
+      "type": "mcq",
+      "question": "Tính 12312 × 3.",
+      "options": [
+        "36936",
+        "36926",
+        "35936",
+        "12315"
+      ],
+      "correct_answer": "36936",
+      "distractors": [
+        "36926",
+        "35936",
+        "12315"
+      ],
+      "explanation": "12312 × 3 = 36936; nhân từ đơn vị sang trái.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B70_Q02",
+      "type": "fill",
+      "question": "Nhẩm 20000 × 4.",
+      "correct_answer": "80000",
+      "distractors": [
+        "60000",
+        "20004",
+        "40000"
+      ],
+      "explanation": "Hai chục nghìn lấy bốn lần là tám chục nghìn.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B70_Q03",
+      "type": "mcq",
+      "question": "Tính 21003 × 2.",
+      "options": [
+        "42006",
+        "42003",
+        "42060",
+        "42000"
+      ],
+      "correct_answer": "42006",
+      "distractors": [
+        "42003",
+        "42060",
+        "42000"
+      ],
+      "explanation": "Nhân đủ các hàng, kể cả hàng có chữ số 0.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B70_Q04",
+      "type": "fill",
+      "question": "Nhân đặt dọc bắt đầu từ hàng nào?",
+      "correct_answer": "đơn vị",
+      "distractors": [
+        "chục nghìn",
+        "nghìn",
+        "trăm"
+      ],
+      "explanation": "Nhân từ phải sang trái, bắt đầu ở hàng đơn vị.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B70_Q05",
+      "type": "mcq",
+      "question": "Tính 31425 × 1.",
+      "options": [
+        "31425",
+        "1",
+        "31426",
+        "0"
+      ],
+      "correct_answer": "31425",
+      "distractors": [
+        "1",
+        "31426",
+        "0"
+      ],
+      "explanation": "Nhân với 1 giữ nguyên số.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B70_Q06",
+      "type": "fill",
+      "question": "Tính 45678 × 0.",
+      "correct_answer": "0",
+      "distractors": [
+        "45678",
+        "1",
+        "456780"
+      ],
+      "explanation": "Mọi số nhân với 0 đều bằng 0.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B70_Q07",
+      "type": "mcq",
+      "question": "Hàng đơn vị của 14237 × 4 là chữ số nào?",
+      "options": [
+        "8",
+        "2",
+        "7",
+        "4"
+      ],
+      "correct_answer": "8",
+      "distractors": [
+        "2",
+        "7",
+        "4"
+      ],
+      "explanation": "7 × 4 = 28, viết 8 nhớ 2.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B70_Q08",
+      "type": "fill",
+      "question": "Tính 11000 × 8.",
+      "correct_answer": "88000",
+      "distractors": [
+        "81000",
+        "11008",
+        "8800"
+      ],
+      "explanation": "11 nghìn lấy tám lần bằng 88 nghìn.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B70_Q09",
+      "type": "mcq",
+      "question": "Số 25000 lấy hai lần được bao nhiêu?",
+      "options": [
+        "50000",
+        "25002",
+        "75000",
+        "250000"
+      ],
+      "correct_answer": "50000",
+      "distractors": [
+        "25002",
+        "75000",
+        "250000"
+      ],
+      "explanation": "25000 + 25000 = 50000.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B70_Q10",
+      "type": "fill",
+      "question": "Tính 10006 × 5.",
+      "correct_answer": "50030",
+      "distractors": [
+        "50000",
+        "50003",
+        "50300"
+      ],
+      "explanation": "6 × 5 = 30, viết 0 nhớ 3 sang hàng chục.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B70_Q11",
+      "type": "mcq",
+      "question": "Tính 16248 × 4.",
+      "options": [
+        "64992",
+        "63992",
+        "64982",
+        "64892"
+      ],
+      "correct_answer": "64992",
+      "distractors": [
+        "63992",
+        "64982",
+        "64892"
+      ],
+      "explanation": "16248 × 4 = 64992; cộng đủ số nhớ ở từng cột.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B70_Q12",
+      "type": "fill",
+      "question": "Trong 12008 × 6, sau hàng đơn vị cần nhớ mấy sang hàng chục?",
+      "correct_answer": "4",
+      "distractors": [
+        "0",
+        "6",
+        "8"
+      ],
+      "explanation": "8 × 6 = 48, viết 8 nhớ 4.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B70_Q13",
+      "type": "mcq",
+      "question": "Một bạn ghi 13007 × 3 thành 39001 do bỏ số nhớ. Tích đúng là gì?",
+      "options": [
+        "39021",
+        "39001",
+        "39201",
+        "39027"
+      ],
+      "correct_answer": "39021",
+      "distractors": [
+        "39001",
+        "39201",
+        "39027"
+      ],
+      "explanation": "7 × 3 = 21; hàng chục phải nhận số nhớ 2.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B70_Q14",
+      "type": "fill",
+      "question": "Tính 20410 × 3.",
+      "correct_answer": "61230",
+      "distractors": [
+        "61203",
+        "60230",
+        "61430"
+      ],
+      "explanation": "20410 × 3 = 61230; giữ đúng các hàng.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B70_Q15",
+      "type": "mcq",
+      "question": "12450 × 2 và 12450 + 12450 có bằng nhau không?",
+      "options": [
+        "có",
+        "không",
+        "chỉ khi không nhớ",
+        "không xác định"
+      ],
+      "correct_answer": "có",
+      "distractors": [
+        "không",
+        "chỉ khi không nhớ",
+        "không xác định"
+      ],
+      "explanation": "Nhân 2 là lấy cùng số đó hai lần.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B70_Q16",
+      "type": "fill",
+      "question": "Tích 19876 × 4 có mấy chữ số?",
+      "correct_answer": "5",
+      "distractors": [
+        "4",
+        "6",
+        "7"
+      ],
+      "explanation": "19876 × 4 = 79504, gồm năm chữ số.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B70_Q17",
+      "type": "mcq",
+      "question": "Tính 15025 × 6.",
+      "options": [
+        "90150",
+        "90050",
+        "90105",
+        "90250"
+      ],
+      "correct_answer": "90150",
+      "distractors": [
+        "90050",
+        "90105",
+        "90250"
+      ],
+      "explanation": "15025 × 6 = 90150; số nhớ đi qua hàng chục.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B70_Q18",
+      "type": "fill",
+      "question": "Chỉ tìm hàng chục của tích 11118 × 3.",
+      "correct_answer": "5",
+      "distractors": [
+        "3",
+        "2",
+        "4"
+      ],
+      "explanation": "8 × 3 = 24, nhớ 2; hàng chục 1 × 3 + 2 = 5.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B70_Q19",
+      "type": "mcq",
+      "question": "Tính 12000 × 2 × 3.",
+      "options": [
+        "72000",
+        "36000",
+        "24000",
+        "60000"
+      ],
+      "correct_answer": "72000",
+      "distractors": [
+        "36000",
+        "24000",
+        "60000"
+      ],
+      "explanation": "12000 × 2 = 24000; 24000 × 3 = 72000.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B70_Q20",
+      "type": "fill",
+      "question": "Ở mỗi hàng khi nhân có nhớ, nhân chữ số trước rồi cộng số nhớ hay ngược lại? Viết “nhân trước” hoặc “cộng trước”.",
+      "correct_answer": "nhân trước",
+      "distractors": [
+        "cộng trước",
+        "tùy ý",
+        "bỏ số nhớ"
+      ],
+      "explanation": "Số nhớ chỉ cộng vào kết quả của hàng tiếp theo, không đem nhân thêm.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B70_Q21",
+      "type": "mcq",
+      "question": "Mỗi xe chở 12500 kg. Bốn xe như nhau chở bao nhiêu ki-lô-gam?",
+      "options": [
+        "50000",
+        "40000",
+        "12504",
+        "45000"
+      ],
+      "correct_answer": "50000",
+      "distractors": [
+        "40000",
+        "12504",
+        "45000"
+      ],
+      "explanation": "12500 × 4 = 50000 kg.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B70_Q22",
+      "type": "fill",
+      "question": "Xưởng làm 14235 sản phẩm mỗi ngày. Ba ngày như nhau làm bao nhiêu sản phẩm?",
+      "correct_answer": "42705",
+      "distractors": [
+        "42605",
+        "41705",
+        "42715"
+      ],
+      "explanation": "14235 × 3 = 42705.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B70_Q23",
+      "type": "mcq",
+      "question": "Ba kho mỗi kho có 18000 l dầu. Chuyển đi tổng 24500 l. Còn bao nhiêu lít?",
+      "options": [
+        "29500",
+        "54000",
+        "42500",
+        "30500"
+      ],
+      "correct_answer": "29500",
+      "distractors": [
+        "54000",
+        "42500",
+        "30500"
+      ],
+      "explanation": "Ban đầu 54000 l; 54000 - 24500 = 29500 l.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B70_Q24",
+      "type": "fill",
+      "question": "Một vé giá giả định 15000 đồng. Mua 4 vé, trả 100000 đồng. Tiền thừa bao nhiêu đồng?",
+      "correct_answer": "40000",
+      "distractors": [
+        "60000",
+        "85000",
+        "45000"
+      ],
+      "explanation": "Bốn vé hết 60000 đồng; còn 40000 đồng.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B70_Q25",
+      "type": "mcq",
+      "question": "Mỗi kiện có 21005 nhãn. Ba kiện có tổng bao nhiêu nhãn?",
+      "options": [
+        "63015",
+        "63005",
+        "63050",
+        "63105"
+      ],
+      "correct_answer": "63015",
+      "distractors": [
+        "63005",
+        "63050",
+        "63105"
+      ],
+      "explanation": "21005 × 3 = 63015 nhãn.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B70_Q26",
+      "type": "fill",
+      "question": "Hai đội mỗi đội trồng 14250 cây. Đội thứ ba trồng 11500 cây. Cả ba đội trồng bao nhiêu cây?",
+      "correct_answer": "40000",
+      "distractors": [
+        "28500",
+        "25750",
+        "41000"
+      ],
+      "explanation": "Hai đội đầu có 28500 cây; thêm 11500 được 40000.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B70_Q27",
+      "type": "mcq",
+      "question": "Có 5 bó, mỗi bó 12040 que. Lấy ra tổng 200 que. Còn bao nhiêu que?",
+      "options": [
+        "60000",
+        "60200",
+        "59800",
+        "60400"
+      ],
+      "correct_answer": "60000",
+      "distractors": [
+        "60200",
+        "59800",
+        "60400"
+      ],
+      "explanation": "12040 × 5 = 60200; bớt 200 còn 60000.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B70_Q28",
+      "type": "fill",
+      "question": "Một khu đất vuông cạnh 12450 m. Chu vi bao nhiêu mét?",
+      "correct_answer": "49800",
+      "distractors": [
+        "24900",
+        "49700",
+        "62250"
+      ],
+      "explanation": "12450 × 4 = 49800 m.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B70_Q29",
+      "type": "mcq",
+      "question": "Máy A làm 18000 hộp mỗi giờ trong 3 giờ. Máy B làm tổng 52500 hộp. A hơn B bao nhiêu hộp?",
+      "options": [
+        "1500",
+        "54000",
+        "3500",
+        "500"
+      ],
+      "correct_answer": "1500",
+      "distractors": [
+        "54000",
+        "3500",
+        "500"
+      ],
+      "explanation": "A làm 54000 hộp; 54000 - 52500 = 1500 hộp.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B70_Q30",
+      "type": "fill",
+      "question": "Mỗi thùng 10008 hạt. Tám thùng có bao nhiêu hạt?",
+      "correct_answer": "80064",
+      "distractors": [
+        "80008",
+        "80048",
+        "80640"
+      ],
+      "explanation": "10008 × 8 = 80064.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B70_Q31",
+      "type": "mcq",
+      "question": "Có 3 cuộn dây mỗi cuộn 24000 cm. Cắt đi tổng 12500 cm. Còn bao nhiêu xăng-ti-mét?",
+      "options": [
+        "59500",
+        "72000",
+        "60500",
+        "11500"
+      ],
+      "correct_answer": "59500",
+      "distractors": [
+        "72000",
+        "60500",
+        "11500"
+      ],
+      "explanation": "Ba cuộn 72000 cm; 72000 - 12500 = 59500 cm.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B70_Q32",
+      "type": "fill",
+      "question": "Một đội trồng 15250 cây mỗi đợt, thực hiện 4 đợt rồi thêm 9000 cây. Tổng bao nhiêu cây?",
+      "correct_answer": "70000",
+      "distractors": [
+        "61000",
+        "62000",
+        "79000"
+      ],
+      "explanation": "15250 × 4 = 61000; thêm 9000 được 70000.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B70_Q33",
+      "type": "mcq",
+      "question": "Giá giả định một bộ học liệu là 12000 đồng. Mua 6 bộ và một túi 8000 đồng. Tổng bao nhiêu đồng?",
+      "options": [
+        "80000",
+        "72000",
+        "20000",
+        "88000"
+      ],
+      "correct_answer": "80000",
+      "distractors": [
+        "72000",
+        "20000",
+        "88000"
+      ],
+      "explanation": "Sáu bộ 72000 đồng; thêm túi được 80000 đồng.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B70_Q34",
+      "type": "fill",
+      "question": "Xe thứ nhất chở 22500 kg. Ba xe sau mỗi xe chở 15000 kg. Tổng bốn xe chở bao nhiêu ki-lô-gam?",
+      "correct_answer": "67500",
+      "distractors": [
+        "45000",
+        "90000",
+        "52500"
+      ],
+      "explanation": "Ba xe sau chở 45000 kg; thêm 22500 được 67500 kg.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B70_Q35",
+      "type": "mcq",
+      "question": "Tìm chữ số ? trong 1?250 × 4 = 65000.",
+      "options": [
+        "6",
+        "5",
+        "7",
+        "8"
+      ],
+      "correct_answer": "6",
+      "distractors": [
+        "5",
+        "7",
+        "8"
+      ],
+      "explanation": "16250 × 4 = 65000; hàng nghìn là 6.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B70_Q36",
+      "type": "fill",
+      "question": "Mỗi ngày A làm 13500 viên, B làm 12000 viên. Trong 5 ngày, A hơn B bao nhiêu viên?",
+      "correct_answer": "7500",
+      "distractors": [
+        "1500",
+        "67500",
+        "60000"
+      ],
+      "explanation": "Mỗi ngày hơn 1500 viên; 1500 × 5 = 7500 viên.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B70_Q37",
+      "type": "mcq",
+      "question": "Một số có năm chữ số, nhân 3 bằng 14520 + 14520 + 14520. Số đó là gì?",
+      "options": [
+        "14520",
+        "43560",
+        "14523",
+        "14517"
+      ],
+      "correct_answer": "14520",
+      "distractors": [
+        "43560",
+        "14523",
+        "14517"
+      ],
+      "explanation": "Tổng ba số hạng bằng nhau chính là 14520 × 3.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B70_Q38",
+      "type": "fill",
+      "question": "Một bể nhận 3 lượt, mỗi lượt 25000 l, rồi dùng 18500 l. Còn bao nhiêu lít?",
+      "correct_answer": "56500",
+      "distractors": [
+        "75000",
+        "57500",
+        "6500"
+      ],
+      "explanation": "Nhận 75000 l; 75000 - 18500 = 56500 l.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B70_Q39",
+      "type": "mcq",
+      "question": "Ba kho mỗi kho 21000 hộp, kho thứ tư ít hơn mỗi kho kia 3000 hộp. Tổng bốn kho bao nhiêu hộp?",
+      "options": [
+        "81000",
+        "84000",
+        "63000",
+        "78000"
+      ],
+      "correct_answer": "81000",
+      "distractors": [
+        "84000",
+        "63000",
+        "78000"
+      ],
+      "explanation": "Ba kho đầu 63000 hộp, kho thứ tư 18000 hộp; tổng 81000 hộp.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B70_Q40",
+      "type": "fill",
+      "question": "Máy bắt đầu 14000, nhân 2 rồi nhân 3, cuối cùng bớt 4000. Số cuối là gì?",
+      "correct_answer": "80000",
+      "distractors": [
+        "84000",
+        "76000",
+        "28000"
+      ],
+      "explanation": "14000 × 2 = 28000; 28000 × 3 = 84000; bớt 4000 còn 80000.",
+      "difficulty": "van_dung"
+    }
+  ],
+  "games": [
+    {
+      "id": "TOAN3_T2_B70_GAME1",
+      "title": "Xưởng nhân chính xác",
+      "mode": "speed",
+      "objective": "Trả lời các nhiệm vụ trong bài, xem lời giải và thử lại để củng cố cách làm.",
+      "rules": [
+        "Trả lời các câu thuộc bài trong 60 giây.",
+        "Mỗi câu đúng được 10 điểm, sai không được điểm; chuyển ngay sang câu tiếp.",
+        "Hết giờ thì kết thúc. Điểm riêng của lượt chơi, không thay kết quả luyện tập."
+      ],
+      "question_ids": [
+        "TOAN3_T2_B70_Q01",
+        "TOAN3_T2_B70_Q02",
+        "TOAN3_T2_B70_Q03",
+        "TOAN3_T2_B70_Q04",
+        "TOAN3_T2_B70_Q05",
+        "TOAN3_T2_B70_Q06",
+        "TOAN3_T2_B70_Q07",
+        "TOAN3_T2_B70_Q08",
+        "TOAN3_T2_B70_Q09",
+        "TOAN3_T2_B70_Q10",
+        "TOAN3_T2_B70_Q11",
+        "TOAN3_T2_B70_Q12",
+        "TOAN3_T2_B70_Q13",
+        "TOAN3_T2_B70_Q14",
+        "TOAN3_T2_B70_Q15",
+        "TOAN3_T2_B70_Q16",
+        "TOAN3_T2_B70_Q17",
+        "TOAN3_T2_B70_Q18",
+        "TOAN3_T2_B70_Q19",
+        "TOAN3_T2_B70_Q20",
+        "TOAN3_T2_B70_Q21",
+        "TOAN3_T2_B70_Q22",
+        "TOAN3_T2_B70_Q23",
+        "TOAN3_T2_B70_Q24",
+        "TOAN3_T2_B70_Q25",
+        "TOAN3_T2_B70_Q26",
+        "TOAN3_T2_B70_Q27",
+        "TOAN3_T2_B70_Q28",
+        "TOAN3_T2_B70_Q29",
+        "TOAN3_T2_B70_Q30",
+        "TOAN3_T2_B70_Q31",
+        "TOAN3_T2_B70_Q32",
+        "TOAN3_T2_B70_Q33",
+        "TOAN3_T2_B70_Q34",
+        "TOAN3_T2_B70_Q35",
+        "TOAN3_T2_B70_Q36",
+        "TOAN3_T2_B70_Q37",
+        "TOAN3_T2_B70_Q38",
+        "TOAN3_T2_B70_Q39",
+        "TOAN3_T2_B70_Q40"
+      ],
+      "answer_source": "practice.correct_answer",
+      "feedback_source": "practice.explanation",
+      "max_score": null
+    }
+  ],
+  "assessment": {
+    "session_size": 10,
+    "distribution": {
+      "nhan_biet": 3,
+      "thong_hieu": 3,
+      "van_dung": 4
+    },
+    "scoring": "Đúng lần đầu: 1 điểm; đúng sau một gợi ý: 0,5 điểm. Từ 90%: 3 sao; từ 60%: 2 sao; còn lại: 1 sao.",
+    "review_advice": "Xem lời giải các câu sai, đọc lại quy tắc, rồi làm một lượt mới."
+  },
+  "feedback": {
+    "correct": "Chính xác! Hãy đọc lời giải để củng cố cách làm.",
+    "incorrect": "Em thử lại một lần. Sau đó xem đáp án và cách giải."
+  },
+  "verification": {
+    "ai_authored": true,
+    "structure_checked": true,
+    "answer_reviewed": true,
+    "source_reviewed": true,
+    "teacher_approved": false
+  },
+  "status": "AI_CHECKED_AWAITING_TEACHER"
+}

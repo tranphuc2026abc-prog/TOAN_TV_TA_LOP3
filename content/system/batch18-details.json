@@ -1,0 +1,185 @@
+[
+  {
+    "topic": "Ôn thời gian, lịch và tiền",
+    "intro": "Mỗi giờ 60 phút, mỗi ngày 24 giờ, mỗi tuần 7 ngày, mỗi năm 12 tháng. Khi tính thời gian qua giờ mới, tách phần tới giờ đúng rồi cộng phần còn lại.",
+    "objectives": [
+      "Đổi đơn vị thời gian và tính khoảng thời gian.",
+      "Suy luận thứ/ngày theo dữ kiện lịch.",
+      "Tính giá giả định và tiền thừa."
+    ],
+    "rules": [
+      "Đổi về cùng đơn vị trước khi cộng hoặc so sánh.",
+      "Sau 7 ngày thì thứ trong tuần lặp lại.",
+      "Tiền thừa bằng tiền trả trừ tổng giá các món."
+    ],
+    "steps": [
+      "Ghi rõ lúc bắt đầu, kết thúc hoặc ngày mốc.",
+      "Đổi đơn vị hoặc tách qua mốc giờ.",
+      "Tính từng bước, ghi đơn vị và kiểm tra."
+    ],
+    "errors": [
+      "Lấy phút lớn trừ phút bé mà quên qua giờ mới.",
+      "Đếm cả ngày đầu khi đề hỏi số ngày sau một mốc.",
+      "Quên nhân số món cùng giá."
+    ],
+    "examples": [
+      [
+        "Xe đi từ 8 giờ 45 đến 9 giờ 10, mất bao lâu?",
+        [
+          "Đến 9 giờ mất 15 phút; thêm 10 phút.",
+          "Tổng 25 phút."
+        ]
+      ],
+      [
+        "Món hàng giả định 6500 đồng, trả 10000 đồng.",
+        [
+          "10000 - 6500 = 3500 đồng tiền thừa."
+        ]
+      ]
+    ],
+    "mode": "treasure",
+    "game": [
+      "Hành trình đúng giờ",
+      "Trả lời các nhiệm vụ trong bài, xem lời giải và thử lại để củng cố cách làm."
+    ]
+  },
+  {
+    "topic": "Nhân số có năm chữ số",
+    "intro": "Nhân từ đơn vị sang trái. Ở mỗi hàng, nhân chữ số với thừa số rồi cộng số nhớ; ghi chữ số đơn vị và chuyển phần còn lại sang hàng tiếp theo.",
+    "objectives": [
+      "Đặt tính đúng cột đơn vị.",
+      "Nhân có nhớ qua các hàng, kể cả chữ số 0.",
+      "Giải bài nhiều nhóm bằng nhau và lượng thêm/bớt."
+    ],
+    "rules": [
+      "Số nhớ được cộng sau khi nhân từng chữ số.",
+      "Nhân 1 giữ nguyên, nhân 0 bằng 0.",
+      "Lượng trong một nhóm nhân số nhóm cho tổng lượng."
+    ],
+    "steps": [
+      "Xác định số mỗi nhóm và số nhóm.",
+      "Nhân từ phải sang trái, ghi rõ số nhớ.",
+      "Xử lí lượng thêm hoặc bớt sau phép nhân."
+    ],
+    "errors": [
+      "Nhân cả số nhớ thêm một lần.",
+      "Bỏ số nhớ khi gặp chữ số 0.",
+      "Quên bước thêm hoặc bớt trong câu hỏi."
+    ],
+    "examples": [
+      [
+        "Tính 12017 × 4.",
+        [
+          "7 × 4 = 28, viết 8 nhớ 2.",
+          "1 × 4 + 2 = 6; các hàng tiếp theo lần lượt 0, 8, 4.",
+          "Tích là 48068."
+        ]
+      ],
+      [
+        "Ba kiện mỗi kiện 14000 kg, bớt 2000 kg.",
+        [
+          "14000 × 3 = 42000 kg.",
+          "42000 - 2000 = 40000 kg."
+        ]
+      ]
+    ],
+    "mode": "speed",
+    "game": [
+      "Xưởng nhân chính xác",
+      "Trả lời các nhiệm vụ trong bài, xem lời giải và thử lại để củng cố cách làm."
+    ]
+  },
+  {
+    "topic": "Chia số có năm chữ số",
+    "intro": "Chia từ trái sang phải. Mỗi lượt gồm chia, nhân, trừ, hạ chữ số tiếp theo. Đã bắt đầu viết thương thì phải giữ vị trí hàng có thương 0.",
+    "objectives": [
+      "Chia hết và chia có dư trong phạm vi 100000.",
+      "Ghi đủ các chữ số 0 của thương.",
+      "Kiểm tra ngược và giải bài chia nhiều tầng."
+    ],
+    "rules": [
+      "Số dư bé hơn số chia.",
+      "Thương nhân số chia cộng số dư bằng số bị chia.",
+      "Chỉ nhóm đầy thì lấy thương; chứa hết khi còn dư cần thêm một nhóm."
+    ],
+    "steps": [
+      "Lấy đủ chữ số đầu để bắt đầu chia.",
+      "Chia, nhân, trừ rồi hạ từng chữ số.",
+      "Kiểm tra số dư và nhân ngược.",
+      "Đọc ngữ cảnh trước khi chọn số nhóm."
+    ],
+    "errors": [
+      "Bỏ 0 ở giữa hoặc cuối thương.",
+      "Ghi số dư bằng hoặc lớn hơn số chia.",
+      "Chưa chứa hết mà chỉ lấy số nhóm đầy."
+    ],
+    "examples": [
+      [
+        "Tính 60024 : 6.",
+        [
+          "6 chia 6 được 1.",
+          "Hai lượt hạ 0 tiếp theo đều phải viết 0 trong thương.",
+          "Hạ 2 chưa đủ chia, viết 0; hạ 4 thành 24, chia được 4.",
+          "Thương 10004; kiểm tra 10004 × 6 = 60024."
+        ]
+      ],
+      [
+        "Có 20003 thẻ, mỗi hộp tối đa 4 thẻ.",
+        [
+          "5000 × 4 + 3 = 20003.",
+          "Cần 5000 hộp đầy và một hộp cho 3 thẻ lẻ: 5001 hộp."
+        ]
+      ]
+    ],
+    "mode": "match",
+    "game": [
+      "Ghép thương và phần dư",
+      "Trả lời các nhiệm vụ trong bài, xem lời giải và thử lại để củng cố cách làm."
+    ]
+  },
+  {
+    "topic": "Ôn nhân chia nhiều bước",
+    "intro": "Nhân/chia cùng mức ưu tiên thì tính từ trái sang phải. Có ngoặc thì tính trong ngoặc trước; không có ngoặc thì nhân/chia trước cộng/trừ.",
+    "objectives": [
+      "Thực hiện biểu thức đúng thứ tự.",
+      "Tìm thành phần chưa biết và chữ số còn thiếu.",
+      "Giải bài phối hợp nhiều nhóm, chia đều và phần còn lại."
+    ],
+    "rules": [
+      "Ngoặc trước; nhân chia trước cộng trừ.",
+      "Các phép cùng mức tính từ trái sang phải.",
+      "Dùng phép tính ngược để kiểm tra thành phần chưa biết."
+    ],
+    "steps": [
+      "Tóm tắt các lượng và quan hệ.",
+      "Tính từng bước đúng thứ tự.",
+      "Kiểm tra kết quả bằng ước lượng hoặc phép ngược."
+    ],
+    "errors": [
+      "Tự gộp các số chia khi đề không có ngoặc.",
+      "Cộng trước nhân.",
+      "Tìm được một nhóm nhưng chưa trả lời tổng được hỏi."
+    ],
+    "examples": [
+      [
+        "Tính 18000 : 3 × 2.",
+        [
+          "18000 : 3 = 6000.",
+          "6000 × 2 = 12000."
+        ]
+      ],
+      [
+        "Tính 5000 + 12000 : 4.",
+        [
+          "Chia trước: 12000 : 4 = 3000.",
+          "5000 + 3000 = 8000."
+        ]
+      ]
+    ],
+    "mode": "tf",
+    "game": [
+      "Trọng tài thứ tự tính",
+      "Trả lời các nhiệm vụ trong bài, xem lời giải và thử lại để củng cố cách làm."
+    ]
+  }
+]

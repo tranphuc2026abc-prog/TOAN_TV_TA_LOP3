@@ -1,3 +1,13 @@
+# Batch 18 đã tích hợp — 08/11/2026
+
+Đã đóng gói Toán 69–72: 4 JSON/Markdown, 160 câu theo phân mức 10/10/20, 4 trò chơi; mục tiêu, kiến thức, hướng dẫn, lỗi thường gặp và ví dụ có lời giải riêng. Nguồn trang 88–102 đã đọc trực quan ở các lượt trước. Các câu dùng dữ kiện chữ đầy đủ, không yêu cầu hình chưa cung cấp. Không thay giao diện hoặc dữ liệu wl3.
+
+validate_site.py/validate_content.py, toàn bộ hồi quy cũ và test_content_dom.cjs đạt trên 72 bài/2880 câu. Hồi quy Batch 18 tính độc lập 28 biểu thức và 102 đáp án neo, kiểm tra thứ tự ngoặc, thời gian, tiền, số nhớ và chữ số 0/số dư. Chưa có Chromium để kiểm thử trình duyệt thật; chưa xác nhận bố cục/cảm ứng/âm thanh thực tế. Bài mới đều AI_CHECKED_AWAITING_TEACHER.
+
+Tổng AI biên soạn/kiểm tra/tích hợp 72/168 mục, 2880 câu, 72 trò chơi; giáo viên duyệt 4, còn 68 chờ duyệt. Còn 96 mục: Toán 73–81 (9), Tiếng Việt 62, Tiếng Anh 25. Tiếp Batch 19 Toán 73–76, đọc nguồn trước biên soạn. Commit Batch 18 cần xác minh Actions/Pages sau khi ghi.
+
+## Lịch sử
+
 # Nguồn Batch 18 đủ 160 câu — 08/11/2026
 
 Đã đọc trực quan trang in 101–102 (PDF 102–103) Toán tập 2 và bổ sung 40 câu Bài 72: thứ tự nhân/chia, ngoặc, phép tính ngược, tìm chữ số và tình huống phối hợp nhiều bước. Giữ nguyên nguồn Bài 69–71. batch18-source.txt hiện đủ 160 câu, phân mức theo thứ tự 10/10/20 mỗi bài; kiểm tra số dòng, không trùng trong từng bài và bốn lựa chọn khác nhau đạt. Chưa tích hợp: cần hoàn thiện mục tiêu/kiến thức/hướng dẫn/lỗi/ví dụ/game, JSON/Markdown và hồi quy cả batch; không tạo lại 160 câu đã lưu.
