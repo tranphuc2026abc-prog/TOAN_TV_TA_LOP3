@@ -1,0 +1,230 @@
+[
+  {
+    "topic": "Vận dụng chu vi và diện tích",
+    "objectives": [
+      "Phân biệt chu vi với diện tích qua dữ kiện và đơn vị.",
+      "Giải nhiệm vụ đổi đơn vị, tìm cạnh từ chu vi, cắt ghép và phần chồng.",
+      "Đếm ô đơn vị và giải thích các hình cùng chu vi có thể khác diện tích."
+    ],
+    "intro": "Một hình có cả đường bao và phần mặt bên trong. Chu vi đo đường bao; diện tích đo phần mặt. Khi đề cho chu vi nhưng hỏi diện tích, em cần tìm cạnh trước rồi mới nhân các kích thước.",
+    "rules": [
+      "Chu vi vuông: cạnh nhân 4; diện tích vuông: cạnh nhân cạnh.",
+      "Chu vi chữ nhật: dài cộng rộng rồi nhân 2; diện tích: dài nhân rộng.",
+      "Các độ dài phải cùng đơn vị trước tính.",
+      "Ghép không chồng thì cộng diện tích; cắt bỏ thì trừ; phần chồng chỉ được tính một lần.",
+      "Cùng chu vi chưa chắc bằng diện tích, và cùng diện tích chưa chắc bằng chu vi."
+    ],
+    "steps": [
+      "Đọc câu hỏi và xác định đo đường bao hay đo mặt hình.",
+      "Tìm kích thước còn thiếu, đổi đơn vị nếu cần.",
+      "Vẽ sơ đồ các phần ghép, ghi số đo; tránh cộng cạnh chung trong chu vi ngoài.",
+      "Tính từng bước và kiểm tra đơn vị: cm cho chu vi, cm² cho diện tích."
+    ],
+    "errors": [
+      "Lấy chu vi làm diện tích mà không tìm cạnh.",
+      "Đếm một ô góc nhiều lần khi chia hình.",
+      "So diện tích chỉ bằng mắt hoặc bằng chu vi.",
+      "Quên trừ diện tích lỗ hay tính lặp phần chồng."
+    ],
+    "examples": [
+      [
+        "Bìa vuông có chu vi 48 cm. Tính diện tích.",
+        [
+          "Cạnh bìa: 48 : 4 = 12 cm.",
+          "Diện tích bìa: 12 × 12 = 144 cm²."
+        ]
+      ],
+      [
+        "Hai miếng 20 cm² và 30 cm² dán chồng nhau 5 cm². Diện tích phần được phủ?",
+        [
+          "Cộng 20 + 30 = 50 cm² đã tính phần chồng hai lần.",
+          "Chỉ giữ phần chồng một lần: 50 - 5 = 45 cm²."
+        ]
+      ]
+    ],
+    "game": [
+      "Kho báu đường bao và mặt hình",
+      "Chọn công thức, tính đúng đơn vị và giải nhiệm vụ cắt ghép."
+    ],
+    "mode": "treasure",
+    "activities": [
+      {
+        "title": "Một diện tích, hai đường bao",
+        "materials": [
+          "12 ô vuông giấy bằng nhau"
+        ],
+        "steps": [
+          "Ghép 12 ô thành hình chữ nhật 6 hàng, mỗi hàng 2 ô.",
+          "Ghép lại thành hình chữ nhật 4 hàng, mỗi hàng 3 ô.",
+          "Đếm đoạn cạnh đơn vị trên đường bao và đối chiếu số ô bên trong."
+        ],
+        "check": [
+          "Cả hai hình đều có 12 ô diện tích.",
+          "Đường bao lần lượt là 16 và 14 cạnh đơn vị, không bằng nhau."
+        ]
+      }
+    ]
+  },
+  {
+    "topic": "Cộng số trong phạm vi 10000",
+    "objectives": [
+      "Đặt các chữ số cùng hàng thẳng cột.",
+      "Cộng từ phải sang trái, thực hiện đúng số nhớ.",
+      "Giải bài gộp, nhiều hơn và bài hai bước bằng phép cộng."
+    ],
+    "intro": "Khi cộng, ta gộp các đơn vị cùng loại: đơn vị với đơn vị, chục với chục. Nếu có mười đơn vị ở một hàng, đổi thành một đơn vị của hàng bên trái; đó là số nhớ.",
+    "rules": [
+      "Đặt hàng đơn vị thẳng hàng đơn vị, các hàng còn lại thẳng theo.",
+      "Tính từ phải sang trái: đơn vị, chục, trăm, nghìn.",
+      "Tổng ở một hàng từ 10 trở lên: viết chữ số đơn vị và nhớ 1 sang hàng kế tiếp.",
+      "Mỗi hàng mới phải cộng cả số nhớ trước đó.",
+      "Đổi thứ tự hai số hạng thì tổng không thay đổi; cộng 0 giữ nguyên số."
+    ],
+    "steps": [
+      "Viết hai số theo cột dọc, thẳng hàng.",
+      "Cộng ở đơn vị, viết kết quả của hàng và ghi nhớ nếu có.",
+      "Cộng tiếp các hàng, cộng đủ số nhớ.",
+      "Đọc toàn bộ tổng, thử lại bằng đổi thứ tự hoặc ước lượng."
+    ],
+    "errors": [
+      "Căn thẳng chữ số đầu khiến số ít chữ số bị lệch hàng.",
+      "Quên số nhớ hoặc cộng số nhớ vào sai hàng.",
+      "Gặp chữ số 0 thì bỏ qua cả số nhớ.",
+      "Đề hỏi tổng hai ngày nhưng mới tính ngày thứ hai."
+    ],
+    "examples": [
+      [
+        "Tính 6517 + 1846.",
+        [
+          "Đơn vị: 7 + 6 = 13, viết 3 nhớ 1.",
+          "Chục: 1 + 4 + 1 = 6, viết 6.",
+          "Trăm: 5 + 8 = 13, viết 3 nhớ 1.",
+          "Nghìn: 6 + 1 + 1 = 8. Tổng là 8363."
+        ]
+      ],
+      [
+        "Hộp đầu 1620 hạt, hộp sau nhiều hơn 180 hạt. Cả hai hộp?",
+        [
+          "Hộp sau: 1620 + 180 = 1800 hạt.",
+          "Hai hộp: 1620 + 1800 = 3420 hạt."
+        ]
+      ]
+    ],
+    "game": [
+      "Ghép tổng đúng",
+      "Ghép năm câu hỏi với năm kết quả khác nhau, ghi nhớ cách đặt hàng và cộng có nhớ."
+    ],
+    "mode": "match"
+  },
+  {
+    "topic": "Trừ số trong phạm vi 10000",
+    "objectives": [
+      "Đặt tính đúng hàng và trừ từ phải sang trái.",
+      "Thực hiện đổi một đơn vị hàng bên trái khi không trừ được.",
+      "Kiểm tra hiệu bằng phép cộng; chọn đúng phép tính cho bài phần còn lại hoặc chênh lệch."
+    ],
+    "intro": "Phép trừ cho biết còn lại bao nhiêu hoặc hai lượng chênh nhau bao nhiêu. Nếu đơn vị ở một hàng chưa đủ để bớt, em đổi một chục thành mười đơn vị, hoặc đổi tương tự giữa các hàng khác.",
+    "rules": [
+      "Cùng hàng phải thẳng cột; trừ từ đơn vị sang trái.",
+      "Khi đổi một đơn vị hàng bên trái, phải giảm hàng cho đổi đi 1.",
+      "Qua nhiều chữ số 0, đổi nối tiếp từng hàng, không giữ nguyên các hàng đã cho đổi.",
+      "Hiệu cộng số trừ phải bằng số bị trừ.",
+      "Trừ 0 giữ nguyên số; một số trừ chính nó bằng 0."
+    ],
+    "steps": [
+      "Đặt số bị trừ trên, số trừ dưới, thẳng các hàng.",
+      "Xét từng hàng từ phải sang trái, đổi hàng khi chưa đủ.",
+      "Ghi rõ chữ số sau khi đổi để không quên giảm.",
+      "Cộng hiệu với số trừ để kiểm tra và ghi đơn vị theo đề."
+    ],
+    "errors": [
+      "Lấy chữ số lớn trừ chữ số bé ở từng cột mà không xét vị trí.",
+      "Đổi thêm 10 nhưng không giảm hàng bên trái.",
+      "Không xử lí chuỗi chữ số 0.",
+      "Thấy từ “ít hơn” là trừ ngay, dù đề đang hỏi lượng lớn hơn."
+    ],
+    "examples": [
+      [
+        "Tính 7040 - 2685.",
+        [
+          "Đơn vị 0 chưa trừ được 5: đổi một chục, còn 3 chục, lấy 10 trừ 5 được 5.",
+          "Chục 3 chưa trừ được 8: đổi qua hàng trăm 0; 7 nghìn thành 6 nghìn, hàng trăm thành 10 rồi cho 1 trăm, còn 9 trăm và 13 chục.",
+          "Chục: 13 - 8 = 5. Trăm: 9 - 6 = 3. Nghìn: 6 - 2 = 4.",
+          "Hiệu 4355; kiểm tra 4355 + 2685 = 7040."
+        ]
+      ],
+      [
+        "Kho có 6200 l dầu, xuất 1850 l rồi 1350 l. Còn bao nhiêu?",
+        [
+          "Tổng đã xuất: 1850 + 1350 = 3200 l.",
+          "Còn lại: 6200 - 3200 = 3000 l."
+        ]
+      ]
+    ],
+    "game": [
+      "Trọng tài phép trừ",
+      "Kiểm chứng hiệu và xem cách đổi hàng, kiểm tra ngược bằng cộng."
+    ],
+    "mode": "tf"
+  },
+  {
+    "topic": "Nhân số bốn chữ số với số một chữ số",
+    "objectives": [
+      "Đặt tính và nhân từ hàng đơn vị sang nghìn.",
+      "Nhân đúng có nhớ, kể cả khi gặp chữ số 0.",
+      "Giải bài nhiều nhóm bằng nhau, chu vi vuông và hai bước."
+    ],
+    "intro": "Lấy một số nhiều lần có thể viết bằng phép nhân. Nhân theo cột giúp xử lí từng hàng. Số nhớ từ hàng trước phải được cộng vào kết quả của hàng tiếp theo, kể cả khi chữ số hàng đó bằng 0.",
+    "rules": [
+      "Viết số một chữ số bên dưới, thẳng hàng đơn vị.",
+      "Nhân từ đơn vị đến chục, trăm, nghìn.",
+      "Ở mỗi hàng: nhân chữ số với thừa số, rồi cộng số nhớ.",
+      "Viết chữ số đơn vị của kết quả hàng đó và nhớ phần chục sang hàng kế tiếp.",
+      "Một số nhân 1 giữ nguyên; nhân 0 bằng 0.",
+      "Chỉ nhân trước khi các nhóm có số lượng bằng nhau; nếu có phần thêm hoặc bớt, xử lí sau."
+    ],
+    "steps": [
+      "Xác định số trong mỗi nhóm và số nhóm.",
+      "Đặt tính thẳng hàng đơn vị.",
+      "Nhân từng hàng, ghi rõ số nhớ, không bỏ qua hàng có 0.",
+      "Đọc tích và kiểm tra bằng cộng các nhóm hoặc tách nghìn/trăm/chục/đơn vị."
+    ],
+    "errors": [
+      "Cộng số nhớ vào chữ số trước khi nhân, làm số nhớ bị nhân thêm.",
+      "Bỏ số nhớ khi chữ số tiếp theo là 0.",
+      "Dùng cộng thay nhân cho các nhóm bằng nhau.",
+      "Nhân xong quên lượng thêm hoặc lượng đã dùng ở bước sau."
+    ],
+    "examples": [
+      [
+        "Tính 1618 × 4.",
+        [
+          "Đơn vị: 8 × 4 = 32, viết 2 nhớ 3.",
+          "Chục: 1 × 4 + 3 = 7, viết 7.",
+          "Trăm: 6 × 4 = 24, viết 4 nhớ 2.",
+          "Nghìn: 1 × 4 + 2 = 6. Tích là 6472."
+        ]
+      ],
+      [
+        "Tính 1307 × 3.",
+        [
+          "Đơn vị: 7 × 3 = 21, viết 1 nhớ 2.",
+          "Chục: 0 × 3 + 2 = 2; không được bỏ số nhớ.",
+          "Trăm: 3 × 3 = 9. Nghìn: 1 × 3 = 3. Tích là 3921."
+        ]
+      ],
+      [
+        "Hai kiện mỗi kiện 2140 kg, thêm 220 kg.",
+        [
+          "Hai kiện: 2140 × 2 = 4280 kg.",
+          "Tất cả: 4280 + 220 = 4500 kg."
+        ]
+      ]
+    ],
+    "game": [
+      "Xưởng nhân nhanh",
+      "Nhân và xử lí số nhớ, hoàn thành nhiệm vụ nhiều nhóm bằng nhau."
+    ],
+    "mode": "speed"
+  }
+]

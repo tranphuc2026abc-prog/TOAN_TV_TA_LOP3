@@ -1,6 +1,7 @@
 """Đồng bộ chỉ mục và xác nhận thẩm định, không tự cấp duyệt cho bài mới."""
 import json
 from pathlib import Path
+from datetime import datetime, timezone
 
 ROOT=Path(__file__).resolve().parents[1]
 catalog=json.loads((ROOT/'data/CHUONG_TRINH_LOP_3_FULL.json').read_text())
@@ -26,6 +27,6 @@ for meta in catalog['lessons']:
         question_count=len(obj['practice']) if obj else None,game_count=len(obj['games']) if obj else None,
         status='DA_HOAN_THIEN' if is_approved else 'CAN_RA_SOAT' if obj else 'BAN_NHAP',
         note='Giáo viên đã thẩm định.' if is_approved else 'AI đã rà soát nguồn, đáp án; chờ giáo viên thẩm định.' if obj else 'Có bài mẫu hoặc bản nháp tự động; chưa kiểm định từng bài.'))
-out=dict(updated='2026-11-07',total=len(entries),counts=catalog['counts'],lessons=entries)
+out=dict(updated=datetime.now(timezone.utc).date().isoformat(),total=len(entries),counts=catalog['counts'],lessons=entries)
 (ROOT/'content/system/INDEX.json').write_text(json.dumps(out,ensure_ascii=False,indent=2)+'\n')
 print('Chỉ mục:',len(entries),'mục;',sum(e['path'] is not None for e in entries),'có học liệu riêng;',len(approved),'đã thẩm định.')

@@ -1,0 +1,789 @@
+{
+  "id": "TOAN3_T2_B54",
+  "subject": "toan",
+  "grade": 3,
+  "book": "Kết nối tri thức với cuộc sống",
+  "volume": 2,
+  "lesson_no": 54,
+  "title": "Phép cộng trong phạm vi 10 000",
+  "topic": "Cộng số trong phạm vi 10000",
+  "source": {
+    "pdf": "03-sgk-toan-3-tap-hai.pdf",
+    "printed_pages": [
+      38,
+      40
+    ],
+    "pdf_pages": [
+      39,
+      41
+    ],
+    "review": "Đã đọc trực quan toàn bộ trang nguồn cho bài này; nội dung và bài tập mới do AI biên soạn."
+  },
+  "objectives": [
+    "Đặt các chữ số cùng hàng thẳng cột.",
+    "Cộng từ phải sang trái, thực hiện đúng số nhớ.",
+    "Giải bài gộp, nhiều hơn và bài hai bước bằng phép cộng."
+  ],
+  "knowledge": {
+    "introduction": "Khi cộng, ta gộp các đơn vị cùng loại: đơn vị với đơn vị, chục với chục. Nếu có mười đơn vị ở một hàng, đổi thành một đơn vị của hàng bên trái; đó là số nhớ.",
+    "rules": [
+      "Đặt hàng đơn vị thẳng hàng đơn vị, các hàng còn lại thẳng theo.",
+      "Tính từ phải sang trái: đơn vị, chục, trăm, nghìn.",
+      "Tổng ở một hàng từ 10 trở lên: viết chữ số đơn vị và nhớ 1 sang hàng kế tiếp.",
+      "Mỗi hàng mới phải cộng cả số nhớ trước đó.",
+      "Đổi thứ tự hai số hạng thì tổng không thay đổi; cộng 0 giữ nguyên số."
+    ],
+    "steps": [
+      "Viết hai số theo cột dọc, thẳng hàng.",
+      "Cộng ở đơn vị, viết kết quả của hàng và ghi nhớ nếu có.",
+      "Cộng tiếp các hàng, cộng đủ số nhớ.",
+      "Đọc toàn bộ tổng, thử lại bằng đổi thứ tự hoặc ước lượng."
+    ],
+    "common_errors": [
+      "Căn thẳng chữ số đầu khiến số ít chữ số bị lệch hàng.",
+      "Quên số nhớ hoặc cộng số nhớ vào sai hàng.",
+      "Gặp chữ số 0 thì bỏ qua cả số nhớ.",
+      "Đề hỏi tổng hai ngày nhưng mới tính ngày thứ hai."
+    ]
+  },
+  "examples": [
+    {
+      "question": "Tính 6517 + 1846.",
+      "steps": [
+        "Đơn vị: 7 + 6 = 13, viết 3 nhớ 1.",
+        "Chục: 1 + 4 + 1 = 6, viết 6.",
+        "Trăm: 5 + 8 = 13, viết 3 nhớ 1.",
+        "Nghìn: 6 + 1 + 1 = 8. Tổng là 8363."
+      ]
+    },
+    {
+      "question": "Hộp đầu 1620 hạt, hộp sau nhiều hơn 180 hạt. Cả hai hộp?",
+      "steps": [
+        "Hộp sau: 1620 + 180 = 1800 hạt.",
+        "Hai hộp: 1620 + 1800 = 3420 hạt."
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "question_id": "TOAN3_T2_B54_Q01",
+      "type": "mcq",
+      "question": "Tính 2143 + 3524.",
+      "options": [
+        "5667",
+        "5567",
+        "5677",
+        "5657"
+      ],
+      "correct_answer": "5667",
+      "distractors": [
+        "5567",
+        "5677",
+        "5657"
+      ],
+      "explanation": "2143 + 3524 = 5667; các hàng đều cộng không nhớ.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B54_Q02",
+      "type": "fill",
+      "question": "Nhẩm 4000 + 5000.",
+      "correct_answer": "9000",
+      "distractors": [
+        "8000",
+        "9500",
+        "1000"
+      ],
+      "explanation": "Bốn nghìn thêm năm nghìn là chín nghìn.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B54_Q03",
+      "type": "mcq",
+      "question": "Tính 6030 + 240.",
+      "options": [
+        "6270",
+        "8430",
+        "6054",
+        "6240"
+      ],
+      "correct_answer": "6270",
+      "distractors": [
+        "8430",
+        "6054",
+        "6240"
+      ],
+      "explanation": "240 là hai trăm bốn chục; cộng theo đúng hàng được 6270.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B54_Q04",
+      "type": "fill",
+      "question": "Cộng hai số theo cột dọc, bắt đầu từ hàng nào?",
+      "correct_answer": "đơn vị",
+      "distractors": [
+        "nghìn",
+        "trăm",
+        "chục"
+      ],
+      "explanation": "Bắt đầu ở hàng đơn vị rồi sang chục, trăm, nghìn.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B54_Q05",
+      "type": "mcq",
+      "question": "Tính 1826 + 0.",
+      "options": [
+        "1826",
+        "0",
+        "1820",
+        "1827"
+      ],
+      "correct_answer": "1826",
+      "distractors": [
+        "0",
+        "1820",
+        "1827"
+      ],
+      "explanation": "Cộng với 0 không làm thay đổi số ban đầu.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B54_Q06",
+      "type": "fill",
+      "question": "Phép cộng 4387 + 1265 có chữ số hàng đơn vị của tổng là mấy?",
+      "correct_answer": "2",
+      "distractors": [
+        "1",
+        "7",
+        "5"
+      ],
+      "explanation": "7 + 5 = 12, viết 2 và nhớ 1 sang chục.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B54_Q07",
+      "type": "mcq",
+      "question": "Tính 7200 + 600.",
+      "options": [
+        "7800",
+        "7260",
+        "7206",
+        "7600"
+      ],
+      "correct_answer": "7800",
+      "distractors": [
+        "7260",
+        "7206",
+        "7600"
+      ],
+      "explanation": "72 trăm thêm 6 trăm là 78 trăm.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B54_Q08",
+      "type": "fill",
+      "question": "Tính 3500 + 4500.",
+      "correct_answer": "8000",
+      "distractors": [
+        "7000",
+        "8500",
+        "9000"
+      ],
+      "explanation": "35 trăm thêm 45 trăm được 80 trăm.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B54_Q09",
+      "type": "mcq",
+      "question": "Số hạng thứ nhất 2450, số hạng thứ hai 1300. Tổng là bao nhiêu?",
+      "options": [
+        "3750",
+        "1150",
+        "2550",
+        "3850"
+      ],
+      "correct_answer": "3750",
+      "distractors": [
+        "1150",
+        "2550",
+        "3850"
+      ],
+      "explanation": "2450 + 1300 = 3750.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B54_Q10",
+      "type": "fill",
+      "question": "Tính 999 + 1.",
+      "correct_answer": "1000",
+      "distractors": [
+        "990",
+        "100",
+        "1001"
+      ],
+      "explanation": "Sau 999 một đơn vị là 1000, cần chuyển sang hàng nghìn.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B54_Q11",
+      "type": "mcq",
+      "question": "Đặt tính 4025 + 318: chữ số 3 của 318 phải thẳng với chữ số nào của 4025?",
+      "options": [
+        "0",
+        "4",
+        "2",
+        "5"
+      ],
+      "correct_answer": "0",
+      "distractors": [
+        "4",
+        "2",
+        "5"
+      ],
+      "explanation": "3 ở hàng trăm nên thẳng với 0 ở hàng trăm, không thẳng với 4 ở hàng nghìn.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B54_Q12",
+      "type": "fill",
+      "question": "Tính 2678 + 1547.",
+      "correct_answer": "4225",
+      "distractors": [
+        "4125",
+        "4215",
+        "3225"
+      ],
+      "explanation": "8 + 7 = 15, viết 5 nhớ 1; 7 + 4 + 1 = 12, viết 2 nhớ 1; 6 + 5 + 1 = 12, viết 2 nhớ 1; 2 + 1 + 1 = 4.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B54_Q13",
+      "type": "mcq",
+      "question": "Một bạn tính 3586 + 2427 thành 5903 do bỏ số nhớ. Tổng đúng là bao nhiêu?",
+      "options": [
+        "6013",
+        "5903",
+        "6003",
+        "6113"
+      ],
+      "correct_answer": "6013",
+      "distractors": [
+        "5903",
+        "6003",
+        "6113"
+      ],
+      "explanation": "6 + 7 = 13; chục 8 + 2 + 1 = 11; trăm 5 + 4 + 1 = 10; nghìn 3 + 2 + 1 = 6.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B54_Q14",
+      "type": "fill",
+      "question": "Tính 5904 + 87.",
+      "correct_answer": "5991",
+      "distractors": [
+        "6774",
+        "5981",
+        "5911"
+      ],
+      "explanation": "Đặt 87 thẳng hàng chục và đơn vị; 5904 + 87 = 5991.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B54_Q15",
+      "type": "mcq",
+      "question": "Không tính cả tổng 4748 + 2267, chỉ cho biết sau hàng đơn vị cần nhớ mấy sang hàng chục?",
+      "options": [
+        "1",
+        "0",
+        "2",
+        "5"
+      ],
+      "correct_answer": "1",
+      "distractors": [
+        "0",
+        "2",
+        "5"
+      ],
+      "explanation": "8 + 7 = 15, viết 5 và nhớ 1 chục.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B54_Q16",
+      "type": "fill",
+      "question": "Tổng 3999 + 2001 bằng bao nhiêu?",
+      "correct_answer": "6000",
+      "distractors": [
+        "5990",
+        "5000",
+        "6001"
+      ],
+      "explanation": "3999 thêm 1 được 4000, thêm 2000 được 6000.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B54_Q17",
+      "type": "mcq",
+      "question": "Đổi thứ tự số hạng trong 1765 + 2834, tổng có thay đổi không?",
+      "options": [
+        "không",
+        "có",
+        "tăng 1",
+        "giảm 1"
+      ],
+      "correct_answer": "không",
+      "distractors": [
+        "có",
+        "tăng 1",
+        "giảm 1"
+      ],
+      "explanation": "Cộng hai số theo thứ tự nào cũng cho cùng một tổng.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B54_Q18",
+      "type": "fill",
+      "question": "Tính thuận tiện: 1250 + 3750 + 2000.",
+      "correct_answer": "7000",
+      "distractors": [
+        "6000",
+        "7500",
+        "8000"
+      ],
+      "explanation": "1250 + 3750 = 5000; 5000 + 2000 = 7000.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B54_Q19",
+      "type": "mcq",
+      "question": "Tổng 4812 + 1369 có chữ số hàng nghìn là mấy?",
+      "options": [
+        "6",
+        "5",
+        "1",
+        "8"
+      ],
+      "correct_answer": "6",
+      "distractors": [
+        "5",
+        "1",
+        "8"
+      ],
+      "explanation": "4812 + 1369 = 6181, hàng nghìn là 6.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B54_Q20",
+      "type": "fill",
+      "question": "Một số được cộng thêm 300 rồi thêm 700. Như vậy đã cộng thêm tất cả bao nhiêu?",
+      "correct_answer": "1000",
+      "distractors": [
+        "400",
+        "700",
+        "900"
+      ],
+      "explanation": "300 + 700 = 1000; có thể gộp hai bước cộng.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B54_Q21",
+      "type": "mcq",
+      "question": "Kho sáng nhận 2356 quyển vở, chiều nhận 1789 quyển. Cả ngày nhận bao nhiêu quyển?",
+      "options": [
+        "4145",
+        "4045",
+        "4135",
+        "4245"
+      ],
+      "correct_answer": "4145",
+      "distractors": [
+        "4045",
+        "4135",
+        "4245"
+      ],
+      "explanation": "2356 + 1789 = 4145 quyển.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B54_Q22",
+      "type": "fill",
+      "question": "Vườn A có 1480 cây, vườn B nhiều hơn A 265 cây. Vườn B có bao nhiêu cây?",
+      "correct_answer": "1745",
+      "distractors": [
+        "1215",
+        "1645",
+        "1755"
+      ],
+      "explanation": "Nhiều hơn nên cộng: 1480 + 265 = 1745 cây.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B54_Q23",
+      "type": "mcq",
+      "question": "Hai lớp thu gom lần lượt 1825 và 1760 vỏ hộp. Lớp thứ ba thu 900 vỏ hộp. Cả ba thu bao nhiêu?",
+      "options": [
+        "4485",
+        "3585",
+        "4385",
+        "4585"
+      ],
+      "correct_answer": "4485",
+      "distractors": [
+        "3585",
+        "4385",
+        "4585"
+      ],
+      "explanation": "1825 + 1760 = 3585; 3585 + 900 = 4485.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B54_Q24",
+      "type": "fill",
+      "question": "Ngày đầu đội trồng 1250 cây. Ngày sau trồng nhiều hơn ngày đầu 350 cây. Hai ngày trồng tất cả bao nhiêu cây?",
+      "correct_answer": "2850",
+      "distractors": [
+        "1600",
+        "2500",
+        "3200"
+      ],
+      "explanation": "Ngày sau 1600 cây; 1250 + 1600 = 2850 cây.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B54_Q25",
+      "type": "mcq",
+      "question": "Một chuyến xe đi đoạn đầu 2387 m, đoạn sau 1648 m. Tổng quãng đường bao nhiêu mét?",
+      "options": [
+        "4035",
+        "3935",
+        "4025",
+        "4135"
+      ],
+      "correct_answer": "4035",
+      "distractors": [
+        "3935",
+        "4025",
+        "4135"
+      ],
+      "explanation": "2387 + 1648 = 4035 m.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B54_Q26",
+      "type": "fill",
+      "question": "Thư viện có 3215 sách truyện và 2807 sách khoa học. Hỏi hai loại có tất cả bao nhiêu cuốn?",
+      "correct_answer": "6022",
+      "distractors": [
+        "5022",
+        "6012",
+        "6122"
+      ],
+      "explanation": "3215 + 2807 = 6022 cuốn.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B54_Q27",
+      "type": "mcq",
+      "question": "Cây bút giá 2500 đồng, tẩy giá 1500 đồng. Hai món có giá bao nhiêu đồng?",
+      "options": [
+        "4000",
+        "3000",
+        "4500",
+        "1000"
+      ],
+      "correct_answer": "4000",
+      "distractors": [
+        "3000",
+        "4500",
+        "1000"
+      ],
+      "explanation": "2500 + 1500 = 4000 đồng.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B54_Q28",
+      "type": "fill",
+      "question": "Bể đang có 3450 l nước, thêm 1275 l. Bể có bao nhiêu lít nước sau khi thêm?",
+      "correct_answer": "4725",
+      "distractors": [
+        "4625",
+        "4735",
+        "2175"
+      ],
+      "explanation": "3450 + 1275 = 4725 l.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B54_Q29",
+      "type": "mcq",
+      "question": "Một hộp có 1678 hạt, hộp thứ hai có 221 hạt, hộp thứ ba có 1101 hạt. Tổng có bao nhiêu hạt?",
+      "options": [
+        "3000",
+        "2990",
+        "2900",
+        "3100"
+      ],
+      "correct_answer": "3000",
+      "distractors": [
+        "2990",
+        "2900",
+        "3100"
+      ],
+      "explanation": "1678 + 221 = 1899; 1899 + 1101 = 3000.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B54_Q30",
+      "type": "fill",
+      "question": "Cuộc thi có 2186 bạn tham gia vòng đầu. Vòng sau thêm 734 bạn mới, không trùng người cũ. Tổng số bạn tham gia bao nhiêu?",
+      "correct_answer": "2920",
+      "distractors": [
+        "2820",
+        "2910",
+        "2930"
+      ],
+      "explanation": "2186 + 734 = 2920 bạn.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B54_Q31",
+      "type": "mcq",
+      "question": "Đội đỏ có 2480 điểm. Đội xanh hơn đỏ 120 điểm. Tổng điểm hai đội bao nhiêu?",
+      "options": [
+        "5080",
+        "2600",
+        "4960",
+        "5200"
+      ],
+      "correct_answer": "5080",
+      "distractors": [
+        "2600",
+        "4960",
+        "5200"
+      ],
+      "explanation": "Xanh có 2600 điểm; 2480 + 2600 = 5080 điểm.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B54_Q32",
+      "type": "fill",
+      "question": "Máy đếm đang ở 4789, thêm một lượt gồm 211 vật. Máy hiện số nào?",
+      "correct_answer": "5000",
+      "distractors": [
+        "4990",
+        "4900",
+        "5001"
+      ],
+      "explanation": "4789 + 211 = 5000.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B54_Q33",
+      "type": "mcq",
+      "question": "Có hai đường về nhà: đường A dài 1380 m rồi 1620 m; đường B dài 1450 m rồi 1490 m. Đường nào dài hơn? Ghi A hoặc B.",
+      "options": [
+        "A",
+        "B",
+        "bằng nhau",
+        "không biết"
+      ],
+      "correct_answer": "A",
+      "distractors": [
+        "B",
+        "bằng nhau",
+        "không biết"
+      ],
+      "explanation": "A dài 3000 m, B dài 2940 m, nên A dài hơn.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B54_Q34",
+      "type": "fill",
+      "question": "Một túi gạo nặng 2750 g, túi kia nặng 1250 g. Cả hai túi nặng mấy ki-lô-gam?",
+      "correct_answer": "4",
+      "distractors": [
+        "4000",
+        "40",
+        "3"
+      ],
+      "explanation": "Tổng 4000 g bằng 4 kg.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B54_Q35",
+      "type": "mcq",
+      "question": "Buổi sáng bán 1287 vé, buổi chiều bán 1548 vé. Chọn tổng số vé chính xác.",
+      "options": [
+        "2835",
+        "2735",
+        "2825",
+        "2845"
+      ],
+      "correct_answer": "2835",
+      "distractors": [
+        "2735",
+        "2825",
+        "2845"
+      ],
+      "explanation": "1287 + 1548 = 2835 vé; nhớ từ đơn vị sang chục và từ chục sang trăm.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B54_Q36",
+      "type": "fill",
+      "question": "Một số bí mật cộng với 2300 được cùng kết quả như 1700 cộng 2300. Số bí mật là gì?",
+      "correct_answer": "1700",
+      "distractors": [
+        "2300",
+        "4000",
+        "600"
+      ],
+      "explanation": "Cùng cộng một số; để tổng bằng nhau thì số hạng còn lại cũng bằng nhau.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B54_Q37",
+      "type": "mcq",
+      "question": "Điền chữ số còn thiếu trong 3?45 + 1320 = 4865.",
+      "options": [
+        "5",
+        "4",
+        "6",
+        "8"
+      ],
+      "correct_answer": "5",
+      "distractors": [
+        "4",
+        "6",
+        "8"
+      ],
+      "explanation": "4865 trừ 1320 được 3545; hoặc xét hàng trăm 5 thêm 3 thành 8.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B54_Q38",
+      "type": "fill",
+      "question": "Đèn ở khu A dùng 1035 bóng, khu B dùng 2065 bóng, khu C dùng 900 bóng. Tổng cần bao nhiêu bóng?",
+      "correct_answer": "4000",
+      "distractors": [
+        "3100",
+        "3900",
+        "4100"
+      ],
+      "explanation": "1035 + 2065 = 3100; 3100 + 900 = 4000.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B54_Q39",
+      "type": "mcq",
+      "question": "Một kho dự kiến nhận 7000 kg hàng. Đã nhận 3260 kg và một lô 3740 kg. Hai lô có đạt đúng dự kiến không?",
+      "options": [
+        "có",
+        "không",
+        "thiếu 100",
+        "thừa 100"
+      ],
+      "correct_answer": "có",
+      "distractors": [
+        "không",
+        "thiếu 100",
+        "thừa 100"
+      ],
+      "explanation": "3260 + 3740 = 7000, đúng bằng dự kiến.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B54_Q40",
+      "type": "fill",
+      "question": "Lan gộp hai bộ sưu tập 1999 và 3001 tem, sau đó được tặng 125 tem. Có tất cả bao nhiêu tem?",
+      "correct_answer": "5125",
+      "distractors": [
+        "5000",
+        "5025",
+        "5225"
+      ],
+      "explanation": "1999 + 3001 = 5000; thêm 125 được 5125.",
+      "difficulty": "van_dung"
+    }
+  ],
+  "games": [
+    {
+      "id": "TOAN3_T2_B54_GAME1",
+      "title": "Ghép tổng đúng",
+      "mode": "match",
+      "objective": "Ghép năm câu hỏi với năm kết quả khác nhau, ghi nhớ cách đặt hàng và cộng có nhớ.",
+      "rules": [
+        "Mỗi lượt chọn 5 câu có 5 đáp án khác nhau.",
+        "Chọn câu hỏi bên trái rồi đáp án bên phải. Sai thì thử lại.",
+        "Mỗi cặp đúng 10 điểm; tối đa 50 điểm."
+      ],
+      "question_ids": [
+        "TOAN3_T2_B54_Q01",
+        "TOAN3_T2_B54_Q02",
+        "TOAN3_T2_B54_Q03",
+        "TOAN3_T2_B54_Q04",
+        "TOAN3_T2_B54_Q05",
+        "TOAN3_T2_B54_Q06",
+        "TOAN3_T2_B54_Q07",
+        "TOAN3_T2_B54_Q08",
+        "TOAN3_T2_B54_Q09",
+        "TOAN3_T2_B54_Q10",
+        "TOAN3_T2_B54_Q11",
+        "TOAN3_T2_B54_Q12",
+        "TOAN3_T2_B54_Q13",
+        "TOAN3_T2_B54_Q14",
+        "TOAN3_T2_B54_Q15",
+        "TOAN3_T2_B54_Q16",
+        "TOAN3_T2_B54_Q17",
+        "TOAN3_T2_B54_Q18",
+        "TOAN3_T2_B54_Q19",
+        "TOAN3_T2_B54_Q20",
+        "TOAN3_T2_B54_Q21",
+        "TOAN3_T2_B54_Q22",
+        "TOAN3_T2_B54_Q23",
+        "TOAN3_T2_B54_Q24",
+        "TOAN3_T2_B54_Q25",
+        "TOAN3_T2_B54_Q26",
+        "TOAN3_T2_B54_Q27",
+        "TOAN3_T2_B54_Q28",
+        "TOAN3_T2_B54_Q29",
+        "TOAN3_T2_B54_Q30",
+        "TOAN3_T2_B54_Q31",
+        "TOAN3_T2_B54_Q32",
+        "TOAN3_T2_B54_Q33",
+        "TOAN3_T2_B54_Q34",
+        "TOAN3_T2_B54_Q35",
+        "TOAN3_T2_B54_Q36",
+        "TOAN3_T2_B54_Q37",
+        "TOAN3_T2_B54_Q38",
+        "TOAN3_T2_B54_Q39",
+        "TOAN3_T2_B54_Q40"
+      ],
+      "answer_source": "practice.correct_answer",
+      "feedback_source": "practice.explanation",
+      "max_score": 50
+    }
+  ],
+  "assessment": {
+    "session_size": 10,
+    "distribution": {
+      "nhan_biet": 3,
+      "thong_hieu": 3,
+      "van_dung": 4
+    },
+    "scoring": "Đúng lần đầu: 1 điểm; đúng sau một gợi ý: 0,5 điểm. Từ 90%: 3 sao; từ 60%: 2 sao; còn lại: 1 sao.",
+    "review_advice": "Xem lời giải các câu sai, đọc lại quy tắc, rồi làm một lượt mới."
+  },
+  "feedback": {
+    "correct": "Chính xác! Hãy đọc lời giải để củng cố cách làm.",
+    "incorrect": "Em thử lại một lần. Sau đó xem đáp án và cách giải."
+  },
+  "verification": {
+    "ai_authored": true,
+    "structure_checked": true,
+    "answer_reviewed": true,
+    "source_reviewed": true,
+    "teacher_approved": false
+  },
+  "status": "AI_CHECKED_AWAITING_TEACHER"
+}

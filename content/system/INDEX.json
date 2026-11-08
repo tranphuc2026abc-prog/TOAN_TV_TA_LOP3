@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07",
+  "updated": "2026-11-08",
   "total": 168,
   "counts": {
     "math": 81,
@@ -638,48 +638,48 @@
       "subject": "toan",
       "volume": "Tập 2",
       "title": "Luyện tập chung",
-      "path": null,
-      "markdown": null,
-      "question_count": null,
-      "game_count": null,
-      "status": "BAN_NHAP",
-      "note": "Có bài mẫu hoặc bản nháp tự động; chưa kiểm định từng bài."
+      "path": "content/toan/tap-2/TOAN3_T2_B53.json",
+      "markdown": "content/toan/tap-2/TOAN3_T2_B53.md",
+      "question_count": 40,
+      "game_count": 1,
+      "status": "CAN_RA_SOAT",
+      "note": "AI đã rà soát nguồn, đáp án; chờ giáo viên thẩm định."
     },
     {
       "id": "TOAN3_T2_B54",
       "subject": "toan",
       "volume": "Tập 2",
       "title": "Phép cộng trong phạm vi 10 000",
-      "path": null,
-      "markdown": null,
-      "question_count": null,
-      "game_count": null,
-      "status": "BAN_NHAP",
-      "note": "Có bài mẫu hoặc bản nháp tự động; chưa kiểm định từng bài."
+      "path": "content/toan/tap-2/TOAN3_T2_B54.json",
+      "markdown": "content/toan/tap-2/TOAN3_T2_B54.md",
+      "question_count": 40,
+      "game_count": 1,
+      "status": "CAN_RA_SOAT",
+      "note": "AI đã rà soát nguồn, đáp án; chờ giáo viên thẩm định."
     },
     {
       "id": "TOAN3_T2_B55",
       "subject": "toan",
       "volume": "Tập 2",
       "title": "Phép trừ trong phạm vi 10 000",
-      "path": null,
-      "markdown": null,
-      "question_count": null,
-      "game_count": null,
-      "status": "BAN_NHAP",
-      "note": "Có bài mẫu hoặc bản nháp tự động; chưa kiểm định từng bài."
+      "path": "content/toan/tap-2/TOAN3_T2_B55.json",
+      "markdown": "content/toan/tap-2/TOAN3_T2_B55.md",
+      "question_count": 40,
+      "game_count": 1,
+      "status": "CAN_RA_SOAT",
+      "note": "AI đã rà soát nguồn, đáp án; chờ giáo viên thẩm định."
     },
     {
       "id": "TOAN3_T2_B56",
       "subject": "toan",
       "volume": "Tập 2",
       "title": "Nhân số có bốn chữ số với số có một chữ số",
-      "path": null,
-      "markdown": null,
-      "question_count": null,
-      "game_count": null,
-      "status": "BAN_NHAP",
-      "note": "Có bài mẫu hoặc bản nháp tự động; chưa kiểm định từng bài."
+      "path": "content/toan/tap-2/TOAN3_T2_B56.json",
+      "markdown": "content/toan/tap-2/TOAN3_T2_B56.md",
+      "question_count": 40,
+      "game_count": 1,
+      "status": "CAN_RA_SOAT",
+      "note": "AI đã rà soát nguồn, đáp án; chờ giáo viên thẩm định."
     },
     {
       "id": "TOAN3_T2_B57",
