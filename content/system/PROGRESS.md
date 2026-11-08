@@ -1,3 +1,11 @@
+# Checkpoint câu nguồn Bài 71 — 08/11/2026
+
+Đã bổ sung 40 câu Bài 71 theo thứ tự 10/10/20, nối sau 80 câu Bài 69–70 đã lưu. Câu vận dụng mới gồm kiểm tra phần dư/điều chỉnh, suy luận độ dài thương, chia nhiều tầng, phần đã dùng, so hai cách chia và tác động khi bớt một nhóm. Nguồn trang 97–100 đã đọc trực quan lượt trước. Kiểm tra số dòng, không trùng câu trong bài và bốn lựa chọn khác nhau đạt. Chưa tích hợp, chưa chạy DOM bài mới. Tiếp Bài 72 và hoàn thiện kiến thức/ví dụ/game/JSON/Markdown, kiểm thử cả Batch 18 trước khi tăng INDEX. Không tạo lại 120 câu nguồn đã lưu.
+
+Tổng tích hợp giữ 68/168 mục, 2720 câu, 68 trò chơi; giáo viên duyệt 4, chờ duyệt 64. Còn 100 mục. Đây là checkpoint nguồn, không phải batch hoàn chỉnh.
+
+## Lịch sử
+
 # Đối chiếu nguồn Bài 71 — 08/11/2026
 
 Đã đọc trực quan toàn bộ trang in 97–100 (PDF 98–101) Toán tập 2: chia năm chữ số, chia có dư, thương có chữ số 0, đóng nhóm đầy và số đồ chứa cần để chứa hết. Chưa có 40 câu Bài 71 đạt yêu cầu biên soạn riêng; không dùng bản nháp chỉ thay số từ bài chia trước. Giữ nguyên nguồn 80 câu Bài 69–70. Tiếp biên soạn riêng Bài 71–72 và đóng gói cả Batch 18. Tổng tích hợp không đổi 68/168, 2720 câu, 68 game; giáo viên duyệt 4, chờ duyệt 64. Không tăng INDEX.

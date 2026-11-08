@@ -80,3 +80,44 @@ Một số có năm chữ số, nhân 3 bằng 14520 + 14520 + 14520. Số đó 
 Một bể nhận 3 lượt, mỗi lượt 25000 l, rồi dùng 18500 l. Còn bao nhiêu lít?|56500|Nhận 75000 l; 75000 - 18500 = 56500 l.|75000;57500;6500
 Ba kho mỗi kho 21000 hộp, kho thứ tư ít hơn mỗi kho kia 3000 hộp. Tổng bốn kho bao nhiêu hộp?|81000|Ba kho đầu 63000 hộp, kho thứ tư 18000 hộp; tổng 81000 hộp.|84000;63000;78000
 Máy bắt đầu 14000, nhân 2 rồi nhân 3, cuối cùng bớt 4000. Số cuối là gì?|80000|14000 × 2 = 28000; 28000 × 3 = 84000; bớt 4000 còn 80000.|84000;76000;28000
+Bài 71
+Tính 24630 : 3.|8210|24630 : 3 = 8210; giữ chữ số 0 cuối thương.|821;8201;8310
+Chia 36000 cho 4, thương là bao nhiêu?|9000|36 nghìn chia bốn bằng chín nghìn.|900;8000;144000
+Tính 50505 : 5.|10101|50505 : 5 = 10101; không bỏ hai chữ số 0 trong thương.|111;1101;1011
+Khi hạ chữ số trong phép chia đặt dọc, hạ từ trái sang phải hay ngược lại?|trái sang phải|Chia từ hàng cao nhất và hạ từng chữ số còn lại theo thứ tự.|phải sang trái;từ giữa ra;hạ tùy ý
+Trong phép chia cho 6, số dư lớn nhất có thể là mấy?|5|Số dư phải bé hơn 6 nên lớn nhất là 5.|6;7;0
+Số bị chia 14000, số chia 7. Thương là gì?|2000|14000 : 7 = 2000.|200;1000;98000
+Tính 12345 : 1.|12345|Chia một số cho 1 giữ nguyên số đó.|1;0;12344
+Phép chia có thương 7000, số chia 3, không dư. Số bị chia là gì?|21000|7000 × 3 = 21000.|7003;20997;21003
+Trong phép chia có dư, số dư có được bằng số chia không?|không|Nếu dư bằng số chia thì còn đủ thêm một nhóm, phải tăng thương.|có;chỉ khi chia 5;luôn bằng
+Tính 80808 : 8.|10101|80808 : 8 = 10101; mỗi vị trí thương phải được giữ.|111;1101;10011
+Một bạn chia 32016 cho 4 được 804. Bạn đã bỏ sót chữ số nào trong thương đúng?|0|Thương đúng 8004; bạn bỏ một chữ số 0.|1;2;4
+Chia 27431 cho 3, biết thương 9143. Số dư là bao nhiêu?|2|9143 × 3 = 27429; còn 2.|0;1;3
+Một phép chia cho 4 được ghi thương 2750 dư 5. Thương sau khi sửa là gì?|2751|Dư 5 còn đủ một nhóm 4; thương tăng 1, dư mới 1.|2750;2752;2749
+Để kiểm tra 17402 chia 5 được 3480 dư 2, phải cộng gì vào tích 3480 × 5?|2|Thương nhân số chia rồi cộng số dư để được số bị chia.|5;3480;17402
+Một số năm chữ số bắt đầu bằng 8 chia cho 2. Thương có mấy chữ số?|5|Chữ số đầu 8 chia được 2 ngay nên thương có đủ năm vị trí.|4;3;6
+Một số năm chữ số bắt đầu bằng 1 chia cho 8. Thương có mấy chữ số?|4|Cần dùng hai chữ số đầu để bắt đầu chia, nên thương có bốn chữ số.|5;3;6
+Chia 70004 cho 7, chỉ ghi số dư.|4|10000 × 7 + 4 = 70004.|0;1;7
+Trong phép chia 45000 : 9, có thể bỏ các số 0 cuối thương không?|không|Thương là 5000; bỏ số 0 làm thay đổi giá trị.|có;chỉ bỏ một số 0;luôn bỏ hết
+Nếu chia 19200 cho 3 được 6400 thì 19200 chia cho 6 được bao nhiêu?|3200|Chia thành sáu phần thì mỗi phần bằng nửa khi chia thành ba phần: 3200.|6400;12800;6300
+Một số chia 5 dư 4. Muốn chia hết cho 5 bằng cách thêm ít nhất, cần thêm mấy đơn vị?|1|Dư 4 thêm 1 đủ một nhóm 5.|4;5;2
+Có 18006 trang được in đều trong 6 ngày. Máy in hỏng một ngày nên chỉ làm được đúng 5 ngày theo năng suất ấy. Đã in bao nhiêu trang?|15005|Mỗi ngày 3001 trang; 3001 × 5 = 15005 trang.|18001;15000;3001
+Xưởng chia 23456 nhãn cho 8 người bằng nhau. Một người trả lại 432 nhãn chưa dùng. Người đó đã dùng bao nhiêu nhãn?|2500|Mỗi người nhận 2932 nhãn; 2932 - 432 = 2500.|2932;3364;23024
+Một cuốn sách mô hình có 12024 trang, chia đều vào 3 tập. Mỗi tập có 8 trang mục lục nằm trong tổng đó. Mỗi tập có bao nhiêu trang khác mục lục?|4000|Một tập 4008 trang; bớt 8 trang mục lục còn 4000.|4008;4016;12000
+Kho có 25001 chi tiết, đóng hộp đúng 5 chi tiết. Một hộp chưa đầy có bao nhiêu chi tiết?|1|5000 hộp đầy dùng 25000 chi tiết, còn 1.|0;4;5
+Một máy báo 42005 chia 6 được 7000 dư 5. Chỉ cần thêm ít nhất bao nhiêu chi tiết để đóng thêm một nhóm 6?|1|Phần lẻ có 5 chi tiết, thêm 1 đủ nhóm 6.|5;6;0
+Tổng chiều dài 4 đoạn dây bằng nhau là 30300 cm. Một đoạn được cắt ngắn 75 cm. Đoạn bị cắt còn bao nhiêu xăng-ti-mét?|7500|Ban đầu mỗi đoạn 7575 cm; 7575 - 75 = 7500.|7575;30225;7650
+Một xe cần 7 chuyến đều nhau để chở 21014 kg. Sau 2 chuyến, đã chở bao nhiêu ki-lô-gam?|6004|Mỗi chuyến 3002 kg; hai chuyến 6004 kg.|3002;6000;42028
+Có 16500 hạt chia đều cho 5 nhóm. Nhóm thứ nhất chia tiếp đều cho 3 bạn. Mỗi bạn nhóm đó nhận bao nhiêu hạt?|1100|Mỗi nhóm 3300 hạt; 3300 : 3 = 1100 hạt.|3300;5500;1000
+Đội A chia 24000 nhãn cho 6 tổ, đội B chia 24000 nhãn cho 8 tổ. Mỗi tổ đội A nhận hơn mỗi tổ đội B bao nhiêu nhãn?|1000|A mỗi tổ 4000 nhãn, B mỗi tổ 3000 nhãn; hơn 1000.|3000;4000;2000
+Một túi chứa tối đa 9 hạt giống đặc biệt. Có 18001 hạt. Sau khi dùng đủ 2000 túi đầy còn cần mấy túi nữa để chứa hết?|1|2000 túi đầy chứa 18000 hạt; còn 1 hạt cần một túi nữa.|0;2;9
+Mỗi hộp chứa đúng 8 thẻ. Trong 32007 thẻ, phần không đóng đủ hộp ít hơn 8 thẻ bao nhiêu thẻ?|1|Dư 7 thẻ; từ 7 đến 8 còn thiếu 1.|7;8;0
+Một đoàn có 27018 người chia đều thành 9 nhóm. Mỗi nhóm có 2 người hướng dẫn. Mỗi nhóm còn bao nhiêu người không làm hướng dẫn?|3000|Mỗi nhóm 3002 người; bớt 2 người hướng dẫn còn 3000.|3002;3004;27000
+Một kho có 56000 nhãn. Mỗi gói 7 nhãn. Đã phát 3000 gói đầy, còn bao nhiêu gói đầy?|5000|Có 8000 gói; phát 3000 còn 5000 gói.|8000;53000;21000
+Dây 41005 cm được cắt thành 5 đoạn bằng nhau. Hai đoạn ghép lại, không hao hụt, dài bao nhiêu xăng-ti-mét?|16402|Một đoạn 8201 cm; hai đoạn 16402 cm.|8201;16400;20502
+Một số chia 4 có thương 6000 dư 3. Bớt số đó 3 rồi chia 4, thương là gì?|6000|Bớt đúng phần dư thì còn 24000; chia 4 vẫn được 6000.|5999;6001;24000
+Nhóm có 36018 viên sỏi. Sau khi bỏ 18 viên, chia đều vào 6 rổ. Mỗi rổ bao nhiêu viên?|6000|Còn 36000 viên; 36000 : 6 = 6000.|6003;36000;6018
+Một số chia 8 được 1500 dư 7. Bớt 8 khỏi số ban đầu rồi chia lại, số dư là mấy?|7|Bớt đúng một nhóm 8 làm thương giảm 1; số dư vẫn 7.|6;0;8
+Chia 40000 tấm bìa đều vào 5 thùng. Sau đó lấy 1250 tấm từ mỗi thùng. Tổng số bìa còn trong 5 thùng là bao nhiêu?|33750|Mỗi thùng 8000 tấm, còn 6750 tấm; 6750 × 5 = 33750.|6750;38750;6250
+Máy chia 54006 thành 6 phần bằng nhau, rồi bớt 1000 ở mỗi phần. Mỗi phần mới là bao nhiêu?|8001|54006 : 6 = 9001; bớt 1000 còn 8001.|9001;8000;53006
+Có 24010 hạt chia đều vào 7 túi, chỉ dùng số hạt nguyên. Mỗi túi nhận 3430 hạt. Số hạt còn lại có phải bằng 0 không?|có|3430 × 7 = 24010, chia hết.|không;dư 1;dư 7
