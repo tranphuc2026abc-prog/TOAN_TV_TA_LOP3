@@ -1,0 +1,41 @@
+Bài 65
+Tính nhẩm 24000 + 5000.|29000|24 nghìn thêm 5 nghìn bằng 29 nghìn.|28000;24500;19000
+Tính nhẩm 67000 - 3000.|64000|67 nghìn bớt 3 nghìn còn 64 nghìn.|65000;70000;66700
+Tính 21345 + 12524.|33869|21345 + 12524 = 33869; cộng đúng từng hàng.|32869;33859;34869
+Tính 76548 - 32126.|44422|76548 - 32126 = 44422.|45422;44412;43422
+Trong biểu thức có ngoặc, tính phần trong ngoặc trước hay sau?|trước|Phần trong ngoặc được tính trước.|sau;tùy ý;không tính
+Cộng hoặc trừ hai số theo cột dọc, bắt đầu từ hàng nào?|đơn vị|Tính từ phải sang trái, bắt đầu ở đơn vị.|nghìn;trăm;chục nghìn
+Tính 45987 + 0.|45987|Cộng 0 giữ nguyên số.|0;45980;45988
+Tính 82036 - 82036.|0|Một số trừ chính nó bằng 0.|1;82036;82035
+Tính 9999 + 1.|10000|Thêm một đơn vị chuyển từ bốn sang năm chữ số.|9990;1000;10001
+Tính 100000 - 1.|99999|Số liền trước 100000 là 99999.|99990;99000;100001
+Tính 25000 + 7000 - 12000.|20000|25000 + 7000 = 32000; 32000 - 12000 = 20000.|44000;30000;18000
+Tính 90000 - (25000 + 15000).|50000|Trong ngoặc được 40000; bớt khỏi 90000 còn 50000.|80000;40000;60000
+Tính 60000 - (28000 - 8000).|40000|Trong ngoặc được 20000; 60000 - 20000 = 40000.|24000;32000;80000
+Tính 32678 + 4789.|37467|32678 + 4789 = 37467; phải cộng số nhớ vào cột kế tiếp.|36467;37457;37567
+Tính 50003 - 17865.|32138|50003 - 17865 = 32138; cần đổi qua các hàng 0.|33138;32148;42138
+Bạn ghi nhầm 26789 + 14567 thành 30246. Tổng đúng là bao nhiêu?|41356|26789 + 14567 = 41356; kiểm tra đủ số nhớ qua các cột.|30246;40356;41346
+Không tính toàn bộ: hàng đơn vị của 56348 + 27176 là chữ số nào?|4|8 + 6 = 14, viết 4 nhớ 1.|1;8;6
+Không tính toàn bộ: hàng đơn vị của 62403 - 18257 là chữ số nào?|6|3 chưa trừ được 7, đổi một chục, lấy 13 trừ 7 được 6.|4;3;7
+Tính thuận tiện 17500 + 2500 + 30000.|50000|17500 + 2500 = 20000; thêm 30000 được 50000.|45000;52000;40000
+Một số trừ đi 2400 rồi cộng lại 2400 có bằng số ban đầu không?|có|Hai phép ngược nhau với cùng lượng đưa về số ban đầu.|không;luôn hơn 2400;luôn kém 2400
+Kho có 24500 l nước, nhập 8500 l rồi dùng 17250 l. Còn bao nhiêu lít?|15750|Sau nhập có 33000 l; 33000 - 17250 = 15750 l.|33000;7250;16750
+Thư viện có 18640 cuốn, được tặng 3275 cuốn rồi chuyển 4915 cuốn đi. Còn bao nhiêu cuốn?|17000|18640 + 3275 = 21915; 21915 - 4915 = 17000.|18000;21915;13725
+Đội A có 27450 điểm, đội B ít hơn A 3850 điểm. Tổng hai đội bao nhiêu điểm?|51050|Đội B có 23600 điểm; 27450 + 23600 = 51050.|23600;54900;58750
+Ngày đầu bán 12875 vé, ngày sau nhiều hơn 2250 vé. Cả hai ngày bán bao nhiêu vé?|28000|Ngày sau 15125 vé; 12875 + 15125 = 28000.|15125;25750;30250
+Một xe đi hai đoạn 15480 m và 12620 m. Mục tiêu 30000 m. Còn thiếu bao nhiêu mét?|1900|Đã đi 28100 m; 30000 - 28100 = 1900 m.|28100;2900;8100
+Hai kho có tổng 75000 kg. Kho A có 38675 kg. Kho B có bao nhiêu ki-lô-gam?|36325|75000 - 38675 = 36325 kg.|37325;36235;113675
+An có 50000 đồng, mua hai món 18500 đồng và 12500 đồng. Còn bao nhiêu đồng?|19000|Hai món hết 31000 đồng; 50000 - 31000 = 19000 đồng.|31000;31500;37500
+Một cuộn dây 42860 cm cắt đi 9875 cm, rồi nối thêm 2015 cm. Dây lúc này dài bao nhiêu xăng-ti-mét?|35000|Sau cắt còn 32985 cm; thêm 2015 cm được 35000 cm.|32985;30970;54750
+Một kho có 64520 hộp, đã giao 23560 hộp và 17440 hộp. Còn bao nhiêu hộp?|23520|Đã giao 41000 hộp; 64520 - 41000 = 23520 hộp.|40960;47080;24520
+Đội dự kiến thu 40000 nhãn, đã thu 15785 nhãn rồi thêm 14315 nhãn. Cần thêm bao nhiêu nhãn?|9900|Đã thu 30100 nhãn; 40000 - 30100 = 9900 nhãn.|30100;10000;10100
+Một số cộng 1750 rồi trừ 750 được 28000. Số ban đầu là gì?|27000|Hai bước làm tăng tổng 1000; số ban đầu 27000.|28000;29000;25500
+Một số trừ 6000 rồi cộng 2000 được 41000. Số ban đầu là gì?|45000|Hai bước làm giảm 4000; số ban đầu lớn hơn kết quả 4000.|37000;41000;49000
+Có hai cách tính: A là 72000 - 15000 + 3000; B là 72000 - (15000 + 3000). Kết quả A hơn B bao nhiêu?|6000|A được 60000, B được 54000; chênh 6000.|0;3000;18000
+Một bạn cộng 45826 với 37 nhưng đặt 37 lệch sang trái một hàng. Tổng đúng khi đặt thẳng đơn vị là gì?|45863|37 là ba chục bảy đơn vị; 45826 + 37 = 45863.|46196;49526;45853
+Tìm chữ số ? trong 42?18 + 12000 = 54818.|8|Chỉ tăng hàng chục nghìn và nghìn, hàng trăm vẫn là 8.|4;2;6
+Một kho ghi 52780 kg nhưng cân thực chỉ 51870 kg. Sổ ghi hơn thực tế bao nhiêu ki-lô-gam?|910|52780 - 51870 = 910 kg.|900;1010;190
+Đội đỏ có 32560 điểm, đội xanh có 31240 điểm. Chuyển 500 điểm từ đỏ sang xanh. Đỏ còn hơn xanh bao nhiêu điểm?|320|Đỏ còn 32060, xanh có 31740; chênh 320 điểm.|820;1320;2320
+Có 85000 tờ giấy, dùng 24500 tờ buổi sáng. Buổi chiều dùng ít hơn sáng 1500 tờ. Còn bao nhiêu tờ?|37500|Chiều dùng 23000 tờ; tổng dùng 47500 tờ; còn 37500 tờ.|60500;39000;36000
+Tìm hiệu của số lớn nhất có năm chữ số và số bé nhất có bốn chữ số khác nhau.|98976|Số đầu 99999, số sau 1023; 99999 - 1023 = 98976.|98999;98765;98986
+Ba chặng đường dài 12000 m, 18500 m và 9500 m. Đã đi 27500 m. Còn bao nhiêu mét?|12500|Tổng đường 40000 m; 40000 - 27500 = 12500 m.|40000;21500;11500

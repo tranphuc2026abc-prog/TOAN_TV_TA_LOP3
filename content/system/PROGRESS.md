@@ -1,3 +1,11 @@
+# Checkpoint nguồn Batch 17 — 08/11/2026
+
+Đã đọc trực quan trang in 76 (PDF 77) Toán tập 2 cho Bài 65. Đã lưu 40 câu nguồn mới Bài 65, theo thứ tự 10/10/20, trong batch17-source.txt; kiểm tra số dòng, không trùng câu trong bài và bốn lựa chọn khác nhau. Chưa đóng gói, chưa tích hợp hay kiểm thử DOM bài mới. Tiếp theo đọc nguồn và soạn Bài 66–68, hoàn thiện kiến thức/ví dụ/game/SVG cần thiết rồi kiểm thử cả batch. Không làm lại 40 câu nguồn Bài 65.
+
+Tổng tích hợp giữ 64/168 mục, 2560 câu, 64 trò chơi; giáo viên duyệt 4, chờ duyệt 60; còn 104 mục. Không cập nhật số hoàn thành trong INDEX cho nguồn dở dang. Đây là checkpoint, không phải batch hoàn chỉnh.
+
+## Lịch sử
+
 # Batch 16 đã tích hợp — 08/11/2026
 
 Toán 61–64: 4 JSON/Markdown, 160 câu phân mức 10/10/20 và 4 trò chơi. Đã đọc trực quan trang in 64–75 (PDF 65–76) của chính PDF Toán tập 2 trong repo; Git blob SHA kiểm tra tại máy là 1a55eb09c9cf573935fa38911d48a5311575b09c, khớp tree GitHub. Nội dung: làm tròn nghìn/chục nghìn, ôn cấu tạo và thứ tự số, cộng/trừ trong 100000. Câu hỏi mới biên soạn riêng, không sao chép hệ thống bài tập sách. Không có câu thiếu dữ kiện hình; các bài này dùng dữ kiện chữ đầy đủ.
