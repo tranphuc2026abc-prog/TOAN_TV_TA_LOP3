@@ -1,3 +1,9 @@
+## Batch 11 đang biên soạn — 08/11/2026
+
+Đã render và đọc trực quan trang PDF 114–116 / trang in 113–115 bản Toán tập 1 đang truy cập được; chưa đối chiếu hash với bản trong repo. Đã biên soạn 40 câu nguồn riêng Bài 41 tại batch11-source.txt, theo thứ tự 10 nhận biết/10 thông hiểu/20 vận dụng, có đáp án, lời giải và ba phương án nhiễu. Có ôn phân số đơn vị, tìm thừa số/số chia/số bị chia, chữ số thiếu, số nhớ, thương có 0, phần dư, số can chứa hết và bài thực tế. Kiểm tra không trùng trong bài, bốn lựa chọn khác nhau và tính lại 54 đẳng thức đạt.
+
+Chưa đóng gói JSON/Markdown hay trò chơi Bài 41; chưa kiểm thử tích hợp bài mới. Tổng đang tích hợp vẫn 40/168 mục, 1600 câu, 40 trò chơi; giáo viên duyệt 4, chờ duyệt 36; còn 128 mục. Tiếp đọc nguồn Bài 42–44 trang 116–121, biên soạn 120 câu và nội dung hướng dẫn/ví dụ/game cả batch, rồi kiểm thử và commit batch hoàn chỉnh. Không tạo lại 40 câu Bài 41 đã lưu. Chưa kiểm thử Chromium thật.
+
 # Batch 10 hoàn tất — 08/11/2026
 
 Đã tích hợp Toán 37–40: 4 JSON, 4 Markdown, 160 câu (10/10/20 mỗi bài), 4 trò chơi; lượt 10 câu 3/3/4. Nguồn trang 99–112 đã đọc trực quan ở lượt trước. Các câu đủ dữ kiện chữ, không phụ thuộc hình. npm test đạt trên 40 bài, 1600 câu, 1581 đẳng thức; DOM và hồi quy cũ đạt. Chưa kiểm thử Chromium thật; kiểm tra tự động chưa bao quát mọi biểu thức có ngoặc. Giáo viên duyệt 4 bài, 36 chờ duyệt; mọi bài mới AI_CHECKED_AWAITING_TEACHER. Tổng 40/168; còn 128 mục (Toán 41, Tiếng Việt 62, Tiếng Anh 25). Tiếp Toán 41–44; đọc nguồn trước khi biên soạn.
