@@ -1,3 +1,11 @@
+# Checkpoint Bài 78 — 09/11/2026
+
+Đã đọc trực quan toàn bộ trang in 118–120 (PDF 119–121) Toán tập 2: nhân/chia, thương có 0, biểu thức có ngoặc và phối hợp, tìm chữ số, giá đơn vị, gấp/giảm số lần, phần còn lại. Đã bổ sung 40 câu mới Bài 78, giữ nguyên 40 câu Bài 77; mỗi bài phân theo thứ tự 10/10/20. Có cặp tình huống phân biệt số xe chứa hết và số bó đủ, phép tính ngược, số dư, chia nhiều tầng. Kiểm tra số dòng và bốn lựa chọn khác nhau đạt. Chưa đóng gói JSON/Markdown hay tích hợp, chưa chạy DOM cho bài mới.
+
+Tiếp đọc nguồn Bài 79–80 và biên soạn, hoàn thiện lý thuyết/ví dụ/game cho Batch 20, kiểm thử rồi tích hợp cả batch. INDEX không đổi: 76/168 mục, 3040 câu, 76 trò chơi; giáo viên duyệt 4, 72 chờ duyệt; còn 92 mục nháp. Không tạo lại 80 câu nguồn đã lưu.
+
+## Lịch sử
+
 # Checkpoint biên soạn Bài 77 — 09/11/2026
 
 Đã lưu 40 câu mới cho Bài 77 trong batch20-source.txt, thứ tự 10 nhận biết/10 thông hiểu/20 vận dụng: cộng trừ, số nhớ/đổi qua 0, biểu thức có ngoặc, tìm chữ số, phép tính ngược, bảo toàn tổng/hiệu, tiền và tình huống hai bước. Nguồn trang in 115–117 đã đọc trực quan lượt trước. Kiểm tra 40 dòng, không trùng câu trong bài, bốn phương án khác nhau đạt. Chưa đóng gói JSON/Markdown, chưa tích hợp và chưa chạy DOM bài mới.

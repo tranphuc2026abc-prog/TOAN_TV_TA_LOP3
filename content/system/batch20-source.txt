@@ -39,3 +39,44 @@ Lan có 40000 đồng, mua đồ hết 27500 đồng. Muốn mua thêm món 1800
 Tìm chữ số a trong phép tính 4a250 cộng 1750 bằng 45000.|3|Số hạng đầu là 45000 trừ 1750 bằng 43250 nên a bằng 3.|4;2;5
 Kho A có 21800 kg gạo, kho B có 18200 kg. Chuyển 1800 kg từ A sang B. Kho A còn nhiều hơn kho B bao nhiêu kg?|0|Sau chuyển, A còn 20000 kg, B có 20000 kg nên chênh lệch bằng 0.|3600;1800;7200
 Một quãng đường dài 35000 m. Người đi đã qua 12500 m, nghỉ, rồi đi thêm 8700 m. Phần còn lại dài bao nhiêu mét?|13800|Đã đi 21200 m; còn 35000 trừ 21200 bằng 13800 m.|21200;22500;26300
+Bài 78
+Tính 14000 nhân 3.|42000|14 nghìn nhân 3 được 42 nghìn.|17000;41000;4200
+Tính 48000 chia 6.|8000|6 nhóm, mỗi nhóm 8000 thì có 48000.|800;42000;9000
+Một số nhân 1 bằng 23045. Số đó bằng bao nhiêu?|23045|Nhân với 1 giữ nguyên số.|0;23046;1
+Số 0 nhân 315 bằng bao nhiêu?|0|Tích có thừa số 0 bằng 0.|315;1;3150
+Số chia là 7, số dư có thể lớn nhất bằng bao nhiêu?|6|Số dư phải nhỏ hơn 7 nên lớn nhất là 6.|7;8;0
+Tích 2500 và 4 bằng bao nhiêu?|10000|25 trăm nhân 4 được 100 trăm, tức 10000.|1000;6500;9000
+Thương 6300 và 9 bằng bao nhiêu?|700|9 nhân 700 bằng 6300.|70;7000;5400
+Một hộp có 8 bút. Ba hộp như vậy có mấy bút?|24|Ba nhóm, mỗi nhóm 8 bút, được 24 bút.|11;5;32
+Chia đều 36 thẻ cho 4 bạn. Mỗi bạn được mấy thẻ?|9|36 chia 4 được 9 thẻ mỗi bạn.|8;12;6
+Muốn kiểm tra phép chia hết, lấy thương nhân với số nào?|số chia|Thương nhân số chia phải bằng số bị chia.|số dư;thương;số bị chia
+Tính 12000 chia 3 nhân 2.|8000|Chia trước theo thứ tự trái sang phải: 4000, rồi nhân 2 được 8000.|2000;24000;6000
+Tính 24000 chia (3 nhân 2).|4000|Trong ngoặc là 6; 24000 chia 6 được 4000.|16000;8000;12000
+Tính (3500 cộng 1500) nhân 4.|20000|Trong ngoặc được 5000; nhân 4 được 20000.|9500;17000;5000
+Bạn tính 2106 nhân 4 bằng 8420. Tích đúng là bao nhiêu?|8424|4 nhân 6 được 24, viết 4 nhớ 2; tính các hàng tiếp được 8424.|8420;8244;8404
+Tính 42035 chia 5.|8407|5 nhân 8407 bằng 42035; cần giữ chữ số 0 trong thương.|847;8406;8417
+Một số chia 8 được thương 1250 và dư 3. Số đó là bao nhiêu?|10003|1250 nhân 8 bằng 10000, thêm số dư 3 được 10003.|10000;10024;1253
+Tăng một thừa số lên gấp 3 lần, thừa số kia giữ nguyên. Tích tăng mấy lần?|3|Mỗi nhóm lớn gấp 3 nên tổng các nhóm cũng gấp 3.|6;1;9
+Hai phép tính 16000 nhân 2 và 96000 chia 3 có kết quả bằng nhau không?|có|Cả hai đều bằng 32000.|không;chênh 16000;chênh 32000
+Tìm chữ số a để 12a nhân 3 bằng 375.|5|375 chia 3 được 125 nên a là 5.|3;2;7
+Số 3024 chia 3 có thương là bao nhiêu?|1008|3 nhân 1008 bằng 3024, hàng chục trong thương là 0.|108;1006;1028
+Bốn thùng có tổng 36000 g bột, mỗi thùng bằng nhau. Hai thùng có bao nhiêu gam?|18000|Một thùng 9000 g; hai thùng 18000 g.|9000;72000;32000
+Mỗi vé 12500 đồng. Mua 3 vé, đưa 50000 đồng thì còn lại bao nhiêu đồng?|12500|Ba vé hết 37500 đồng; còn 12500 đồng.|37500;25000;15000
+Có 43 học sinh đi xe, mỗi xe chở tối đa 8 học sinh. Cần ít nhất mấy xe?|6|5 xe chỉ chở 40 bạn, còn 3 bạn nên cần thêm xe thứ sáu.|5;7;8
+Có 43 bông hoa, mỗi bó cần đúng 8 bông. Bó được nhiều nhất mấy bó đủ?|5|5 bó dùng 40 bông, dư 3 không đủ thêm một bó.|6;8;3
+Một tổ may 1850 áo mỗi ngày. Trong 4 ngày may được bao nhiêu áo?|7400|Bốn ngày cùng năng suất nên lấy 1850 nhân 4 được 7400.|5850;7200;7500
+Kho có 7200 kg gạo. Sau khi bán, số còn lại bằng một phần ba ban đầu. Đã bán bao nhiêu kg?|4800|Còn 2400 kg nên đã bán 7200 trừ 2400 bằng 4800 kg.|2400;9600;3600
+Mẹ 36 tuổi, con 9 tuổi. Tuổi mẹ gấp tuổi con mấy lần?|4|Lấy 36 chia 9 được 4 lần.|27;3;5
+Một cửa hàng bán 5 túi gạo cùng loại hết 95000 đồng. Mua 3 túi như thế hết bao nhiêu đồng?|57000|Mỗi túi 19000 đồng, ba túi hết 57000 đồng.|19000;60000;38000
+Đội trồng cây có 6 nhóm, mỗi nhóm trồng 125 cây. Mục tiêu 1000 cây, còn thiếu bao nhiêu cây?|250|Đã trồng 750 cây; còn thiếu 250 cây.|750;875;375
+Một số nhân 6 rồi chia 3 thì được 8400. Số ban đầu bằng bao nhiêu?|4200|Làm ngược: 8400 nhân 3 rồi chia 6 được 4200.|16800;2800;50400
+Có 15000 nhãn vở chia đều cho 5 lớp. Một lớp chia tiếp cho 3 tổ. Mỗi tổ nhận bao nhiêu nhãn?|1000|Một lớp nhận 3000 nhãn; chia 3 tổ được 1000 nhãn mỗi tổ.|3000;5000;9000
+Một dây dài 28000 cm cắt thành 7 đoạn bằng nhau. Dùng 2 đoạn thì đã dùng bao nhiêu cm?|8000|Mỗi đoạn 4000 cm, hai đoạn dài 8000 cm.|4000;14000;20000
+Ba lần chuyển hàng, mỗi lần 12400 kg. Còn phải chuyển 6800 kg nữa mới hết. Ban đầu có bao nhiêu kg hàng?|44000|Ba lần chuyển 37200 kg; cộng phần còn 6800 được 44000 kg.|37200;30400;19200
+Một phép chia có thương 2304, số chia 4, số dư 2. Số bị chia bằng bao nhiêu?|9218|2304 nhân 4 bằng 9216, cộng số dư 2 được 9218.|9216;9224;2306
+Một số chia 7 có số dư 5. Thêm ít nhất bao nhiêu vào số đó để chia hết cho 7?|2|Cần thêm 2 để phần dư 5 thành một nhóm đủ 7.|5;7;12
+Có 1860 quả trứng. Xếp mỗi khay 6 quả, rồi mỗi hộp 5 khay. Có bao nhiêu hộp đầy?|62|1860 chia 6 được 310 khay; chia tiếp 5 được 62 hộp.|310;372;60
+Một máy in mỗi phút in 245 trang. Sau 8 phút, còn thiếu 1040 trang mới xong. Tài liệu có tất cả mấy trang?|3000|Đã in 1960 trang; cộng 1040 còn lại được 3000 trang.|1960;920;2990
+Tìm chữ số a trong 2a05 nhân 4 bằng 10020.|5|10020 chia 4 được 2505 nên a bằng 5.|0;2;4
+Tính 18000 trừ 24000 chia 4.|12000|Thực hiện chia trước: 6000; sau đó 18000 trừ 6000 được 12000.|1500;6000;24000
+Có 90000 đồng mua 4 quyển vở, mỗi quyển 12000 đồng, và 3 bút, mỗi bút 9000 đồng. Còn bao nhiêu đồng?|15000|Vở hết 48000, bút hết 27000; tổng 75000, còn 15000 đồng.|75000;42000;27000
