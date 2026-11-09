@@ -1,3 +1,11 @@
+# Hồi quy đáp án Batch 20 — 09/11/2026
+
+Đã bổ sung scripts/test_batch20.py và chạy đạt trên bản đóng gói cục bộ: tính độc lập các tình huống cộng/trừ, nhân/chia, xe chứa hết so với bó đủ, phép tính ngược, đổi đơn vị, chu vi/diện tích/cạnh chung, mốc giờ bằng datetime, tiền, tổng bảng và liệt kê tổ hợp lấy thẻ. Kiểm tra 160 câu không trùng trong batch và trạng thái chờ giáo viên đạt. Chưa thay đổi INDEX công khai.
+
+Tiếp xem trực quan toàn bộ SVG, bổ sung hình còn thiếu, đưa test_batch20.py vào npm test rồi chạy lại toàn kho trước khi commit tích hợp 4 JSON/Markdown và INDEX. Bản thử 80 bài chưa phải bản công khai. Tiến độ tích hợp vẫn 76/168, 3040 câu, 76 trò chơi; 4 giáo viên duyệt, 72 chờ duyệt, 92 mục nháp. Giữ nguyên tất cả nguồn và kiến thức đã lưu.
+
+## Lịch sử
+
 # Builder Batch 20 và kiểm thử ban đầu — 09/11/2026
 
 Đã thêm scripts/build_batch20.py: đóng gói 160 câu và kiến thức của 77–80 thành 4 JSON/Markdown, gắn SVG theo từng câu, giữ trạng thái chờ giáo viên và phân mức 3/3/4. Đã chạy thử tạo 80 kho học liệu ở môi trường làm việc; validate_site.py/validate_content.py đạt trên 3200 câu. Đây chưa phải xác nhận đã tích hợp lên main: chưa đưa JSON/Markdown và INDEX tăng số vào commit này.
