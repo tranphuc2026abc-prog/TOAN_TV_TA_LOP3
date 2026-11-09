@@ -20,8 +20,10 @@ def validate_subject(obj):
         assert obj['language_practice']['spelling']
         assert obj['language_practice']['expression']
         assert qs and all(q.get('skill') for q in qs)
-        assert any(q['skill']=='reading' and q.get('evidence') for q in qs)
-        assert obj['assessment']['session_size']<=len(qs)
+        assert any(q['skill']=='reading' for q in qs)
+        assert all(str(q.get('evidence','')).strip() for q in qs if q['skill']=='reading')
+        assert type(obj['assessment']['session_size']) is int
+        assert 1<=obj['assessment']['session_size']<=len(qs)
     else:
         assert obj['vocabulary'] and obj['patterns'] and obj['pronunciation']
         for v in obj['vocabulary']:assert v['word'] and v['meaning_vi'] and v['example']

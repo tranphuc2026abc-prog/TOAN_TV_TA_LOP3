@@ -21,3 +21,9 @@ validate_subject(math)
 bad=deepcopy(math);bad['practice'].pop();rejects(bad)
 bad=deepcopy(math);bad['assessment']['distribution']['nhan_biet']=4;rejects(bad)
 print('PASS policy: Tiếng Việt không ép 40 câu; thiếu căn cứ/nhóm luyện tập bị từ chối; Toán giữ 10/10/20 và 3/3/4.')
+
+# Một câu có căn cứ không được che khuất câu đọc hiểu khác thiếu căn cứ.
+bad=deepcopy(tv);bad['practice'].append({'skill':'reading','evidence':'  '});rejects(bad)
+for size in [0,-1,True,0.5]:
+    bad=deepcopy(tv);bad['assessment']['session_size']=size;rejects(bad)
+print('PASS: mọi câu đọc hiểu cần căn cứ; số câu/lượt là số nguyên dương, không chấp nhận bool.')

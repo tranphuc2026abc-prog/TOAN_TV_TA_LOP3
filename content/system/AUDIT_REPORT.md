@@ -1,3 +1,9 @@
+# Kiểm tra căn cứ đọc hiểu — 09/11/2026
+
+Đã siết validator: mọi câu đọc hiểu phải có căn cứ không rỗng; số câu mỗi lượt phải là số nguyên dương, không nhận bool hoặc số thập phân. Thêm hồi quy chống trường hợp một câu có căn cứ che khuất câu khác thiếu căn cứ. npm test đạt toàn bộ 89 kho, hồi quy Toán và Tiếng Việt, DOM và fixture. Không có Chromium. Chưa biên soạn/đọc nguồn TV9–12 trong lượt này; không tăng số hoàn thành. Checkpoint tiếp tục Batch24 TV9–12; tổng 89/168, giáo viên duyệt 4, chờ duyệt 85, còn 79 mục nháp.
+
+## Lịch sử
+
 # Checkpoint triển khai đã xác minh — 09/11/2026
 
 Batch22: https://github.com/tranphuc2026abc-prog/TOAN_TV_TA_LOP3/commit/424886bfb77be6b15f6330d28bf116466e6a3859 (TV1–4). Batch23: https://github.com/tranphuc2026abc-prog/TOAN_TV_TA_LOP3/commit/4aa6bce0c33f6e455199c12da30da8d7549fb628 (TV5–8). Main đã xác minh trỏ đúng commit batch23. Hai workflow của batch23 đều completed/success: Publish class 3 website to GitHub Pages (42627256959) và pages build and deployment (42627255107).
