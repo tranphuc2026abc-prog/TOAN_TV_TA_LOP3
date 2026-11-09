@@ -1,0 +1,396 @@
+{
+  "id": "TV3_T1_B08",
+  "subject": "tv",
+  "grade": 3,
+  "book": "Kết nối tri thức với cuộc sống",
+  "volume": 1,
+  "lesson_no": 8,
+  "title": "Tạm biệt mùa hè",
+  "topic": "Những trải nghiệm thú vị",
+  "source": {
+    "pdf": "03-sgk-tieng-viet-3-tap-mot.pdf",
+    "printed_pages": [
+      38,
+      42
+    ],
+    "pdf_pages": [
+      39,
+      43
+    ],
+    "review": "Đọc trực quan toàn bộ trang in trong khoảng trên (PDF lệch +1 trang), gồm bài đọc và các mục luyện tập; 09/11/2026. Tóm tắt và bài tập mới do AI biên soạn, không đăng toàn văn SGK."
+  },
+  "objectives": [
+    "Nêu đúng nhân vật hoặc hình ảnh, chi tiết và ý nghĩa của Tạm biệt mùa hè.",
+    "Dùng từ và đặt câu rõ ý theo nội dung bài.",
+    "Luyện chính tả và nói/viết bằng trải nghiệm riêng."
+  ],
+  "reading": {
+    "summary": "Đêm trước khi trở lại lớp, Diệu háo hức và nghĩ xem sẽ kể với bạn chuyện gì. Mùa hè của Diệu gắn với những buổi cùng mẹ thu hái trái cây, thăm bà cụ Khởi và ra chợ quê. Bà cụ không nhìn thấy nhưng vẫn tự làm việc trong nhà và có nhiều chuyện thú vị để kể. Diệu quý những người lao động và tình cảm gần gũi quanh mình. Những trải nghiệm giản dị trở thành kỉ niệm đáng trân trọng trước năm học mới.",
+    "characters_or_images": [
+      "Diệu: thích thu hái quả cùng mẹ, trò chuyện với bà cụ Khởi và đi chợ.",
+      "Mẹ: cùng Diệu làm việc và tới chợ.",
+      "Bà cụ Khởi: không nhìn thấy, vẫn tự làm việc nhà, kể nhiều chuyện.",
+      "Những cô, bác bán hàng và các bà đưa cháu đi chợ."
+    ],
+    "message": "Kỉ niệm đẹp có thể đến từ công việc, sự quan tâm và những con người thân thuộc quanh ta."
+  },
+  "knowledge": {
+    "introduction": "Kỉ niệm đẹp có thể đến từ công việc, sự quan tâm và những con người thân thuộc quanh ta.",
+    "rules": [
+      "Phân biệt điều Diệu tưởng bạn sẽ kể với việc Diệu thực sự đã làm.",
+      "Dẫn chi tiết để nói cảm xúc: Diệu thường trò chuyện với bà và yêu quý người ở chợ.",
+      "Dấu hai chấm có thể báo trước phần liệt kê.",
+      "Nói về người bạn yêu quý bằng một việc làm hoặc đặc điểm cụ thể, rồi nêu cảm xúc."
+    ],
+    "steps": [
+      "Đọc bài trong SGK theo trang nguồn; đọc phần tóm tắt để nhớ mạch bài.",
+      "Tìm chi tiết trước khi chọn đáp án; xem lời giải sau mỗi câu.",
+      "Thực hành nói/viết theo nhiệm vụ, đối chiếu tiêu chí rồi sửa."
+    ],
+    "common_errors": [
+      "Nhận chuyến ra biển, lên núi là việc Diệu đã làm: đó là điều Diệu nghĩ các bạn có thể kể.",
+      "Cho rằng bà cụ Khởi không làm được việc gì: truyện nói bà vẫn tự làm việc nhà.",
+      "Chỉ gọi chợ quê nghèo mà bỏ qua sự thân quen và quý mến của Diệu.",
+      "Dùng dấu chấm trước danh sách đang được giới thiệu thay cho dấu hai chấm."
+    ]
+  },
+  "language_practice": {
+    "vocabulary": [
+      "Tỉ tê: trò chuyện nhỏ nhẹ, thân mật. Ví dụ mới: Hai bạn tỉ tê về kỉ niệm hè.",
+      "Tảo tần: chịu khó, đảm đang trong công việc chăm lo cuộc sống."
+    ],
+    "sentences": [
+      "Dấu hai chấm báo liệt kê trong câu mới: Em mang theo ba thứ: mũ, nước uống và khăn.",
+      "Câu nói tình cảm cần căn cứ: Em quý An vì bạn thường lắng nghe em."
+    ],
+    "spelling": [
+      "Viết hoa tên riêng Diệu, Khởi; phân biệt dấu hỏi trong Khởi và dấu nặng trong Diệu.",
+      "Câu luyện mới: Diệu tỉ tê kể chuyện với bà Khởi. Đọc lại các tên người và dấu thanh."
+    ],
+    "expression": [
+      "Viết 2–3 câu về một người bạn em quý: giới thiệu bạn, nêu một việc tốt của bạn, nói tình cảm của em.",
+      "Chọn một kỉ niệm hè giản dị để kể, không cần so sánh hơn thua với chuyến đi của người khác."
+    ]
+  },
+  "examples": [
+    {
+      "question": "Diệu có đi biển, lên núi trong mùa hè được kể không?",
+      "steps": [
+        "Đầu truyện, Diệu nghĩ bạn bè có thể kể chuyện những chuyến đi.",
+        "Phần sau nêu việc Diệu đã làm: cùng mẹ thu hái quả, tới nhà bà cụ và đi chợ.",
+        "Không lấy điều Diệu tưởng tượng về các bạn làm trải nghiệm của Diệu."
+      ]
+    },
+    {
+      "question": "Viết tình cảm với bạn bằng chi tiết.",
+      "steps": [
+        "Mẫu mới: Em rất quý bạn An. An thường đợi và giảng lại cho em khi em chưa hiểu cách làm. Em thấy ấm áp khi có một người bạn biết quan tâm.",
+        "Có tên bạn, việc cụ thể và cảm xúc; viết bằng chuyện thật của em."
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "title": "Bạn em yêu quý",
+      "materials": [
+        "Giấy hoặc vở",
+        "Bút"
+      ],
+      "steps": [
+        "Viết 2–3 câu nói về người bạn em quý.",
+        "Ghi tên hoặc cách gọi bạn.",
+        "Nêu một việc thật khiến em quý bạn.",
+        "Thêm cảm xúc rồi nhờ người thân góp ý."
+      ],
+      "check": [
+        "Có một chi tiết cụ thể về bạn.",
+        "Thể hiện cảm xúc lịch sự.",
+        "Tên người viết hoa và câu đủ ý."
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "question_id": "TV3_T1_B08_Q01",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Vì sao Diệu khó ngủ vào đêm trước khi trở lại trường?",
+      "correct_answer": "Háo hức sắp gặp bạn và nghĩ chuyện để kể",
+      "options": [
+        "Háo hức sắp gặp bạn và nghĩ chuyện để kể",
+        "Lo vì đánh mất mũ bơi",
+        "Giận Hải không tới chơi",
+        "Đang đợi bà dạy đi xe"
+      ],
+      "explanation": "Diệu nghĩ về ngày mai tới lớp và những câu chuyện sau hè.",
+      "evidence": "Trang 38: mở đầu truyện."
+    },
+    {
+      "question_id": "TV3_T1_B08_Q02",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Việc nào Diệu thực sự làm trong hè?",
+      "correct_answer": "Cùng mẹ thu hái trái cây",
+      "options": [
+        "Cùng mẹ thu hái trái cây",
+        "Đi xem tuyết trên núi",
+        "Lặn xuống biển tìm ngọc",
+        "Tham gia cuộc thi bơi toàn quốc"
+      ],
+      "explanation": "Truyện kể Diệu theo mẹ tới những khu vườn thu hái quả.",
+      "evidence": "Trang 39: những trải nghiệm của Diệu."
+    },
+    {
+      "question_id": "TV3_T1_B08_Q03",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Diệu thường đến trò chuyện với ai ở cuối làng?",
+      "correct_answer": "Bà cụ Khởi",
+      "options": [
+        "Bà cụ Khởi",
+        "Cô giáo dạy bơi",
+        "Bạn Hải",
+        "Anh Thái"
+      ],
+      "explanation": "Bà cụ Khởi là người Diệu thường tới thăm và nghe chuyện.",
+      "evidence": "Trang 39: đoạn kể về bà cụ Khởi."
+    },
+    {
+      "question_id": "TV3_T1_B08_Q04",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Điều nào đúng về bà cụ Khởi theo truyện?",
+      "correct_answer": "Không nhìn thấy nhưng vẫn tự làm việc trong nhà",
+      "options": [
+        "Không nhìn thấy nhưng vẫn tự làm việc trong nhà",
+        "Không biết bất cứ chuyện nào",
+        "Luôn cần Diệu làm thay mọi việc",
+        "Là người hướng dẫn lớp bơi"
+      ],
+      "explanation": "Diệu nhận ra khả năng và những câu chuyện thú vị của bà, không chỉ nhìn sự thiếu hụt.",
+      "evidence": "Trang 39: việc bà cụ làm và chuyện bà kể."
+    },
+    {
+      "question_id": "TV3_T1_B08_Q05",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Diệu có tình cảm thế nào với người ở chợ quê?",
+      "correct_answer": "Yêu quý vì họ gần gũi, chăm chỉ và thân quen",
+      "options": [
+        "Yêu quý vì họ gần gũi, chăm chỉ và thân quen",
+        "Chê bai tất cả người bán hàng",
+        "Không muốn gặp bất cứ ai",
+        "Chỉ quan tâm mình có đồ chơi mới"
+      ],
+      "explanation": "Truyện nhắc sự quý mến dành cho người bán hàng và những bà đưa cháu đi chợ.",
+      "evidence": "Trang 39: đoạn về góc chợ quê."
+    },
+    {
+      "question_id": "TV3_T1_B08_Q06",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Các chuyến ra biển, lên núi ở đầu truyện là gì?",
+      "correct_answer": "Điều Diệu nghĩ các bạn có thể kể",
+      "options": [
+        "Điều Diệu nghĩ các bạn có thể kể",
+        "Những chuyến Diệu chắc chắn đã đi",
+        "Nơi bà cụ Khởi dạy bơi",
+        "Các bước trong một công thức"
+      ],
+      "explanation": "Cần phân biệt suy nghĩ về câu chuyện của bạn với việc chính Diệu làm.",
+      "evidence": "Trang 38 so với trang 39: tưởng tượng và trải nghiệm thực."
+    },
+    {
+      "question_id": "TV3_T1_B08_Q07",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Nhận xét nào phù hợp nhất về mùa hè của Diệu?",
+      "correct_answer": "Giản dị nhưng có nhiều niềm vui và tình cảm",
+      "options": [
+        "Giản dị nhưng có nhiều niềm vui và tình cảm",
+        "Không có trải nghiệm nào đáng nhớ",
+        "Chỉ vui vì được đi du lịch xa",
+        "Không gặp người thân hay người quen"
+      ],
+      "explanation": "Thu hái quả, thăm bà và đi chợ đều đem lại điều đáng quý.",
+      "evidence": "Trang 39: ba nhóm trải nghiệm của Diệu."
+    },
+    {
+      "question_id": "TV3_T1_B08_Q08",
+      "type": "mcq",
+      "skill": "vocabulary",
+      "question": "Diệu tỉ tê với bà nghĩa là làm gì?",
+      "correct_answer": "Nói chuyện nhỏ nhẹ, thân mật",
+      "options": [
+        "Nói chuyện nhỏ nhẹ, thân mật",
+        "Quát thật to vì giận",
+        "Im lặng không nói gì",
+        "Chạy nhanh qua cửa"
+      ],
+      "explanation": "Tỉ tê gợi cuộc trò chuyện gần gũi như tâm tình."
+    },
+    {
+      "question_id": "TV3_T1_B08_Q09",
+      "type": "mcq",
+      "skill": "vocabulary",
+      "question": "Từ tảo tần trong đoạn về chợ quê nhấn mạnh điều gì?",
+      "correct_answer": "Sự chịu khó, đảm đang của những người phụ nữ",
+      "options": [
+        "Sự chịu khó, đảm đang của những người phụ nữ",
+        "Khả năng chạy rất nhanh",
+        "Màu sắc của trái cây",
+        "Tiếng rao luôn rất lớn"
+      ],
+      "explanation": "Từ này nói về sự chăm chỉ chăm lo cuộc sống, không phải màu hay âm thanh."
+    },
+    {
+      "question_id": "TV3_T1_B08_Q10",
+      "type": "mcq",
+      "skill": "sentences",
+      "question": "Dấu hai chấm trong câu Em chuẩn bị ba thứ: mũ, nước và khăn dùng để làm gì?",
+      "correct_answer": "Báo trước phần liệt kê",
+      "options": [
+        "Báo trước phần liệt kê",
+        "Kết thúc toàn bộ bài",
+        "Chỉ tên người gửi",
+        "Thay cho mọi dấu chấm"
+      ],
+      "explanation": "Sau dấu hai chấm là danh sách ba thứ đã được giới thiệu."
+    },
+    {
+      "question_id": "TV3_T1_B08_Q11",
+      "type": "mcq",
+      "skill": "sentences",
+      "question": "Chọn dấu cho câu Em quý hai người bạn... An và Bình.",
+      "correct_answer": "Dấu hai chấm",
+      "options": [
+        "Dấu hai chấm",
+        "Dấu hỏi",
+        "Dấu chấm than",
+        "Dấu chấm"
+      ],
+      "explanation": "Phần sau liệt kê hai người bạn nên dùng dấu hai chấm để báo trước."
+    },
+    {
+      "question_id": "TV3_T1_B08_Q12",
+      "type": "mcq",
+      "skill": "spelling",
+      "question": "Dòng nào viết đúng tên nhân vật chính?",
+      "correct_answer": "Diệu",
+      "options": [
+        "Diệu",
+        "diệu",
+        "Diêu",
+        "diêu"
+      ],
+      "explanation": "Tên Diệu cần chữ đầu viết hoa và dấu nặng đúng tiếng."
+    },
+    {
+      "question_id": "TV3_T1_B08_Q13",
+      "type": "mcq",
+      "skill": "spelling",
+      "question": "Cặp tên nào được viết đúng với nhân vật trong bài?",
+      "correct_answer": "Diệu, Khởi",
+      "options": [
+        "Diệu, Khởi",
+        "diệu, khởi",
+        "Diệu, khởi",
+        "diệu, Khởi"
+      ],
+      "explanation": "Cả hai là tên riêng, đều cần viết hoa chữ đầu."
+    },
+    {
+      "question_id": "TV3_T1_B08_Q14",
+      "type": "mcq",
+      "skill": "expression",
+      "question": "Câu nào nói tình cảm với bạn và có chi tiết làm căn cứ?",
+      "correct_answer": "Em quý Mai vì bạn luôn chờ em cùng về.",
+      "options": [
+        "Em quý Mai vì bạn luôn chờ em cùng về.",
+        "Bạn của em rất là.",
+        "Em quý bạn vì em quý bạn.",
+        "Mai là tên của bạn."
+      ],
+      "explanation": "Câu đúng vừa nêu tình cảm vừa có hành động cụ thể của bạn."
+    },
+    {
+      "question_id": "TV3_T1_B08_Q15",
+      "type": "mcq",
+      "skill": "expression",
+      "question": "Em chỉ ở nhà giúp gia đình trong hè. Sau bài đọc, em có thể kể gì?",
+      "correct_answer": "Một việc giúp gia đình khiến em nhớ và vui",
+      "options": [
+        "Một việc giúp gia đình khiến em nhớ và vui",
+        "Chỉ kể được nếu từng đi thật xa",
+        "Chép chuyến đi biển của Thắng làm chuyện mình",
+        "Không có gì để kể vì ở nhà"
+      ],
+      "explanation": "Trải nghiệm nhỏ cũng đáng quý, như những việc giản dị của Diệu."
+    },
+    {
+      "question_id": "TV3_T1_B08_Q16",
+      "type": "mcq",
+      "skill": "expression",
+      "question": "Muốn góp ý cho bạn viết Em yêu quý Lan, em nên đề nghị thêm gì?",
+      "correct_answer": "Một việc của Lan khiến bạn có tình cảm ấy",
+      "options": [
+        "Một việc của Lan khiến bạn có tình cảm ấy",
+        "Tên của mọi lớp trong trường",
+        "Một công thức không liên quan",
+        "Lặp câu Em yêu quý Lan thêm ba lần"
+      ],
+      "explanation": "Một chi tiết cụ thể giúp người đọc hiểu lí do yêu quý, tránh câu chung chung."
+    }
+  ],
+  "games": [
+    {
+      "id": "TV3_T1_B08_GAME",
+      "title": "Kỉ niệm của Diệu",
+      "mode": "treasure",
+      "objective": "Tìm kho báu bằng cách hiểu chi tiết và dùng tiếng Việt đúng theo bài.",
+      "rules": [
+        "Trả lời 10 câu được chọn từ chính bài này.",
+        "Mỗi đáp án đúng được 10 điểm; đọc phản hồi để hiểu và sửa câu sai.",
+        "Chơi lại để gặp một bộ câu khác."
+      ],
+      "question_ids": [
+        "TV3_T1_B08_Q01",
+        "TV3_T1_B08_Q02",
+        "TV3_T1_B08_Q03",
+        "TV3_T1_B08_Q04",
+        "TV3_T1_B08_Q05",
+        "TV3_T1_B08_Q06",
+        "TV3_T1_B08_Q07",
+        "TV3_T1_B08_Q08",
+        "TV3_T1_B08_Q09",
+        "TV3_T1_B08_Q10",
+        "TV3_T1_B08_Q11",
+        "TV3_T1_B08_Q12",
+        "TV3_T1_B08_Q13",
+        "TV3_T1_B08_Q14",
+        "TV3_T1_B08_Q15",
+        "TV3_T1_B08_Q16"
+      ],
+      "answer_source": "practice.correct_answer",
+      "feedback_source": "practice.explanation",
+      "max_score": 100
+    }
+  ],
+  "assessment": {
+    "session_size": 10,
+    "scoring": "Mỗi câu đúng được tính điểm theo hệ thống; 8–10 câu đúng: nắm tốt, 5–7: đọc lại phần còn nhầm, dưới 5: đọc bài cùng người thân rồi thử lại. Nhiệm vụ nói/viết tự kiểm theo tiêu chí, không chấm bằng một đáp án duy nhất.",
+    "review_advice": "Sau lượt luyện, chọn một câu sai để giải thích lại. Với nói/viết: đúng chi tiết hoặc trải nghiệm thật, đủ ý, câu rõ, chính tả đúng; sửa ít nhất một điểm trước khi hoàn tất."
+  },
+  "feedback": {
+    "correct": "Em đã chọn phù hợp. Đọc lời giải để nhắc lại căn cứ.",
+    "incorrect": "Đọc lại câu hỏi và chi tiết liên quan; xem lời giải để biết vì sao."
+  },
+  "verification": {
+    "ai_authored": true,
+    "structure_checked": true,
+    "answer_reviewed": true,
+    "source_reviewed": true,
+    "teacher_approved": false
+  },
+  "status": "AI_CHECKED_AWAITING_TEACHER"
+}

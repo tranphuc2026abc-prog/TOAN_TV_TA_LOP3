@@ -1,0 +1,395 @@
+{
+  "id": "TV3_T1_B05",
+  "subject": "tv",
+  "grade": 3,
+  "book": "Kết nối tri thức với cuộc sống",
+  "volume": 1,
+  "lesson_no": 5,
+  "title": "Nhật kí tập bơi",
+  "topic": "Những trải nghiệm thú vị",
+  "source": {
+    "pdf": "03-sgk-tieng-viet-3-tap-mot.pdf",
+    "printed_pages": [
+      26,
+      29
+    ],
+    "pdf_pages": [
+      27,
+      30
+    ],
+    "review": "Đọc trực quan toàn bộ trang in trong khoảng trên (PDF lệch +1 trang), gồm bài đọc và các mục luyện tập; 09/11/2026. Tóm tắt và bài tập mới do AI biên soạn, không đăng toàn văn SGK."
+  },
+  "objectives": [
+    "Nêu đúng nhân vật hoặc hình ảnh, chi tiết và ý nghĩa của Nhật kí tập bơi.",
+    "Dùng từ và đặt câu rõ ý theo nội dung bài.",
+    "Luyện chính tả và nói/viết bằng trải nghiệm riêng."
+  ],
+  "reading": {
+    "summary": "Bạn nhỏ ghi lại quá trình học bơi qua nhiều buổi. Lúc đầu bạn hào hứng vì được mẹ chuẩn bị đồ bơi, nhưng tập thở bị sặc nên sợ và buồn. Mẹ an ủi, cô giáo hướng dẫn, bạn tiếp tục luyện tập. Những buổi sau bạn quen thở, học bơi ếch rồi biết bơi. Bạn vui và tự tin với điều mình đã cố gắng đạt được.",
+    "characters_or_images": [
+      "Bạn nhỏ viết nhật kí: chuyển từ hào hứng sang sợ, rồi tự tin.",
+      "Mẹ: đưa con đi bơi, chuẩn bị đồ và động viên.",
+      "Cô giáo: hướng dẫn tập thở và động tác bơi ếch."
+    ],
+    "message": "Làm việc mới có thể khó lúc đầu; sự kiên trì cùng hỗ trợ của người hướng dẫn giúp ta tiến bộ."
+  },
+  "knowledge": {
+    "introduction": "Làm việc mới có thể khó lúc đầu; sự kiên trì cùng hỗ trợ của người hướng dẫn giúp ta tiến bộ.",
+    "rules": [
+      "Nhật kí ghi thời gian, sự việc và cảm xúc của người viết.",
+      "Theo dõi các buổi học theo thứ tự để hiểu sự thay đổi của bạn nhỏ.",
+      "Phân biệt lúc chưa biết bơi với lúc đã biết bơi, không đảo kết quả.",
+      "Âm ngờ viết ngh trước e, ê, i; thường viết ng trước những nguyên âm còn lại."
+    ],
+    "steps": [
+      "Đọc bài trong SGK theo trang nguồn; đọc phần tóm tắt để nhớ mạch bài.",
+      "Tìm chi tiết trước khi chọn đáp án; xem lời giải sau mỗi câu.",
+      "Thực hành nói/viết theo nhiệm vụ, đối chiếu tiêu chí rồi sửa."
+    ],
+    "common_errors": [
+      "Nghĩ bạn biết bơi ngay buổi đầu: cuối buổi ấy bạn vẫn chưa thở dưới nước được.",
+      "Chỉ nói bạn sợ mà quên sự động viên của mẹ và hướng dẫn của cô.",
+      "Gọi nhật kí là lời kể của mẹ: người viết xưng mình là bạn nhỏ.",
+      "Viết ngi thay vì nghi hoặc nge thay vì nghe."
+    ]
+  },
+  "language_practice": {
+    "vocabulary": [
+      "Phấn khích: rất hào hứng và vui. Ví dụ mới: Em phấn khích khi bắt đầu học một trò mới.",
+      "Động viên: khích lệ để người khác có thêm tự tin; mẹ động viên khi bạn nhỏ sợ."
+    ],
+    "sentences": [
+      "Câu nêu thay đổi: Ban đầu em lo, sau đó em bình tĩnh hơn.",
+      "Nối việc và cảm xúc: Em vui vì đã làm được điều mình luyện tập."
+    ],
+    "spelling": [
+      "Luyện ng/ngh: nghe, nghỉ viết ngh; ngồi, ngắm viết ng.",
+      "Câu luyện mới: Em nghỉ một lát rồi ngồi nghe cô nói. Nhờ người thân đọc, viết và tự kiểm."
+    ],
+    "expression": [
+      "Viết nhật kí 2–3 câu về một buổi luyện tập có thật: thời gian, việc đã tập, cảm xúc.",
+      "Có thể kể tập vẽ hoặc hát; bài học tiếng Việt này không thay thế người hướng dẫn bơi, không tự ra nơi có nước để làm bài."
+    ]
+  },
+  "examples": [
+    {
+      "question": "Điều gì giúp bạn nhỏ vượt qua nỗi sợ?",
+      "steps": [
+        "Bạn nhỏ gặp khó khăn khi tập thở.",
+        "Mẹ khích lệ và bạn tiếp tục làm theo cô hướng dẫn.",
+        "Trả lời mẫu mới: Bạn tiến bộ nhờ được hỗ trợ và không bỏ cuộc."
+      ]
+    },
+    {
+      "question": "Một trang nhật kí ngắn có những gì?",
+      "steps": [
+        "Mẫu mới: Ngày 9 tháng 11. Hôm nay, mình tập vẽ chiếc lá. Lúc đầu nét còn run, nhưng sau vài lần thử mình đã vẽ rõ hơn. Mình rất vui.",
+        "Có thời gian, sự việc và cảm xúc; thay bằng trải nghiệm thật của em."
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "title": "Nhật kí một lần cố gắng",
+      "materials": [
+        "Giấy hoặc vở",
+        "Bút"
+      ],
+      "steps": [
+        "Viết 2–3 câu về buổi tập hát, vẽ hoặc một việc an toàn em đã làm.",
+        "Ghi thời gian và việc tập.",
+        "Nêu khó khăn hoặc sự tiến bộ.",
+        "Đọc lại, thêm cảm xúc và sửa chữ."
+      ],
+      "check": [
+        "Việc có thật.",
+        "Có thời gian, sự việc, cảm xúc.",
+        "Không nhận việc chưa làm là trải nghiệm của mình."
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "question_id": "TV3_T1_B05_Q01",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Ai đưa bạn nhỏ đến buổi tập bơi đầu tiên?",
+      "correct_answer": "Mẹ",
+      "options": [
+        "Mẹ",
+        "Bà cụ Khởi",
+        "Sơn",
+        "Hải"
+      ],
+      "explanation": "Mẹ đưa con đi tập và chuẩn bị đồ bơi.",
+      "evidence": "Trang 26: đoạn mở đầu nhật kí."
+    },
+    {
+      "question_id": "TV3_T1_B05_Q02",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Trước lúc gặp khó khăn, vì sao bạn nhỏ hào hứng?",
+      "correct_answer": "Được chuẩn bị mũ bơi và kính bơi đẹp",
+      "options": [
+        "Được chuẩn bị mũ bơi và kính bơi đẹp",
+        "Đã thắng cuộc thi bơi",
+        "Được nghỉ học cả năm",
+        "Tìm thấy một chiếc diều"
+      ],
+      "explanation": "Đồ bơi được mẹ chuẩn bị khiến bạn vui ngay khi bắt đầu.",
+      "evidence": "Trang 26: đồ dùng và cảm xúc ban đầu."
+    },
+    {
+      "question_id": "TV3_T1_B05_Q03",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Khó khăn đầu tiên của bạn nhỏ là gì?",
+      "correct_answer": "Tập thở dưới nước bị sặc",
+      "options": [
+        "Tập thở dưới nước bị sặc",
+        "Không tìm được lớp học",
+        "Quên cách đi xe đạp",
+        "Không biết tên con còng gió"
+      ],
+      "explanation": "Cô dạy thở nhưng bạn chưa quen nên bị sặc và sợ.",
+      "evidence": "Trang 26: phần học thở."
+    },
+    {
+      "question_id": "TV3_T1_B05_Q04",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Mẹ phản ứng thế nào khi con sợ xuống nước?",
+      "correct_answer": "An ủi và động viên con",
+      "options": [
+        "An ủi và động viên con",
+        "Chê con kém rồi bỏ đi",
+        "Bắt con thi bơi ngay",
+        "Cấm con nói ra nỗi sợ"
+      ],
+      "explanation": "Mẹ giúp con hiểu khó khăn do chưa quen, khuyến khích tiếp tục theo hướng dẫn.",
+      "evidence": "Trang 26: lời động viên của mẹ."
+    },
+    {
+      "question_id": "TV3_T1_B05_Q05",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Kết quả nào đúng với cuối buổi học đầu?",
+      "correct_answer": "Bạn chưa thở dưới nước được và hơi buồn",
+      "options": [
+        "Bạn chưa thở dưới nước được và hơi buồn",
+        "Bạn đã bơi nhanh nhất lớp",
+        "Bạn đã trở thành cô giáo",
+        "Bạn không hề gặp khó khăn"
+      ],
+      "explanation": "Nhật kí ghi rõ cuối buổi đầu bạn chưa làm được nhưng hi vọng lần sau tốt hơn.",
+      "evidence": "Trang 26: kết thúc mục nhật kí đầu."
+    },
+    {
+      "question_id": "TV3_T1_B05_Q06",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Sau khi quen tập thở, bạn được học động tác nào?",
+      "correct_answer": "Bơi ếch",
+      "options": [
+        "Bơi ếch",
+        "Chạy vượt rào",
+        "Chèo thuyền",
+        "Lặn bắt cá"
+      ],
+      "explanation": "Buổi sau cô hướng dẫn động tác bơi ếch; bạn liên tưởng mình với con ếch.",
+      "evidence": "Trang 27: mục nhật kí tiếp theo."
+    },
+    {
+      "question_id": "TV3_T1_B05_Q07",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Sự thay đổi nào thể hiện kết quả của việc kiên trì?",
+      "correct_answer": "Từ sợ bị sặc đến vui vì đã biết bơi",
+      "options": [
+        "Từ sợ bị sặc đến vui vì đã biết bơi",
+        "Từ biết bơi đến quên hết mọi thứ",
+        "Từ đi bơi đến không bao giờ tập nữa",
+        "Từ nghe mẹ đến giận cô"
+      ],
+      "explanation": "Các mục nhật kí cho thấy bạn dần quen, tiến bộ rồi tự tin bơi.",
+      "evidence": "Trang 26–27: diễn biến qua các buổi."
+    },
+    {
+      "question_id": "TV3_T1_B05_Q08",
+      "type": "mcq",
+      "skill": "vocabulary",
+      "question": "Bạn phấn khích nghĩa là bạn đang thế nào?",
+      "correct_answer": "Rất vui và hào hứng",
+      "options": [
+        "Rất vui và hào hứng",
+        "Lạnh nhạt không quan tâm",
+        "Mệt đến ngủ quên",
+        "Bực tức muốn bỏ đi"
+      ],
+      "explanation": "Phấn khích nhấn mạnh sự hào hứng trước điều đang xảy ra."
+    },
+    {
+      "question_id": "TV3_T1_B05_Q09",
+      "type": "mcq",
+      "skill": "vocabulary",
+      "question": "Lời nào có tác dụng động viên bạn đang tập vẽ?",
+      "correct_answer": "Cậu cứ thử từng nét, mình tin cậu sẽ tiến bộ.",
+      "options": [
+        "Cậu cứ thử từng nét, mình tin cậu sẽ tiến bộ.",
+        "Cậu sẽ chẳng bao giờ vẽ được.",
+        "Thôi, đừng thử nữa.",
+        "Mình không muốn nghe cậu nói."
+      ],
+      "explanation": "Lời khích lệ giúp người nghe tự tin và tiếp tục cố gắng."
+    },
+    {
+      "question_id": "TV3_T1_B05_Q10",
+      "type": "mcq",
+      "skill": "sentences",
+      "question": "Câu nào thể hiện rõ cảm xúc thay đổi theo thời gian?",
+      "correct_answer": "Lúc đầu em lo, sau vài lần tập em tự tin hơn.",
+      "options": [
+        "Lúc đầu em lo, sau vài lần tập em tự tin hơn.",
+        "Em có một chiếc mũ.",
+        "Bể bơi ở cạnh trường.",
+        "Bạn em tên là An."
+      ],
+      "explanation": "Cặp lúc đầu và sau cho thấy cảm xúc đã thay đổi."
+    },
+    {
+      "question_id": "TV3_T1_B05_Q11",
+      "type": "mcq",
+      "skill": "sentences",
+      "question": "Câu nào nêu cả cảm xúc và nguyên nhân?",
+      "correct_answer": "Em vui vì đã vẽ xong bức tranh.",
+      "options": [
+        "Em vui vì đã vẽ xong bức tranh.",
+        "Em cầm cây bút.",
+        "Bức tranh đặt trên bàn.",
+        "Bút màu có màu đỏ."
+      ],
+      "explanation": "Câu nói niềm vui và giải thích vì sao vui bằng phần sau vì."
+    },
+    {
+      "question_id": "TV3_T1_B05_Q12",
+      "type": "mcq",
+      "skill": "spelling",
+      "question": "Chọn chữ hoàn chỉnh từ ...ỉ ngơi.",
+      "correct_answer": "ngh",
+      "options": [
+        "ngh",
+        "ng",
+        "g",
+        "gh"
+      ],
+      "explanation": "Nghỉ có i đứng sau âm đầu nên viết ngh."
+    },
+    {
+      "question_id": "TV3_T1_B05_Q13",
+      "type": "mcq",
+      "skill": "spelling",
+      "question": "Dòng nào viết đúng cả hai tiếng?",
+      "correct_answer": "ngồi nghe",
+      "options": [
+        "ngồi nghe",
+        "nghồi nghe",
+        "ngồi nge",
+        "nghồi nge"
+      ],
+      "explanation": "Ngồi viết ng trước ô; nghe viết ngh trước e."
+    },
+    {
+      "question_id": "TV3_T1_B05_Q14",
+      "type": "mcq",
+      "skill": "expression",
+      "question": "Mục nào cần có khi em bắt đầu một trang nhật kí?",
+      "correct_answer": "Thời gian và sự việc muốn ghi lại",
+      "options": [
+        "Thời gian và sự việc muốn ghi lại",
+        "Tên của tất cả người trong trường",
+        "Một công thức nấu ăn không liên quan",
+        "Danh sách đồ chơi của bạn khác"
+      ],
+      "explanation": "Nhật kí gắn sự việc với thời gian; có thể thêm cảm xúc của người viết."
+    },
+    {
+      "question_id": "TV3_T1_B05_Q15",
+      "type": "mcq",
+      "skill": "expression",
+      "question": "Em chưa từng học bơi nhưng cần kể một buổi luyện tập. Em nên làm gì?",
+      "correct_answer": "Kể buổi tập hát hoặc vẽ mà mình từng tham gia",
+      "options": [
+        "Kể buổi tập hát hoặc vẽ mà mình từng tham gia",
+        "Bịa rằng mình đã bơi xa một mình",
+        "Chép chuyện bạn nhỏ và nhận là mình",
+        "Không cần kể việc gì cụ thể"
+      ],
+      "explanation": "Nhiệm vụ cho phép kể trải nghiệm luyện tập khác và cần trung thực."
+    },
+    {
+      "question_id": "TV3_T1_B05_Q16",
+      "type": "mcq",
+      "skill": "expression",
+      "question": "Câu nào kết trang nhật kí bằng cảm xúc phù hợp?",
+      "correct_answer": "Mình thấy tự tin hơn và muốn luyện tiếp.",
+      "options": [
+        "Mình thấy tự tin hơn và muốn luyện tiếp.",
+        "Bút nằm ở trên bàn.",
+        "Có ba chiếc ghế.",
+        "Trên giấy có chữ nhật kí."
+      ],
+      "explanation": "Câu này cho biết người viết cảm thấy thế nào và mong muốn gì sau buổi tập."
+    }
+  ],
+  "games": [
+    {
+      "id": "TV3_T1_B05_GAME",
+      "title": "Nhật kí tiến bộ",
+      "mode": "treasure",
+      "objective": "Tìm kho báu bằng cách hiểu chi tiết và dùng tiếng Việt đúng theo bài.",
+      "rules": [
+        "Trả lời 10 câu được chọn từ chính bài này.",
+        "Mỗi đáp án đúng được 10 điểm; đọc phản hồi để hiểu và sửa câu sai.",
+        "Chơi lại để gặp một bộ câu khác."
+      ],
+      "question_ids": [
+        "TV3_T1_B05_Q01",
+        "TV3_T1_B05_Q02",
+        "TV3_T1_B05_Q03",
+        "TV3_T1_B05_Q04",
+        "TV3_T1_B05_Q05",
+        "TV3_T1_B05_Q06",
+        "TV3_T1_B05_Q07",
+        "TV3_T1_B05_Q08",
+        "TV3_T1_B05_Q09",
+        "TV3_T1_B05_Q10",
+        "TV3_T1_B05_Q11",
+        "TV3_T1_B05_Q12",
+        "TV3_T1_B05_Q13",
+        "TV3_T1_B05_Q14",
+        "TV3_T1_B05_Q15",
+        "TV3_T1_B05_Q16"
+      ],
+      "answer_source": "practice.correct_answer",
+      "feedback_source": "practice.explanation",
+      "max_score": 100
+    }
+  ],
+  "assessment": {
+    "session_size": 10,
+    "scoring": "Mỗi câu đúng được tính điểm theo hệ thống; 8–10 câu đúng: nắm tốt, 5–7: đọc lại phần còn nhầm, dưới 5: đọc bài cùng người thân rồi thử lại. Nhiệm vụ nói/viết tự kiểm theo tiêu chí, không chấm bằng một đáp án duy nhất.",
+    "review_advice": "Sau lượt luyện, chọn một câu sai để giải thích lại. Với nói/viết: đúng chi tiết hoặc trải nghiệm thật, đủ ý, câu rõ, chính tả đúng; sửa ít nhất một điểm trước khi hoàn tất."
+  },
+  "feedback": {
+    "correct": "Em đã chọn phù hợp. Đọc lời giải để nhắc lại căn cứ.",
+    "incorrect": "Đọc lại câu hỏi và chi tiết liên quan; xem lời giải để biết vì sao."
+  },
+  "verification": {
+    "ai_authored": true,
+    "structure_checked": true,
+    "answer_reviewed": true,
+    "source_reviewed": true,
+    "teacher_approved": false
+  },
+  "status": "AI_CHECKED_AWAITING_TEACHER"
+}

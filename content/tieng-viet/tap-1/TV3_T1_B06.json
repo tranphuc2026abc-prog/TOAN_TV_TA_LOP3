@@ -1,0 +1,395 @@
+{
+  "id": "TV3_T1_B06",
+  "subject": "tv",
+  "grade": 3,
+  "book": "Kết nối tri thức với cuộc sống",
+  "volume": 1,
+  "lesson_no": 6,
+  "title": "Tập nấu ăn",
+  "topic": "Những trải nghiệm thú vị",
+  "source": {
+    "pdf": "03-sgk-tieng-viet-3-tap-mot.pdf",
+    "printed_pages": [
+      30,
+      33
+    ],
+    "pdf_pages": [
+      31,
+      34
+    ],
+    "review": "Đọc trực quan toàn bộ trang in trong khoảng trên (PDF lệch +1 trang), gồm bài đọc và các mục luyện tập; 09/11/2026. Tóm tắt và bài tập mới do AI biên soạn, không đăng toàn văn SGK."
+  },
+  "objectives": [
+    "Nêu đúng nhân vật hoặc hình ảnh, chi tiết và ý nghĩa của Tập nấu ăn.",
+    "Dùng từ và đặt câu rõ ý theo nội dung bài.",
+    "Luyện chính tả và nói/viết bằng trải nghiệm riêng."
+  ],
+  "reading": {
+    "summary": "Bạn nhỏ vào bếp cùng mẹ và chia sẻ cách làm món trứng đúc thịt. Văn bản có phần nguyên liệu và các bước theo thứ tự: sơ chế thịt, trộn với trứng cùng gia vị, làm nóng dầu, rán hỗn hợp và bày món ăn. Cách trình bày giúp người đọc tìm thông tin và hiểu thứ tự công việc. Khi thực hành, trẻ cần người lớn trực tiếp hướng dẫn các thao tác với dao, bếp và dầu nóng.",
+    "characters_or_images": [
+      "Bạn nhỏ: học làm món ăn cùng mẹ và chia sẻ cách làm.",
+      "Mẹ: cùng con vào bếp.",
+      "Thông tin chính: nguyên liệu, việc chuẩn bị, các bước nấu và bày món."
+    ],
+    "message": "Biết đọc hướng dẫn theo trình tự giúp ta hiểu cách làm việc và cùng gia đình thực hiện những việc phù hợp."
+  },
+  "knowledge": {
+    "introduction": "Biết đọc hướng dẫn theo trình tự giúp ta hiểu cách làm việc và cùng gia đình thực hiện những việc phù hợp.",
+    "rules": [
+      "Văn bản hướng dẫn có tên việc, thứ cần chuẩn bị và các bước; đọc đủ trước khi kể lại.",
+      "Phân biệt nguyên liệu làm món ăn với dụng cụ nhà bếp.",
+      "Dùng từ nối trước tiên, sau đó, cuối cùng để người nghe theo dõi thứ tự.",
+      "Đọc hiểu việc dùng dao, bếp khác với tự làm; chỉ thực hành cùng người lớn, trẻ không tự thao tác đồ sắc hoặc dầu nóng."
+    ],
+    "steps": [
+      "Đọc bài trong SGK theo trang nguồn; đọc phần tóm tắt để nhớ mạch bài.",
+      "Tìm chi tiết trước khi chọn đáp án; xem lời giải sau mỗi câu.",
+      "Thực hành nói/viết theo nhiệm vụ, đối chiếu tiêu chí rồi sửa."
+    ],
+    "common_errors": [
+      "Xếp chảo vào nhóm nguyên liệu: chảo là dụng cụ.",
+      "Đảo thứ tự bày món lên trước khi nấu chín.",
+      "Nhầm từ chỉ di chuyển như đi với từ chỉ nấu như luộc.",
+      "Chép toàn bộ hướng dẫn thay vì kể lại bằng câu của mình."
+    ]
+  },
+  "language_practice": {
+    "vocabulary": [
+      "Nguyên liệu là thứ dùng để làm món ăn, như trứng và thịt; dụng cụ là đồ dùng, như bát và chảo.",
+      "Nhóm nấu ăn: hấp, kho, luộc. Nhóm di chuyển: bước, chạy, đi."
+    ],
+    "sentences": [
+      "Câu nêu hoạt động cần động từ phù hợp: Mẹ luộc rau. Bé nhặt rau giúp mẹ.",
+      "Dùng câu theo trình tự: Trước tiên, em rửa tay. Sau đó, em nhặt rau cùng mẹ."
+    ],
+    "spelling": [
+      "Ôn chữ hoa B, C qua tên riêng mới: Bình, Cúc. Viết hoa chữ đầu tên người.",
+      "Câu luyện mới: Bình và Cúc giúp mẹ bày bát. Kiểm tra chữ B, C và dấu chấm."
+    ],
+    "expression": [
+      "Quan sát người lớn làm bếp rồi kể lại 3 bước bằng lời của em; không tự sử dụng dao hay bếp.",
+      "Viết 3–4 câu về phần việc vừa sức em giúp gia đình và cảm xúc sau khi làm."
+    ]
+  },
+  "examples": [
+    {
+      "question": "Tìm thông tin trong một hướng dẫn.",
+      "steps": [
+        "Muốn biết cần chuẩn bị gì, nhìn phần nguyên liệu.",
+        "Muốn biết làm việc gì trước, đọc các bước theo thứ tự.",
+        "Không suy ra bước đầu chỉ từ hình món ăn đã hoàn thành."
+      ]
+    },
+    {
+      "question": "Kể phần việc giúp mẹ bằng câu mới.",
+      "steps": [
+        "Mẫu mới: Trước tiên, em rửa tay sạch. Sau đó, em nhặt bỏ lá rau héo theo lời mẹ. Cuối cùng, em đem rau đã nhặt cho mẹ rửa. Em vui vì đã giúp được mẹ.",
+        "Đoạn nêu việc vừa sức; những thao tác nguy hiểm do người lớn làm."
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "title": "Sơ đồ việc giúp nhà",
+      "materials": [
+        "Giấy hoặc vở",
+        "Bút"
+      ],
+      "steps": [
+        "Viết 3 câu hướng dẫn một việc an toàn như bày bát nhựa trên bàn.",
+        "Nêu đồ cần chuẩn bị.",
+        "Viết các việc theo thứ tự.",
+        "Đọc cho người thân nghe để kiểm tra có bước bị thiếu không."
+      ],
+      "check": [
+        "Có đồ cần dùng và ít nhất ba bước.",
+        "Thứ tự hợp lí.",
+        "Không tự thao tác dao, lửa, điện hoặc dầu nóng."
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "question_id": "TV3_T1_B06_Q01",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Món ăn chính được giới thiệu trong bài là món nào?",
+      "correct_answer": "Trứng đúc thịt",
+      "options": [
+        "Trứng đúc thịt",
+        "Bánh chưng",
+        "Canh bí đỏ",
+        "Cá hấp"
+      ],
+      "explanation": "Tên món và các bước đều tập trung vào trứng đúc thịt.",
+      "evidence": "Trang 30–31: tên món trong lời giới thiệu và hướng dẫn."
+    },
+    {
+      "question_id": "TV3_T1_B06_Q02",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Bạn nhỏ học làm món ăn cùng ai?",
+      "correct_answer": "Mẹ",
+      "options": [
+        "Mẹ",
+        "Hải",
+        "Sơn",
+        "Bà cụ Khởi"
+      ],
+      "explanation": "Bạn kể việc vào bếp cùng mẹ.",
+      "evidence": "Trang 30: đoạn giới thiệu."
+    },
+    {
+      "question_id": "TV3_T1_B06_Q03",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Nếu muốn tìm các thứ cần chuẩn bị để làm món, em đọc phần nào?",
+      "correct_answer": "Nguyên liệu",
+      "options": [
+        "Nguyên liệu",
+        "Tên tác giả",
+        "Câu hỏi cuối bài",
+        "Lời chào của bạn đọc"
+      ],
+      "explanation": "Phần nguyên liệu liệt kê những thứ dùng cho món ăn.",
+      "evidence": "Trang 31: khung nguyên liệu trước các bước."
+    },
+    {
+      "question_id": "TV3_T1_B06_Q04",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Trước khi trộn với trứng, thịt được xử lí ra sao trong hướng dẫn?",
+      "correct_answer": "Rửa sạch rồi làm nhỏ",
+      "options": [
+        "Rửa sạch rồi làm nhỏ",
+        "Bày nguyên miếng ra đĩa ngay",
+        "Cho vào cặp sách",
+        "Để cạnh vở rồi đi học"
+      ],
+      "explanation": "Thịt được sơ chế và băm hoặc xay trước khi trộn.",
+      "evidence": "Trang 31: bước chuẩn bị thịt."
+    },
+    {
+      "question_id": "TV3_T1_B06_Q05",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Trong hướng dẫn, việc đánh đều diễn ra khi nào?",
+      "correct_answer": "Sau khi cho trứng, thịt và gia vị vào bát",
+      "options": [
+        "Sau khi cho trứng, thịt và gia vị vào bát",
+        "Trước khi có nguyên liệu",
+        "Sau khi bày món ăn lên bàn",
+        "Khi chưa có bát hay trứng"
+      ],
+      "explanation": "Bước trộn làm các thành phần quyện vào nhau trước khi rán.",
+      "evidence": "Trang 31: bước trộn hỗn hợp."
+    },
+    {
+      "question_id": "TV3_T1_B06_Q06",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Việc nào được làm sau khi món đã rán xong?",
+      "correct_answer": "Bày ra đĩa",
+      "options": [
+        "Bày ra đĩa",
+        "Bắt đầu tìm tên món",
+        "Mới chuẩn bị thịt sống để trộn",
+        "Đổi tên nguyên liệu thành dụng cụ"
+      ],
+      "explanation": "Bày món là việc sau khi hoàn tất nấu theo hướng dẫn.",
+      "evidence": "Trang 31: bước cuối."
+    },
+    {
+      "question_id": "TV3_T1_B06_Q07",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Đặc điểm nào làm văn bản dễ theo dõi?",
+      "correct_answer": "Có các phần và bước được đánh số theo thứ tự",
+      "options": [
+        "Có các phần và bước được đánh số theo thứ tự",
+        "Không có bất cứ tiêu đề nào",
+        "Chỉ kể cảm xúc, không nêu việc",
+        "Mọi bước đều đặt lộn xộn"
+      ],
+      "explanation": "Tiêu đề, phần nguyên liệu và các bước giúp người đọc tìm thông tin.",
+      "evidence": "Trang 31: cấu trúc hướng dẫn."
+    },
+    {
+      "question_id": "TV3_T1_B06_Q08",
+      "type": "mcq",
+      "skill": "vocabulary",
+      "question": "Đâu là dụng cụ, không phải nguyên liệu của món?",
+      "correct_answer": "Chảo",
+      "options": [
+        "Chảo",
+        "Trứng",
+        "Thịt",
+        "Hành"
+      ],
+      "explanation": "Chảo dùng để nấu, không trở thành thành phần của món."
+    },
+    {
+      "question_id": "TV3_T1_B06_Q09",
+      "type": "mcq",
+      "skill": "vocabulary",
+      "question": "Dòng nào chỉ gồm từ chỉ hoạt động nấu ăn?",
+      "correct_answer": "hấp, kho, luộc",
+      "options": [
+        "hấp, kho, luộc",
+        "đi, chạy, bước",
+        "lên, xuống, vào",
+        "ngồi, đứng, về"
+      ],
+      "explanation": "Hấp, kho, luộc đều là cách làm chín thức ăn; các nhóm khác nói di chuyển hoặc tư thế."
+    },
+    {
+      "question_id": "TV3_T1_B06_Q10",
+      "type": "mcq",
+      "skill": "sentences",
+      "question": "Điền từ hợp nghĩa: Mẹ ... rau trong nồi nước.",
+      "correct_answer": "luộc",
+      "options": [
+        "luộc",
+        "bơi",
+        "vẫy",
+        "bay"
+      ],
+      "explanation": "Luộc là nấu trong nước; các từ khác không hợp việc nấu rau."
+    },
+    {
+      "question_id": "TV3_T1_B06_Q11",
+      "type": "mcq",
+      "skill": "sentences",
+      "question": "Câu nào nêu việc làm cụ thể của bé trong bếp?",
+      "correct_answer": "Bé nhặt rau giúp mẹ.",
+      "options": [
+        "Bé nhặt rau giúp mẹ.",
+        "Bé rất.",
+        "Trong bếp của.",
+        "Rau và nhưng."
+      ],
+      "explanation": "Câu đúng nói rõ bé làm gì; các câu khác chưa đủ nghĩa."
+    },
+    {
+      "question_id": "TV3_T1_B06_Q12",
+      "type": "mcq",
+      "skill": "spelling",
+      "question": "Cách viết nào đúng với tên hai bạn Bình và Cúc?",
+      "correct_answer": "Bình, Cúc",
+      "options": [
+        "Bình, Cúc",
+        "bình, cúc",
+        "Bình, cúc",
+        "bình, Cúc"
+      ],
+      "explanation": "Tên người viết hoa chữ đầu, đúng với nội dung ôn B và C."
+    },
+    {
+      "question_id": "TV3_T1_B06_Q13",
+      "type": "mcq",
+      "skill": "spelling",
+      "question": "Câu nào được viết đúng đầu câu và dấu kết câu?",
+      "correct_answer": "Cúc bày bát lên bàn.",
+      "options": [
+        "Cúc bày bát lên bàn.",
+        "cúc bày bát lên bàn.",
+        "Cúc bày bát lên bàn",
+        "cúc bày bát lên bàn"
+      ],
+      "explanation": "Câu kể có chữ đầu viết hoa và kết thúc bằng dấu chấm."
+    },
+    {
+      "question_id": "TV3_T1_B06_Q14",
+      "type": "mcq",
+      "skill": "expression",
+      "question": "Muốn hướng dẫn bạn bày bát nhựa, em nên trình bày thế nào?",
+      "correct_answer": "Nêu thứ cần dùng rồi kể các bước theo thứ tự",
+      "options": [
+        "Nêu thứ cần dùng rồi kể các bước theo thứ tự",
+        "Nói bước cuối trước nhưng không giải thích",
+        "Chỉ nói việc ấy dễ lắm",
+        "Liệt kê tên món ăn không liên quan"
+      ],
+      "explanation": "Người nghe cần biết chuẩn bị gì và làm việc nào trước, sau."
+    },
+    {
+      "question_id": "TV3_T1_B06_Q15",
+      "type": "mcq",
+      "skill": "expression",
+      "question": "Em muốn thực hành sau bài học nhưng việc cần dùng dầu nóng. Em nên chọn cách nào?",
+      "correct_answer": "Nhờ người lớn hướng dẫn, nhận phần việc an toàn vừa sức",
+      "options": [
+        "Nhờ người lớn hướng dẫn, nhận phần việc an toàn vừa sức",
+        "Tự bật bếp khi không ai ở nhà",
+        "Cầm chảo nóng để thử",
+        "Đổ nước vào dầu nóng cho nhanh"
+      ],
+      "explanation": "Trẻ cần được hướng dẫn và chỉ làm phần việc phù hợp, tránh dao, bếp và dầu nóng."
+    },
+    {
+      "question_id": "TV3_T1_B06_Q16",
+      "type": "mcq",
+      "skill": "expression",
+      "question": "Câu nào kết đoạn kể giúp mẹ bằng cảm xúc có lí do?",
+      "correct_answer": "Em vui vì đã giúp mẹ chuẩn bị bữa cơm.",
+      "options": [
+        "Em vui vì đã giúp mẹ chuẩn bị bữa cơm.",
+        "Có một cái bát màu xanh.",
+        "Chảo đặt trong bếp.",
+        "Bếp có cửa sổ."
+      ],
+      "explanation": "Câu này nói cảm xúc gắn với việc vừa làm; các câu còn lại chỉ tả đồ vật."
+    }
+  ],
+  "games": [
+    {
+      "id": "TV3_T1_B06_GAME",
+      "title": "Bếp nhỏ vui vẻ",
+      "mode": "treasure",
+      "objective": "Tìm kho báu bằng cách hiểu chi tiết và dùng tiếng Việt đúng theo bài.",
+      "rules": [
+        "Trả lời 10 câu được chọn từ chính bài này.",
+        "Mỗi đáp án đúng được 10 điểm; đọc phản hồi để hiểu và sửa câu sai.",
+        "Chơi lại để gặp một bộ câu khác."
+      ],
+      "question_ids": [
+        "TV3_T1_B06_Q01",
+        "TV3_T1_B06_Q02",
+        "TV3_T1_B06_Q03",
+        "TV3_T1_B06_Q04",
+        "TV3_T1_B06_Q05",
+        "TV3_T1_B06_Q06",
+        "TV3_T1_B06_Q07",
+        "TV3_T1_B06_Q08",
+        "TV3_T1_B06_Q09",
+        "TV3_T1_B06_Q10",
+        "TV3_T1_B06_Q11",
+        "TV3_T1_B06_Q12",
+        "TV3_T1_B06_Q13",
+        "TV3_T1_B06_Q14",
+        "TV3_T1_B06_Q15",
+        "TV3_T1_B06_Q16"
+      ],
+      "answer_source": "practice.correct_answer",
+      "feedback_source": "practice.explanation",
+      "max_score": 100
+    }
+  ],
+  "assessment": {
+    "session_size": 10,
+    "scoring": "Mỗi câu đúng được tính điểm theo hệ thống; 8–10 câu đúng: nắm tốt, 5–7: đọc lại phần còn nhầm, dưới 5: đọc bài cùng người thân rồi thử lại. Nhiệm vụ nói/viết tự kiểm theo tiêu chí, không chấm bằng một đáp án duy nhất.",
+    "review_advice": "Sau lượt luyện, chọn một câu sai để giải thích lại. Với nói/viết: đúng chi tiết hoặc trải nghiệm thật, đủ ý, câu rõ, chính tả đúng; sửa ít nhất một điểm trước khi hoàn tất."
+  },
+  "feedback": {
+    "correct": "Em đã chọn phù hợp. Đọc lời giải để nhắc lại căn cứ.",
+    "incorrect": "Đọc lại câu hỏi và chi tiết liên quan; xem lời giải để biết vì sao."
+  },
+  "verification": {
+    "ai_authored": true,
+    "structure_checked": true,
+    "answer_reviewed": true,
+    "source_reviewed": true,
+    "teacher_approved": false
+  },
+  "status": "AI_CHECKED_AWAITING_TEACHER"
+}

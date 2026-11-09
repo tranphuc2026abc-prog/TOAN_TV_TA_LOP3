@@ -1,3 +1,15 @@
+# Batch 23 — Tiếng Việt 5–8 — 09/11/2026
+
+Đã biên soạn và tích hợp Nhật kí tập bơi, Tập nấu ăn, Mùa hè lấp lánh, Tạm biệt mùa hè: 4 JSON + 4 Markdown, 64 câu mới, 4 trò chơi kho báu, 10 câu/lượt. Đọc trực quan trang in 26–42 (PDF 27–43) từ PDF Tiếng Việt tập 1 thực sự truy cập được trong upload; trang 42 là trang chuyển chủ điểm, phần bài 8 kết ở trang 41. Không đăng toàn văn/ảnh quét. Đọc hiểu bám mạch tập bơi và sự động viên, cấu trúc hướng dẫn món trứng đúc thịt, hình ảnh nắng hè, các trải nghiệm thật của Diệu. Có từ ngữ, câu, chính tả, nói/viết, ví dụ và tiêu chí tự kiểm; phân biệt suy nghĩ về chuyện bạn bè với việc Diệu thực sự làm. Việc bếp và bơi chỉ luyện ngôn ngữ, có hướng dẫn chọn việc vừa sức, không yêu cầu trẻ tự dùng dao/bếp hoặc ra nơi có nước.
+
+npm test đạt 89 kho/3.368 câu; validate_site.py và validate_content.py, toàn bộ hồi quy cũ, hồi quy batch23 (128 câu TV1–8 không trùng), DOM đủ 89 kho, trò chơi theo bài, phản hồi, tiến độ wl3 và fallback; fixture DOM Tiếng Việt tiếp tục đạt. Các kiểm tra bảng/hình đặc thù Toán được giới hạn đúng môn, không bỏ kiểm tra của bài Toán nào. Không có Chromium, chưa kiểm thử bố cục bằng trình duyệt thật.
+
+Batch22 commit 424886bfb77be6b15f6330d28bf116466e6a3859 đã xác minh head, cả hai workflow Actions/Pages completed/success; Pages INDEX trả HTTP 200 có 85 kho, TV bài 4 trả HTTP 200 với 16 câu. Batch23 cần kiểm tra Actions/Pages sau commit, không lấy kết quả batch22 thay cho batch23.
+
+Tổng AI đã biên soạn/kiểm tra: 89/168 mục, 3.368 câu, 89 trò chơi. Toán 81/81, Tiếng Việt 8/62, Tiếng Anh 0/25. Giáo viên duyệt: 4 Toán đầu; 85 bài chờ giáo viên AI_CHECKED_AWAITING_TEACHER. Còn 79 bản nháp (54 TV, 25 TA). Tiếp theo đọc nguồn TV9–12 và làm batch24; không làm lại TV1–8, không tự duyệt, chưa hoàn thành toàn dự án.
+
+## Lịch sử
+
 # Batch 22 — Tiếng Việt 1–4 — 09/11/2026
 
 Đã tích hợp Ngày gặp lại, Về thăm quê, Cánh rừng trong nắng, Lần đầu ra biển: 4 JSON + 4 Markdown, 64 câu mới (16/bài), 4 trò kho báu chạy trong renderer hiện có, lượt luyện 10 câu; mục tiêu, tóm tắt, nhân vật/chi tiết/thông điệp, từ-câu-chính tả-diễn đạt, ví dụ giải thích, hoạt động nói/viết và tiêu chí tự kiểm. Đã đọc trực quan các trang in 10–25 của PDF Tiếng Việt tập 1 trong upload (trang PDF 11–26); không đăng toàn văn hoặc ảnh quét sách. Câu hỏi và phương án mới do AI biên soạn.
