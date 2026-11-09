@@ -1,5 +1,6 @@
 """Kiểm tra toàn bộ học liệu, tham chiếu hình/trò chơi và đồng bộ Markdown."""
 import json, re, ast, operator
+from content_policy import validate_subject
 from pathlib import Path
 ROOT=Path(__file__).resolve().parents[1]
 index=json.loads((ROOT/'content/system/INDEX.json').read_text())
@@ -15,7 +16,8 @@ assert len({e['id'] for e in index['lessons']})==168
 for entry in index['lessons']:
     if not entry['path']: continue
     obj=json.loads((ROOT/entry['path']).read_text());ready+=1
-    assert obj['id']==entry['id'] and len(obj['practice'])==entry['question_count']==40
+    assert obj['id']==entry['id'] and len(obj['practice'])==entry['question_count']
+    validate_subject(obj)
     assert len(obj['games'])==entry['game_count']
     for figure in obj.get('figures',[]): assert (ROOT/figure['path']).is_file()
     for activity in obj.get('activities',[]):
@@ -31,15 +33,15 @@ for entry in index['lessons']:
             rhs=match[2].replace('×','*').replace(':','/')
             assert calculate(ast.parse(expr,mode='eval').body)==calculate(ast.parse(rhs,mode='eval').body), (q['question_id'],match[0])
             equations+=1
-        counts[q['difficulty']]=counts.get(q['difficulty'],0)+1
+        if obj['subject']=='toan': counts[q['difficulty']]=counts.get(q['difficulty'],0)+1
         if q['type']=='mcq':
             assert len(q['options'])==len(set(q['options']))==4 and q['correct_answer'] in q['options']
         if q.get('figure'): assert (ROOT/q['figure']['path']).exists()
-    assert counts==dict(nhan_biet=10,thong_hieu=10,van_dung=20)
+    if obj['subject']=='toan': assert counts==dict(nhan_biet=10,thong_hieu=10,van_dung=20)
     for game in obj['games']:
         assert set(game['question_ids'])=={q['question_id'] for q in obj['practice']}
         assert game['mode'] in ['match','speed','treasure','tf'] and game['rules']
     assert (entry['status']=='DA_HOAN_THIEN')==obj['verification']['teacher_approved']
     total+=len(obj['practice'])
-print(f'PASS: {ready} bài, {total} câu; phân mức 10/10/20; ID, đáp án, lựa chọn, lời giải, Markdown, hình và trạng thái đồng bộ.')
+print(f'PASS: {ready} bài, {total} câu; yêu cầu theo môn; ID, đáp án, lựa chọn, lời giải, Markdown, hình và trạng thái đồng bộ.')
 print(f'Đã tính lại {equations} đẳng thức số trong lời giải; không thay thế thẩm định ngữ nghĩa của giáo viên.')

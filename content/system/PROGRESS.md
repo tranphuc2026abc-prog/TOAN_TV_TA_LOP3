@@ -1,3 +1,11 @@
+# Chuẩn bị validator theo môn — 09/11/2026
+
+Đã tách content_policy.py và cập nhật validate_content.py: giữ yêu cầu Toán 40 câu/10-10-20, lượt 10 câu 3/3/4; Tiếng Việt kiểm tra tóm tắt/nhân vật hoặc hình ảnh/thông điệp, luyện từ-câu-chính tả-diễn đạt và câu đọc hiểu có căn cứ. Tiếng Anh có nhánh yêu cầu từ vựng nghĩa Việt/ví dụ, mẫu câu, phát âm và ba kỹ năng. validate_site.py/validate_content.py đạt trên toàn bộ 81 bài Toán. Chưa có bài ngôn ngữ mới; nhánh môn mới còn cần test dữ liệu hợp lệ/không hợp lệ và renderer tương ứng trước tích hợp.
+
+Tiếp điều chỉnh renderer/loader và DOM cho Tiếng Việt, đọc nguồn Batch TV1–4 rồi biên soạn. Tổng vẫn 81/168, giáo viên duyệt 4, 77 chờ duyệt; còn 87 mục nháp. Không tăng INDEX cho việc chuẩn bị mã.
+
+## Lịch sử
+
 # Toán 81 tích hợp — 09/11/2026
 
 Đã hoàn thiện bài cuối Toán 81: JSON/Markdown, 40 câu 10/10/20, kiến thức, hướng dẫn, lỗi thường gặp, ba ví dụ, hoạt động, một trò chơi và 5 SVG trực tiếp trong câu. Đã xem trực quan cả 5 SVG. test_batch21.py kiểm tra 40 đáp án tính độc lập đạt; npm test gồm validator, toàn bộ hồi quy cũ và DOM đạt trên 81 bài/3240 câu. Chưa kiểm thử bố cục Chromium thật.
