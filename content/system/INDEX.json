@@ -974,12 +974,12 @@
       "subject": "toan",
       "volume": "Tập 2",
       "title": "Ôn tập chung",
-      "path": null,
-      "markdown": null,
-      "question_count": null,
-      "game_count": null,
-      "status": "BAN_NHAP",
-      "note": "Có bài mẫu hoặc bản nháp tự động; chưa kiểm định từng bài."
+      "path": "content/toan/tap-2/TOAN3_T2_B81.json",
+      "markdown": "content/toan/tap-2/TOAN3_T2_B81.md",
+      "question_count": 40,
+      "game_count": 1,
+      "status": "CAN_RA_SOAT",
+      "note": "AI đã rà soát nguồn, đáp án; chờ giáo viên thẩm định."
     },
     {
       "id": "TV3_T1_B01",

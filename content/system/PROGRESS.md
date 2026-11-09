@@ -1,3 +1,13 @@
+# Toán 81 tích hợp — 09/11/2026
+
+Đã hoàn thiện bài cuối Toán 81: JSON/Markdown, 40 câu 10/10/20, kiến thức, hướng dẫn, lỗi thường gặp, ba ví dụ, hoạt động, một trò chơi và 5 SVG trực tiếp trong câu. Đã xem trực quan cả 5 SVG. test_batch21.py kiểm tra 40 đáp án tính độc lập đạt; npm test gồm validator, toàn bộ hồi quy cũ và DOM đạt trên 81 bài/3240 câu. Chưa kiểm thử bố cục Chromium thật.
+
+AI biên soạn/kiểm tra/tích hợp: 81/168 mục, 3240 câu, 81 trò chơi. Riêng Toán đủ 81/81 học liệu; giáo viên duyệt 4, 77 chờ duyệt. Mọi bài mới AI_CHECKED_AWAITING_TEACHER. Còn 87 mục: Tiếng Việt 62, Tiếng Anh 25; chưa phải hoàn tất dự án. Cần xác minh Actions/Pages sau commit tích hợp.
+
+Checkpoint tiếp: điều chỉnh loader/renderer/validator và DOM cho cấu trúc Tiếng Việt, giữ hồi quy toàn bộ Toán và dữ liệu wl3. Đọc nguồn rồi biên soạn Batch Tiếng Việt 1–4; không ép 40 câu hoặc 3/3/4 vào môn mới.
+
+## Lịch sử
+
 # Đóng gói thử Toán 81 — 09/11/2026
 
 Đã thêm build_batch21.py, ánh xạ hình và 5 SVG cho các câu hình vuông/chữ nhật. Tạo thử JSON/Markdown của Bài 81 tại môi trường làm việc; validate_site.py/validate_content.py đạt với 81 bài/3240 câu. SVG XML hợp lệ nhưng chưa xem trực quan toàn bộ; chưa bổ sung test đáp án độc lập Bài 81. Commit này chỉ lưu builder và hình, chưa tăng INDEX công khai hoặc đưa JSON/Markdown mới vào main.

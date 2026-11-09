@@ -1,0 +1,867 @@
+{
+  "id": "TOAN3_T2_B81",
+  "subject": "toan",
+  "grade": 3,
+  "book": "Kết nối tri thức với cuộc sống",
+  "volume": 2,
+  "lesson_no": 81,
+  "title": "Ôn tập chung",
+  "topic": "Ôn tập chung cuối năm",
+  "source": {
+    "pdf": "03-sgk-toan-3-tap-hai.pdf",
+    "printed_pages": [
+      125,
+      126
+    ],
+    "pdf_pages": [
+      126,
+      127
+    ],
+    "review": "Đã đọc trực quan toàn bộ trang nguồn cho bài này; nội dung và bài tập mới do AI biên soạn."
+  },
+  "objectives": [
+    "Đọc, viết, so sánh số đến 100 000 theo từng hàng.",
+    "Thực hiện bốn phép tính và biểu thức có ngoặc đúng thứ tự.",
+    "Giải bài toán nhiều bước về số lượng, tiền, khối lượng, dung tích và thời gian.",
+    "Liên hệ chu vi với cạnh để tìm diện tích, kiểm tra đơn vị trong câu trả lời."
+  ],
+  "knowledge": {
+    "introduction": "Bài ôn tập chung giúp em chọn cách giải phù hợp thay vì chỉ nhìn các số rồi tính ngay. Hãy xác định điều đã biết, điều cần tìm và đơn vị. Một tình huống có thể cần tìm kết quả trung gian trước khi trả lời câu hỏi cuối cùng.",
+    "rules": [
+      "Mỗi chữ số có giá trị theo hàng; chữ số 0 giữ đúng chỗ những hàng không có đơn vị nào.",
+      "Cộng, trừ đặt thẳng hàng; nhân có nhớ và chia phải giữ các chữ số 0 cần thiết trong thương.",
+      "Trong ngoặc tính trước; nhân chia trước cộng trừ; cùng mức tính từ trái sang phải.",
+      "Gấp một số lần dùng nhân; giảm một số lần dùng chia. Tìm tổng hai ngày phải cộng cả ngày đầu và ngày sau.",
+      "Đổi về cùng đơn vị trước khi tính: 1 kg bằng 1000 g, 1 lít bằng 1000 ml, 1 giờ bằng 60 phút.",
+      "Hình vuông: cạnh bằng chu vi chia 4, diện tích bằng cạnh nhân cạnh. Hình chữ nhật: chu vi bằng tổng dài và rộng nhân 2.",
+      "Phải chứa hết người hoặc đồ vật mà còn dư thì thêm một chỗ chứa; chỉ tính nhóm đủ thì không thêm nhóm thiếu.",
+      "Chuyển một lượng giữa hai nhóm không làm thay đổi tổng của cả hai nhóm."
+    ],
+    "steps": [
+      "Gạch chân câu hỏi cuối cùng và ghi đơn vị cần trả lời.",
+      "Tóm tắt dữ kiện, chỉ ra phần cần tìm trước.",
+      "Viết phép tính theo từng bước hoặc một biểu thức có ngoặc rõ ràng.",
+      "Tính và kiểm tra số nhớ, phần dư, đơn vị, chỗ chuyển giờ.",
+      "Thử lại bằng phép tính ngược hoặc ước lượng; đối chiếu câu trả lời với yêu cầu."
+    ],
+    "common_errors": [
+      "Nhìn thấy gấp 3 rồi chỉ tính ngày sau, quên cộng ngày đầu khi hỏi cả hai ngày.",
+      "Lấy chu vi nhân chính nó để tìm diện tích hình vuông mà chưa tìm cạnh.",
+      "Bỏ phần dư khi cần đủ xe chở mọi học sinh.",
+      "Tính tiền trả lại bằng cách cộng tiền mua vào tiền đưa.",
+      "Đổi phút như hệ thập phân hoặc trừ số giờ và phút rời nhau khi qua giờ.",
+      "Cộng các số đo khác đơn vị mà chưa đổi."
+    ]
+  },
+  "examples": [
+    {
+      "question": "Ngày đầu cửa hàng bán 1250 quyển vở. Ngày sau bán gấp đôi ngày đầu. Hỏi cả hai ngày bán bao nhiêu quyển?",
+      "steps": [
+        "Ngày sau bán: 1250 × 2 = 2500 quyển.",
+        "Cả hai ngày bán: 1250 + 2500 = 3750 quyển.",
+        "Kiểm tra tổng phải lớn hơn số bán riêng của mỗi ngày."
+      ]
+    },
+    {
+      "question": "Hình vuông có chu vi 28 cm. Tìm diện tích.",
+      "steps": [
+        "Một cạnh dài: 28 : 4 = 7 cm.",
+        "Diện tích: 7 × 7 = 49 cm vuông.",
+        "Chu vi dùng cm; diện tích dùng cm vuông."
+      ]
+    },
+    {
+      "question": "Có 80000 đồng, mua 2 hộp màu giá 27500 đồng mỗi hộp. Còn bao nhiêu đồng?",
+      "steps": [
+        "Hai hộp hết: 27500 × 2 = 55000 đồng.",
+        "Số tiền còn: 80000 − 55000 = 25000 đồng.",
+        "Thử lại: 55000 + 25000 = 80000 đồng."
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "question_id": "TOAN3_T2_B81_Q01",
+      "type": "mcq",
+      "question": "Số gồm 6 chục nghìn, 3 nghìn và 8 đơn vị là bao nhiêu?",
+      "options": [
+        "63008",
+        "63800",
+        "63080",
+        "60308"
+      ],
+      "correct_answer": "63008",
+      "distractors": [
+        "63800",
+        "63080",
+        "60308"
+      ],
+      "explanation": "Các hàng trăm và chục bằng 0 nên viết 63008.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B81_Q02",
+      "type": "fill",
+      "question": "Giá trị chữ số 4 trong 74219 là bao nhiêu?",
+      "correct_answer": "4000",
+      "distractors": [
+        "400",
+        "40",
+        "40000"
+      ],
+      "explanation": "Chữ số 4 ở hàng nghìn nên có giá trị 4000.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B81_Q03",
+      "type": "mcq",
+      "question": "Số liền trước 30000 là số nào?",
+      "options": [
+        "29999",
+        "30001",
+        "29990",
+        "29000"
+      ],
+      "correct_answer": "29999",
+      "distractors": [
+        "30001",
+        "29990",
+        "29000"
+      ],
+      "explanation": "Bớt 1 từ 30000 được 29999.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B81_Q04",
+      "type": "fill",
+      "question": "Trong 41205, 42105, 41025, 42015, số bé nhất là số nào?",
+      "correct_answer": "41025",
+      "distractors": [
+        "41205",
+        "42105",
+        "42015"
+      ],
+      "explanation": "Cùng 4 chục nghìn, so hàng nghìn rồi hàng trăm và chục được 41025 nhỏ nhất.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B81_Q05",
+      "type": "mcq",
+      "question": "Tính 23000 cộng 16000.",
+      "options": [
+        "39000",
+        "7000",
+        "38000",
+        "49000"
+      ],
+      "correct_answer": "39000",
+      "distractors": [
+        "7000",
+        "38000",
+        "49000"
+      ],
+      "explanation": "23 nghìn cộng 16 nghìn được 39 nghìn.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B81_Q06",
+      "type": "fill",
+      "question": "Tính 80000 trừ 35000.",
+      "correct_answer": "45000",
+      "distractors": [
+        "55000",
+        "11500",
+        "35000"
+      ],
+      "explanation": "80 nghìn bớt 35 nghìn còn 45 nghìn.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B81_Q07",
+      "type": "mcq",
+      "question": "Tích của 1200 và 5 bằng bao nhiêu?",
+      "options": [
+        "6000",
+        "600",
+        "1250",
+        "7000"
+      ],
+      "correct_answer": "6000",
+      "distractors": [
+        "600",
+        "1250",
+        "7000"
+      ],
+      "explanation": "12 trăm nhân 5 được 60 trăm.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B81_Q08",
+      "type": "fill",
+      "question": "Thương của 36000 và 4 bằng bao nhiêu?",
+      "correct_answer": "9000",
+      "distractors": [
+        "900",
+        "8000",
+        "32000"
+      ],
+      "explanation": "4 nhân 9000 bằng 36000.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B81_Q09",
+      "type": "mcq",
+      "question": "Đổi 4 kg thành g.",
+      "options": [
+        "4000",
+        "400",
+        "40",
+        "40000"
+      ],
+      "correct_answer": "4000",
+      "distractors": [
+        "400",
+        "40",
+        "40000"
+      ],
+      "explanation": "Một kg bằng 1000 g nên 4 kg bằng 4000 g.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B81_Q10",
+      "type": "fill",
+      "question": "Hình vuông có cạnh 6 cm. Chu vi bằng bao nhiêu cm?",
+      "correct_answer": "24",
+      "distractors": [
+        "36",
+        "12",
+        "6"
+      ],
+      "explanation": "Bốn cạnh bằng nhau, lấy 6 nhân 4 được 24 cm.",
+      "difficulty": "nhan_biet",
+      "figure": {
+        "path": "content/toan/tap-2/TOAN3_T2_B81_Q10.svg",
+        "caption": "Hình vuông cạnh 6 cm"
+      }
+    },
+    {
+      "question_id": "TOAN3_T2_B81_Q11",
+      "type": "mcq",
+      "question": "Viết tổng 50000 cộng 700 cộng 40 cộng 9 thành một số.",
+      "options": [
+        "50749",
+        "57409",
+        "50794",
+        "57049"
+      ],
+      "correct_answer": "50749",
+      "distractors": [
+        "57409",
+        "50794",
+        "57049"
+      ],
+      "explanation": "Hàng nghìn bằng 0, các hàng còn lại lần lượt 5, 7, 4, 9.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B81_Q12",
+      "type": "fill",
+      "question": "Tính 25000 trừ 6000 cộng 8000.",
+      "correct_answer": "27000",
+      "distractors": [
+        "11000",
+        "39000",
+        "19000"
+      ],
+      "explanation": "Từ trái sang phải: 19000 rồi 27000.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B81_Q13",
+      "type": "mcq",
+      "question": "Tính 3600 nhân (9 trừ 6).",
+      "options": [
+        "10800",
+        "32394",
+        "3603",
+        "7200"
+      ],
+      "correct_answer": "10800",
+      "distractors": [
+        "32394",
+        "3603",
+        "7200"
+      ],
+      "explanation": "Trong ngoặc là 3, nhân 3600 được 10800.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B81_Q14",
+      "type": "fill",
+      "question": "Tính (4200 cộng 1800) chia 6.",
+      "correct_answer": "1000",
+      "distractors": [
+        "4500",
+        "6000",
+        "600"
+      ],
+      "explanation": "Tổng trong ngoặc là 6000, chia 6 được 1000.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B81_Q15",
+      "type": "mcq",
+      "question": "Một túi bột cân bằng hai quả cân 500 g và một quả cân 100 g. Túi bột nặng bao nhiêu g?",
+      "options": [
+        "1100",
+        "600",
+        "1000",
+        "1500"
+      ],
+      "correct_answer": "1100",
+      "distractors": [
+        "600",
+        "1000",
+        "1500"
+      ],
+      "explanation": "Tổng các quả cân là 500 cộng 500 cộng 100 bằng 1100 g.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B81_Q16",
+      "type": "fill",
+      "question": "Đi từ 7 giờ 15 phút đến 7 giờ 55 phút hết mấy phút?",
+      "correct_answer": "40",
+      "distractors": [
+        "30",
+        "70",
+        "45"
+      ],
+      "explanation": "Cùng giờ, lấy 55 trừ 15 bằng 40 phút.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B81_Q17",
+      "type": "mcq",
+      "question": "Hình chữ nhật dài 8 cm, rộng 5 cm có diện tích bao nhiêu cm vuông?",
+      "options": [
+        "40",
+        "26",
+        "13",
+        "80"
+      ],
+      "correct_answer": "40",
+      "distractors": [
+        "26",
+        "13",
+        "80"
+      ],
+      "explanation": "Lấy 8 nhân 5 bằng 40 cm vuông.",
+      "difficulty": "thong_hieu",
+      "figure": {
+        "path": "content/toan/tap-2/TOAN3_T2_B81_Q17.svg",
+        "caption": "Hình chữ nhật dài 8 cm, rộng 5 cm"
+      }
+    },
+    {
+      "question_id": "TOAN3_T2_B81_Q18",
+      "type": "fill",
+      "question": "Một hình vuông có chu vi 20 cm. Cạnh bằng bao nhiêu cm?",
+      "correct_answer": "5",
+      "distractors": [
+        "4",
+        "10",
+        "80"
+      ],
+      "explanation": "Chia chu vi cho 4 cạnh: 20 chia 4 bằng 5 cm.",
+      "difficulty": "thong_hieu",
+      "figure": {
+        "path": "content/toan/tap-2/TOAN3_T2_B81_Q18.svg",
+        "caption": "Hình vuông chu vi 20 cm"
+      }
+    },
+    {
+      "question_id": "TOAN3_T2_B81_Q19",
+      "type": "mcq",
+      "question": "Trong phép chia cho 6, số dư 6 có hợp lệ không?",
+      "options": [
+        "không",
+        "có",
+        "luôn hợp lệ",
+        "chỉ khi thương bằng 0"
+      ],
+      "correct_answer": "không",
+      "distractors": [
+        "có",
+        "luôn hợp lệ",
+        "chỉ khi thương bằng 0"
+      ],
+      "explanation": "Số dư phải nhỏ hơn 6 nên không được bằng 6.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B81_Q20",
+      "type": "fill",
+      "question": "Một số tròn nghìn nằm giữa 18500 và 19500. Số đó là bao nhiêu?",
+      "correct_answer": "19000",
+      "distractors": [
+        "18000",
+        "19500",
+        "20000"
+      ],
+      "explanation": "19000 là số tròn nghìn duy nhất trong khoảng đã cho.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B81_Q21",
+      "type": "mcq",
+      "question": "Cửa hàng bán 1450 bút ngày đầu, ngày sau bán gấp 3 lần ngày đầu. Hai ngày bán bao nhiêu bút?",
+      "options": [
+        "5800",
+        "4350",
+        "2900",
+        "7250"
+      ],
+      "correct_answer": "5800",
+      "distractors": [
+        "4350",
+        "2900",
+        "7250"
+      ],
+      "explanation": "Ngày sau bán 4350 bút; cộng ngày đầu được 5800 bút.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B81_Q22",
+      "type": "fill",
+      "question": "Một số cộng 12500 rồi chia 5 được 6000. Số ban đầu bằng bao nhiêu?",
+      "correct_answer": "17500",
+      "distractors": [
+        "42500",
+        "2500",
+        "30000"
+      ],
+      "explanation": "Làm ngược: 6000 nhân 5 bằng 30000; trừ 12500 còn 17500.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B81_Q23",
+      "type": "mcq",
+      "question": "Bố mua 3 quyển sách, mỗi quyển 18000 đồng và một bút 9500 đồng. Đưa 70000 đồng còn mấy đồng?",
+      "options": [
+        "6500",
+        "63500",
+        "16000",
+        "15500"
+      ],
+      "correct_answer": "6500",
+      "distractors": [
+        "63500",
+        "16000",
+        "15500"
+      ],
+      "explanation": "Ba sách hết 54000, thêm bút là 63500; còn 6500 đồng.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B81_Q24",
+      "type": "fill",
+      "question": "Kho có 45000 kg thóc, chia đều vào 5 kho nhỏ. Mỗi kho nhỏ xuất 1200 kg. Cả năm kho còn tất cả bao nhiêu kg?",
+      "correct_answer": "39000",
+      "distractors": [
+        "43800",
+        "9000",
+        "7800"
+      ],
+      "explanation": "Mỗi kho xuất 1200 kg, tổng xuất 6000; còn 39000 kg.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B81_Q25",
+      "type": "mcq",
+      "question": "Xe đi 12500 m buổi sáng, chiều đi ít hơn sáng 1800 m. Tổng hai buổi đi bao nhiêu m?",
+      "options": [
+        "23200",
+        "25000",
+        "14300",
+        "10700"
+      ],
+      "correct_answer": "23200",
+      "distractors": [
+        "25000",
+        "14300",
+        "10700"
+      ],
+      "explanation": "Chiều đi 10700 m, cộng sáng được 23200 m.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B81_Q26",
+      "type": "fill",
+      "question": "Hình vuông chu vi 36 cm. Diện tích bằng bao nhiêu cm vuông?",
+      "correct_answer": "81",
+      "distractors": [
+        "36",
+        "18",
+        "144"
+      ],
+      "explanation": "Cạnh là 9 cm, diện tích 9 nhân 9 bằng 81 cm vuông.",
+      "difficulty": "van_dung",
+      "figure": {
+        "path": "content/toan/tap-2/TOAN3_T2_B81_Q26.svg",
+        "caption": "Hình vuông chu vi 36 cm"
+      }
+    },
+    {
+      "question_id": "TOAN3_T2_B81_Q27",
+      "type": "mcq",
+      "question": "Hình chữ nhật rộng 6 cm, dài gấp 3 lần rộng. Chu vi bằng bao nhiêu cm?",
+      "options": [
+        "48",
+        "108",
+        "24",
+        "36"
+      ],
+      "correct_answer": "48",
+      "distractors": [
+        "108",
+        "24",
+        "36"
+      ],
+      "explanation": "Dài 18 cm, tổng dài rộng 24 cm, gấp đôi được 48 cm.",
+      "difficulty": "van_dung",
+      "figure": {
+        "path": "content/toan/tap-2/TOAN3_T2_B81_Q27.svg",
+        "caption": "Hình chữ nhật rộng 6 cm, dài gấp 3 lần"
+      }
+    },
+    {
+      "question_id": "TOAN3_T2_B81_Q28",
+      "type": "fill",
+      "question": "Một túi gạo nặng 2 kg 500 g, dùng 850 g. Còn bao nhiêu g?",
+      "correct_answer": "1650",
+      "distractors": [
+        "3350",
+        "1750",
+        "650"
+      ],
+      "explanation": "Đổi thành 2500 g rồi trừ 850 được 1650 g.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B81_Q29",
+      "type": "mcq",
+      "question": "Can có 5 lít nước. Rót ra 6 cốc, mỗi cốc 500 ml. Còn bao nhiêu ml?",
+      "options": [
+        "2000",
+        "3000",
+        "4500",
+        "8000"
+      ],
+      "correct_answer": "2000",
+      "distractors": [
+        "3000",
+        "4500",
+        "8000"
+      ],
+      "explanation": "Năm lít là 5000 ml; sáu cốc dùng 3000 ml; còn 2000 ml.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B81_Q30",
+      "type": "fill",
+      "question": "Đi lúc 8 giờ 40 phút, đến 9 giờ 25 phút. Chuyến đi dài mấy phút?",
+      "correct_answer": "45",
+      "distractors": [
+        "85",
+        "35",
+        "55"
+      ],
+      "explanation": "20 phút đến 9 giờ rồi thêm 25 phút, tổng 45 phút.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B81_Q31",
+      "type": "mcq",
+      "question": "Có 74 học sinh, mỗi xe tối đa 9 học sinh. Cần ít nhất mấy xe?",
+      "options": [
+        "9",
+        "8",
+        "10",
+        "2"
+      ],
+      "correct_answer": "9",
+      "distractors": [
+        "8",
+        "10",
+        "2"
+      ],
+      "explanation": "8 xe chỉ chở 72 bạn, còn 2 nên cần xe thứ chín.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B81_Q32",
+      "type": "fill",
+      "question": "Có 74 bông hoa, mỗi bó đủ 9 bông. Bó được nhiều nhất mấy bó đủ?",
+      "correct_answer": "8",
+      "distractors": [
+        "9",
+        "7",
+        "2"
+      ],
+      "explanation": "8 bó dùng 72 bông, 2 bông còn lại chưa đủ thêm bó.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B81_Q33",
+      "type": "mcq",
+      "question": "Một số có năm chữ số, hàng chục nghìn là 2, nghìn là 8, trăm là 0, chục là 4, đơn vị là 6. Số đó hơn 28000 bao nhiêu?",
+      "options": [
+        "46",
+        "460",
+        "8046",
+        "6"
+      ],
+      "correct_answer": "46",
+      "distractors": [
+        "460",
+        "8046",
+        "6"
+      ],
+      "explanation": "Số đó là 28046, hơn 28000 đúng 46.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B81_Q34",
+      "type": "fill",
+      "question": "An có 24000 đồng, Bình có 16000 đồng. An cho Bình 4000 đồng. Hai bạn có tổng bao nhiêu đồng sau đó?",
+      "correct_answer": "40000",
+      "distractors": [
+        "36000",
+        "44000",
+        "32000"
+      ],
+      "explanation": "Chuyển tiền giữa hai bạn không làm thay đổi tổng 40000 đồng.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B81_Q35",
+      "type": "mcq",
+      "question": "Hai đoạn dây tổng dài 150 cm. Đoạn đầu dài 65 cm. Đoạn thứ hai dài hơn đoạn đầu bao nhiêu cm?",
+      "options": [
+        "20",
+        "85",
+        "35",
+        "150"
+      ],
+      "correct_answer": "20",
+      "distractors": [
+        "85",
+        "35",
+        "150"
+      ],
+      "explanation": "Đoạn hai dài 85 cm; hơn 65 cm là 20 cm.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B81_Q36",
+      "type": "fill",
+      "question": "Lớp trồng 8 hàng cây, mỗi hàng 12 cây. Có 7 cây chưa sống. Số cây sống là bao nhiêu?",
+      "correct_answer": "89",
+      "distractors": [
+        "96",
+        "103",
+        "84"
+      ],
+      "explanation": "Tổng 96 cây, trừ 7 còn 89 cây.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B81_Q37",
+      "type": "mcq",
+      "question": "Một tờ bìa diện tích 72 cm vuông, cắt thành 8 phần bằng nhau. Mỗi phần có diện tích bao nhiêu cm vuông?",
+      "options": [
+        "9",
+        "64",
+        "8",
+        "576"
+      ],
+      "correct_answer": "9",
+      "distractors": [
+        "64",
+        "8",
+        "576"
+      ],
+      "explanation": "Chia đều diện tích: 72 chia 8 bằng 9 cm vuông.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B81_Q38",
+      "type": "fill",
+      "question": "Tổng hai số là 35000. Bớt số thứ nhất 2000, thêm số thứ hai 2000. Tổng mới bằng bao nhiêu?",
+      "correct_answer": "35000",
+      "distractors": [
+        "33000",
+        "37000",
+        "39000"
+      ],
+      "explanation": "Bớt và thêm cùng lượng nên tổng không đổi.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B81_Q39",
+      "type": "mcq",
+      "question": "Một trường có 2350 học sinh. Khối 3 có 420 bạn, các khối khác có bao nhiêu bạn?",
+      "options": [
+        "1930",
+        "2770",
+        "1920",
+        "2030"
+      ],
+      "correct_answer": "1930",
+      "distractors": [
+        "2770",
+        "1920",
+        "2030"
+      ],
+      "explanation": "Lấy tổng toàn trường trừ khối 3: 2350 trừ 420 bằng 1930.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B81_Q40",
+      "type": "fill",
+      "question": "Một hộp có 16000 nhãn, đã phát cho 4 lớp, mỗi lớp 2500 nhãn. Chia đều số còn lại cho 3 tổ. Mỗi tổ nhận bao nhiêu nhãn?",
+      "correct_answer": "2000",
+      "distractors": [
+        "6000",
+        "4000",
+        "2500"
+      ],
+      "explanation": "Đã phát 10000, còn 6000 nhãn; chia 3 được 2000 mỗi tổ.",
+      "difficulty": "van_dung"
+    }
+  ],
+  "games": [
+    {
+      "id": "TOAN3_T2_B81_GAME1",
+      "title": "Về đích cuối năm",
+      "mode": "treasure",
+      "objective": "Vận dụng kiến thức đã học để giải những tình huống phối hợp và đọc lời giải sau mỗi câu.",
+      "rules": [
+        "Mỗi lượt lấy 10 câu từ bài học.",
+        "Chọn đáp án, đọc lời giải rồi sang câu tiếp theo.",
+        "Mỗi câu đúng được 10 điểm; tối đa 100 điểm."
+      ],
+      "question_ids": [
+        "TOAN3_T2_B81_Q01",
+        "TOAN3_T2_B81_Q02",
+        "TOAN3_T2_B81_Q03",
+        "TOAN3_T2_B81_Q04",
+        "TOAN3_T2_B81_Q05",
+        "TOAN3_T2_B81_Q06",
+        "TOAN3_T2_B81_Q07",
+        "TOAN3_T2_B81_Q08",
+        "TOAN3_T2_B81_Q09",
+        "TOAN3_T2_B81_Q10",
+        "TOAN3_T2_B81_Q11",
+        "TOAN3_T2_B81_Q12",
+        "TOAN3_T2_B81_Q13",
+        "TOAN3_T2_B81_Q14",
+        "TOAN3_T2_B81_Q15",
+        "TOAN3_T2_B81_Q16",
+        "TOAN3_T2_B81_Q17",
+        "TOAN3_T2_B81_Q18",
+        "TOAN3_T2_B81_Q19",
+        "TOAN3_T2_B81_Q20",
+        "TOAN3_T2_B81_Q21",
+        "TOAN3_T2_B81_Q22",
+        "TOAN3_T2_B81_Q23",
+        "TOAN3_T2_B81_Q24",
+        "TOAN3_T2_B81_Q25",
+        "TOAN3_T2_B81_Q26",
+        "TOAN3_T2_B81_Q27",
+        "TOAN3_T2_B81_Q28",
+        "TOAN3_T2_B81_Q29",
+        "TOAN3_T2_B81_Q30",
+        "TOAN3_T2_B81_Q31",
+        "TOAN3_T2_B81_Q32",
+        "TOAN3_T2_B81_Q33",
+        "TOAN3_T2_B81_Q34",
+        "TOAN3_T2_B81_Q35",
+        "TOAN3_T2_B81_Q36",
+        "TOAN3_T2_B81_Q37",
+        "TOAN3_T2_B81_Q38",
+        "TOAN3_T2_B81_Q39",
+        "TOAN3_T2_B81_Q40"
+      ],
+      "answer_source": "practice.correct_answer",
+      "feedback_source": "practice.explanation",
+      "max_score": 100
+    }
+  ],
+  "assessment": {
+    "session_size": 10,
+    "distribution": {
+      "nhan_biet": 3,
+      "thong_hieu": 3,
+      "van_dung": 4
+    },
+    "scoring": "Đúng lần đầu: 1 điểm; đúng sau một gợi ý: 0,5 điểm. Từ 90%: 3 sao; từ 60%: 2 sao; còn lại: 1 sao.",
+    "review_advice": "Xem lời giải các câu sai, đọc lại quy tắc, rồi làm một lượt mới."
+  },
+  "feedback": {
+    "correct": "Chính xác! Hãy đọc lời giải để củng cố cách làm.",
+    "incorrect": "Em thử lại một lần. Sau đó xem đáp án và cách giải."
+  },
+  "verification": {
+    "ai_authored": true,
+    "structure_checked": true,
+    "answer_reviewed": true,
+    "source_reviewed": true,
+    "teacher_approved": false
+  },
+  "status": "AI_CHECKED_AWAITING_TEACHER",
+  "figures": [
+    {
+      "path": "content/toan/tap-2/TOAN3_T2_B81_Q10.svg",
+      "caption": "Hình vuông cạnh 6 cm"
+    },
+    {
+      "path": "content/toan/tap-2/TOAN3_T2_B81_Q17.svg",
+      "caption": "Hình chữ nhật dài 8 cm, rộng 5 cm"
+    },
+    {
+      "path": "content/toan/tap-2/TOAN3_T2_B81_Q18.svg",
+      "caption": "Hình vuông chu vi 20 cm"
+    },
+    {
+      "path": "content/toan/tap-2/TOAN3_T2_B81_Q26.svg",
+      "caption": "Hình vuông chu vi 36 cm"
+    },
+    {
+      "path": "content/toan/tap-2/TOAN3_T2_B81_Q27.svg",
+      "caption": "Hình chữ nhật rộng 6 cm, dài gấp 3 lần"
+    }
+  ],
+  "activities": [
+    {
+      "title": "Tự kiểm tra cách giải",
+      "materials": [
+        "Giấy nháp",
+        "Bút",
+        "Thước"
+      ],
+      "steps": [
+        "Chọn một câu vận dụng trong bài và viết tóm tắt dữ kiện.",
+        "Giải trên giấy trước khi nhập đáp án.",
+        "Sau khi xem lời giải, đánh dấu bước em làm đúng và bước cần sửa.",
+        "Vẽ hình minh họa nếu câu hỏi có chu vi hoặc diện tích; ghi đơn vị cạnh."
+      ],
+      "check": [
+        "Câu trả lời có đúng đại lượng mà đề hỏi không?",
+        "Mỗi phép tính trung gian đã có ý nghĩa và đơn vị chưa?",
+        "Có thể kiểm tra lại bằng phép tính ngược không?"
+      ]
+    }
+  ]
+}
