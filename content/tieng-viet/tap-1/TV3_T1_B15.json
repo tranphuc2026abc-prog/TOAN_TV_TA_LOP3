@@ -1,0 +1,321 @@
+{
+  "id": "TV3_T1_B15",
+  "subject": "tv",
+  "grade": 3,
+  "book": "Kết nối tri thức với cuộc sống",
+  "volume": 1,
+  "lesson_no": 15,
+  "title": "Thư viện",
+  "topic": "Cổng trường rộng mở",
+  "source": {
+    "pdf": "03-sgk-tieng-viet-3-tap-mot.pdf",
+    "printed_pages": [
+      66,
+      69
+    ],
+    "pdf_pages": [
+      67,
+      70
+    ],
+    "review": "Đọc trực quan nguồn ở lượt trước; đối chiếu BATCH25_SOURCE_NOTES.md ngày10/11/2026. B16 chỉ trang70–73; không chép toàn văn."
+  },
+  "objectives": [
+    "Nêu phát hiện mới của học sinh sau kì nghỉ.",
+    "Nhớ lời dặn về mượn, trả và chia sẻ sách.",
+    "Giải thích hình ảnh thư viện giống toa tàu đông."
+  ],
+  "reading": {
+    "summary": "Phòng thư viện mới đem đến cho học sinh nhiều sách và niềm háo hức. Các bạn được tự chọn đọc, mượn về rồi trả và góp sách để cùng chia sẻ.",
+    "characters_or_images": [
+      "Thầy hiệu trưởng",
+      "Các bạn học sinh"
+    ],
+    "message": "Được mượn sách không có nghĩa được giữ luôn; cần trả lại."
+  },
+  "knowledge": {
+    "introduction": "Phòng thư viện mới đem đến cho học sinh nhiều sách và niềm háo hức. Các bạn được tự chọn đọc, mượn về rồi trả và góp sách để cùng chia sẻ.",
+    "rules": [
+      "Thư viện ở phòng đối diện dãy lớp, có giá sách và bàn ghế.",
+      "Được mượn sách không có nghĩa được giữ luôn; cần trả lại.",
+      "Có bạn ngồi, có bạn đứng vì thiếu chỗ: hình ảnh giống toa tàu là cách so sánh cảnh đông vui."
+    ],
+    "steps": [
+      "Đọc bài ở trang nguồn, đối chiếu phần tóm tắt.",
+      "Trả lời câu hỏi rồi xem căn cứ trong lời giải.",
+      "Làm nhiệm vụ viết và sửa theo tiêu chí."
+    ],
+    "common_errors": [
+      "Nghĩ tất cả phải ngồi ghế hoặc đọc theo lớp.",
+      "Cho rằng toa tàu là địa điểm thư viện thật.",
+      "Quên việc trả sách sau khi mang về."
+    ]
+  },
+  "language_practice": {
+    "vocabulary": [
+      "Từ nào gọi người làm việc quản lí sách ở thư viện? Đáp án: Thủ thư. Thủ thư là người; giá và phiếu là đồ vật, đọc là hoạt động.",
+      "Từ nào chỉ hoạt động liên quan tới sách? Đáp án: Mượn. Mượn là việc làm, ba từ còn lại gọi người hoặc đồ vật."
+    ],
+    "sentences": [
+      "Câu nào nhắc trách nhiệm người mượn? Đáp án: Em đọc xong rồi trả sách đúng hẹn.. Trả sách giúp người khác tiếp tục được sử dụng.",
+      "Câu nào là câu hỏi về cuốn sách? Đáp án: Bạn muốn mượn cuốn nào?. Câu muốn biết lựa chọn của bạn là câu hỏi."
+    ],
+    "spelling": [
+      "Chọn từ đúng nghĩa quý trọng: ... trọng. Đáp án: trân. Trân trọng mang nghĩa quý trọng; không viết chân trọng.",
+      "Từ nào viết đúng để gọi một quốc gia theo nghĩa đất nước? Đáp án: đất nước. Tiếng nước có n và đất có t; cần giữ đúng cấu tạo tiếng."
+    ],
+    "expression": [
+      "Gợi ý nào làm ước muốn về thư viện cụ thể hơn? Đáp án: Em muốn có góc yên tĩnh và sách tranh dễ tìm.. Đặc điểm rõ ràng giúp người nghe hình dung thư viện mong muốn.",
+      "Bạn hỏi vì sao cần góp sách dùng chung. Em trả lời thế nào? Đáp án: Để nhiều bạn có thêm sách lựa chọn và cùng đọc. Chia sẻ sách làm nguồn đọc phong phú hơn."
+    ]
+  },
+  "examples": [
+    {
+      "question": "Vì sao thư viện được ví như toa tàu đông khách?",
+      "steps": [
+        "Nhiều học sinh cùng chọn và đọc sách.",
+        "Bàn ghế không đủ cho tất cả nên có người đứng, người ngồi.",
+        "Đó là điểm giống cảnh trên toa tàu đông, không phải thư viện nằm trên tàu."
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "title": "Thực hành theo bài",
+      "materials": [
+        "Vở",
+        "Bút"
+      ],
+      "steps": [
+        "Nói ba câu về góc đọc sách em mong muốn; nêu một cách giữ gìn sách dùng chung.",
+        "Viết bằng lời và trải nghiệm của em.",
+        "Đọc lại, sửa ít nhất một điểm chưa rõ."
+      ],
+      "check": [
+        "Có đặc điểm cụ thể của góc đọc.",
+        "Có việc giữ sách hoặc trả đúng hẹn.",
+        "Không nhận một nơi tưởng tượng là nơi đã đến."
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "question_id": "TV3_T1_B15_Q01",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Sau kì nghỉ, các bạn phát hiện điều mới nào ở trường?",
+      "correct_answer": "Một căn phòng đã thành thư viện",
+      "options": [
+        "Một căn phòng đã thành thư viện",
+        "Tất cả sách bị mang đi hết",
+        "Lớp chuyển lên toa tàu thật",
+        "Trường không còn bàn ghế"
+      ],
+      "explanation": "Các bạn vui vì có không gian sách mới đối diện dãy lớp học.",
+      "evidence": "Trang66: đoạn đầu bài."
+    },
+    {
+      "question_id": "TV3_T1_B15_Q02",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Điều nào đúng với lời thầy dặn về sách mượn về?",
+      "correct_answer": "Đọc xong cần trả lại thư viện",
+      "options": [
+        "Đọc xong cần trả lại thư viện",
+        "Được giữ luôn làm sách riêng",
+        "Không bao giờ được mang về",
+        "Chỉ được xem bìa rồi trả"
+      ],
+      "explanation": "Thầy cho phép mượn về nhưng nhắc trách nhiệm trả sách.",
+      "evidence": "Trang66: lời thầy hiệu trưởng."
+    },
+    {
+      "question_id": "TV3_T1_B15_Q03",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Vì sao trong thư viện có bạn phải đứng đọc?",
+      "correct_answer": "Bàn ghế không đủ cho tất cả học sinh",
+      "options": [
+        "Bàn ghế không đủ cho tất cả học sinh",
+        "Thầy cấm mọi người ngồi",
+        "Không ai muốn chọn sách",
+        "Các bạn đang chờ tàu thật"
+      ],
+      "explanation": "Bàn ghế chỉ đủ một phần số bạn; đây là nguyên nhân có người ngồi, người đứng.",
+      "evidence": "Trang67: cảnh các bạn cùng đọc."
+    },
+    {
+      "question_id": "TV3_T1_B15_Q04",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Việc bạn nào cũng háo hức ghé thư viện cho thấy điều gì?",
+      "correct_answer": "Các bạn vui và thích không gian đọc sách mới",
+      "options": [
+        "Các bạn vui và thích không gian đọc sách mới",
+        "Các bạn chỉ muốn tránh đọc sách",
+        "Các bạn sợ thầy bắt trả sách",
+        "Thư viện là nơi không ai được vào"
+      ],
+      "explanation": "Niềm háo hức sau ngày đầu thể hiện sức hấp dẫn của thư viện với học sinh.",
+      "evidence": "Trang67: đoạn kết bài."
+    },
+    {
+      "question_id": "TV3_T1_B15_Q05",
+      "type": "mcq",
+      "skill": "vocabulary",
+      "question": "Từ nào gọi người làm việc quản lí sách ở thư viện?",
+      "correct_answer": "Thủ thư",
+      "options": [
+        "Thủ thư",
+        "Giá sách",
+        "Phiếu mượn",
+        "Đọc sách"
+      ],
+      "explanation": "Thủ thư là người; giá và phiếu là đồ vật, đọc là hoạt động."
+    },
+    {
+      "question_id": "TV3_T1_B15_Q06",
+      "type": "mcq",
+      "skill": "vocabulary",
+      "question": "Từ nào chỉ hoạt động liên quan tới sách?",
+      "correct_answer": "Mượn",
+      "options": [
+        "Mượn",
+        "Người đọc",
+        "Bàn",
+        "Thẻ"
+      ],
+      "explanation": "Mượn là việc làm, ba từ còn lại gọi người hoặc đồ vật."
+    },
+    {
+      "question_id": "TV3_T1_B15_Q07",
+      "type": "mcq",
+      "skill": "sentences",
+      "question": "Câu nào nhắc trách nhiệm người mượn?",
+      "correct_answer": "Em đọc xong rồi trả sách đúng hẹn.",
+      "options": [
+        "Em đọc xong rồi trả sách đúng hẹn.",
+        "Sách là của em mãi mãi.",
+        "Em xé trang mình thích.",
+        "Em giấu sách để bạn khỏi đọc."
+      ],
+      "explanation": "Trả sách giúp người khác tiếp tục được sử dụng."
+    },
+    {
+      "question_id": "TV3_T1_B15_Q08",
+      "type": "mcq",
+      "skill": "sentences",
+      "question": "Câu nào là câu hỏi về cuốn sách?",
+      "correct_answer": "Bạn muốn mượn cuốn nào?",
+      "options": [
+        "Bạn muốn mượn cuốn nào?",
+        "Em đang đọc.",
+        "Sách có tranh.",
+        "Thư viện mới đẹp."
+      ],
+      "explanation": "Câu muốn biết lựa chọn của bạn là câu hỏi."
+    },
+    {
+      "question_id": "TV3_T1_B15_Q09",
+      "type": "mcq",
+      "skill": "spelling",
+      "question": "Chọn từ đúng nghĩa quý trọng: ... trọng.",
+      "correct_answer": "trân",
+      "options": [
+        "trân",
+        "chân",
+        "trăng",
+        "chăng"
+      ],
+      "explanation": "Trân trọng mang nghĩa quý trọng; không viết chân trọng."
+    },
+    {
+      "question_id": "TV3_T1_B15_Q10",
+      "type": "mcq",
+      "skill": "spelling",
+      "question": "Từ nào viết đúng để gọi một quốc gia theo nghĩa đất nước?",
+      "correct_answer": "đất nước",
+      "options": [
+        "đất nước",
+        "đất lước",
+        "đấc nước",
+        "đấc lước"
+      ],
+      "explanation": "Tiếng nước có n và đất có t; cần giữ đúng cấu tạo tiếng."
+    },
+    {
+      "question_id": "TV3_T1_B15_Q11",
+      "type": "mcq",
+      "skill": "expression",
+      "question": "Gợi ý nào làm ước muốn về thư viện cụ thể hơn?",
+      "correct_answer": "Em muốn có góc yên tĩnh và sách tranh dễ tìm.",
+      "options": [
+        "Em muốn có góc yên tĩnh và sách tranh dễ tìm.",
+        "Em muốn tốt và tốt.",
+        "Thư viện là thư viện.",
+        "Em không nói thêm gì."
+      ],
+      "explanation": "Đặc điểm rõ ràng giúp người nghe hình dung thư viện mong muốn."
+    },
+    {
+      "question_id": "TV3_T1_B15_Q12",
+      "type": "mcq",
+      "skill": "expression",
+      "question": "Bạn hỏi vì sao cần góp sách dùng chung. Em trả lời thế nào?",
+      "correct_answer": "Để nhiều bạn có thêm sách lựa chọn và cùng đọc",
+      "options": [
+        "Để nhiều bạn có thêm sách lựa chọn và cùng đọc",
+        "Để không ai khác được đọc",
+        "Để sách biến thành ghế",
+        "Để khỏi phải trả sách đã mượn"
+      ],
+      "explanation": "Chia sẻ sách làm nguồn đọc phong phú hơn."
+    }
+  ],
+  "games": [
+    {
+      "id": "TV3_T1_B15_GAME",
+      "title": "Góc đọc vui",
+      "mode": "treasure",
+      "objective": "Tìm kho báu bằng cách hiểu chi tiết và dùng tiếng Việt đúng theo bài.",
+      "rules": [
+        "Trả lời 10 câu được chọn từ chính bài này.",
+        "Mỗi đáp án đúng được 10 điểm; đọc phản hồi để hiểu và sửa câu sai.",
+        "Chơi lại để gặp một bộ câu khác."
+      ],
+      "question_ids": [
+        "TV3_T1_B15_Q01",
+        "TV3_T1_B15_Q02",
+        "TV3_T1_B15_Q03",
+        "TV3_T1_B15_Q04",
+        "TV3_T1_B15_Q05",
+        "TV3_T1_B15_Q06",
+        "TV3_T1_B15_Q07",
+        "TV3_T1_B15_Q08",
+        "TV3_T1_B15_Q09",
+        "TV3_T1_B15_Q10",
+        "TV3_T1_B15_Q11",
+        "TV3_T1_B15_Q12"
+      ],
+      "answer_source": "practice.correct_answer",
+      "feedback_source": "practice.explanation",
+      "max_score": 100
+    }
+  ],
+  "assessment": {
+    "session_size": 10,
+    "scoring": "Mỗi câu đúng được tính điểm theo hệ thống; 8–10 câu đúng: nắm tốt, 5–7: đọc lại phần còn nhầm, dưới 5: đọc bài cùng người thân rồi thử lại. Nhiệm vụ nói/viết tự kiểm theo tiêu chí, không chấm bằng một đáp án duy nhất.",
+    "review_advice": "Sau lượt luyện, chọn một câu sai để giải thích lại. Với nói/viết: đúng chi tiết hoặc trải nghiệm thật, đủ ý, câu rõ, chính tả đúng; sửa ít nhất một điểm trước khi hoàn tất."
+  },
+  "feedback": {
+    "correct": "Em đã chọn phù hợp. Đọc lời giải để nhắc lại căn cứ.",
+    "incorrect": "Đọc lại câu hỏi và chi tiết liên quan; xem lời giải để biết vì sao."
+  },
+  "verification": {
+    "ai_authored": true,
+    "structure_checked": true,
+    "answer_reviewed": true,
+    "source_reviewed": true,
+    "teacher_approved": false
+  },
+  "status": "AI_CHECKED_AWAITING_TEACHER"
+}

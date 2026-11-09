@@ -1,0 +1,321 @@
+{
+  "id": "TV3_T1_B13",
+  "subject": "tv",
+  "grade": 3,
+  "book": "Kết nối tri thức với cuộc sống",
+  "volume": 1,
+  "lesson_no": 13,
+  "title": "Bàn tay cô giáo",
+  "topic": "Cổng trường rộng mở",
+  "source": {
+    "pdf": "03-sgk-tieng-viet-3-tap-mot.pdf",
+    "printed_pages": [
+      59,
+      61
+    ],
+    "pdf_pages": [
+      60,
+      62
+    ],
+    "review": "Đọc trực quan nguồn ở lượt trước; đối chiếu BATCH25_SOURCE_NOTES.md ngày10/11/2026. B16 chỉ trang70–73; không chép toàn văn."
+  },
+  "objectives": [
+    "Ghép đúng màu giấy với sản phẩm cô làm.",
+    "Giải thích sự ngạc nhiên của học trò bằng chi tiết.",
+    "Kể một giờ học thú vị và luyện l/n hoặc ân/âng."
+  ],
+  "reading": {
+    "summary": "Từ những tờ giấy, cô tạo nên cảnh thuyền trên biển lúc bình minh. Điều tưởng như kì diệu đến từ bàn tay khéo léo và sự sáng tạo của cô.",
+    "characters_or_images": [
+      "Cô giáo",
+      "Học trò và cảnh thủ công"
+    ],
+    "message": "So sánh với phép màu diễn tả sự khâm phục, không nói cô có phép thuật thật."
+  },
+  "knowledge": {
+    "introduction": "Từ những tờ giấy, cô tạo nên cảnh thuyền trên biển lúc bình minh. Điều tưởng như kì diệu đến từ bàn tay khéo léo và sự sáng tạo của cô.",
+    "rules": [
+      "Giấy trắng thành thuyền; giấy đỏ thành mặt trời; giấy xanh thành mặt nước và sóng.",
+      "So sánh với phép màu diễn tả sự khâm phục, không nói cô có phép thuật thật.",
+      "Dập dềnh gợi chuyển động lên xuống; rì rào gợi tiếng nhỏ, đều."
+    ],
+    "steps": [
+      "Đọc bài ở trang nguồn, đối chiếu phần tóm tắt.",
+      "Trả lời câu hỏi rồi xem căn cứ trong lời giải.",
+      "Làm nhiệm vụ viết và sửa theo tiêu chí."
+    ],
+    "common_errors": [
+      "Đổi giấy đỏ thành thuyền, nhầm quan hệ màu và sản phẩm.",
+      "Hiểu hình ảnh phép màu theo nghĩa đen.",
+      "Kể giờ học chỉ bằng câu rất vui mà thiếu việc cụ thể."
+    ]
+  },
+  "language_practice": {
+    "vocabulary": [
+      "Mặt nước dập dềnh chuyển động thế nào? Đáp án: Lên xuống nhịp nhàng. Dập dềnh gợi chuyển động lên xuống của nước.",
+      "Từ rì rào gợi điều gì trong cảnh biển? Đáp án: Âm thanh sóng nhỏ và đều. Đây là từ gợi âm thanh, khác từ tả màu hoặc kích thước."
+    ],
+    "sentences": [
+      "Câu nào nói rõ sự khéo léo của cô? Đáp án: Cô cắt giấy nhanh và tạo hình rất đẹp.. Câu đầy đủ nêu người và việc làm, kèm đặc điểm.",
+      "Câu nào nói cảm xúc có lí do khi xem cô làm thủ công? Đáp án: Em thích thú vì giấy màu thành một bức tranh biển.. Câu nêu cảm xúc và chi tiết tạo nên cảm xúc."
+    ],
+    "spelling": [
+      "Điền l hoặc n: Cô ...àm một chiếc thuyền giấy. Đáp án: l. Làm viết l; không viết nàm.",
+      "Cặp tiếng nào đều đúng trong cảnh mặt trời buổi sớm? Đáp án: nắng lên. Nắng chỉ ánh sáng mặt trời; lên chỉ hướng xuất hiện cao hơn."
+    ],
+    "expression": [
+      "Kể giờ thủ công rõ nhất nên thêm điều nào? Đáp án: Việc em đã tự làm và cảm xúc khi hoàn thành. Hoạt động và cảm xúc cụ thể giúp người nghe hiểu trải nghiệm.",
+      "Em chưa làm được sản phẩm đẹp. Cách kể nào phù hợp? Đáp án: Kể điều còn khó và điều em muốn luyện thêm. Trung thực về khó khăn vẫn tạo câu chuyện có ý nghĩa."
+    ]
+  },
+  "examples": [
+    {
+      "question": "Vì sao học trò thấy cảnh cô làm như điều kì diệu?",
+      "steps": [
+        "Ban đầu chỉ có các tờ giấy màu.",
+        "Cô gấp, cắt nhanh và khéo để tạo cảnh biển có thuyền, mặt trời, sóng.",
+        "Sự thay đổi ấy khiến học trò bất ngờ và khâm phục."
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "title": "Thực hành theo bài",
+      "materials": [
+        "Vở",
+        "Bút"
+      ],
+      "steps": [
+        "Viết ba câu về một giờ học em nhớ: việc em làm, điều em học được, cảm xúc.",
+        "Viết bằng lời và trải nghiệm của em.",
+        "Đọc lại, sửa ít nhất một điểm chưa rõ."
+      ],
+      "check": [
+        "Có hoạt động cụ thể.",
+        "Câu rõ ý, không chép thơ.",
+        "Cảm xúc gắn với trải nghiệm thật."
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "question_id": "TV3_T1_B13_Q01",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Trong cảnh thủ công, phần nào được tạo từ giấy trắng?",
+      "correct_answer": "Chiếc thuyền",
+      "options": [
+        "Chiếc thuyền",
+        "Mặt trời",
+        "Mặt nước",
+        "Đám mây"
+      ],
+      "explanation": "Giấy trắng được gấp thành thuyền; giấy đỏ và xanh tạo các phần khác.",
+      "evidence": "Trang59: khổ đầu và các khổ tiếp theo về màu giấy."
+    },
+    {
+      "question_id": "TV3_T1_B13_Q02",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Tờ giấy đỏ góp phần nào vào bức tranh cô làm?",
+      "correct_answer": "Mặt trời có tia nắng",
+      "options": [
+        "Mặt trời có tia nắng",
+        "Chiếc thuyền đang trôi",
+        "Sóng quanh thuyền",
+        "Bờ cát màu trắng"
+      ],
+      "explanation": "Màu đỏ gắn với mặt trời; không đổi quan hệ giữa các màu và sản phẩm.",
+      "evidence": "Trang59: khổ thứ hai."
+    },
+    {
+      "question_id": "TV3_T1_B13_Q03",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Cảnh cuối cùng hiện ra trước mắt học trò gợi thời điểm nào?",
+      "correct_answer": "Bình minh trên biển",
+      "options": [
+        "Bình minh trên biển",
+        "Đêm tuyết giữa rừng",
+        "Giữa trưa trong thư viện",
+        "Chiều mưa ở sân trường"
+      ],
+      "explanation": "Thuyền, mặt trời và sóng kết hợp thành cảnh biển lúc ngày mới bắt đầu.",
+      "evidence": "Trang59: khổ tả cảnh hoàn chỉnh."
+    },
+    {
+      "question_id": "TV3_T1_B13_Q04",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Vì sao học trò cảm thấy việc cô làm như phép màu?",
+      "correct_answer": "Cô biến giấy thành cảnh sinh động bằng bàn tay khéo léo",
+      "options": [
+        "Cô biến giấy thành cảnh sinh động bằng bàn tay khéo léo",
+        "Cô dùng phép thuật thật để tạo biển",
+        "Cô đưa cả lớp đi tàu ra biển",
+        "Cô mua sẵn một chiếc thuyền lớn"
+      ],
+      "explanation": "Đây là cách thể hiện sự khâm phục tay nghề và sáng tạo, không khẳng định có phép thuật.",
+      "evidence": "Trang59–60: quá trình gấp cắt và cảm nhận của học trò."
+    },
+    {
+      "question_id": "TV3_T1_B13_Q05",
+      "type": "mcq",
+      "skill": "vocabulary",
+      "question": "Mặt nước dập dềnh chuyển động thế nào?",
+      "correct_answer": "Lên xuống nhịp nhàng",
+      "options": [
+        "Lên xuống nhịp nhàng",
+        "Bất động",
+        "Chạy trên bờ",
+        "Bay vào lớp"
+      ],
+      "explanation": "Dập dềnh gợi chuyển động lên xuống của nước."
+    },
+    {
+      "question_id": "TV3_T1_B13_Q06",
+      "type": "mcq",
+      "skill": "vocabulary",
+      "question": "Từ rì rào gợi điều gì trong cảnh biển?",
+      "correct_answer": "Âm thanh sóng nhỏ và đều",
+      "options": [
+        "Âm thanh sóng nhỏ và đều",
+        "Màu đỏ của giấy",
+        "Kích thước thuyền",
+        "Độ dày sách"
+      ],
+      "explanation": "Đây là từ gợi âm thanh, khác từ tả màu hoặc kích thước."
+    },
+    {
+      "question_id": "TV3_T1_B13_Q07",
+      "type": "mcq",
+      "skill": "sentences",
+      "question": "Câu nào nói rõ sự khéo léo của cô?",
+      "correct_answer": "Cô cắt giấy nhanh và tạo hình rất đẹp.",
+      "options": [
+        "Cô cắt giấy nhanh và tạo hình rất đẹp.",
+        "Cô và rồi.",
+        "Giấy của nhưng.",
+        "Đẹp vì."
+      ],
+      "explanation": "Câu đầy đủ nêu người và việc làm, kèm đặc điểm."
+    },
+    {
+      "question_id": "TV3_T1_B13_Q08",
+      "type": "mcq",
+      "skill": "sentences",
+      "question": "Câu nào nói cảm xúc có lí do khi xem cô làm thủ công?",
+      "correct_answer": "Em thích thú vì giấy màu thành một bức tranh biển.",
+      "options": [
+        "Em thích thú vì giấy màu thành một bức tranh biển.",
+        "Em có một bút chì.",
+        "Lớp em có cửa.",
+        "Tờ giấy ở trên bàn."
+      ],
+      "explanation": "Câu nêu cảm xúc và chi tiết tạo nên cảm xúc."
+    },
+    {
+      "question_id": "TV3_T1_B13_Q09",
+      "type": "mcq",
+      "skill": "spelling",
+      "question": "Điền l hoặc n: Cô ...àm một chiếc thuyền giấy.",
+      "correct_answer": "l",
+      "options": [
+        "l",
+        "n",
+        "r",
+        "d"
+      ],
+      "explanation": "Làm viết l; không viết nàm."
+    },
+    {
+      "question_id": "TV3_T1_B13_Q10",
+      "type": "mcq",
+      "skill": "spelling",
+      "question": "Cặp tiếng nào đều đúng trong cảnh mặt trời buổi sớm?",
+      "correct_answer": "nắng lên",
+      "options": [
+        "nắng lên",
+        "lắng nên",
+        "nắng nên",
+        "lắng lên"
+      ],
+      "explanation": "Nắng chỉ ánh sáng mặt trời; lên chỉ hướng xuất hiện cao hơn."
+    },
+    {
+      "question_id": "TV3_T1_B13_Q11",
+      "type": "mcq",
+      "skill": "expression",
+      "question": "Kể giờ thủ công rõ nhất nên thêm điều nào?",
+      "correct_answer": "Việc em đã tự làm và cảm xúc khi hoàn thành",
+      "options": [
+        "Việc em đã tự làm và cảm xúc khi hoàn thành",
+        "Chỉ lặp vui quá nhiều lần",
+        "Tên mọi đồ vật trong nhà",
+        "Một chuyện đi chợ không liên quan"
+      ],
+      "explanation": "Hoạt động và cảm xúc cụ thể giúp người nghe hiểu trải nghiệm."
+    },
+    {
+      "question_id": "TV3_T1_B13_Q12",
+      "type": "mcq",
+      "skill": "expression",
+      "question": "Em chưa làm được sản phẩm đẹp. Cách kể nào phù hợp?",
+      "correct_answer": "Kể điều còn khó và điều em muốn luyện thêm",
+      "options": [
+        "Kể điều còn khó và điều em muốn luyện thêm",
+        "Nhận sản phẩm của cô là mình làm",
+        "Bịa đã làm hoàn hảo",
+        "Chê bạn để tránh nói việc mình"
+      ],
+      "explanation": "Trung thực về khó khăn vẫn tạo câu chuyện có ý nghĩa."
+    }
+  ],
+  "games": [
+    {
+      "id": "TV3_T1_B13_GAME",
+      "title": "Bức tranh giấy",
+      "mode": "treasure",
+      "objective": "Tìm kho báu bằng cách hiểu chi tiết và dùng tiếng Việt đúng theo bài.",
+      "rules": [
+        "Trả lời 10 câu được chọn từ chính bài này.",
+        "Mỗi đáp án đúng được 10 điểm; đọc phản hồi để hiểu và sửa câu sai.",
+        "Chơi lại để gặp một bộ câu khác."
+      ],
+      "question_ids": [
+        "TV3_T1_B13_Q01",
+        "TV3_T1_B13_Q02",
+        "TV3_T1_B13_Q03",
+        "TV3_T1_B13_Q04",
+        "TV3_T1_B13_Q05",
+        "TV3_T1_B13_Q06",
+        "TV3_T1_B13_Q07",
+        "TV3_T1_B13_Q08",
+        "TV3_T1_B13_Q09",
+        "TV3_T1_B13_Q10",
+        "TV3_T1_B13_Q11",
+        "TV3_T1_B13_Q12"
+      ],
+      "answer_source": "practice.correct_answer",
+      "feedback_source": "practice.explanation",
+      "max_score": 100
+    }
+  ],
+  "assessment": {
+    "session_size": 10,
+    "scoring": "Mỗi câu đúng được tính điểm theo hệ thống; 8–10 câu đúng: nắm tốt, 5–7: đọc lại phần còn nhầm, dưới 5: đọc bài cùng người thân rồi thử lại. Nhiệm vụ nói/viết tự kiểm theo tiêu chí, không chấm bằng một đáp án duy nhất.",
+    "review_advice": "Sau lượt luyện, chọn một câu sai để giải thích lại. Với nói/viết: đúng chi tiết hoặc trải nghiệm thật, đủ ý, câu rõ, chính tả đúng; sửa ít nhất một điểm trước khi hoàn tất."
+  },
+  "feedback": {
+    "correct": "Em đã chọn phù hợp. Đọc lời giải để nhắc lại căn cứ.",
+    "incorrect": "Đọc lại câu hỏi và chi tiết liên quan; xem lời giải để biết vì sao."
+  },
+  "verification": {
+    "ai_authored": true,
+    "structure_checked": true,
+    "answer_reviewed": true,
+    "source_reviewed": true,
+    "teacher_approved": false
+  },
+  "status": "AI_CHECKED_AWAITING_TEACHER"
+}

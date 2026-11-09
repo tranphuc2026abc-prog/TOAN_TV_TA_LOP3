@@ -1,0 +1,322 @@
+{
+  "id": "TV3_T1_B14",
+  "subject": "tv",
+  "grade": 3,
+  "book": "Kết nối tri thức với cuộc sống",
+  "volume": 1,
+  "lesson_no": 14,
+  "title": "Cuộc họp của chữ viết",
+  "topic": "Cổng trường rộng mở",
+  "source": {
+    "pdf": "03-sgk-tieng-viet-3-tap-mot.pdf",
+    "printed_pages": [
+      62,
+      65
+    ],
+    "pdf_pages": [
+      63,
+      66
+    ],
+    "review": "Đọc trực quan nguồn ở lượt trước; đối chiếu BATCH25_SOURCE_NOTES.md ngày10/11/2026. B16 chỉ trang70–73; không chép toàn văn."
+  },
+  "objectives": [
+    "Nêu mục đích cuộc họp và giải pháp giúp Hoàng.",
+    "Phân biệt câu kể, câu hỏi, câu bộc lộ cảm xúc.",
+    "Đọc lại câu để đặt dấu kết câu phù hợp."
+  ],
+  "reading": {
+    "summary": "Các chữ cái và dấu câu được kể như những người cùng họp để giúp Hoàng viết rõ nghĩa. Đặt dấu tùy tiện làm các bộ phận câu bị tách sai, khiến người đọc hiểu lầm.",
+    "characters_or_images": [
+      "Bác chữ A",
+      "Hoàng",
+      "Các dấu câu"
+    ],
+    "message": "Trước khi chấm câu, cần đọc lại để biết ý đã trọn vẹn chưa."
+  },
+  "knowledge": {
+    "introduction": "Các chữ cái và dấu câu được kể như những người cùng họp để giúp Hoàng viết rõ nghĩa. Đặt dấu tùy tiện làm các bộ phận câu bị tách sai, khiến người đọc hiểu lầm.",
+    "rules": [
+      "Bác chữ A mở cuộc họp, dấu chấm chỉ ra lỗi đặt dấu không theo nội dung.",
+      "Trước khi chấm câu, cần đọc lại để biết ý đã trọn vẹn chưa.",
+      "Câu kể có thể giới thiệu, tả đặc điểm hoặc nêu hoạt động; câu hỏi nhằm tìm thông tin."
+    ],
+    "steps": [
+      "Đọc bài ở trang nguồn, đối chiếu phần tóm tắt.",
+      "Trả lời câu hỏi rồi xem căn cứ trong lời giải.",
+      "Làm nhiệm vụ viết và sửa theo tiêu chí."
+    ],
+    "common_errors": [
+      "Đặt dấu theo chỗ mỏi tay thay vì theo ý.",
+      "Cho rằng mọi câu dài phải ngắt ở cùng một số tiếng.",
+      "Chỉ nhìn dấu cuối mà bỏ qua mục đích nói khi phân loại câu."
+    ]
+  },
+  "language_practice": {
+    "vocabulary": [
+      "Giọng dõng dạc là giọng thế nào? Đáp án: Rõ ràng, mạnh mẽ và chững chạc. Dõng dạc tả cách nói rõ, có sự vững vàng.",
+      "Mồ hôi lấm tấm nghĩa là gì? Đáp án: Nhiều giọt nhỏ trên da. Lấm tấm chỉ nhiều hạt hoặc giọt nhỏ trên bề mặt."
+    ],
+    "sentences": [
+      "Câu nào nêu hoạt động của Hoàng? Đáp án: Hoàng đọc lại câu vừa viết.. Đọc lại là hoạt động; các câu kia giới thiệu hoặc tả đặc điểm.",
+      "Đặt dấu nào sau câu Bạn đã đọc lại bài chưa Đáp án: ?. Câu nhằm hỏi thông tin nên kết thúc bằng dấu hỏi."
+    ],
+    "spelling": [
+      "Tên riêng nào viết đúng theo nội dung ôn chữ Ê? Đáp án: Ê-đê. Tên trong bài viết hoa chữ đầu, các cách kia không theo dạng tên đã cho.",
+      "Cách viết nào đúng đầu một câu kể? Đáp án: Em đọc lại bài.. Câu cần viết hoa đầu và có dấu kết câu."
+    ],
+    "expression": [
+      "Khi giới thiệu sở thích, câu nào rõ ý? Đáp án: Tớ thích đọc truyện về động vật.. Câu nêu người và sở thích cụ thể.",
+      "Sau khi viết thẻ giới thiệu, việc nào giúp bài rõ hơn? Đáp án: Đọc lại, sửa từ chưa rõ và dấu câu. Đọc lại nội dung là cách tránh lỗi giống Hoàng."
+    ]
+  },
+  "examples": [
+    {
+      "question": "Sửa câu tự biên soạn: Bạn An mở. Cặp lấy sách ra.",
+      "steps": [
+        "Ý muốn kể An mở cặp và lấy sách.",
+        "Dấu chấm sau mở làm ý bị tách dở dang.",
+        "Sửa: Bạn An mở cặp, lấy sách ra."
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "title": "Thực hành theo bài",
+      "materials": [
+        "Vở",
+        "Bút"
+      ],
+      "steps": [
+        "Viết ba câu giới thiệu bản thân bằng tên gọi và sở thích; đọc lại rồi sửa dấu câu.",
+        "Viết bằng lời và trải nghiệm của em.",
+        "Đọc lại, sửa ít nhất một điểm chưa rõ."
+      ],
+      "check": [
+        "Không cần công khai địa chỉ hoặc ngày sinh.",
+        "Mỗi câu đủ ý.",
+        "Viết hoa đầu câu, chọn dấu cuối phù hợp."
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "question_id": "TV3_T1_B14_Q01",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Ai mở đầu cuộc họp để tìm cách giúp Hoàng?",
+      "correct_answer": "Bác chữ A",
+      "options": [
+        "Bác chữ A",
+        "Thầy hiệu trưởng",
+        "Bạn Cô-li-a",
+        "Dấu hỏi"
+      ],
+      "explanation": "Bác chữ A nêu vấn đề trong cuộc họp của chữ và dấu câu.",
+      "evidence": "Trang62: phần mở cuộc họp."
+    },
+    {
+      "question_id": "TV3_T1_B14_Q02",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Vấn đề chính khiến chữ và dấu câu phải họp là gì?",
+      "correct_answer": "Hoàng đặt dấu chấm tùy tiện làm câu sai nghĩa",
+      "options": [
+        "Hoàng đặt dấu chấm tùy tiện làm câu sai nghĩa",
+        "Hoàng quên trả sách thư viện",
+        "Hoàng gấp sai thuyền giấy",
+        "Hoàng viết lời giải bằng thơ"
+      ],
+      "explanation": "Việc chấm không theo ý làm các bộ phận câu bị tách sai, gây khó hiểu.",
+      "evidence": "Trang62–63: đoạn văn của Hoàng và nhận xét dấu chấm."
+    },
+    {
+      "question_id": "TV3_T1_B14_Q03",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Theo giải pháp trong cuộc họp, trước lúc đặt dấu chấm Hoàng cần làm gì?",
+      "correct_answer": "Đọc lại nội dung câu vừa viết",
+      "options": [
+        "Đọc lại nội dung câu vừa viết",
+        "Đếm đủ năm tiếng rồi chấm",
+        "Đợi mỏi tay mới chấm",
+        "Bỏ hết dấu câu trong bài"
+      ],
+      "explanation": "Đọc lại giúp nhận ra ý đã trọn vẹn hay còn dở dang, thay vì chấm theo chỗ mỏi tay.",
+      "evidence": "Trang63: lời đề nghị của bác chữ A."
+    },
+    {
+      "question_id": "TV3_T1_B14_Q04",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Cách kể chữ và dấu câu tự họp giúp câu chuyện đạt điều gì?",
+      "correct_answer": "Làm bài học về dấu câu trở nên sinh động, dễ nhớ",
+      "options": [
+        "Làm bài học về dấu câu trở nên sinh động, dễ nhớ",
+        "Khẳng định chữ ngoài đời tự đi lại",
+        "Chứng minh dấu câu không cần thiết",
+        "Yêu cầu học sinh bỏ viết câu"
+      ],
+      "explanation": "Chữ được kể như người để người đọc thấy hậu quả và cách sửa lỗi dấu câu rõ hơn.",
+      "evidence": "Trang62–63: các chữ và dấu câu cùng trao đổi cách giúp Hoàng."
+    },
+    {
+      "question_id": "TV3_T1_B14_Q05",
+      "type": "mcq",
+      "skill": "vocabulary",
+      "question": "Giọng dõng dạc là giọng thế nào?",
+      "correct_answer": "Rõ ràng, mạnh mẽ và chững chạc",
+      "options": [
+        "Rõ ràng, mạnh mẽ và chững chạc",
+        "Nhỏ đến không nghe được",
+        "Ngắt quãng vì ngủ",
+        "Lẫn mọi tiếng vào nhau"
+      ],
+      "explanation": "Dõng dạc tả cách nói rõ, có sự vững vàng."
+    },
+    {
+      "question_id": "TV3_T1_B14_Q06",
+      "type": "mcq",
+      "skill": "vocabulary",
+      "question": "Mồ hôi lấm tấm nghĩa là gì?",
+      "correct_answer": "Nhiều giọt nhỏ trên da",
+      "options": [
+        "Nhiều giọt nhỏ trên da",
+        "Da hoàn toàn khô",
+        "Một vũng nước trên sàn",
+        "Màu giấy đổi đỏ"
+      ],
+      "explanation": "Lấm tấm chỉ nhiều hạt hoặc giọt nhỏ trên bề mặt."
+    },
+    {
+      "question_id": "TV3_T1_B14_Q07",
+      "type": "mcq",
+      "skill": "sentences",
+      "question": "Câu nào nêu hoạt động của Hoàng?",
+      "correct_answer": "Hoàng đọc lại câu vừa viết.",
+      "options": [
+        "Hoàng đọc lại câu vừa viết.",
+        "Hoàng là học sinh.",
+        "Vở của Hoàng mới.",
+        "Chữ trên vở nhỏ."
+      ],
+      "explanation": "Đọc lại là hoạt động; các câu kia giới thiệu hoặc tả đặc điểm."
+    },
+    {
+      "question_id": "TV3_T1_B14_Q08",
+      "type": "mcq",
+      "skill": "sentences",
+      "question": "Đặt dấu nào sau câu Bạn đã đọc lại bài chưa",
+      "correct_answer": "?",
+      "options": [
+        "?",
+        ".",
+        ";",
+        ":"
+      ],
+      "explanation": "Câu nhằm hỏi thông tin nên kết thúc bằng dấu hỏi."
+    },
+    {
+      "question_id": "TV3_T1_B14_Q09",
+      "type": "mcq",
+      "skill": "spelling",
+      "question": "Tên riêng nào viết đúng theo nội dung ôn chữ Ê?",
+      "correct_answer": "Ê-đê",
+      "options": [
+        "Ê-đê",
+        "ê-đê",
+        "ê-Đê",
+        "Ê-ĐÊ"
+      ],
+      "explanation": "Tên trong bài viết hoa chữ đầu, các cách kia không theo dạng tên đã cho."
+    },
+    {
+      "question_id": "TV3_T1_B14_Q10",
+      "type": "mcq",
+      "skill": "spelling",
+      "question": "Cách viết nào đúng đầu một câu kể?",
+      "correct_answer": "Em đọc lại bài.",
+      "options": [
+        "Em đọc lại bài.",
+        "em đọc lại bài.",
+        "eM đọc lại bài.",
+        "em đọc lại bài"
+      ],
+      "explanation": "Câu cần viết hoa đầu và có dấu kết câu."
+    },
+    {
+      "question_id": "TV3_T1_B14_Q11",
+      "type": "mcq",
+      "skill": "expression",
+      "question": "Khi giới thiệu sở thích, câu nào rõ ý?",
+      "correct_answer": "Tớ thích đọc truyện về động vật.",
+      "options": [
+        "Tớ thích đọc truyện về động vật.",
+        "Tớ thích vì và.",
+        "Sở thích của.",
+        "Tớ nhưng rồi."
+      ],
+      "explanation": "Câu nêu người và sở thích cụ thể."
+    },
+    {
+      "question_id": "TV3_T1_B14_Q12",
+      "type": "mcq",
+      "skill": "expression",
+      "question": "Sau khi viết thẻ giới thiệu, việc nào giúp bài rõ hơn?",
+      "correct_answer": "Đọc lại, sửa từ chưa rõ và dấu câu",
+      "options": [
+        "Đọc lại, sửa từ chưa rõ và dấu câu",
+        "Chấm bất cứ nơi nào mỏi tay",
+        "Bỏ mọi dấu câu",
+        "Viết thêm thông tin riêng của bạn khác"
+      ],
+      "explanation": "Đọc lại nội dung là cách tránh lỗi giống Hoàng."
+    }
+  ],
+  "games": [
+    {
+      "id": "TV3_T1_B14_GAME",
+      "title": "Giúp Hoàng sửa câu",
+      "mode": "treasure",
+      "objective": "Tìm kho báu bằng cách hiểu chi tiết và dùng tiếng Việt đúng theo bài.",
+      "rules": [
+        "Trả lời 10 câu được chọn từ chính bài này.",
+        "Mỗi đáp án đúng được 10 điểm; đọc phản hồi để hiểu và sửa câu sai.",
+        "Chơi lại để gặp một bộ câu khác."
+      ],
+      "question_ids": [
+        "TV3_T1_B14_Q01",
+        "TV3_T1_B14_Q02",
+        "TV3_T1_B14_Q03",
+        "TV3_T1_B14_Q04",
+        "TV3_T1_B14_Q05",
+        "TV3_T1_B14_Q06",
+        "TV3_T1_B14_Q07",
+        "TV3_T1_B14_Q08",
+        "TV3_T1_B14_Q09",
+        "TV3_T1_B14_Q10",
+        "TV3_T1_B14_Q11",
+        "TV3_T1_B14_Q12"
+      ],
+      "answer_source": "practice.correct_answer",
+      "feedback_source": "practice.explanation",
+      "max_score": 100
+    }
+  ],
+  "assessment": {
+    "session_size": 10,
+    "scoring": "Mỗi câu đúng được tính điểm theo hệ thống; 8–10 câu đúng: nắm tốt, 5–7: đọc lại phần còn nhầm, dưới 5: đọc bài cùng người thân rồi thử lại. Nhiệm vụ nói/viết tự kiểm theo tiêu chí, không chấm bằng một đáp án duy nhất.",
+    "review_advice": "Sau lượt luyện, chọn một câu sai để giải thích lại. Với nói/viết: đúng chi tiết hoặc trải nghiệm thật, đủ ý, câu rõ, chính tả đúng; sửa ít nhất một điểm trước khi hoàn tất."
+  },
+  "feedback": {
+    "correct": "Em đã chọn phù hợp. Đọc lời giải để nhắc lại căn cứ.",
+    "incorrect": "Đọc lại câu hỏi và chi tiết liên quan; xem lời giải để biết vì sao."
+  },
+  "verification": {
+    "ai_authored": true,
+    "structure_checked": true,
+    "answer_reviewed": true,
+    "source_reviewed": true,
+    "teacher_approved": false
+  },
+  "status": "AI_CHECKED_AWAITING_TEACHER"
+}

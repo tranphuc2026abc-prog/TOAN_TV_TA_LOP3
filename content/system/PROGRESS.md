@@ -1,3 +1,11 @@
+# Batch25 hoàn thiện TV13–16 — 10/11/2026
+
+Đã tích hợp4 bài Bàn tay cô giáo, Cuộc họp của chữ viết, Thư viện, Ngày em vào Đội từ các bản kiến thức/câu đọc hiểu đã lưu:4 JSON+4 Markdown,48 câu (12/bài, gồm đọc hiểu/từ/câu/chính tả/diễn đạt),4 game kho báu, lượt10 câu, ví dụ và hoạt động viết có tiêu chí. B16 nguồn70–73 theo trang đã đọc; không tự nhận đọc75–81. Không sao chép toàn văn. npm test đạt toàn bộ97 kho, giữ hồi quy cũ, DOM và fixture; không có Chromium để kiểm thử bố cục thật.
+
+Tổng AI biên soạn/kiểm tra97/168,3464 câu,97 game; Toán81,TV16,TA0. Giáo viên duyệt4,93 chờ duyệt,71 mục nháp (TV46+TA25). Giữ APPROVALS và wl3. Tiếp Batch26 TV17–20 sau khi đọc nguồn. Actions/Pages cần xác minh sau commit; chưa bàn giao toàn dự án.
+
+## Lịch sử
+
 # Checkpoint câu đọc hiểu Batch25 — 10/11/2026
 
 Đã biên soạn16 câu đọc hiểu mới cho TV13–16 (4/bài), mỗi câu có đáp án,3 phương án nhiễu, giải thích và căn cứ trang; lưu drafts/BATCH25_READING_QUESTIONS.json. Kiểm tra JSON,16 đề không trùng,4 lựa chọn khác nhau/câu,căn cứ/lời giải đầy đủ đạt. Bản chưa tích hợp: còn câu từ/câu/chính tả/diễn đạt, game, xuất bài JSON/Markdown và kiểm thử toàn bộ. Không đưa bản dở vào INDEX.
