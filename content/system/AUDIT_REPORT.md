@@ -1,3 +1,11 @@
+# Xác minh Batch26 — 10/11/2026
+
+Commit học liệu: https://github.com/tranphuc2026abc-prog/TOAN_TV_TA_LOP3/commit/b53b5022cb8bffbb683d12b96408dd0192bdc563. Đã xác minh main trỏ đúng commit. Hai workflow Actions/Pages 42710839610 và 42710838752 đều completed/success. Sau triển khai, INDEX và toàn bộ 4 JSON + 4 Markdown TV17–20 trả HTTP200, 9/9 tệp khớp SHA-256 với bản đã kiểm thử. Lần kiểm tra B20 trước khi triển khai xong trả404; kiểm tra lại sau triển khai đã thành công. npm test sau chỉnh sửa cuối đạt đầy đủ.
+
+Checkpoint:101/168 đã biên soạn và kiểm tra,3512 câu,101 trò chơi;4 giáo viên duyệt,97 chờ giáo viên,67 nháp. Tiếp theo Batch27 TV21–24 (trang in97–111, PDF98–112), chưa đọc các trang này ở lượt hiện tại. Không có Chromium; chưa xác minh bố cục trình duyệt thật. Chưa hoàn thành168/168.
+
+## Lịch sử
+
 # Batch26 — Tiếng Việt17–20 — 10/11/2026
 
 Đã đọc trực quan trang in82–96 (PDF83–97) và tích hợp Ngưỡng cửa, Món quà đặc biệt, Khi cả nhà bé tí, Trò chuyện cùng mẹ:4 JSON+4 Markdown,48 câu mới (12/bài),4 trò chơi kho báu,10 câu/lượt. Có mục tiêu, kiến thức, lỗi thường gặp, ví dụ giải, luyện từ/câu/chính tả/diễn đạt, nhiệm vụ nói/viết và tiêu chí tự kiểm. Không đăng toàn văn SGK. Ghi chú nguồn: BATCH26_SOURCE_NOTES.md. Chú ý các câu hỏi tuổi thơ chưa phải sự kiện xác nhận; ba mẹ con là mẹ,Thư,Hân; mẹ kể hình dáng hồi bé khiến con cười.
