@@ -1,3 +1,9 @@
+# Checkpoint đọc nguồn Batch24 — 09/11/2026
+
+Đã đọc trực quan nguồn TV9–12 trang in 43–58 (PDF 44–59); lưu căn cứ và các điểm dễ nhầm tại BATCH24_SOURCE_NOTES.md. Chưa có JSON/Markdown học liệu hoàn chỉnh hay trò chơi mới; INDEX giữ nguyên 89/168, AI biên soạn/kiểm tra 89, giáo viên duyệt 4, chờ duyệt 85, còn 79 mục nháp. Tiếp biên soạn Batch24 từ ghi chú nguồn; không tính ghi chú là hoàn thành. Không thay đổi mã website hoặc APPROVALS.
+
+## Lịch sử
+
 # Kiểm tra căn cứ đọc hiểu — 09/11/2026
 
 Đã siết validator: mọi câu đọc hiểu phải có căn cứ không rỗng; số câu mỗi lượt phải là số nguyên dương, không nhận bool hoặc số thập phân. Thêm hồi quy chống trường hợp một câu có căn cứ che khuất câu khác thiếu căn cứ. npm test đạt toàn bộ 89 kho, hồi quy Toán và Tiếng Việt, DOM và fixture. Không có Chromium. Chưa biên soạn/đọc nguồn TV9–12 trong lượt này; không tăng số hoàn thành. Checkpoint tiếp tục Batch24 TV9–12; tổng 89/168, giáo viên duyệt 4, chờ duyệt 85, còn 79 mục nháp.

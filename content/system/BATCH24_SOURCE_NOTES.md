@@ -1,0 +1,10 @@
+# Ghi chú nguồn Batch24 — TV9–12
+
+Đọc trực quan ngày 09/11/2026 từ PDF Tiếng Việt tập 1 truy cập được trong upload, trang PDF 44–59 tương ứng trang in 43–58. Đây là ghi chú nguồn, chưa phải học liệu hoàn chỉnh và không được thêm vào INDEX như bài đã hoàn thành.
+
+- TV9 Đi học vui sao (43–45): buổi sáng nắng, gió mát; sách gợi đồng lúa, cánh cò, truyện cổ; cô dạy múa hát, làm đồ chơi; giờ chơi nô đùa rồi vẽ tranh; tan trường vui, vừa chạy vừa hát. Luyện kể ngày đi học, cảm nghĩ sau một tháng; s/x hoặc hỏi/ngã; ghi điều đáng nhớ trong buổi học.
+- TV10 Con đường đến trường (46–49): đường lưng chừng đồi, mấp mô, cây cỏ và lạc tiên; ngày nắng chạy cùng bạn; mùa mưa trơn lầy, có đoạn phải đổi lối vì ngập. Cô giáo từ vùng xuôi đợi ở đoạn khó, đưa trò đến lớp; người kể không nghỉ học. Không biến hành vi đi đường khó trong truyện thành hướng dẫn an toàn cho trẻ. Luyện D/Đ, từ chỉ đặc điểm màu/âm/hương; viết tình cảm với người yêu quý.
+- TV11 Lời giải toán đặc biệt (50–53): Huy-gô có năng khiếu thơ; thầy lo vì cậu chậm viết khi thi Toán; còn 15 phút mới viết, kịp nộp lúc trống hết giờ; đáp số đúng và lời giải viết bằng thơ. Không khẳng định cậu không biết làm toán. Nói/nghe Đội viên tương lai: trang chỉ có tranh và câu hỏi, chưa có toàn văn lời kể, không bịa hội thoại. Chính tả r/d/gi hoặc an/ang; từ giao/dao/rao.
+- TV12 Bài tập làm văn (54–58): Cô-li-a khó kể giúp mẹ vì ít làm việc nhà, mẹ thường làm thay. Nhìn Liu-xi-a viết nhiều, cậu thêm cả việc chưa làm để bài dài. Sau đó mẹ nhờ giặt đồ, cậu ngạc nhiên rồi vui nhận vì đã viết điều ấy. Thông điệp gắn lời nói với hành động, thực sự giúp mẹ. Luyện nhóm từ nhà trường, nhận biết và tạo câu hỏi; đọc mở rộng; tìm hiểu cấu trúc đơn xin vào Đội (người nhận, thông tin người viết, nguyện vọng, lời hứa, kí tên). Không sao chép thông tin cá nhân trong đơn mẫu thành dữ liệu học sinh.
+
+Bước tiếp: biên soạn riêng 4 JSON/Markdown, câu hỏi có căn cứ trang, hoạt động nói/viết, game; chạy kiểm thử rồi mới tăng tiến độ. Chưa tạo câu hỏi hoặc game cho TV9–12 trong ghi chú này.
