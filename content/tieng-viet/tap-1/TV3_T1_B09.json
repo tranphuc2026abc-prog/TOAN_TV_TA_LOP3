@@ -1,0 +1,326 @@
+{
+  "id": "TV3_T1_B09",
+  "subject": "tv",
+  "grade": 3,
+  "book": "Kết nối tri thức với cuộc sống",
+  "volume": 1,
+  "lesson_no": 9,
+  "title": "Đi học vui sao",
+  "topic": "Cổng trường rộng mở",
+  "source": {
+    "pdf": "03-sgk-tieng-viet-3-tap-mot.pdf",
+    "printed_pages": [
+      43,
+      45
+    ],
+    "pdf_pages": [
+      44,
+      46
+    ],
+    "review": "Đọc trực quan toàn bộ trang in trong khoảng trên (PDF lệch +1 trang), gồm bài đọc và các mục luyện tập; 09/11/2026. Tóm tắt và bài tập mới do AI biên soạn, không đăng toàn văn SGK."
+  },
+  "objectives": [
+    "Nêu đúng nhân vật hoặc hình ảnh, chi tiết và ý nghĩa của Đi học vui sao.",
+    "Dùng từ và đặt câu rõ ý theo nội dung bài.",
+    "Luyện chính tả và nói/viết bằng trải nghiệm riêng."
+  ],
+  "reading": {
+    "summary": "Bạn nhỏ đến trường trong buổi sáng có nắng và gió mát. Những trang sách mở ra đồng lúa, cánh cò và chuyện cổ tích. Ở lớp, cô dạy múa hát, làm đồ chơi. Giờ nghỉ có bạn cùng chơi rồi vẽ tranh. Khi tan học, niềm vui còn theo bạn qua cánh đồng trong nhịp hát.",
+    "characters_or_images": [
+      "Bạn nhỏ xưng em",
+      "Cô giáo và những người bạn"
+    ],
+    "message": "Trường học đem lại kiến thức, hoạt động thú vị và tình bạn."
+  },
+  "knowledge": {
+    "introduction": "Trường học đem lại kiến thức, hoạt động thú vị và tình bạn.",
+    "rules": [
+      "Theo dõi niềm vui qua ba lúc: tới trường, ở trường, tan học.",
+      "Đọc thơ vui tươi; ngắt theo ý, không đọc đều từng tiếng.",
+      "Tìm chi tiết cụ thể trước khi nói cảm xúc."
+    ],
+    "steps": [
+      "Đọc bài trong SGK theo trang nguồn; đọc phần tóm tắt để nhớ mạch bài.",
+      "Tìm chi tiết trước khi chọn đáp án; xem lời giải sau mỗi câu.",
+      "Thực hành nói/viết theo nhiệm vụ, đối chiếu tiêu chí rồi sửa."
+    ],
+    "common_errors": [
+      "Không nhầm cảnh trong sách với mọi cảnh bạn trực tiếp nhìn thấy.",
+      "Không cho rằng tan học bạn buồn: bài nêu niềm vui rộn ràng."
+    ]
+  },
+  "language_practice": {
+    "vocabulary": [
+      "Mơn man: lướt nhẹ, gợi cảm giác dễ chịu; gió mơn man trên má.",
+      "Xốn xang trong bài: vui rạo rực trong lòng."
+    ],
+    "sentences": [
+      "Câu kể hoạt động: Chúng em vẽ tranh cùng nhau.",
+      "Câu cảm xúc: Em vui vì được chơi cùng bạn."
+    ],
+    "spelling": [
+      "Phân biệt s/x qua từ: sách mới, xôn xao.",
+      "Câu luyện mới: Sân trường xanh bóng cây. Soát sân và xanh."
+    ],
+    "expression": [
+      "Kể một ngày đi học theo ba thời điểm.",
+      "Viết 2–3 câu về điều em nhớ nhất trong buổi học."
+    ]
+  },
+  "examples": [
+    {
+      "question": "Giải thích vì sao bạn thích đi học.",
+      "steps": [
+        "Chọn việc cô dạy làm đồ chơi và việc bạn cùng vẽ tranh.",
+        "Từ những việc ấy, nhận ra cả học tập và tình bạn đều đem niềm vui."
+      ]
+    },
+    {
+      "question": "Kể một điều nhớ ở lớp bằng lời mới.",
+      "steps": [
+        "Mẫu: Hôm nay em cùng bạn tô một bức tranh. Bạn giúp em chọn màu. Em rất vui vì hai bạn phối hợp tốt.",
+        "Thay bằng chuyện thật của em."
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "title": "Một buổi học đáng nhớ",
+      "materials": [
+        "Giấy hoặc vở",
+        "Bút"
+      ],
+      "steps": [
+        "Viết 3 câu về một hoạt động ở lớp.",
+        "Nêu việc và người cùng làm.",
+        "Kể điều khiến em nhớ.",
+        "Thêm cảm xúc rồi đọc lại."
+      ],
+      "check": [
+        "Có chi tiết riêng.",
+        "Câu đủ ý và có dấu kết câu."
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "question_id": "TV3_T1_B09_Q01",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Không khí buổi sáng trong bài gợi cảm giác nào?",
+      "correct_answer": "Sáng trong và dễ chịu",
+      "options": [
+        "Sáng trong và dễ chịu",
+        "Tối mịt và rét buốt",
+        "Ồn ào vì bão",
+        "Ngột ngạt vì khói"
+      ],
+      "explanation": "Nắng và gió mát làm buổi tới trường dễ chịu.",
+      "evidence": "Trang nguồn đã đối chiếu trong BATCH24_SOURCE_NOTES.md"
+    },
+    {
+      "question_id": "TV3_T1_B09_Q02",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Cánh cò và đồng lúa xuất hiện cùng hoạt động nào?",
+      "correct_answer": "Lật những trang sách mới",
+      "options": [
+        "Lật những trang sách mới",
+        "Đang học bơi",
+        "Nấu ăn cùng mẹ",
+        "Làm bài kiểm tra Toán"
+      ],
+      "explanation": "Bạn khám phá cảnh vật qua trang sách.",
+      "evidence": "Trang nguồn đã đối chiếu trong BATCH24_SOURCE_NOTES.md"
+    },
+    {
+      "question_id": "TV3_T1_B09_Q03",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Sau khi nô đùa, các bạn còn làm gì cùng nhau?",
+      "correct_answer": "Vẽ tranh",
+      "options": [
+        "Vẽ tranh",
+        "Bỏ về nhà ngay",
+        "Đi hái lạc tiên",
+        "Thi giải toán bằng thơ"
+      ],
+      "explanation": "Bài kể các bạn cùng vẽ khi đã mệt sau trò chơi.",
+      "evidence": "Trang nguồn đã đối chiếu trong BATCH24_SOURCE_NOTES.md"
+    },
+    {
+      "question_id": "TV3_T1_B09_Q04",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Niềm vui của bạn lúc về nhà được thể hiện ra sao?",
+      "correct_answer": "Bước chân hòa với lời hát",
+      "options": [
+        "Bước chân hòa với lời hát",
+        "Im lặng vì giận cô",
+        "Khóc vì mất sách",
+        "Không muốn gặp bạn nữa"
+      ],
+      "explanation": "Nhịp hát và bước chân thể hiện niềm vui sau buổi học.",
+      "evidence": "Trang nguồn đã đối chiếu trong BATCH24_SOURCE_NOTES.md"
+    },
+    {
+      "question_id": "TV3_T1_B09_Q05",
+      "type": "mcq",
+      "skill": "vocabulary",
+      "question": "Gió mơn man gợi chuyển động nào?",
+      "correct_answer": "Chạm nhẹ trên da",
+      "options": [
+        "Chạm nhẹ trên da",
+        "Đập mạnh làm ngã",
+        "Đứng yên hoàn toàn",
+        "Cuốn tung mái nhà"
+      ],
+      "explanation": "Mơn man gợi sự tiếp xúc nhẹ và dễ chịu."
+    },
+    {
+      "question_id": "TV3_T1_B09_Q06",
+      "type": "mcq",
+      "skill": "vocabulary",
+      "question": "Trong bài, xốn xang nói về điều gì?",
+      "correct_answer": "Niềm vui rạo rực",
+      "options": [
+        "Niềm vui rạo rực",
+        "Màu của sách",
+        "Độ dài con đường",
+        "Mùi của món ăn"
+      ],
+      "explanation": "Đặt trong mạch bài, từ chỉ cảm xúc vui."
+    },
+    {
+      "question_id": "TV3_T1_B09_Q07",
+      "type": "mcq",
+      "skill": "sentences",
+      "question": "Câu nào nói rõ việc các bạn làm?",
+      "correct_answer": "Chúng em vẽ tranh dưới bóng cây.",
+      "options": [
+        "Chúng em vẽ tranh dưới bóng cây.",
+        "Chúng em rất.",
+        "Bóng cây của và.",
+        "Vẽ tranh thì bởi."
+      ],
+      "explanation": "Câu đúng có người làm và hoạt động rõ ràng."
+    },
+    {
+      "question_id": "TV3_T1_B09_Q08",
+      "type": "mcq",
+      "skill": "sentences",
+      "question": "Muốn hỏi bạn về điều thích ở lớp, em nói thế nào?",
+      "correct_answer": "Bạn thích hoạt động nào nhất hôm nay?",
+      "options": [
+        "Bạn thích hoạt động nào nhất hôm nay?",
+        "Bạn đừng kể nữa.",
+        "Mình không nghe đâu.",
+        "Bạn phải thích giống mình."
+      ],
+      "explanation": "Câu hỏi cho bạn cơ hội chia sẻ ý riêng."
+    },
+    {
+      "question_id": "TV3_T1_B09_Q09",
+      "type": "mcq",
+      "skill": "spelling",
+      "question": "Chọn cách viết đúng tên đồ dùng để đọc.",
+      "correct_answer": "sách",
+      "options": [
+        "sách",
+        "xách",
+        "sạh",
+        "xạh"
+      ],
+      "explanation": "Sách là đồ dùng đọc; xách mang nghĩa khác."
+    },
+    {
+      "question_id": "TV3_T1_B09_Q10",
+      "type": "mcq",
+      "skill": "spelling",
+      "question": "Từ nào viết đúng để tả màu lá?",
+      "correct_answer": "xanh",
+      "options": [
+        "xanh",
+        "sanh",
+        "xang",
+        "sang"
+      ],
+      "explanation": "Màu lá được gọi là xanh, không phải các tiếng còn lại."
+    },
+    {
+      "question_id": "TV3_T1_B09_Q11",
+      "type": "mcq",
+      "skill": "expression",
+      "question": "Kể ngày đi học rõ mạch nhất bằng cách nào?",
+      "correct_answer": "Tới trường, hoạt động ở lớp, rồi tan học",
+      "options": [
+        "Tới trường, hoạt động ở lớp, rồi tan học",
+        "Chỉ lặp lại đi học vui nhiều lần",
+        "Kể kết thúc trước nhưng bỏ hết việc chính",
+        "Chép chuyện của bạn làm chuyện mình"
+      ],
+      "explanation": "Ba thời điểm giúp câu chuyện dễ theo dõi."
+    },
+    {
+      "question_id": "TV3_T1_B09_Q12",
+      "type": "mcq",
+      "skill": "expression",
+      "question": "Chi tiết nào làm câu Em vui ở lớp rõ hơn?",
+      "correct_answer": "Vì em cùng bạn hoàn thành bức tranh.",
+      "options": [
+        "Vì em cùng bạn hoàn thành bức tranh.",
+        "Vì lớp là lớp.",
+        "Vì vui thì vui.",
+        "Vì không có gì để kể."
+      ],
+      "explanation": "Lí do gắn một hoạt động cụ thể với cảm xúc."
+    }
+  ],
+  "games": [
+    {
+      "id": "TV3_T1_B09_GAME",
+      "title": "Niềm vui tới lớp",
+      "mode": "treasure",
+      "objective": "Tìm kho báu bằng cách hiểu chi tiết và dùng tiếng Việt đúng theo bài.",
+      "rules": [
+        "Trả lời 10 câu được chọn từ chính bài này.",
+        "Mỗi đáp án đúng được 10 điểm; đọc phản hồi để hiểu và sửa câu sai.",
+        "Chơi lại để gặp một bộ câu khác."
+      ],
+      "question_ids": [
+        "TV3_T1_B09_Q01",
+        "TV3_T1_B09_Q02",
+        "TV3_T1_B09_Q03",
+        "TV3_T1_B09_Q04",
+        "TV3_T1_B09_Q05",
+        "TV3_T1_B09_Q06",
+        "TV3_T1_B09_Q07",
+        "TV3_T1_B09_Q08",
+        "TV3_T1_B09_Q09",
+        "TV3_T1_B09_Q10",
+        "TV3_T1_B09_Q11",
+        "TV3_T1_B09_Q12"
+      ],
+      "answer_source": "practice.correct_answer",
+      "feedback_source": "practice.explanation",
+      "max_score": 100
+    }
+  ],
+  "assessment": {
+    "session_size": 10,
+    "scoring": "Mỗi câu đúng được tính điểm theo hệ thống; 8–10 câu đúng: nắm tốt, 5–7: đọc lại phần còn nhầm, dưới 5: đọc bài cùng người thân rồi thử lại. Nhiệm vụ nói/viết tự kiểm theo tiêu chí, không chấm bằng một đáp án duy nhất.",
+    "review_advice": "Sau lượt luyện, chọn một câu sai để giải thích lại. Với nói/viết: đúng chi tiết hoặc trải nghiệm thật, đủ ý, câu rõ, chính tả đúng; sửa ít nhất một điểm trước khi hoàn tất."
+  },
+  "feedback": {
+    "correct": "Em đã chọn phù hợp. Đọc lời giải để nhắc lại căn cứ.",
+    "incorrect": "Đọc lại câu hỏi và chi tiết liên quan; xem lời giải để biết vì sao."
+  },
+  "verification": {
+    "ai_authored": true,
+    "structure_checked": true,
+    "answer_reviewed": true,
+    "source_reviewed": true,
+    "teacher_approved": false
+  },
+  "status": "AI_CHECKED_AWAITING_TEACHER"
+}

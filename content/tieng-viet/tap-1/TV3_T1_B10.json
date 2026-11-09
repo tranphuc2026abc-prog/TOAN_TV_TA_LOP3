@@ -1,0 +1,326 @@
+{
+  "id": "TV3_T1_B10",
+  "subject": "tv",
+  "grade": 3,
+  "book": "Kết nối tri thức với cuộc sống",
+  "volume": 1,
+  "lesson_no": 10,
+  "title": "Con đường đến trường",
+  "topic": "Cổng trường rộng mở",
+  "source": {
+    "pdf": "03-sgk-tieng-viet-3-tap-mot.pdf",
+    "printed_pages": [
+      46,
+      49
+    ],
+    "pdf_pages": [
+      47,
+      50
+    ],
+    "review": "Đọc trực quan toàn bộ trang in trong khoảng trên (PDF lệch +1 trang), gồm bài đọc và các mục luyện tập; 09/11/2026. Tóm tắt và bài tập mới do AI biên soạn, không đăng toàn văn SGK."
+  },
+  "objectives": [
+    "Nêu đúng nhân vật hoặc hình ảnh, chi tiết và ý nghĩa của Con đường đến trường.",
+    "Dùng từ và đặt câu rõ ý theo nội dung bài.",
+    "Luyện chính tả và nói/viết bằng trải nghiệm riêng."
+  ],
+  "reading": {
+    "summary": "Người kể nhớ con đường trên lưng chừng đồi, có cây cỏ và lạc tiên. Ngày nắng, các bạn vui chạy trên đoạn dốc. Mùa mưa đường trơn lầy, đôi khi phải đổi lối vì ngập. Cô giáo từ vùng xuôi thường đợi ở đoạn khó để đưa học trò tới lớp. Sự quan tâm ấy giúp người kể không nghỉ buổi học nào.",
+    "characters_or_images": [
+      "Người kể và các bạn miền núi",
+      "Cô giáo từ vùng xuôi"
+    ],
+    "message": "Con đường khó đi làm nổi bật sự cố gắng của học trò và tình thương của cô."
+  },
+  "knowledge": {
+    "introduction": "Con đường khó đi làm nổi bật sự cố gắng của học trò và tình thương của cô.",
+    "rules": [
+      "Đối chiếu con đường ngày nắng với mùa mưa.",
+      "Nêu hành động của cô làm căn cứ cho tình cảm.",
+      "Chi tiết đường nguy hiểm là nội dung truyện, không phải việc em cần bắt chước."
+    ],
+    "steps": [
+      "Đọc bài trong SGK theo trang nguồn; đọc phần tóm tắt để nhớ mạch bài.",
+      "Tìm chi tiết trước khi chọn đáp án; xem lời giải sau mỗi câu.",
+      "Thực hành nói/viết theo nhiệm vụ, đối chiếu tiêu chí rồi sửa."
+    ],
+    "common_errors": [
+      "Không nói đường luôn bằng phẳng.",
+      "Không bỏ qua việc cô đợi đưa trò đến lớp."
+    ]
+  },
+  "language_practice": {
+    "vocabulary": [
+      "Mấp mô: chỗ cao chỗ thấp, không phẳng.",
+      "Lúp xúp: thấp, gần và san sát nhau."
+    ],
+    "sentences": [
+      "Tả đặc điểm: Con đường quanh co bên đồi.",
+      "Nêu cảm xúc có căn cứ: Em quý cô vì cô luôn quan tâm chúng em."
+    ],
+    "spelling": [
+      "Ôn D, Đ qua tên riêng mới: Dung, Đạt.",
+      "Câu luyện mới: Dung và Đạt đến lớp đúng giờ."
+    ],
+    "expression": [
+      "Viết đoạn ngắn về người em yêu quý, có việc làm cụ thể.",
+      "Trao đổi bài với bạn, góp ý một câu chưa rõ rồi sửa."
+    ]
+  },
+  "examples": [
+    {
+      "question": "Vì sao người kể quý cô?",
+      "steps": [
+        "Cô chờ ở đoạn khó khi trời mưa rét.",
+        "Việc cô làm giúp các bạn đến lớp đều đặn."
+      ]
+    },
+    {
+      "question": "Câu tình cảm có dẫn chứng.",
+      "steps": [
+        "Mẫu mới: Em quý cô vì cô kiên nhẫn giúp em đọc từ khó.",
+        "Nói điều thật em đã trải qua."
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "title": "Người em biết ơn",
+      "materials": [
+        "Giấy hoặc vở",
+        "Bút"
+      ],
+      "steps": [
+        "Viết 3 câu về người quan tâm tới em.",
+        "Giới thiệu người đó.",
+        "Kể một việc cụ thể.",
+        "Nêu cảm xúc."
+      ],
+      "check": [
+        "Không chỉ khen chung chung.",
+        "Có viết hoa tên người."
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "question_id": "TV3_T1_B10_Q01",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Con đường của người kể nằm ở đâu?",
+      "correct_answer": "Lưng chừng đồi",
+      "options": [
+        "Lưng chừng đồi",
+        "Giữa sân bay",
+        "Dưới đáy biển",
+        "Trong trung tâm thương mại"
+      ],
+      "explanation": "Bài mở đầu xác định vị trí đường trên đồi.",
+      "evidence": "Trang nguồn đã đối chiếu trong BATCH24_SOURCE_NOTES.md"
+    },
+    {
+      "question_id": "TV3_T1_B10_Q02",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Mùi quả nào thường phảng phất bên đường?",
+      "correct_answer": "Lạc tiên",
+      "options": [
+        "Lạc tiên",
+        "Sầu riêng",
+        "Cam",
+        "Vải"
+      ],
+      "explanation": "Cây lạc tiên bên đường có quả quanh năm.",
+      "evidence": "Trang nguồn đã đối chiếu trong BATCH24_SOURCE_NOTES.md"
+    },
+    {
+      "question_id": "TV3_T1_B10_Q03",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Mùa mưa làm đường thay đổi thế nào?",
+      "correct_answer": "Lầy và trơn, có đoạn ngập",
+      "options": [
+        "Lầy và trơn, có đoạn ngập",
+        "Khô hơn mọi ngày",
+        "Phẳng và lát đá mới",
+        "Biến thành đường trong lớp"
+      ],
+      "explanation": "Mưa gây khó khăn cho việc tới trường.",
+      "evidence": "Trang nguồn đã đối chiếu trong BATCH24_SOURCE_NOTES.md"
+    },
+    {
+      "question_id": "TV3_T1_B10_Q04",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Việc gì của cô giúp học trò tới lớp?",
+      "correct_answer": "Đợi ở đoạn khó để đưa các bạn đi",
+      "options": [
+        "Đợi ở đoạn khó để đưa các bạn đi",
+        "Đóng cửa lớp khi mưa",
+        "Bắt trò đi một mình",
+        "Chỉ nhờ bạn mang sách về"
+      ],
+      "explanation": "Cô trực tiếp quan tâm, hỗ trợ các bạn trên đường.",
+      "evidence": "Trang nguồn đã đối chiếu trong BATCH24_SOURCE_NOTES.md"
+    },
+    {
+      "question_id": "TV3_T1_B10_Q05",
+      "type": "mcq",
+      "skill": "vocabulary",
+      "question": "Mặt đường mấp mô có đặc điểm gì?",
+      "correct_answer": "Cao thấp không đều",
+      "options": [
+        "Cao thấp không đều",
+        "Phẳng như mặt bàn",
+        "Luôn sạch bóng",
+        "Hoàn toàn trong suốt"
+      ],
+      "explanation": "Từ chỉ bề mặt không bằng phẳng."
+    },
+    {
+      "question_id": "TV3_T1_B10_Q06",
+      "type": "mcq",
+      "skill": "vocabulary",
+      "question": "Bụi cây lúp xúp gợi hình ảnh nào?",
+      "correct_answer": "Thấp và san sát",
+      "options": [
+        "Thấp và san sát",
+        "Cao chọc trời",
+        "Thưa đến không thấy cây",
+        "Trôi giữa sông"
+      ],
+      "explanation": "Từ gợi chiều cao thấp và vị trí sát nhau."
+    },
+    {
+      "question_id": "TV3_T1_B10_Q07",
+      "type": "mcq",
+      "skill": "sentences",
+      "question": "Câu nào tả đặc điểm của con đường?",
+      "correct_answer": "Đường quanh co bên sườn đồi.",
+      "options": [
+        "Đường quanh co bên sườn đồi.",
+        "Em cầm bút.",
+        "Bạn đọc sách.",
+        "Cô mở cửa lớp."
+      ],
+      "explanation": "Quanh co là đặc điểm của đường."
+    },
+    {
+      "question_id": "TV3_T1_B10_Q08",
+      "type": "mcq",
+      "skill": "sentences",
+      "question": "Câu nào nêu tình cảm có nguyên nhân?",
+      "correct_answer": "Em biết ơn cô vì cô luôn giúp đỡ em.",
+      "options": [
+        "Em biết ơn cô vì cô luôn giúp đỡ em.",
+        "Em có một cặp sách.",
+        "Cô ở trong lớp.",
+        "Lớp có nhiều ghế."
+      ],
+      "explanation": "Phần sau vì giải thích tình cảm biết ơn."
+    },
+    {
+      "question_id": "TV3_T1_B10_Q09",
+      "type": "mcq",
+      "skill": "spelling",
+      "question": "Tên riêng nào viết đúng?",
+      "correct_answer": "Đạt",
+      "options": [
+        "Đạt",
+        "đạt",
+        "đạT",
+        "ĐạT"
+      ],
+      "explanation": "Tên Đạt viết hoa chữ đầu."
+    },
+    {
+      "question_id": "TV3_T1_B10_Q10",
+      "type": "mcq",
+      "skill": "spelling",
+      "question": "Câu nào viết đúng đầu câu?",
+      "correct_answer": "Dung đến trường cùng bạn.",
+      "options": [
+        "Dung đến trường cùng bạn.",
+        "dung đến trường cùng bạn.",
+        "dUng đến trường cùng bạn.",
+        "dunG đến trường cùng bạn."
+      ],
+      "explanation": "Dung là tên người, cũng ở đầu câu nên viết hoa D."
+    },
+    {
+      "question_id": "TV3_T1_B10_Q11",
+      "type": "mcq",
+      "skill": "expression",
+      "question": "Đoạn về cô sẽ rõ hơn nếu em bổ sung gì?",
+      "correct_answer": "Một việc cô đã làm khiến em nhớ",
+      "options": [
+        "Một việc cô đã làm khiến em nhớ",
+        "Lặp cô tốt năm lần",
+        "Tên nhiều món ăn",
+        "Một câu không liên quan"
+      ],
+      "explanation": "Việc cụ thể làm lời bày tỏ có căn cứ."
+    },
+    {
+      "question_id": "TV3_T1_B10_Q12",
+      "type": "mcq",
+      "skill": "expression",
+      "question": "Khi góp ý bài bạn, cách nào hữu ích?",
+      "correct_answer": "Chỉ câu chưa rõ và gợi ý bạn thêm chi tiết",
+      "options": [
+        "Chỉ câu chưa rõ và gợi ý bạn thêm chi tiết",
+        "Chê cả bài mà không giải thích",
+        "Viết lại toàn bộ rồi bắt bạn chép",
+        "Không đọc nhưng vẫn chấm sai"
+      ],
+      "explanation": "Góp ý cụ thể giúp bạn tự sửa."
+    }
+  ],
+  "games": [
+    {
+      "id": "TV3_T1_B10_GAME",
+      "title": "Đường tới tri thức",
+      "mode": "treasure",
+      "objective": "Tìm kho báu bằng cách hiểu chi tiết và dùng tiếng Việt đúng theo bài.",
+      "rules": [
+        "Trả lời 10 câu được chọn từ chính bài này.",
+        "Mỗi đáp án đúng được 10 điểm; đọc phản hồi để hiểu và sửa câu sai.",
+        "Chơi lại để gặp một bộ câu khác."
+      ],
+      "question_ids": [
+        "TV3_T1_B10_Q01",
+        "TV3_T1_B10_Q02",
+        "TV3_T1_B10_Q03",
+        "TV3_T1_B10_Q04",
+        "TV3_T1_B10_Q05",
+        "TV3_T1_B10_Q06",
+        "TV3_T1_B10_Q07",
+        "TV3_T1_B10_Q08",
+        "TV3_T1_B10_Q09",
+        "TV3_T1_B10_Q10",
+        "TV3_T1_B10_Q11",
+        "TV3_T1_B10_Q12"
+      ],
+      "answer_source": "practice.correct_answer",
+      "feedback_source": "practice.explanation",
+      "max_score": 100
+    }
+  ],
+  "assessment": {
+    "session_size": 10,
+    "scoring": "Mỗi câu đúng được tính điểm theo hệ thống; 8–10 câu đúng: nắm tốt, 5–7: đọc lại phần còn nhầm, dưới 5: đọc bài cùng người thân rồi thử lại. Nhiệm vụ nói/viết tự kiểm theo tiêu chí, không chấm bằng một đáp án duy nhất.",
+    "review_advice": "Sau lượt luyện, chọn một câu sai để giải thích lại. Với nói/viết: đúng chi tiết hoặc trải nghiệm thật, đủ ý, câu rõ, chính tả đúng; sửa ít nhất một điểm trước khi hoàn tất."
+  },
+  "feedback": {
+    "correct": "Em đã chọn phù hợp. Đọc lời giải để nhắc lại căn cứ.",
+    "incorrect": "Đọc lại câu hỏi và chi tiết liên quan; xem lời giải để biết vì sao."
+  },
+  "verification": {
+    "ai_authored": true,
+    "structure_checked": true,
+    "answer_reviewed": true,
+    "source_reviewed": true,
+    "teacher_approved": false
+  },
+  "status": "AI_CHECKED_AWAITING_TEACHER"
+}

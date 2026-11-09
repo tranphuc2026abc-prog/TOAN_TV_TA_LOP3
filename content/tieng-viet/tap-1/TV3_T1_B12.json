@@ -1,0 +1,330 @@
+{
+  "id": "TV3_T1_B12",
+  "subject": "tv",
+  "grade": 3,
+  "book": "Kết nối tri thức với cuộc sống",
+  "volume": 1,
+  "lesson_no": 12,
+  "title": "Bài tập làm văn",
+  "topic": "Cổng trường rộng mở",
+  "source": {
+    "pdf": "03-sgk-tieng-viet-3-tap-mot.pdf",
+    "printed_pages": [
+      54,
+      58
+    ],
+    "pdf_pages": [
+      55,
+      59
+    ],
+    "review": "Đọc trực quan toàn bộ trang in trong khoảng trên (PDF lệch +1 trang), gồm bài đọc và các mục luyện tập; 09/11/2026. Tóm tắt và bài tập mới do AI biên soạn, không đăng toàn văn SGK."
+  },
+  "objectives": [
+    "Nêu đúng nhân vật hoặc hình ảnh, chi tiết và ý nghĩa của Bài tập làm văn.",
+    "Dùng từ và đặt câu rõ ý theo nội dung bài.",
+    "Luyện chính tả và nói/viết bằng trải nghiệm riêng."
+  ],
+  "reading": {
+    "summary": "Cô-li-a được yêu cầu kể việc giúp mẹ nhưng khó viết vì ít làm việc nhà. Muốn bài dài như các bạn, cậu kể thêm cả việc chưa làm. Sau đó mẹ nhờ giặt đồ, cậu thoạt đầu ngạc nhiên rồi vui nhận, vì đó là việc mình đã nêu trong bài văn.",
+    "characters_or_images": [
+      "Cô-li-a",
+      "Mẹ",
+      "Cô giáo",
+      "Liu-xi-a"
+    ],
+    "message": "Nên viết trung thực và biến lời nói tốt đẹp thành hành động giúp đỡ gia đình."
+  },
+  "knowledge": {
+    "introduction": "Nên viết trung thực và biến lời nói tốt đẹp thành hành động giúp đỡ gia đình.",
+    "rules": [
+      "Phân biệt việc đã làm với việc chỉ viết để bài dài.",
+      "Theo dõi phản ứng lúc mẹ giao việc.",
+      "Câu hỏi dùng để hỏi, thường có dấu hỏi cuối câu.",
+      "Đơn cần người nhận, thông tin người viết, nguyện vọng và chữ kí."
+    ],
+    "steps": [
+      "Đọc bài trong SGK theo trang nguồn; đọc phần tóm tắt để nhớ mạch bài.",
+      "Tìm chi tiết trước khi chọn đáp án; xem lời giải sau mỗi câu.",
+      "Thực hành nói/viết theo nhiệm vụ, đối chiếu tiêu chí rồi sửa."
+    ],
+    "common_errors": [
+      "Không nghĩ cậu bí vì không hiểu chữ; nguyên nhân là ít giúp mẹ.",
+      "Không khen bịa việc chỉ để bài dài."
+    ]
+  },
+  "language_practice": {
+    "vocabulary": [
+      "Lia lịa: nhanh và liên tiếp.",
+      "Khăn mùi soa: khăn nhỏ thường mang theo để lau."
+    ],
+    "sentences": [
+      "Câu hỏi: Bạn đã giúp gia đình làm việc gì?",
+      "Câu kể: Em nhặt rau giúp mẹ."
+    ],
+    "spelling": [
+      "Viết hoa tên nhân vật: Cô-li-a, Liu-xi-a.",
+      "Câu luyện mới: Em giặt khăn rồi phơi ngay ngắn. Soát giặt và khăn."
+    ],
+    "expression": [
+      "Viết 3 câu về một việc thật em giúp gia đình.",
+      "Tìm các phần trong đơn mẫu; khi luyện có thể dùng thông tin giả lập, không công khai thông tin riêng."
+    ]
+  },
+  "examples": [
+    {
+      "question": "Vì sao Cô-li-a khó viết?",
+      "steps": [
+        "Mẹ thường làm mọi việc, cậu ít giúp nên ít điều để kể.",
+        "Không nhầm với việc cậu không có khả năng viết."
+      ]
+    },
+    {
+      "question": "Lời nói đi cùng việc làm.",
+      "steps": [
+        "Cậu đã viết mình giặt đồ; khi mẹ nhờ, cậu vui nhận làm.",
+        "Mẫu mới: Em sẽ kể đúng việc mình đã làm và cố gắng giúp thêm việc vừa sức."
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "title": "Việc thật của em",
+      "materials": [
+        "Giấy hoặc vở",
+        "Bút"
+      ],
+      "steps": [
+        "Viết 3 câu về một việc giúp nhà.",
+        "Nêu việc em thực sự làm.",
+        "Kể cách làm ngắn gọn.",
+        "Nêu cảm xúc rồi soát câu."
+      ],
+      "check": [
+        "Không bịa để bài dài.",
+        "Có việc và cảm xúc.",
+        "Câu hỏi nếu có dùng dấu hỏi."
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "question_id": "TV3_T1_B12_Q01",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Đề văn cô giao yêu cầu kể nội dung gì?",
+      "correct_answer": "Việc đã làm để giúp mẹ",
+      "options": [
+        "Việc đã làm để giúp mẹ",
+        "Một chuyến thám hiểm biển",
+        "Cách giải toán bằng thơ",
+        "Một trận thi bơi"
+      ],
+      "explanation": "Cô yêu cầu kể những việc giúp mẹ.",
+      "evidence": "Trang nguồn đã đối chiếu trong BATCH24_SOURCE_NOTES.md"
+    },
+    {
+      "question_id": "TV3_T1_B12_Q02",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Nguyên nhân chính khiến Cô-li-a bí ý là gì?",
+      "correct_answer": "Cậu ít khi giúp mẹ làm việc nhà",
+      "options": [
+        "Cậu ít khi giúp mẹ làm việc nhà",
+        "Cậu quên mang bút",
+        "Cô không cho đọc đề",
+        "Bạn không cho nhìn bảng"
+      ],
+      "explanation": "Mẹ thường làm thay, nên cậu thiếu việc thật để kể.",
+      "evidence": "Trang nguồn đã đối chiếu trong BATCH24_SOURCE_NOTES.md"
+    },
+    {
+      "question_id": "TV3_T1_B12_Q03",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Để bài dài hơn, cậu đã làm gì?",
+      "correct_answer": "Viết thêm cả việc chưa làm",
+      "options": [
+        "Viết thêm cả việc chưa làm",
+        "Xin cô đổi môn học",
+        "Bỏ bài trắng",
+        "Chép một bài toán"
+      ],
+      "explanation": "Cậu thêm việc giặt đồ để bài dài hơn.",
+      "evidence": "Trang nguồn đã đối chiếu trong BATCH24_SOURCE_NOTES.md"
+    },
+    {
+      "question_id": "TV3_T1_B12_Q04",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Vì sao sau đó cậu vui nhận lời giặt đồ?",
+      "correct_answer": "Muốn làm việc mình đã nói trong bài văn",
+      "options": [
+        "Muốn làm việc mình đã nói trong bài văn",
+        "Vì mẹ bắt đi bơi",
+        "Vì bạn hứa làm thay",
+        "Vì không muốn tới lớp"
+      ],
+      "explanation": "Cậu chấp nhận biến điều đã viết thành việc thực sự làm.",
+      "evidence": "Trang nguồn đã đối chiếu trong BATCH24_SOURCE_NOTES.md"
+    },
+    {
+      "question_id": "TV3_T1_B12_Q05",
+      "type": "mcq",
+      "skill": "vocabulary",
+      "question": "Viết lia lịa là viết thế nào?",
+      "correct_answer": "Nhanh và liên tục",
+      "options": [
+        "Nhanh và liên tục",
+        "Rất chậm, luôn dừng",
+        "Không viết chữ nào",
+        "Chỉ vẽ hình tròn"
+      ],
+      "explanation": "Từ chỉ tốc độ nhanh, nối tiếp."
+    },
+    {
+      "question_id": "TV3_T1_B12_Q06",
+      "type": "mcq",
+      "skill": "vocabulary",
+      "question": "Khăn mùi soa là đồ vật nào?",
+      "correct_answer": "Khăn nhỏ dùng để lau, thường bỏ túi",
+      "options": [
+        "Khăn nhỏ dùng để lau, thường bỏ túi",
+        "Tấm chăn ngủ lớn",
+        "Cái bàn học",
+        "Đôi giày đi học"
+      ],
+      "explanation": "Đây là khăn nhỏ mang theo người."
+    },
+    {
+      "question_id": "TV3_T1_B12_Q07",
+      "type": "mcq",
+      "skill": "sentences",
+      "question": "Câu nào là câu hỏi về việc giúp nhà?",
+      "correct_answer": "Bạn đã làm gì để giúp gia đình?",
+      "options": [
+        "Bạn đã làm gì để giúp gia đình?",
+        "Em đã rửa cốc.",
+        "Mẹ đang nghỉ.",
+        "Em vui lắm."
+      ],
+      "explanation": "Câu dùng để hỏi thông tin và có dấu hỏi."
+    },
+    {
+      "question_id": "TV3_T1_B12_Q08",
+      "type": "mcq",
+      "skill": "sentences",
+      "question": "Dấu nào phù hợp cuối câu Bạn giúp mẹ việc gì",
+      "correct_answer": "Dấu hỏi",
+      "options": [
+        "Dấu hỏi",
+        "Dấu hai chấm",
+        "Dấu phẩy",
+        "Dấu chấm phẩy"
+      ],
+      "explanation": "Câu có mục đích hỏi cần dấu hỏi ở cuối."
+    },
+    {
+      "question_id": "TV3_T1_B12_Q09",
+      "type": "mcq",
+      "skill": "spelling",
+      "question": "Tiếng nào đúng trong Em ... khăn sạch.",
+      "correct_answer": "giặt",
+      "options": [
+        "giặt",
+        "dặt",
+        "rặt",
+        "giạc"
+      ],
+      "explanation": "Giặt là làm sạch bằng nước và chất giặt phù hợp."
+    },
+    {
+      "question_id": "TV3_T1_B12_Q10",
+      "type": "mcq",
+      "skill": "spelling",
+      "question": "Tên nhân vật nào viết đúng chữ đầu?",
+      "correct_answer": "Cô-li-a",
+      "options": [
+        "Cô-li-a",
+        "cô-li-a",
+        "cÔ-li-a",
+        "cô-Li-a"
+      ],
+      "explanation": "Tên riêng này bắt đầu bằng chữ C viết hoa."
+    },
+    {
+      "question_id": "TV3_T1_B12_Q11",
+      "type": "mcq",
+      "skill": "expression",
+      "question": "Cách viết nào phù hợp bài kể việc thật?",
+      "correct_answer": "Kể đúng việc đã làm, dù việc nhỏ",
+      "options": [
+        "Kể đúng việc đã làm, dù việc nhỏ",
+        "Bịa thật nhiều việc cho dài",
+        "Nhận việc của bạn là mình làm",
+        "Chỉ chép đề rồi kết thúc"
+      ],
+      "explanation": "Trung thực quan trọng hơn làm bài dài bằng chuyện bịa."
+    },
+    {
+      "question_id": "TV3_T1_B12_Q12",
+      "type": "mcq",
+      "skill": "expression",
+      "question": "Một lá đơn xin tham gia cần nêu điều nào?",
+      "correct_answer": "Nguyện vọng của người viết và người nhận đơn",
+      "options": [
+        "Nguyện vọng của người viết và người nhận đơn",
+        "Chỉ danh sách món ăn",
+        "Mọi bí mật của bạn bè",
+        "Một câu chuyện không liên quan"
+      ],
+      "explanation": "Đơn cần rõ gửi ai và xin việc gì, cùng thông tin và chữ kí phù hợp."
+    }
+  ],
+  "games": [
+    {
+      "id": "TV3_T1_B12_GAME",
+      "title": "Lời nói và việc làm",
+      "mode": "treasure",
+      "objective": "Tìm kho báu bằng cách hiểu chi tiết và dùng tiếng Việt đúng theo bài.",
+      "rules": [
+        "Trả lời 10 câu được chọn từ chính bài này.",
+        "Mỗi đáp án đúng được 10 điểm; đọc phản hồi để hiểu và sửa câu sai.",
+        "Chơi lại để gặp một bộ câu khác."
+      ],
+      "question_ids": [
+        "TV3_T1_B12_Q01",
+        "TV3_T1_B12_Q02",
+        "TV3_T1_B12_Q03",
+        "TV3_T1_B12_Q04",
+        "TV3_T1_B12_Q05",
+        "TV3_T1_B12_Q06",
+        "TV3_T1_B12_Q07",
+        "TV3_T1_B12_Q08",
+        "TV3_T1_B12_Q09",
+        "TV3_T1_B12_Q10",
+        "TV3_T1_B12_Q11",
+        "TV3_T1_B12_Q12"
+      ],
+      "answer_source": "practice.correct_answer",
+      "feedback_source": "practice.explanation",
+      "max_score": 100
+    }
+  ],
+  "assessment": {
+    "session_size": 10,
+    "scoring": "Mỗi câu đúng được tính điểm theo hệ thống; 8–10 câu đúng: nắm tốt, 5–7: đọc lại phần còn nhầm, dưới 5: đọc bài cùng người thân rồi thử lại. Nhiệm vụ nói/viết tự kiểm theo tiêu chí, không chấm bằng một đáp án duy nhất.",
+    "review_advice": "Sau lượt luyện, chọn một câu sai để giải thích lại. Với nói/viết: đúng chi tiết hoặc trải nghiệm thật, đủ ý, câu rõ, chính tả đúng; sửa ít nhất một điểm trước khi hoàn tất."
+  },
+  "feedback": {
+    "correct": "Em đã chọn phù hợp. Đọc lời giải để nhắc lại căn cứ.",
+    "incorrect": "Đọc lại câu hỏi và chi tiết liên quan; xem lời giải để biết vì sao."
+  },
+  "verification": {
+    "ai_authored": true,
+    "structure_checked": true,
+    "answer_reviewed": true,
+    "source_reviewed": true,
+    "teacher_approved": false
+  },
+  "status": "AI_CHECKED_AWAITING_TEACHER"
+}

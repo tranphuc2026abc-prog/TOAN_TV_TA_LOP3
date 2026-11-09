@@ -1,3 +1,11 @@
+# Batch24 — Tiếng Việt 9–12 — 09/11/2026
+
+Đã tích hợp Đi học vui sao, Con đường đến trường, Lời giải toán đặc biệt, Bài tập làm văn: 4 JSON/Markdown riêng, 48 câu (12/bài), 4 game kho báu, lượt luyện 10 câu. Có mục tiêu, kiến thức, lỗi thường gặp, ví dụ giải thích, từ/câu/chính tả/diễn đạt và hoạt động nói/viết có tiêu chí. Nguồn đã đọc trực quan trong lượt trước: trang in 43–58, chi tiết lưu BATCH24_SOURCE_NOTES.md; không đăng toàn văn. Phân biệt cảnh trong sách với cảnh đi học, cô hỗ trợ trò trên đường khó, lời giải bằng thơ nhưng đúng đáp số, việc Cô-li-a viết với việc thực sự làm.
+
+npm test đạt 93 kho, validate_site.py/validate_content.py, tất cả hồi quy cũ, DOM toàn bộ bài, fixture Tiếng Việt; kiểm tra riêng 4 bài/48 câu/5 nhóm kỹ năng/trạng thái chờ duyệt đạt. Không có Chromium; chưa kiểm thử bố cục thật. Tổng AI biên soạn/kiểm tra 93/168, 3.416 câu, 93 trò chơi; giáo viên duyệt 4, chờ duyệt 89, còn 75 bản nháp (TV50, TA25). Chưa hoàn tất dự án. Tiếp batch25 TV13–16 sau đọc nguồn. Actions/Pages commit mới cần xác minh sau cập nhật main.
+
+## Lịch sử
+
 # Checkpoint đọc nguồn Batch24 — 09/11/2026
 
 Đã đọc trực quan nguồn TV9–12 trang in 43–58 (PDF 44–59); lưu căn cứ và các điểm dễ nhầm tại BATCH24_SOURCE_NOTES.md. Chưa có JSON/Markdown học liệu hoàn chỉnh hay trò chơi mới; INDEX giữ nguyên 89/168, AI biên soạn/kiểm tra 89, giáo viên duyệt 4, chờ duyệt 85, còn 79 mục nháp. Tiếp biên soạn Batch24 từ ghi chú nguồn; không tính ghi chú là hoàn thành. Không thay đổi mã website hoặc APPROVALS.
