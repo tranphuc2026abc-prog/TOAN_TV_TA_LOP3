@@ -1,3 +1,13 @@
+# Batch 22 — Tiếng Việt 1–4 — 09/11/2026
+
+Đã tích hợp Ngày gặp lại, Về thăm quê, Cánh rừng trong nắng, Lần đầu ra biển: 4 JSON + 4 Markdown, 64 câu mới (16/bài), 4 trò kho báu chạy trong renderer hiện có, lượt luyện 10 câu; mục tiêu, tóm tắt, nhân vật/chi tiết/thông điệp, từ-câu-chính tả-diễn đạt, ví dụ giải thích, hoạt động nói/viết và tiêu chí tự kiểm. Đã đọc trực quan các trang in 10–25 của PDF Tiếng Việt tập 1 trong upload (trang PDF 11–26); không đăng toàn văn hoặc ảnh quét sách. Câu hỏi và phương án mới do AI biên soạn.
+
+Điều chỉnh DOM theo môn, giữ toàn bộ hồi quy Toán; đưa fixture DOM Tiếng Việt vào npm test; hoạt động ngôn ngữ mang nhãn nói và viết, không hiện nút điền khi bài chỉ có trắc nghiệm. npm test đạt: validate_site.py (gọi validate_content.py), toàn bộ hồi quy cũ và batch22, DOM 85 kho, fixture Tiếng Việt; kiểm tra lựa chọn/đáp án/ID/Markdown/trạng thái, lời giải, game đúng phạm vi, lưu/nạp wl3 và fallback 404. Không có Chromium trong môi trường, chưa kiểm thử bố cục trình duyệt thật. Actions/Pages của commit batch này cần xác minh sau khi cập nhật main.
+
+Tổng: AI đã biên soạn và kiểm tra 85/168 mục, 3.304 câu, 85 trò chơi; Toán 81/81, Tiếng Việt 4/62, Tiếng Anh 0/25. Giáo viên đã duyệt 4 (Toán 1–4); 81 bài AI_CHECKED_AWAITING_TEACHER. Còn 83 bản nháp (Tiếng Việt 58, Tiếng Anh 25). Không tăng số giáo viên duyệt. Tiếp theo: đọc nguồn rồi biên soạn Tiếng Việt 5–8; chưa tuyên bố hoàn thành dự án.
+
+## Lịch sử
+
 # DOM Tiếng Việt — 09/11/2026
 
 Đã bổ sung test_vietnamese_dom.cjs và chạy đạt: fixture 12 câu, lượt 6 câu không có phân mức Toán; hiển thị nhân vật/thông điệp và đủ từ-câu-chính tả-diễn đạt; chuỗi HTML được escape; trả lời có phản hồi và lời giải. Fixture chỉ là dữ liệu kỹ thuật, không dùng làm học liệu hoặc tính hoàn thành. Test mới chạy độc lập; cần đưa vào npm test ở bước tiếp và kiểm tra loader/index updater, trò chơi cho dữ liệu Tiếng Việt thực.

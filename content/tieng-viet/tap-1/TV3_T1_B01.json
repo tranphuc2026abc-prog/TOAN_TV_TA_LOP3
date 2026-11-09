@@ -1,0 +1,394 @@
+{
+  "id": "TV3_T1_B01",
+  "subject": "tv",
+  "grade": 3,
+  "book": "Kết nối tri thức với cuộc sống",
+  "volume": 1,
+  "lesson_no": 1,
+  "title": "Ngày gặp lại",
+  "topic": "Những trải nghiệm thú vị",
+  "source": {
+    "pdf": "03-sgk-tieng-viet-3-tap-mot.pdf",
+    "printed_pages": [
+      10,
+      12
+    ],
+    "pdf_pages": [
+      11,
+      13
+    ],
+    "review": "Đọc trực quan toàn bộ trang in trong khoảng trên (PDF lệch +1 trang), gồm bài đọc và các mục luyện tập; 09/11/2026. Tóm tắt và bài tập mới do AI biên soạn, không đăng toàn văn SGK."
+  },
+  "objectives": [
+    "Nêu đúng nhân vật hoặc hình ảnh, chi tiết và ý nghĩa của Ngày gặp lại.",
+    "Dùng từ và đặt câu rõ ý theo nội dung bài.",
+    "Luyện chính tả và nói/viết bằng trải nghiệm riêng."
+  ],
+  "reading": {
+    "summary": "Trước ngày tựu trường, Sơn đến gặp Chi và tặng bạn một chiếc diều. Sơn kể những ngày ở quê cùng ông bà và các bạn. Chi ban đầu buồn vì không đi xa, nhưng lời gợi mở của Sơn giúp Chi nhận ra việc được bố dạy đi xe đạp cũng là một trải nghiệm đáng nhớ. Hai bạn vui vẻ chia sẻ kỉ niệm hè.",
+    "characters_or_images": [
+      "Chi: ở nhà học đi xe đạp cùng bố.",
+      "Sơn: về quê, trồng rau, câu cá và thả diều."
+    ],
+    "message": "Biết lắng nghe giúp bạn bè nhận ra niềm vui và giá trị trong trải nghiệm của nhau."
+  },
+  "knowledge": {
+    "introduction": "Biết lắng nghe giúp bạn bè nhận ra niềm vui và giá trị trong trải nghiệm của nhau.",
+    "rules": [
+      "Đọc lời Chi lúc đầu hơi buồn, về sau vui hơn; đọc lời Sơn thân thiện, hào hứng.",
+      "Khi giải thích cảm xúc, ghép việc nhân vật làm với lời nhân vật nói.",
+      "Kể trải nghiệm theo ba ý: việc đã làm, người cùng làm, điều em nhớ.",
+      "Âm cờ thường viết k trước e, ê, i; viết c trước a, o, ô, ơ, u, ư."
+    ],
+    "steps": [
+      "Đọc bài trong SGK theo trang nguồn; đọc phần tóm tắt để nhớ mạch bài.",
+      "Tìm chi tiết trước khi chọn đáp án; xem lời giải sau mỗi câu.",
+      "Thực hành nói/viết theo nhiệm vụ, đối chiếu tiêu chí rồi sửa."
+    ],
+    "common_errors": [
+      "Nhầm Sơn là người tập xe: người được bố dạy xe là Chi.",
+      "Cho rằng phải đi xa mới có kỉ niệm: Chi vẫn có điều mới mẻ khi học xe ở nhà.",
+      "Kể nhiều việc rời rạc mà chưa nói cảm xúc.",
+      "Viết sai c/k: cần nhìn nguyên âm đứng ngay sau."
+    ]
+  },
+  "language_practice": {
+    "vocabulary": [
+      "Mừng rỡ: rất vui, thể hiện ra nét mặt và hành động. Ví dụ mới: Em mừng rỡ khi bạn trở lại lớp.",
+      "Trải nghiệm: điều mình trực tiếp làm hoặc trải qua; học xe cũng là một trải nghiệm."
+    ],
+    "sentences": [
+      "Câu kể đủ ý: Chi tập đi xe đạp cùng bố. Câu cho biết ai làm gì.",
+      "Đặt một câu mới nói về niềm vui gặp lại bạn; viết hoa đầu câu, kết thúc bằng dấu phù hợp."
+    ],
+    "spelling": [
+      "Tự luyện c/k bằng câu mới: Con kiến bò cạnh gốc cây. Viết kiến với k, con/cạnh/cây với c.",
+      "Nhờ người thân đọc câu trên, viết lại rồi tự đối chiếu từng tiếng; đây là câu luyện mới, không phải bài nghe của sách."
+    ],
+    "expression": [
+      "Kể 3–4 câu về lần em học được một việc trong hè: ai hướng dẫn, em thử thế nào, em cảm thấy gì.",
+      "Khi nghe bạn kể, đợi bạn nói xong rồi hỏi một câu về điều em muốn biết thêm."
+    ]
+  },
+  "examples": [
+    {
+      "question": "Vì sao Chi vui hơn khi nói chuyện với Sơn?",
+      "steps": [
+        "Chi nghĩ mình không đi đâu nên chẳng có gì thú vị.",
+        "Sơn nhắc Chi đã học được cách đi xe; Chi nhận ra mình có một kỉ niệm riêng.",
+        "Trả lời mẫu mới: Chi vui vì bạn giúp Chi thấy việc học xe cũng rất đáng kể."
+      ]
+    },
+    {
+      "question": "Kể ngắn một trải nghiệm học việc mới.",
+      "steps": [
+        "Mẫu tự biên soạn: Hè rồi, em học tưới rau cùng mẹ. Lần đầu em tưới quá nhiều nước. Mẹ chỉ em tưới nhẹ ở gốc cây. Em vui vì đã biết chăm cây đúng cách.",
+        "Chỉ dùng mẫu để hiểu cách kể; thay bằng việc có thật của em."
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "title": "Người nghe thân thiện",
+      "materials": [
+        "Giấy hoặc vở",
+        "Bút"
+      ],
+      "steps": [
+        "Kể cho một người nghe về lần em học làm việc mới trong hè.",
+        "Chọn một việc có thật.",
+        "Nói 3–4 câu; người nghe hỏi một câu liên quan.",
+        "Đổi vai và nhắc lại điều thú vị trong lời bạn."
+      ],
+      "check": [
+        "Nêu rõ việc và người cùng làm.",
+        "Có cảm xúc của bản thân.",
+        "Lắng nghe và không chê trải nghiệm của bạn."
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "question_id": "TV3_T1_B01_Q01",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Cuộc gặp của Chi và Sơn diễn ra vào dịp nào?",
+      "correct_answer": "Ngay trước ngày bắt đầu năm học mới",
+      "options": [
+        "Ngay trước ngày bắt đầu năm học mới",
+        "Giữa buổi thi cuối năm",
+        "Trong lễ tổng kết học kì một",
+        "Vào đêm giao thừa"
+      ],
+      "explanation": "Chi biết ngày hôm sau sẽ bắt đầu năm học; Sơn vừa trở về sau kì nghỉ.",
+      "evidence": "Trang 10: Chi đón nắng đầu thu và nghĩ về ngày mai đi học."
+    },
+    {
+      "question_id": "TV3_T1_B01_Q02",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Món quà nào mở đầu cuộc trò chuyện giữa hai bạn?",
+      "correct_answer": "Một chiếc diều",
+      "options": [
+        "Một chiếc diều",
+        "Một chiếc xe đạp",
+        "Một giỏ rau",
+        "Một cần câu"
+      ],
+      "explanation": "Sơn mang diều đến tặng Chi; xe đạp gắn với việc Chi đã học trong hè.",
+      "evidence": "Trang 10: Sơn đứng ngoài cổng với chiếc diều."
+    },
+    {
+      "question_id": "TV3_T1_B01_Q03",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Khi ở quê, Sơn được cùng ông bà làm việc nào?",
+      "correct_answer": "Trồng rau và câu cá",
+      "options": [
+        "Trồng rau và câu cá",
+        "Học lái tàu",
+        "Dựng một ngôi nhà",
+        "Tập đi xe trong sân"
+      ],
+      "explanation": "Những việc này thuộc trải nghiệm ở quê của Sơn, khác việc tập xe của Chi.",
+      "evidence": "Trang 10: Sơn kể về việc làm cùng ông bà."
+    },
+    {
+      "question_id": "TV3_T1_B01_Q04",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Tại sao Chi chợt buồn khi nghe Sơn kể?",
+      "correct_answer": "Chi nghĩ mình ở nhà nên không có chuyện hay để kể",
+      "options": [
+        "Chi nghĩ mình ở nhà nên không có chuyện hay để kể",
+        "Chi giận vì Sơn làm hỏng xe",
+        "Chi không thích chiếc diều",
+        "Chi không muốn trở lại trường"
+      ],
+      "explanation": "Chi so sánh mùa hè ở nhà của mình với chuyến về quê của Sơn.",
+      "evidence": "Trang 11: Chi nói mình chẳng được đi đâu."
+    },
+    {
+      "question_id": "TV3_T1_B01_Q05",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Ai đã giúp Chi biết đi xe đạp?",
+      "correct_answer": "Bố của Chi",
+      "options": [
+        "Bố của Chi",
+        "Ông của Sơn",
+        "Sơn",
+        "Cô giáo"
+      ],
+      "explanation": "Chi kể chính bố đã dạy mình; không được đổi vai nhân vật.",
+      "evidence": "Trang 11: Chi nhắc việc bố dạy đi xe."
+    },
+    {
+      "question_id": "TV3_T1_B01_Q06",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Sự thay đổi nào cho thấy Chi nhận ra mùa hè của mình cũng thú vị?",
+      "correct_answer": "Chi vui vẻ kể về việc đi xe trên con đường quen",
+      "options": [
+        "Chi vui vẻ kể về việc đi xe trên con đường quen",
+        "Chi bỏ đi ngay khi Sơn nói",
+        "Chi giấu chiếc diều vào nhà",
+        "Chi xin Sơn kể hộ chuyện của mình"
+      ],
+      "explanation": "Sau lời gợi mở của Sơn, Chi cười rồi chủ động chia sẻ điều mình học được.",
+      "evidence": "Trang 11: Chi cười và kể chuyện tập xe."
+    },
+    {
+      "question_id": "TV3_T1_B01_Q07",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Ý nào giải thích hợp lí việc kỉ niệm hè theo các bạn tới lớp?",
+      "correct_answer": "Các bạn còn nhớ và có thể chia sẻ những trải nghiệm ấy",
+      "options": [
+        "Các bạn còn nhớ và có thể chia sẻ những trải nghiệm ấy",
+        "Mùa hè là một đồ vật mang trong cặp",
+        "Các bạn sẽ không học bài mới",
+        "Lớp học chuyển về quê Sơn"
+      ],
+      "explanation": "Đây là cách nói về kí ức và câu chuyện còn đọng lại, không phải mang một mùa theo nghĩa đen.",
+      "evidence": "Trang 11: hai bạn thi nhau chia sẻ trải nghiệm."
+    },
+    {
+      "question_id": "TV3_T1_B01_Q08",
+      "type": "mcq",
+      "skill": "vocabulary",
+      "question": "Từ nào tả đúng vẻ mặt của Chi khi chạy ra gặp Sơn?",
+      "correct_answer": "Mừng rỡ",
+      "options": [
+        "Mừng rỡ",
+        "Cáu kỉnh",
+        "Lạnh nhạt",
+        "Sợ hãi"
+      ],
+      "explanation": "Chi rất vui khi gặp lại bạn; mừng rỡ diễn tả niềm vui rõ rệt."
+    },
+    {
+      "question_id": "TV3_T1_B01_Q09",
+      "type": "mcq",
+      "skill": "vocabulary",
+      "question": "Việc nào có thể gọi là một trải nghiệm của Chi?",
+      "correct_answer": "Tự tập đi xe dưới sự hướng dẫn của bố",
+      "options": [
+        "Tự tập đi xe dưới sự hướng dẫn của bố",
+        "Chỉ nghe tên một loại xe",
+        "Đếm số chữ trong từ xe đạp",
+        "Nhìn chữ xe trên bảng"
+      ],
+      "explanation": "Trải nghiệm gắn với điều trực tiếp làm hoặc trải qua, như Chi tự tập xe."
+    },
+    {
+      "question_id": "TV3_T1_B01_Q10",
+      "type": "mcq",
+      "skill": "sentences",
+      "question": "Câu nào nêu rõ hoạt động của Chi và viết đủ ý?",
+      "correct_answer": "Chi tập đi xe đạp cùng bố.",
+      "options": [
+        "Chi tập đi xe đạp cùng bố.",
+        "Chi cùng.",
+        "Đi xe đạp của.",
+        "Chi rất."
+      ],
+      "explanation": "Câu đúng cho biết ai là Chi và Chi làm việc gì; các câu khác chưa đủ ý."
+    },
+    {
+      "question_id": "TV3_T1_B01_Q11",
+      "type": "mcq",
+      "skill": "sentences",
+      "question": "Em muốn hỏi Sơn về kỉ niệm thả diều. Câu nào phù hợp?",
+      "correct_answer": "Cậu thích nhất điều gì khi thả diều ở quê?",
+      "options": [
+        "Cậu thích nhất điều gì khi thả diều ở quê?",
+        "Cậu đừng kể nữa nhé.",
+        "Diều là chuyện của tớ.",
+        "Tớ chẳng muốn nghe."
+      ],
+      "explanation": "Câu hỏi tập trung vào trải nghiệm Sơn kể và thể hiện sự quan tâm."
+    },
+    {
+      "question_id": "TV3_T1_B01_Q12",
+      "type": "mcq",
+      "skill": "spelling",
+      "question": "Điền c hoặc k để được tên con vật đúng: ...iến.",
+      "correct_answer": "k",
+      "options": [
+        "k",
+        "c",
+        "gh",
+        "ng"
+      ],
+      "explanation": "Trước i, âm cờ thường viết bằng k: kiến."
+    },
+    {
+      "question_id": "TV3_T1_B01_Q13",
+      "type": "mcq",
+      "skill": "spelling",
+      "question": "Dòng nào viết đúng cả hai tiếng có âm đầu cờ?",
+      "correct_answer": "cánh diều, kể chuyện",
+      "options": [
+        "cánh diều, kể chuyện",
+        "kánh diều, kể chuyện",
+        "cánh diều, cể chuyện",
+        "kánh diều, cể chuyện"
+      ],
+      "explanation": "Viết c trước a trong cánh; viết k trước ê trong kể."
+    },
+    {
+      "question_id": "TV3_T1_B01_Q14",
+      "type": "mcq",
+      "skill": "expression",
+      "question": "Bạn bảo hè này chỉ ở nhà nên không có gì để kể. Em nên đáp thế nào?",
+      "correct_answer": "Bạn có học được việc gì mới ở nhà không?",
+      "options": [
+        "Bạn có học được việc gì mới ở nhà không?",
+        "Ở nhà thì chắc chắn rất chán.",
+        "Bạn phải kể giống chuyện của Sơn.",
+        "Mình sẽ không nghe bạn kể."
+      ],
+      "explanation": "Lời gợi mở giúp bạn tìm kỉ niệm riêng, giống Sơn giúp Chi nhận ra niềm vui học xe."
+    },
+    {
+      "question_id": "TV3_T1_B01_Q15",
+      "type": "mcq",
+      "skill": "expression",
+      "question": "Trong đoạn kể về tập xe, chi tiết nào giúp người nghe biết cảm xúc của em?",
+      "correct_answer": "Em rất vui khi tự đạp được một đoạn.",
+      "options": [
+        "Em rất vui khi tự đạp được một đoạn.",
+        "Chiếc xe có hai bánh.",
+        "Sân nhà có một cây.",
+        "Hôm ấy là một ngày."
+      ],
+      "explanation": "Câu này trực tiếp nói cảm xúc gắn với việc vừa làm được."
+    },
+    {
+      "question_id": "TV3_T1_B01_Q16",
+      "type": "mcq",
+      "skill": "expression",
+      "question": "Cách kể nào trung thực và phù hợp sau khi đọc bài?",
+      "correct_answer": "Kể việc mình thật sự đã làm, dù đó là việc nhỏ",
+      "options": [
+        "Kể việc mình thật sự đã làm, dù đó là việc nhỏ",
+        "Mượn nguyên chuyện Sơn và nhận là chuyện mình",
+        "Bịa một chuyến đi thật xa cho hơn bạn",
+        "Chỉ liệt kê tên đồ chơi không nói việc gì"
+      ],
+      "explanation": "Mỗi trải nghiệm có giá trị riêng; không cần bịa để câu chuyện có vẻ hấp dẫn."
+    }
+  ],
+  "games": [
+    {
+      "id": "TV3_T1_B01_GAME",
+      "title": "Chiếc diều kể chuyện",
+      "mode": "treasure",
+      "objective": "Tìm kho báu bằng cách hiểu chi tiết và dùng tiếng Việt đúng theo bài.",
+      "rules": [
+        "Trả lời 10 câu được chọn từ chính bài này.",
+        "Mỗi đáp án đúng được 10 điểm; đọc phản hồi để hiểu và sửa câu sai.",
+        "Chơi lại để gặp một bộ câu khác."
+      ],
+      "question_ids": [
+        "TV3_T1_B01_Q01",
+        "TV3_T1_B01_Q02",
+        "TV3_T1_B01_Q03",
+        "TV3_T1_B01_Q04",
+        "TV3_T1_B01_Q05",
+        "TV3_T1_B01_Q06",
+        "TV3_T1_B01_Q07",
+        "TV3_T1_B01_Q08",
+        "TV3_T1_B01_Q09",
+        "TV3_T1_B01_Q10",
+        "TV3_T1_B01_Q11",
+        "TV3_T1_B01_Q12",
+        "TV3_T1_B01_Q13",
+        "TV3_T1_B01_Q14",
+        "TV3_T1_B01_Q15",
+        "TV3_T1_B01_Q16"
+      ],
+      "answer_source": "practice.correct_answer",
+      "feedback_source": "practice.explanation",
+      "max_score": 100
+    }
+  ],
+  "assessment": {
+    "session_size": 10,
+    "scoring": "Mỗi câu đúng được tính điểm theo hệ thống; 8–10 câu đúng: nắm tốt, 5–7: đọc lại phần còn nhầm, dưới 5: đọc bài cùng người thân rồi thử lại. Nhiệm vụ nói/viết tự kiểm theo tiêu chí, không chấm bằng một đáp án duy nhất.",
+    "review_advice": "Sau lượt luyện, chọn một câu sai để giải thích lại. Với nói/viết: đúng chi tiết hoặc trải nghiệm thật, đủ ý, câu rõ, chính tả đúng; sửa ít nhất một điểm trước khi hoàn tất."
+  },
+  "feedback": {
+    "correct": "Em đã chọn phù hợp. Đọc lời giải để nhắc lại căn cứ.",
+    "incorrect": "Đọc lại câu hỏi và chi tiết liên quan; xem lời giải để biết vì sao."
+  },
+  "verification": {
+    "ai_authored": true,
+    "structure_checked": true,
+    "answer_reviewed": true,
+    "source_reviewed": true,
+    "teacher_approved": false
+  },
+  "status": "AI_CHECKED_AWAITING_TEACHER"
+}

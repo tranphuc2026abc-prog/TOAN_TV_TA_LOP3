@@ -87,7 +87,7 @@
     }else drawing.feedback='Đã chọn '+pts.length+'/'+task.points+' điểm. '+task.steps;
     renderDrawing();var focus=document.getElementById('geo-'+x+'-'+y);if(focus)focus.focus({preventScroll:true});
   };
-  function activitiesHTML(items){return '<h3>🧰 Thực hành với dụng cụ</h3>'+items.map(function(a){return '<section><h4>'+esc(a.title)+'</h4><p>Dụng cụ: '+esc(a.materials.join(', '))+'.</p><ol>'+a.steps.map(function(s){return '<li>'+esc(s)+'</li>';}).join('')+'</ol><p>Tự kiểm tra:</p>'+list(a.check)+'</section>';}).join('');}
+  function activitiesHTML(items,subject){return '<h3>🧰 '+(subject==='tv'?'Thực hành nói và viết':'Thực hành với dụng cụ')+'</h3>'+items.map(function(a){return '<section><h4>'+esc(a.title)+'</h4><p>Dụng cụ: '+esc(a.materials.join(', '))+'.</p><ol>'+a.steps.map(function(s){return '<li>'+esc(s)+'</li>';}).join('')+'</ol><p>Tự kiểm tra:</p>'+list(a.check)+'</section>';}).join('');}
   function figureHTML(f){return '<figure><img style="width:100%;max-width:560px;height:auto" src="'+esc(f.path)+'" alt="'+esc(f.caption)+'"><figcaption>'+esc(f.caption)+'</figcaption></figure>';}
   function referenceTable(t){
     return '<div style="overflow-x:auto"><table style="border-collapse:collapse;text-align:center;width:100%"><caption>'+esc(t.caption)+'</caption><thead><tr><th scope="col">×</th>'+t.columns.map(function(n){return '<th scope="col" style="padding:8px;border:1px solid #ccd5e5">'+n+'</th>';}).join('')+'</tr></thead><tbody>'+t.rows.map(function(row){return '<tr><th scope="row" style="padding:8px;border:1px solid #ccd5e5">'+row.factor+'</th>'+row.values.map(function(n){return '<td style="padding:8px;border:1px solid #ccd5e5">'+n+'</td>';}).join('')+'</tr>';}).join('')+'</tbody></table></div>';
@@ -108,12 +108,12 @@
       '<h3>👣 Cách học</h3>'+list(c.knowledge.steps)+'<h3>💡 Ví dụ</h3>'+c.examples.map(function(e){return '<h4>'+esc(e.question)+'</h4>'+list(e.steps);}).join('')+
       '<h3>🔎 Lỗi thường gặp</h3>'+list(c.knowledge.common_errors)+(c.figures?'<h3>📐 Hình minh họa</h3>'+c.figures.map(figureHTML).join(''):'')+
       (c.reference_table?'<h3>🔢 Tra bảng</h3>'+referenceTable(c.reference_table):'')+
-      (c.activities?activitiesHTML(c.activities):'')+(c.drawing_practice?'<section id="geometryDraw"></section>':'')+
+      (c.activities?activitiesHTML(c.activities,c.subject):'')+(c.drawing_practice?'<section id="geometryDraw"></section>':'')+
       (c.subject==='tv'?'<h3>📖 Cùng hiểu bài đọc</h3><p>'+esc(c.reading.summary)+'</p>'+list(c.reading.characters_or_images)+'<p>'+esc(c.reading.message)+'</p>'+Object.keys(c.language_practice).map(function(k){return '<h4>'+esc({vocabulary:'Từ ngữ',sentences:'Luyện câu',spelling:'Chính tả',expression:'Diễn đạt'}[k]||k)+'</h4>'+list(c.language_practice[k]);}).join(''):'')+
       '<h3>🎯 Luyện tập</h3><p>'+ (c.subject==='toan'?'Mỗi lượt 10 câu: 3 nhận biết, 3 thông hiểu, 4 vận dụng.':'Mỗi lượt '+c.assessment.session_size+' câu luyện theo bài học.')+' Xem lời giải sau khi trả lời.</p>'+
       '<button class="big" onclick="startQ(\''+c.id+'\',\'all\')">Luyện tập '+c.assessment.session_size+' câu</button> '+
       '<button onclick="startQ(\''+c.id+'\',\'mcq\')">Trắc nghiệm</button> '+
-      '<button onclick="startQ(\''+c.id+'\',\'fill\')">Điền đáp án</button>'+
+      (c.practice.some(function(q){return q.type==='fill';})?'<button onclick="startQ(\''+c.id+'\',\'fill\')">Điền đáp án</button>':'')+
       '<h3>🎮 '+esc(c.games[0].title)+'</h3><p>'+esc(c.games[0].objective)+'</p>'+list(c.games[0].rules)+
       '<button class="big" onclick="startLessonGame(\''+c.id+'\')">Bắt đầu trò chơi</button>'+
       '<h3>⭐ Tự đánh giá</h3><p>'+esc(c.assessment.scoring)+'</p><p>'+esc(c.assessment.review_advice)+'</p>';

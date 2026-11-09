@@ -1,3 +1,9 @@
+# Tiến độ mới nhất — Batch 22 — 09/11/2026
+
+**85/168 mục đã tích hợp: đủ 81 bài Toán và 4 bài Tiếng Việt đầu tiên; 3.304 câu, 85 trò chơi.** Giáo viên đã duyệt Toán 1–4; 81 bài còn chờ duyệt. Còn 58 bài Tiếng Việt và 25 mục Tiếng Anh. Đã đọc trực quan nguồn TV1–4, biên soạn bài tập mới; không đăng toàn văn sách. npm test đạt trên 85 bài, giữ hồi quy Toán và bổ sung DOM ngôn ngữ. Chưa có kiểm thử Chromium thật. Chi tiết tại [tiến độ](content/system/PROGRESS.md) và [báo cáo kiểm tra](content/system/AUDIT_REPORT.md).
+
+## Lịch sử
+
 # Tiến độ mới nhất — 09/11/2026
 
 **76/168 mục đã tích hợp: Toán 1–76, 3.040 câu và 76 trò chơi.** Batch 19 bổ sung Toán 73–76 về số liệu, khả năng xảy ra của sự kiện và ôn số đến 100 000, cùng 3 SVG mới. Giáo viên đã duyệt Toán 1–4; 72 bài chờ giáo viên duyệt. Còn 92 mục: Toán 77–81, Tiếng Việt 62 bài, Tiếng Anh 25 mục.
