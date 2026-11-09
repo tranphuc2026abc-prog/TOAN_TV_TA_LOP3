@@ -1,0 +1,790 @@
+{
+  "id": "TOAN3_T2_B78",
+  "subject": "toan",
+  "grade": 3,
+  "book": "Kết nối tri thức với cuộc sống",
+  "volume": 2,
+  "lesson_no": 78,
+  "title": "Ôn tập phép nhân, phép chia trong phạm vi 100 000",
+  "topic": "Ôn nhân và chia đến 100 000",
+  "source": {
+    "pdf": "03-sgk-toan-3-tap-hai.pdf",
+    "printed_pages": [
+      118,
+      120
+    ],
+    "pdf_pages": [
+      119,
+      121
+    ],
+    "review": "Đã đọc trực quan toàn bộ trang nguồn cho bài này; nội dung và bài tập mới do AI biên soạn."
+  },
+  "objectives": [
+    "Nhân, chia với số có một chữ số, giữ đúng chữ số 0 trong thương.",
+    "Tính biểu thức phối hợp theo đúng thứ tự.",
+    "Phân biệt nhóm đủ với số đồ chứa cần để chứa hết."
+  ],
+  "knowledge": {
+    "introduction": "Phép nhân giúp gộp các nhóm bằng nhau. Phép chia giúp chia đều hoặc tìm số nhóm. Với phép chia có dư, phần dư không đủ một nhóm nhưng vẫn cần được tính đến nếu phải chở hoặc chứa hết.",
+    "rules": [
+      "Nhân từ hàng đơn vị và cộng số nhớ vào tích ở hàng tiếp theo.",
+      "Chia từ trái sang phải; khi một hàng không chia được một lần vẫn cần ghi 0 ở hàng thương tương ứng.",
+      "Số dư luôn nhỏ hơn số chia. Số bị chia bằng thương nhân số chia rồi cộng số dư.",
+      "Biểu thức có ngoặc tính trong ngoặc trước; nhân chia trước cộng trừ; cùng mức tính từ trái sang phải.",
+      "Chỉ tính nhóm đầy thì lấy số nhóm đủ; cần chứa hết mà còn dư thì thêm một đồ chứa."
+    ],
+    "steps": [
+      "Đọc để nhận ra chia đều, số nhóm, phần còn lại hay giá mỗi đơn vị.",
+      "Thực hiện nhân hoặc chia và ghi rõ thương, dư nếu có.",
+      "Xử lí phần dư đúng yêu cầu thực tế.",
+      "Thử lại bằng phép tính ngược, kiểm tra đơn vị và độ lớn."
+    ],
+    "common_errors": [
+      "Bỏ chữ số 0 ở giữa thương.",
+      "Nhầm chia cho tích với chia rồi nhân.",
+      "Lấy thương rồi bỏ phần dư khi cần chở hết người.",
+      "Nhầm số còn lại sau khi giảm số lần với số đã bán."
+    ]
+  },
+  "examples": [
+    {
+      "question": "Có 58 chai nước, mỗi hộp chứa tối đa 6 chai. Cần ít nhất mấy hộp?",
+      "steps": [
+        "58 chia 6 được 9 nhóm đủ và dư 4 chai.",
+        "Chín hộp chứa 54 chai, còn 4 chai cần thêm một hộp.",
+        "Cần 10 hộp để chứa hết."
+      ]
+    },
+    {
+      "question": "Tính 15000 − 18000 : 3.",
+      "steps": [
+        "Thực hiện phép chia trước: 18000 : 3 = 6000.",
+        "Sau đó 15000 − 6000 = 9000.",
+        "Không trừ trước rồi chia."
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "question_id": "TOAN3_T2_B78_Q01",
+      "type": "mcq",
+      "question": "Tính 14000 nhân 3.",
+      "options": [
+        "42000",
+        "17000",
+        "41000",
+        "4200"
+      ],
+      "correct_answer": "42000",
+      "distractors": [
+        "17000",
+        "41000",
+        "4200"
+      ],
+      "explanation": "14 nghìn nhân 3 được 42 nghìn.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B78_Q02",
+      "type": "fill",
+      "question": "Tính 48000 chia 6.",
+      "correct_answer": "8000",
+      "distractors": [
+        "800",
+        "42000",
+        "9000"
+      ],
+      "explanation": "6 nhóm, mỗi nhóm 8000 thì có 48000.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B78_Q03",
+      "type": "mcq",
+      "question": "Một số nhân 1 bằng 23045. Số đó bằng bao nhiêu?",
+      "options": [
+        "23045",
+        "0",
+        "23046",
+        "1"
+      ],
+      "correct_answer": "23045",
+      "distractors": [
+        "0",
+        "23046",
+        "1"
+      ],
+      "explanation": "Nhân với 1 giữ nguyên số.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B78_Q04",
+      "type": "fill",
+      "question": "Số 0 nhân 315 bằng bao nhiêu?",
+      "correct_answer": "0",
+      "distractors": [
+        "315",
+        "1",
+        "3150"
+      ],
+      "explanation": "Tích có thừa số 0 bằng 0.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B78_Q05",
+      "type": "mcq",
+      "question": "Số chia là 7, số dư có thể lớn nhất bằng bao nhiêu?",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "0"
+      ],
+      "correct_answer": "6",
+      "distractors": [
+        "7",
+        "8",
+        "0"
+      ],
+      "explanation": "Số dư phải nhỏ hơn 7 nên lớn nhất là 6.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B78_Q06",
+      "type": "fill",
+      "question": "Tích 2500 và 4 bằng bao nhiêu?",
+      "correct_answer": "10000",
+      "distractors": [
+        "1000",
+        "6500",
+        "9000"
+      ],
+      "explanation": "25 trăm nhân 4 được 100 trăm, tức 10000.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B78_Q07",
+      "type": "mcq",
+      "question": "Thương 6300 và 9 bằng bao nhiêu?",
+      "options": [
+        "700",
+        "70",
+        "7000",
+        "5400"
+      ],
+      "correct_answer": "700",
+      "distractors": [
+        "70",
+        "7000",
+        "5400"
+      ],
+      "explanation": "9 nhân 700 bằng 6300.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B78_Q08",
+      "type": "fill",
+      "question": "Một hộp có 8 bút. Ba hộp như vậy có mấy bút?",
+      "correct_answer": "24",
+      "distractors": [
+        "11",
+        "5",
+        "32"
+      ],
+      "explanation": "Ba nhóm, mỗi nhóm 8 bút, được 24 bút.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B78_Q09",
+      "type": "mcq",
+      "question": "Chia đều 36 thẻ cho 4 bạn. Mỗi bạn được mấy thẻ?",
+      "options": [
+        "9",
+        "8",
+        "12",
+        "6"
+      ],
+      "correct_answer": "9",
+      "distractors": [
+        "8",
+        "12",
+        "6"
+      ],
+      "explanation": "36 chia 4 được 9 thẻ mỗi bạn.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B78_Q10",
+      "type": "fill",
+      "question": "Muốn kiểm tra phép chia hết, lấy thương nhân với số nào?",
+      "correct_answer": "số chia",
+      "distractors": [
+        "số dư",
+        "thương",
+        "số bị chia"
+      ],
+      "explanation": "Thương nhân số chia phải bằng số bị chia.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B78_Q11",
+      "type": "mcq",
+      "question": "Tính 12000 chia 3 nhân 2.",
+      "options": [
+        "8000",
+        "2000",
+        "24000",
+        "6000"
+      ],
+      "correct_answer": "8000",
+      "distractors": [
+        "2000",
+        "24000",
+        "6000"
+      ],
+      "explanation": "Chia trước theo thứ tự trái sang phải: 4000, rồi nhân 2 được 8000.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B78_Q12",
+      "type": "fill",
+      "question": "Tính 24000 chia (3 nhân 2).",
+      "correct_answer": "4000",
+      "distractors": [
+        "16000",
+        "8000",
+        "12000"
+      ],
+      "explanation": "Trong ngoặc là 6; 24000 chia 6 được 4000.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B78_Q13",
+      "type": "mcq",
+      "question": "Tính (3500 cộng 1500) nhân 4.",
+      "options": [
+        "20000",
+        "9500",
+        "17000",
+        "5000"
+      ],
+      "correct_answer": "20000",
+      "distractors": [
+        "9500",
+        "17000",
+        "5000"
+      ],
+      "explanation": "Trong ngoặc được 5000; nhân 4 được 20000.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B78_Q14",
+      "type": "fill",
+      "question": "Bạn tính 2106 nhân 4 bằng 8420. Tích đúng là bao nhiêu?",
+      "correct_answer": "8424",
+      "distractors": [
+        "8420",
+        "8244",
+        "8404"
+      ],
+      "explanation": "4 nhân 6 được 24, viết 4 nhớ 2; tính các hàng tiếp được 8424.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B78_Q15",
+      "type": "mcq",
+      "question": "Tính 42035 chia 5.",
+      "options": [
+        "8407",
+        "847",
+        "8406",
+        "8417"
+      ],
+      "correct_answer": "8407",
+      "distractors": [
+        "847",
+        "8406",
+        "8417"
+      ],
+      "explanation": "5 nhân 8407 bằng 42035; cần giữ chữ số 0 trong thương.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B78_Q16",
+      "type": "fill",
+      "question": "Một số chia 8 được thương 1250 và dư 3. Số đó là bao nhiêu?",
+      "correct_answer": "10003",
+      "distractors": [
+        "10000",
+        "10024",
+        "1253"
+      ],
+      "explanation": "1250 nhân 8 bằng 10000, thêm số dư 3 được 10003.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B78_Q17",
+      "type": "mcq",
+      "question": "Tăng một thừa số lên gấp 3 lần, thừa số kia giữ nguyên. Tích tăng mấy lần?",
+      "options": [
+        "3",
+        "6",
+        "1",
+        "9"
+      ],
+      "correct_answer": "3",
+      "distractors": [
+        "6",
+        "1",
+        "9"
+      ],
+      "explanation": "Mỗi nhóm lớn gấp 3 nên tổng các nhóm cũng gấp 3.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B78_Q18",
+      "type": "fill",
+      "question": "Hai phép tính 16000 nhân 2 và 96000 chia 3 có kết quả bằng nhau không?",
+      "correct_answer": "có",
+      "distractors": [
+        "không",
+        "chênh 16000",
+        "chênh 32000"
+      ],
+      "explanation": "Cả hai đều bằng 32000.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B78_Q19",
+      "type": "mcq",
+      "question": "Tìm chữ số a để 12a nhân 3 bằng 375.",
+      "options": [
+        "5",
+        "3",
+        "2",
+        "7"
+      ],
+      "correct_answer": "5",
+      "distractors": [
+        "3",
+        "2",
+        "7"
+      ],
+      "explanation": "375 chia 3 được 125 nên a là 5.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B78_Q20",
+      "type": "fill",
+      "question": "Số 3024 chia 3 có thương là bao nhiêu?",
+      "correct_answer": "1008",
+      "distractors": [
+        "108",
+        "1006",
+        "1028"
+      ],
+      "explanation": "3 nhân 1008 bằng 3024, hàng chục trong thương là 0.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B78_Q21",
+      "type": "mcq",
+      "question": "Bốn thùng có tổng 36000 g bột, mỗi thùng bằng nhau. Hai thùng có bao nhiêu gam?",
+      "options": [
+        "18000",
+        "9000",
+        "72000",
+        "32000"
+      ],
+      "correct_answer": "18000",
+      "distractors": [
+        "9000",
+        "72000",
+        "32000"
+      ],
+      "explanation": "Một thùng 9000 g; hai thùng 18000 g.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B78_Q22",
+      "type": "fill",
+      "question": "Mỗi vé 12500 đồng. Mua 3 vé, đưa 50000 đồng thì còn lại bao nhiêu đồng?",
+      "correct_answer": "12500",
+      "distractors": [
+        "37500",
+        "25000",
+        "15000"
+      ],
+      "explanation": "Ba vé hết 37500 đồng; còn 12500 đồng.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B78_Q23",
+      "type": "mcq",
+      "question": "Có 43 học sinh đi xe, mỗi xe chở tối đa 8 học sinh. Cần ít nhất mấy xe?",
+      "options": [
+        "6",
+        "5",
+        "7",
+        "8"
+      ],
+      "correct_answer": "6",
+      "distractors": [
+        "5",
+        "7",
+        "8"
+      ],
+      "explanation": "5 xe chỉ chở 40 bạn, còn 3 bạn nên cần thêm xe thứ sáu.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B78_Q24",
+      "type": "fill",
+      "question": "Có 43 bông hoa, mỗi bó cần đúng 8 bông. Bó được nhiều nhất mấy bó đủ?",
+      "correct_answer": "5",
+      "distractors": [
+        "6",
+        "8",
+        "3"
+      ],
+      "explanation": "5 bó dùng 40 bông, dư 3 không đủ thêm một bó.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B78_Q25",
+      "type": "mcq",
+      "question": "Một tổ may 1850 áo mỗi ngày. Trong 4 ngày may được bao nhiêu áo?",
+      "options": [
+        "7400",
+        "5850",
+        "7200",
+        "7500"
+      ],
+      "correct_answer": "7400",
+      "distractors": [
+        "5850",
+        "7200",
+        "7500"
+      ],
+      "explanation": "Bốn ngày cùng năng suất nên lấy 1850 nhân 4 được 7400.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B78_Q26",
+      "type": "fill",
+      "question": "Kho có 7200 kg gạo. Sau khi bán, số còn lại bằng một phần ba ban đầu. Đã bán bao nhiêu kg?",
+      "correct_answer": "4800",
+      "distractors": [
+        "2400",
+        "9600",
+        "3600"
+      ],
+      "explanation": "Còn 2400 kg nên đã bán 7200 trừ 2400 bằng 4800 kg.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B78_Q27",
+      "type": "mcq",
+      "question": "Mẹ 36 tuổi, con 9 tuổi. Tuổi mẹ gấp tuổi con mấy lần?",
+      "options": [
+        "4",
+        "27",
+        "3",
+        "5"
+      ],
+      "correct_answer": "4",
+      "distractors": [
+        "27",
+        "3",
+        "5"
+      ],
+      "explanation": "Lấy 36 chia 9 được 4 lần.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B78_Q28",
+      "type": "fill",
+      "question": "Một cửa hàng bán 5 túi gạo cùng loại hết 95000 đồng. Mua 3 túi như thế hết bao nhiêu đồng?",
+      "correct_answer": "57000",
+      "distractors": [
+        "19000",
+        "60000",
+        "38000"
+      ],
+      "explanation": "Mỗi túi 19000 đồng, ba túi hết 57000 đồng.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B78_Q29",
+      "type": "mcq",
+      "question": "Đội trồng cây có 6 nhóm, mỗi nhóm trồng 125 cây. Mục tiêu 1000 cây, còn thiếu bao nhiêu cây?",
+      "options": [
+        "250",
+        "750",
+        "875",
+        "375"
+      ],
+      "correct_answer": "250",
+      "distractors": [
+        "750",
+        "875",
+        "375"
+      ],
+      "explanation": "Đã trồng 750 cây; còn thiếu 250 cây.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B78_Q30",
+      "type": "fill",
+      "question": "Một số nhân 6 rồi chia 3 thì được 8400. Số ban đầu bằng bao nhiêu?",
+      "correct_answer": "4200",
+      "distractors": [
+        "16800",
+        "2800",
+        "50400"
+      ],
+      "explanation": "Làm ngược: 8400 nhân 3 rồi chia 6 được 4200.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B78_Q31",
+      "type": "mcq",
+      "question": "Có 15000 nhãn vở chia đều cho 5 lớp. Một lớp chia tiếp cho 3 tổ. Mỗi tổ nhận bao nhiêu nhãn?",
+      "options": [
+        "1000",
+        "3000",
+        "5000",
+        "9000"
+      ],
+      "correct_answer": "1000",
+      "distractors": [
+        "3000",
+        "5000",
+        "9000"
+      ],
+      "explanation": "Một lớp nhận 3000 nhãn; chia 3 tổ được 1000 nhãn mỗi tổ.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B78_Q32",
+      "type": "fill",
+      "question": "Một dây dài 28000 cm cắt thành 7 đoạn bằng nhau. Dùng 2 đoạn thì đã dùng bao nhiêu cm?",
+      "correct_answer": "8000",
+      "distractors": [
+        "4000",
+        "14000",
+        "20000"
+      ],
+      "explanation": "Mỗi đoạn 4000 cm, hai đoạn dài 8000 cm.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B78_Q33",
+      "type": "mcq",
+      "question": "Ba lần chuyển hàng, mỗi lần 12400 kg. Còn phải chuyển 6800 kg nữa mới hết. Ban đầu có bao nhiêu kg hàng?",
+      "options": [
+        "44000",
+        "37200",
+        "30400",
+        "19200"
+      ],
+      "correct_answer": "44000",
+      "distractors": [
+        "37200",
+        "30400",
+        "19200"
+      ],
+      "explanation": "Ba lần chuyển 37200 kg; cộng phần còn 6800 được 44000 kg.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B78_Q34",
+      "type": "fill",
+      "question": "Một phép chia có thương 2304, số chia 4, số dư 2. Số bị chia bằng bao nhiêu?",
+      "correct_answer": "9218",
+      "distractors": [
+        "9216",
+        "9224",
+        "2306"
+      ],
+      "explanation": "2304 nhân 4 bằng 9216, cộng số dư 2 được 9218.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B78_Q35",
+      "type": "mcq",
+      "question": "Một số chia 7 có số dư 5. Thêm ít nhất bao nhiêu vào số đó để chia hết cho 7?",
+      "options": [
+        "2",
+        "5",
+        "7",
+        "12"
+      ],
+      "correct_answer": "2",
+      "distractors": [
+        "5",
+        "7",
+        "12"
+      ],
+      "explanation": "Cần thêm 2 để phần dư 5 thành một nhóm đủ 7.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B78_Q36",
+      "type": "fill",
+      "question": "Có 1860 quả trứng. Xếp mỗi khay 6 quả, rồi mỗi hộp 5 khay. Có bao nhiêu hộp đầy?",
+      "correct_answer": "62",
+      "distractors": [
+        "310",
+        "372",
+        "60"
+      ],
+      "explanation": "1860 chia 6 được 310 khay; chia tiếp 5 được 62 hộp.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B78_Q37",
+      "type": "mcq",
+      "question": "Một máy in mỗi phút in 245 trang. Sau 8 phút, còn thiếu 1040 trang mới xong. Tài liệu có tất cả mấy trang?",
+      "options": [
+        "3000",
+        "1960",
+        "920",
+        "2990"
+      ],
+      "correct_answer": "3000",
+      "distractors": [
+        "1960",
+        "920",
+        "2990"
+      ],
+      "explanation": "Đã in 1960 trang; cộng 1040 còn lại được 3000 trang.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B78_Q38",
+      "type": "fill",
+      "question": "Tìm chữ số a trong 2a05 nhân 4 bằng 10020.",
+      "correct_answer": "5",
+      "distractors": [
+        "0",
+        "2",
+        "4"
+      ],
+      "explanation": "10020 chia 4 được 2505 nên a bằng 5.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B78_Q39",
+      "type": "mcq",
+      "question": "Tính 18000 trừ 24000 chia 4.",
+      "options": [
+        "12000",
+        "1500",
+        "6000",
+        "24000"
+      ],
+      "correct_answer": "12000",
+      "distractors": [
+        "1500",
+        "6000",
+        "24000"
+      ],
+      "explanation": "Thực hiện chia trước: 6000; sau đó 18000 trừ 6000 được 12000.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B78_Q40",
+      "type": "fill",
+      "question": "Có 90000 đồng mua 4 quyển vở, mỗi quyển 12000 đồng, và 3 bút, mỗi bút 9000 đồng. Còn bao nhiêu đồng?",
+      "correct_answer": "15000",
+      "distractors": [
+        "75000",
+        "42000",
+        "27000"
+      ],
+      "explanation": "Vở hết 48000, bút hết 27000; tổng 75000, còn 15000 đồng.",
+      "difficulty": "van_dung"
+    }
+  ],
+  "games": [
+    {
+      "id": "TOAN3_T2_B78_GAME1",
+      "title": "Ghép phép tính",
+      "mode": "match",
+      "objective": "Ghép mỗi câu với kết quả đúng, chú ý phần dư và thứ tự phép tính.",
+      "rules": [
+        "Mỗi lượt chọn 5 câu có 5 đáp án khác nhau.",
+        "Chọn câu hỏi bên trái rồi đáp án bên phải. Sai thì thử lại.",
+        "Mỗi cặp đúng 10 điểm; tối đa 50 điểm."
+      ],
+      "question_ids": [
+        "TOAN3_T2_B78_Q01",
+        "TOAN3_T2_B78_Q02",
+        "TOAN3_T2_B78_Q03",
+        "TOAN3_T2_B78_Q04",
+        "TOAN3_T2_B78_Q05",
+        "TOAN3_T2_B78_Q06",
+        "TOAN3_T2_B78_Q07",
+        "TOAN3_T2_B78_Q08",
+        "TOAN3_T2_B78_Q09",
+        "TOAN3_T2_B78_Q10",
+        "TOAN3_T2_B78_Q11",
+        "TOAN3_T2_B78_Q12",
+        "TOAN3_T2_B78_Q13",
+        "TOAN3_T2_B78_Q14",
+        "TOAN3_T2_B78_Q15",
+        "TOAN3_T2_B78_Q16",
+        "TOAN3_T2_B78_Q17",
+        "TOAN3_T2_B78_Q18",
+        "TOAN3_T2_B78_Q19",
+        "TOAN3_T2_B78_Q20",
+        "TOAN3_T2_B78_Q21",
+        "TOAN3_T2_B78_Q22",
+        "TOAN3_T2_B78_Q23",
+        "TOAN3_T2_B78_Q24",
+        "TOAN3_T2_B78_Q25",
+        "TOAN3_T2_B78_Q26",
+        "TOAN3_T2_B78_Q27",
+        "TOAN3_T2_B78_Q28",
+        "TOAN3_T2_B78_Q29",
+        "TOAN3_T2_B78_Q30",
+        "TOAN3_T2_B78_Q31",
+        "TOAN3_T2_B78_Q32",
+        "TOAN3_T2_B78_Q33",
+        "TOAN3_T2_B78_Q34",
+        "TOAN3_T2_B78_Q35",
+        "TOAN3_T2_B78_Q36",
+        "TOAN3_T2_B78_Q37",
+        "TOAN3_T2_B78_Q38",
+        "TOAN3_T2_B78_Q39",
+        "TOAN3_T2_B78_Q40"
+      ],
+      "answer_source": "practice.correct_answer",
+      "feedback_source": "practice.explanation",
+      "max_score": 50
+    }
+  ],
+  "assessment": {
+    "session_size": 10,
+    "distribution": {
+      "nhan_biet": 3,
+      "thong_hieu": 3,
+      "van_dung": 4
+    },
+    "scoring": "Đúng lần đầu: 1 điểm; đúng sau một gợi ý: 0,5 điểm. Từ 90%: 3 sao; từ 60%: 2 sao; còn lại: 1 sao.",
+    "review_advice": "Xem lời giải các câu sai, đọc lại quy tắc, rồi làm một lượt mới."
+  },
+  "feedback": {
+    "correct": "Chính xác! Hãy đọc lời giải để củng cố cách làm.",
+    "incorrect": "Em thử lại một lần. Sau đó xem đáp án và cách giải."
+  },
+  "verification": {
+    "ai_authored": true,
+    "structure_checked": true,
+    "answer_reviewed": true,
+    "source_reviewed": true,
+    "teacher_approved": false
+  },
+  "status": "AI_CHECKED_AWAITING_TEACHER",
+  "figures": []
+}

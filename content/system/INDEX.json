@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08",
+  "updated": "2026-11-09",
   "total": 168,
   "counts": {
     "math": 81,
@@ -926,48 +926,48 @@
       "subject": "toan",
       "volume": "Tập 2",
       "title": "Ôn tập phép cộng, phép trừ trong phạm vi 100 000",
-      "path": null,
-      "markdown": null,
-      "question_count": null,
-      "game_count": null,
-      "status": "BAN_NHAP",
-      "note": "Có bài mẫu hoặc bản nháp tự động; chưa kiểm định từng bài."
+      "path": "content/toan/tap-2/TOAN3_T2_B77.json",
+      "markdown": "content/toan/tap-2/TOAN3_T2_B77.md",
+      "question_count": 40,
+      "game_count": 1,
+      "status": "CAN_RA_SOAT",
+      "note": "AI đã rà soát nguồn, đáp án; chờ giáo viên thẩm định."
     },
     {
       "id": "TOAN3_T2_B78",
       "subject": "toan",
       "volume": "Tập 2",
       "title": "Ôn tập phép nhân, phép chia trong phạm vi 100 000",
-      "path": null,
-      "markdown": null,
-      "question_count": null,
-      "game_count": null,
-      "status": "BAN_NHAP",
-      "note": "Có bài mẫu hoặc bản nháp tự động; chưa kiểm định từng bài."
+      "path": "content/toan/tap-2/TOAN3_T2_B78.json",
+      "markdown": "content/toan/tap-2/TOAN3_T2_B78.md",
+      "question_count": 40,
+      "game_count": 1,
+      "status": "CAN_RA_SOAT",
+      "note": "AI đã rà soát nguồn, đáp án; chờ giáo viên thẩm định."
     },
     {
       "id": "TOAN3_T2_B79",
       "subject": "toan",
       "volume": "Tập 2",
       "title": "Ôn tập hình học và đo lường",
-      "path": null,
-      "markdown": null,
-      "question_count": null,
-      "game_count": null,
-      "status": "BAN_NHAP",
-      "note": "Có bài mẫu hoặc bản nháp tự động; chưa kiểm định từng bài."
+      "path": "content/toan/tap-2/TOAN3_T2_B79.json",
+      "markdown": "content/toan/tap-2/TOAN3_T2_B79.md",
+      "question_count": 40,
+      "game_count": 1,
+      "status": "CAN_RA_SOAT",
+      "note": "AI đã rà soát nguồn, đáp án; chờ giáo viên thẩm định."
     },
     {
       "id": "TOAN3_T2_B80",
       "subject": "toan",
       "volume": "Tập 2",
       "title": "Ôn tập bảng số liệu, khả năng xảy ra của một sự kiện",
-      "path": null,
-      "markdown": null,
-      "question_count": null,
-      "game_count": null,
-      "status": "BAN_NHAP",
-      "note": "Có bài mẫu hoặc bản nháp tự động; chưa kiểm định từng bài."
+      "path": "content/toan/tap-2/TOAN3_T2_B80.json",
+      "markdown": "content/toan/tap-2/TOAN3_T2_B80.md",
+      "question_count": 40,
+      "game_count": 1,
+      "status": "CAN_RA_SOAT",
+      "note": "AI đã rà soát nguồn, đáp án; chờ giáo viên thẩm định."
     },
     {
       "id": "TOAN3_T2_B81",

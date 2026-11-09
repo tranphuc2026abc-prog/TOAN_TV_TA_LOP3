@@ -1,0 +1,872 @@
+{
+  "id": "TOAN3_T2_B79",
+  "subject": "toan",
+  "grade": 3,
+  "book": "Kết nối tri thức với cuộc sống",
+  "volume": 2,
+  "lesson_no": 79,
+  "title": "Ôn tập hình học và đo lường",
+  "topic": "Ôn hình học và đo lường",
+  "source": {
+    "pdf": "03-sgk-toan-3-tap-hai.pdf",
+    "printed_pages": [
+      121,
+      122
+    ],
+    "pdf_pages": [
+      122,
+      123
+    ],
+    "review": "Đã đọc trực quan toàn bộ trang nguồn cho bài này; nội dung và bài tập mới do AI biên soạn."
+  },
+  "objectives": [
+    "Nhận biết góc vuông, bán kính, trung điểm.",
+    "Tính chu vi, diện tích và xử lí phần cắt ghép.",
+    "Đổi đơn vị và tính thời gian, tiền trong tình huống cụ thể."
+  ],
+  "knowledge": {
+    "introduction": "Chu vi đo đường bao quanh hình, còn diện tích đo phần mặt bên trong. Khi ghép hai hình, cạnh chung ở bên trong không thuộc đường bao ngoài. Khi tính với số đo, phải đổi về cùng đơn vị trước.",
+    "rules": [
+      "Chu vi hình chữ nhật bằng tổng dài và rộng nhân 2; diện tích bằng dài nhân rộng.",
+      "Chu vi hình vuông bằng cạnh nhân 4; diện tích bằng cạnh nhân cạnh.",
+      "Diện tích các phần không chồng nhau có thể cộng; phần bị cắt ra cần trừ.",
+      "Cạnh chung bị tính hai lần trong tổng chu vi hai hình; khi tìm đường bao ngoài cần bỏ hai lần độ dài cạnh chung.",
+      "1 m bằng 100 cm, 1 cm bằng 10 mm; 1 kg bằng 1000 g; 1 lít bằng 1000 ml.",
+      "1 giờ bằng 60 phút. Qua cuối tháng phải biết tháng đó có bao nhiêu ngày."
+    ],
+    "steps": [
+      "Xác định đại lượng cần tìm và đơn vị yêu cầu.",
+      "Đọc đủ các kích thước trên hình, tìm kích thước còn thiếu nếu cần.",
+      "Đổi về cùng đơn vị, chọn công thức hoặc chia nhỏ tình huống.",
+      "Kiểm tra đơn vị chu vi khác đơn vị diện tích; kiểm tra khi qua giờ và ngày."
+    ],
+    "common_errors": [
+      "Dùng công thức chu vi để tính diện tích.",
+      "Cộng cả cạnh chung vào đường bao ngoài.",
+      "Nhầm 1 giờ là 100 phút hoặc 1 kg là 100 g.",
+      "Quên đổi đơn vị trước khi cộng trừ."
+    ]
+  },
+  "examples": [
+    {
+      "question": "Hình chữ nhật dài 10 cm, rộng 6 cm. Tính chu vi và diện tích.",
+      "steps": [
+        "Chu vi: (10 + 6) × 2 = 32 cm.",
+        "Diện tích: 10 × 6 = 60 cm vuông.",
+        "Hai kết quả dùng đơn vị khác nhau vì đo hai đại lượng khác nhau."
+      ]
+    },
+    {
+      "question": "Bắt đầu đi lúc 10 giờ 35 phút, đi trong 40 phút. Đến nơi lúc nào?",
+      "steps": [
+        "Đi 25 phút đến 11 giờ.",
+        "Còn 15 phút nữa nên đến lúc 11 giờ 15 phút.",
+        "Tổng thời gian 25 + 15 = 40 phút."
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "question_id": "TOAN3_T2_B79_Q01",
+      "type": "mcq",
+      "question": "Hình vuông có mấy góc vuông?",
+      "options": [
+        "4",
+        "2",
+        "3",
+        "5"
+      ],
+      "correct_answer": "4",
+      "distractors": [
+        "2",
+        "3",
+        "5"
+      ],
+      "explanation": "Bốn đỉnh của hình vuông đều là góc vuông.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B79_Q02",
+      "type": "fill",
+      "question": "Một hình tròn có tâm O. Đoạn nối O với một điểm trên đường tròn gọi là gì?",
+      "correct_answer": "bán kính",
+      "distractors": [
+        "đường kính",
+        "cạnh",
+        "chu vi"
+      ],
+      "explanation": "Đoạn từ tâm đến đường tròn là bán kính.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B79_Q03",
+      "type": "mcq",
+      "question": "Đổi 7 cm thành mm.",
+      "options": [
+        "70",
+        "7",
+        "700",
+        "17"
+      ],
+      "correct_answer": "70",
+      "distractors": [
+        "7",
+        "700",
+        "17"
+      ],
+      "explanation": "Mỗi cm bằng 10 mm nên 7 cm bằng 70 mm.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B79_Q04",
+      "type": "fill",
+      "question": "Đổi 2 kg thành g.",
+      "correct_answer": "2000",
+      "distractors": [
+        "200",
+        "20",
+        "20000"
+      ],
+      "explanation": "Mỗi kg bằng 1000 g nên 2 kg bằng 2000 g.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B79_Q05",
+      "type": "mcq",
+      "question": "Một lít bằng bao nhiêu mi-li-lít?",
+      "options": [
+        "1000",
+        "100",
+        "10",
+        "10000"
+      ],
+      "correct_answer": "1000",
+      "distractors": [
+        "100",
+        "10",
+        "10000"
+      ],
+      "explanation": "Quan hệ đơn vị: 1 lít bằng 1000 ml.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B79_Q06",
+      "type": "fill",
+      "question": "Chu vi hình tam giác có ba cạnh 4 cm, 5 cm, 6 cm là bao nhiêu cm?",
+      "correct_answer": "15",
+      "distractors": [
+        "30",
+        "9",
+        "11"
+      ],
+      "explanation": "Cộng độ dài ba cạnh: 4 cộng 5 cộng 6 bằng 15 cm.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B79_Q07",
+      "type": "mcq",
+      "question": "Diện tích hình vuông cạnh 3 cm bằng bao nhiêu cm vuông?",
+      "options": [
+        "9",
+        "12",
+        "6",
+        "3"
+      ],
+      "correct_answer": "9",
+      "distractors": [
+        "12",
+        "6",
+        "3"
+      ],
+      "explanation": "Lấy cạnh nhân cạnh: 3 nhân 3 bằng 9 cm vuông.",
+      "difficulty": "nhan_biet",
+      "figure": {
+        "path": "content/toan/tap-2/TOAN3_T2_B79_Q07.svg",
+        "caption": "Hình vuông cạnh 3 cm"
+      }
+    },
+    {
+      "question_id": "TOAN3_T2_B79_Q08",
+      "type": "fill",
+      "question": "Tháng 9 có bao nhiêu ngày?",
+      "correct_answer": "30",
+      "distractors": [
+        "31",
+        "28",
+        "29"
+      ],
+      "explanation": "Tháng 9 có 30 ngày.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B79_Q09",
+      "type": "mcq",
+      "question": "Một giờ có bao nhiêu phút?",
+      "options": [
+        "60",
+        "100",
+        "30",
+        "24"
+      ],
+      "correct_answer": "60",
+      "distractors": [
+        "100",
+        "30",
+        "24"
+      ],
+      "explanation": "Theo quan hệ đơn vị thời gian, một giờ bằng 60 phút.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B79_Q10",
+      "type": "fill",
+      "question": "Đơn vị nào dùng đo diện tích: cm vuông, cm, kg hay lít?",
+      "correct_answer": "cm vuông",
+      "distractors": [
+        "cm",
+        "kg",
+        "lít"
+      ],
+      "explanation": "Diện tích đếm các ô vuông đơn vị nên dùng cm vuông.",
+      "difficulty": "nhan_biet"
+    },
+    {
+      "question_id": "TOAN3_T2_B79_Q11",
+      "type": "mcq",
+      "question": "Hình chữ nhật dài 9 cm, rộng 4 cm. Chu vi bằng bao nhiêu cm?",
+      "options": [
+        "26",
+        "36",
+        "13",
+        "18"
+      ],
+      "correct_answer": "26",
+      "distractors": [
+        "36",
+        "13",
+        "18"
+      ],
+      "explanation": "Tổng dài rộng là 13 cm; gấp đôi được 26 cm.",
+      "difficulty": "thong_hieu",
+      "figure": {
+        "path": "content/toan/tap-2/TOAN3_T2_B79_Q11.svg",
+        "caption": "Hình chữ nhật dài 9 cm, rộng 4 cm"
+      }
+    },
+    {
+      "question_id": "TOAN3_T2_B79_Q12",
+      "type": "fill",
+      "question": "Hình chữ nhật dài 9 cm, rộng 4 cm. Diện tích bằng bao nhiêu cm vuông?",
+      "correct_answer": "36",
+      "distractors": [
+        "26",
+        "13",
+        "18"
+      ],
+      "explanation": "Lấy chiều dài nhân chiều rộng: 9 nhân 4 bằng 36.",
+      "difficulty": "thong_hieu",
+      "figure": {
+        "path": "content/toan/tap-2/TOAN3_T2_B79_Q12.svg",
+        "caption": "Hình chữ nhật dài 9 cm, rộng 4 cm"
+      }
+    },
+    {
+      "question_id": "TOAN3_T2_B79_Q13",
+      "type": "mcq",
+      "question": "Đoạn AB dài 18 cm, M là trung điểm. AM dài bao nhiêu cm?",
+      "options": [
+        "9",
+        "18",
+        "36",
+        "8"
+      ],
+      "correct_answer": "9",
+      "distractors": [
+        "18",
+        "36",
+        "8"
+      ],
+      "explanation": "Trung điểm chia đoạn thành hai phần bằng nhau, mỗi phần 9 cm.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B79_Q14",
+      "type": "fill",
+      "question": "Bình có 1 lít 250 ml nước. Bình có bao nhiêu ml nước?",
+      "correct_answer": "1250",
+      "distractors": [
+        "250",
+        "1025",
+        "125"
+      ],
+      "explanation": "Đổi 1 lít thành 1000 ml, cộng 250 ml được 1250 ml.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B79_Q15",
+      "type": "mcq",
+      "question": "Một túi nặng 3 kg 80 g. Khối lượng là bao nhiêu g?",
+      "options": [
+        "3080",
+        "3800",
+        "380",
+        "3008"
+      ],
+      "correct_answer": "3080",
+      "distractors": [
+        "3800",
+        "380",
+        "3008"
+      ],
+      "explanation": "3 kg bằng 3000 g; thêm 80 g được 3080 g.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B79_Q16",
+      "type": "fill",
+      "question": "Dây dài 2 m, cắt bớt 35 cm. Còn bao nhiêu cm?",
+      "correct_answer": "165",
+      "distractors": [
+        "235",
+        "65",
+        "175"
+      ],
+      "explanation": "Đổi 2 m bằng 200 cm rồi trừ 35 được 165 cm.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B79_Q17",
+      "type": "mcq",
+      "question": "Bắt đầu học lúc 8 giờ 20 phút, học 30 phút. Kết thúc lúc mấy giờ mấy phút?",
+      "options": [
+        "8 giờ 50 phút",
+        "8 giờ 40 phút",
+        "9 giờ 20 phút",
+        "9 giờ 50 phút"
+      ],
+      "correct_answer": "8 giờ 50 phút",
+      "distractors": [
+        "8 giờ 40 phút",
+        "9 giờ 20 phút",
+        "9 giờ 50 phút"
+      ],
+      "explanation": "Thêm 30 phút vào 8 giờ 20 phút được 8 giờ 50 phút.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B79_Q18",
+      "type": "fill",
+      "question": "Nếu ngày 29 tháng 4 là thứ Hai thì ngày 1 tháng 5 là thứ mấy?",
+      "correct_answer": "thứ Tư",
+      "distractors": [
+        "thứ Ba",
+        "thứ Năm",
+        "thứ Sáu"
+      ],
+      "explanation": "Tháng 4 có 30 ngày: ngày 30 thứ Ba, ngày 1 tháng 5 thứ Tư.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B79_Q19",
+      "type": "mcq",
+      "question": "Một hình vuông chu vi 28 cm. Cạnh dài bao nhiêu cm?",
+      "options": [
+        "7",
+        "14",
+        "4",
+        "24"
+      ],
+      "correct_answer": "7",
+      "distractors": [
+        "14",
+        "4",
+        "24"
+      ],
+      "explanation": "Bốn cạnh bằng nhau nên lấy 28 chia 4 được 7 cm.",
+      "difficulty": "thong_hieu",
+      "figure": {
+        "path": "content/toan/tap-2/TOAN3_T2_B79_Q19.svg",
+        "caption": "Hình vuông: chu vi 28 cm, cạnh cần tìm"
+      }
+    },
+    {
+      "question_id": "TOAN3_T2_B79_Q20",
+      "type": "fill",
+      "question": "Hai hình chữ nhật cùng diện tích có chắc cùng chu vi không?",
+      "correct_answer": "không",
+      "distractors": [
+        "có",
+        "luôn bằng nhau",
+        "chỉ khác đơn vị"
+      ],
+      "explanation": "Ví dụ 2 nhân 6 và 3 nhân 4 đều có diện tích 12, nhưng chu vi lần lượt 16 và 14.",
+      "difficulty": "thong_hieu"
+    },
+    {
+      "question_id": "TOAN3_T2_B79_Q21",
+      "type": "mcq",
+      "question": "Vườn hình chữ nhật rộng 7 m, dài hơn rộng 5 m. Chu vi vườn bao nhiêu m?",
+      "options": [
+        "38",
+        "84",
+        "24",
+        "19"
+      ],
+      "correct_answer": "38",
+      "distractors": [
+        "84",
+        "24",
+        "19"
+      ],
+      "explanation": "Chiều dài 12 m; tổng dài rộng 19 m, gấp đôi được 38 m.",
+      "difficulty": "van_dung",
+      "figure": {
+        "path": "content/toan/tap-2/TOAN3_T2_B79_Q21.svg",
+        "caption": "Vườn rộng 7 m, dài hơn rộng 5 m"
+      }
+    },
+    {
+      "question_id": "TOAN3_T2_B79_Q22",
+      "type": "fill",
+      "question": "Một sân hình vuông cạnh 8 m. Để lối vào rộng 2 m, phần còn lại làm hàng rào. Cần bao nhiêu m hàng rào?",
+      "correct_answer": "30",
+      "distractors": [
+        "32",
+        "34",
+        "62"
+      ],
+      "explanation": "Chu vi 32 m, bỏ phần lối vào 2 m còn 30 m.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B79_Q23",
+      "type": "mcq",
+      "question": "Tấm bìa hình chữ nhật dài 12 cm, rộng 5 cm. Cắt bỏ hình vuông cạnh 3 cm. Phần còn lại có diện tích bao nhiêu cm vuông?",
+      "options": [
+        "51",
+        "60",
+        "57",
+        "69"
+      ],
+      "correct_answer": "51",
+      "distractors": [
+        "60",
+        "57",
+        "69"
+      ],
+      "explanation": "Bìa ban đầu 60 cm vuông; hình cắt bỏ 9 cm vuông; còn 51.",
+      "difficulty": "van_dung",
+      "figure": {
+        "path": "content/toan/tap-2/TOAN3_T2_B79_Q23.svg",
+        "caption": "Bìa 12 cm × 5 cm; cắt bỏ ô vuông cạnh 3 cm"
+      }
+    },
+    {
+      "question_id": "TOAN3_T2_B79_Q24",
+      "type": "fill",
+      "question": "Ghép hai hình vuông cạnh 4 cm sát nhau theo trọn một cạnh, không chồng lên nhau. Hình chữ nhật tạo thành có chu vi bao nhiêu cm?",
+      "correct_answer": "24",
+      "distractors": [
+        "32",
+        "16",
+        "64"
+      ],
+      "explanation": "Hình mới dài 8 cm, rộng 4 cm; chu vi 24 cm.",
+      "difficulty": "van_dung",
+      "figure": {
+        "path": "content/toan/tap-2/TOAN3_T2_B79_Q24.svg",
+        "caption": "Hai hình vuông cạnh 4 cm ghép trọn một cạnh"
+      }
+    },
+    {
+      "question_id": "TOAN3_T2_B79_Q25",
+      "type": "mcq",
+      "question": "Hai mảnh bìa không chồng lên nhau có diện tích 18 và 27 cm vuông. Diện tích cả hai bằng bao nhiêu cm vuông?",
+      "options": [
+        "45",
+        "9",
+        "90",
+        "486"
+      ],
+      "correct_answer": "45",
+      "distractors": [
+        "9",
+        "90",
+        "486"
+      ],
+      "explanation": "Không có phần trùng nên cộng 18 và 27 được 45.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B79_Q26",
+      "type": "fill",
+      "question": "Một can có 3 lít nước. Rót đầy 4 cốc, mỗi cốc 250 ml. Can còn bao nhiêu ml?",
+      "correct_answer": "2000",
+      "distractors": [
+        "1000",
+        "2750",
+        "4000"
+      ],
+      "explanation": "Bốn cốc lấy 1000 ml; từ 3000 ml còn 2000 ml.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B79_Q27",
+      "type": "mcq",
+      "question": "Một gói bột nặng 2 kg. Chia thành 5 túi bằng nhau. Mỗi túi nặng bao nhiêu g?",
+      "options": [
+        "400",
+        "40",
+        "500",
+        "2500"
+      ],
+      "correct_answer": "400",
+      "distractors": [
+        "40",
+        "500",
+        "2500"
+      ],
+      "explanation": "2000 g chia 5 được 400 g mỗi túi.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B79_Q28",
+      "type": "fill",
+      "question": "Ba đoạn dây dài 85 cm, 75 cm và 40 cm nối tiếp, bỏ qua phần nối. Tổng dài bao nhiêu m?",
+      "correct_answer": "2",
+      "distractors": [
+        "200",
+        "20",
+        "1"
+      ],
+      "explanation": "Tổng là 200 cm, đổi được 2 m.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B79_Q29",
+      "type": "mcq",
+      "question": "Xe khởi hành 9 giờ 45 phút, đến nơi sau 35 phút. Xe đến lúc nào?",
+      "options": [
+        "10 giờ 20 phút",
+        "9 giờ 80 phút",
+        "10 giờ 10 phút",
+        "10 giờ 35 phút"
+      ],
+      "correct_answer": "10 giờ 20 phút",
+      "distractors": [
+        "9 giờ 80 phút",
+        "10 giờ 10 phút",
+        "10 giờ 35 phút"
+      ],
+      "explanation": "Đi 15 phút đến 10 giờ, thêm 20 phút đến 10 giờ 20 phút.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B79_Q30",
+      "type": "fill",
+      "question": "Buổi diễn từ 14 giờ 10 phút đến 15 giờ. Kéo dài bao nhiêu phút?",
+      "correct_answer": "50",
+      "distractors": [
+        "40",
+        "60",
+        "70"
+      ],
+      "explanation": "Từ phút thứ 10 đến phút thứ 60 của giờ có 50 phút.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B79_Q31",
+      "type": "mcq",
+      "question": "Một hộp bút 28000 đồng, hai quyển vở mỗi quyển 8500 đồng. Đưa 50000 đồng được trả lại bao nhiêu đồng?",
+      "options": [
+        "5000",
+        "45000",
+        "22000",
+        "13500"
+      ],
+      "correct_answer": "5000",
+      "distractors": [
+        "45000",
+        "22000",
+        "13500"
+      ],
+      "explanation": "Hai vở hết 17000, cộng hộp bút là 45000; còn 5000 đồng.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B79_Q32",
+      "type": "fill",
+      "question": "Từ thứ Sáu đến thứ Hai tuần sau, không tính ngày bắt đầu, qua mấy ngày?",
+      "correct_answer": "3",
+      "distractors": [
+        "2",
+        "4",
+        "7"
+      ],
+      "explanation": "Lần lượt qua thứ Bảy, Chủ nhật, thứ Hai là 3 ngày.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B79_Q33",
+      "type": "mcq",
+      "question": "Một hình chữ nhật có chu vi 34 cm, chiều dài 11 cm. Chiều rộng bằng bao nhiêu cm?",
+      "options": [
+        "6",
+        "12",
+        "23",
+        "17"
+      ],
+      "correct_answer": "6",
+      "distractors": [
+        "12",
+        "23",
+        "17"
+      ],
+      "explanation": "Nửa chu vi 17 cm; trừ chiều dài 11 còn chiều rộng 6 cm.",
+      "difficulty": "van_dung",
+      "figure": {
+        "path": "content/toan/tap-2/TOAN3_T2_B79_Q33.svg",
+        "caption": "Hình chữ nhật: dài 11 cm, chu vi 34 cm"
+      }
+    },
+    {
+      "question_id": "TOAN3_T2_B79_Q34",
+      "type": "fill",
+      "question": "Sàn phòng dài 6 m, rộng 4 m. Một tấm thảm phủ 8 m vuông. Phần sàn chưa phủ có diện tích bao nhiêu m vuông?",
+      "correct_answer": "16",
+      "distractors": [
+        "24",
+        "20",
+        "32"
+      ],
+      "explanation": "Sàn có diện tích 24 m vuông; trừ 8 còn 16 m vuông.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B79_Q35",
+      "type": "mcq",
+      "question": "Hai đoạn đường nối tiếp dài 1 km và 350 m. Đi được 875 m. Còn bao nhiêu m?",
+      "options": [
+        "475",
+        "525",
+        "1225",
+        "650"
+      ],
+      "correct_answer": "475",
+      "distractors": [
+        "525",
+        "1225",
+        "650"
+      ],
+      "explanation": "Tổng dài 1350 m; trừ 875 còn 475 m.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B79_Q36",
+      "type": "fill",
+      "question": "Một quả cân 500 g và hai quả cân 200 g cân bằng một túi đậu. Túi đậu nặng bao nhiêu g?",
+      "correct_answer": "900",
+      "distractors": [
+        "700",
+        "1000",
+        "450"
+      ],
+      "explanation": "Tổng các quả cân là 500 cộng 200 cộng 200 bằng 900 g.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B79_Q37",
+      "type": "mcq",
+      "question": "Bình có 1800 ml nước, uống 300 ml rồi chia đều phần còn lại vào 3 chai. Mỗi chai có bao nhiêu ml?",
+      "options": [
+        "500",
+        "600",
+        "1500",
+        "400"
+      ],
+      "correct_answer": "500",
+      "distractors": [
+        "600",
+        "1500",
+        "400"
+      ],
+      "explanation": "Còn 1500 ml; chia 3 được 500 ml mỗi chai.",
+      "difficulty": "van_dung"
+    },
+    {
+      "question_id": "TOAN3_T2_B79_Q38",
+      "type": "fill",
+      "question": "Hai hình tam giác ghép theo một cạnh chung dài 5 cm, không chồng phần bên trong. Tổng chu vi hai tam giác là 32 cm. Chu vi đường bao ngoài bằng bao nhiêu cm?",
+      "correct_answer": "22",
+      "distractors": [
+        "27",
+        "32",
+        "42"
+      ],
+      "explanation": "Cạnh chung nằm bên trong và bị tính hai lần; bỏ 10 cm khỏi 32 cm còn 22 cm.",
+      "difficulty": "van_dung",
+      "figure": {
+        "path": "content/toan/tap-2/TOAN3_T2_B79_Q38.svg",
+        "caption": "Hai tam giác chung cạnh 5 cm; tổng chu vi 32 cm"
+      }
+    },
+    {
+      "question_id": "TOAN3_T2_B79_Q39",
+      "type": "mcq",
+      "question": "Đường kính hình tròn dài 16 cm. Hai bán kính nối tiếp từ đầu này qua tâm đến đầu kia có tổng độ dài bao nhiêu cm?",
+      "options": [
+        "16",
+        "8",
+        "32",
+        "4"
+      ],
+      "correct_answer": "16",
+      "distractors": [
+        "8",
+        "32",
+        "4"
+      ],
+      "explanation": "Hai bán kính tạo thành đường kính nên tổng bằng 16 cm.",
+      "difficulty": "van_dung",
+      "figure": {
+        "path": "content/toan/tap-2/TOAN3_T2_B79_Q39.svg",
+        "caption": "Đường kính 16 cm đi qua tâm O"
+      }
+    },
+    {
+      "question_id": "TOAN3_T2_B79_Q40",
+      "type": "fill",
+      "question": "Một chuyến đi bắt đầu lúc 7 giờ 50 phút, đi 25 phút rồi nghỉ 10 phút, tiếp tục đi 15 phút. Kết thúc lúc nào?",
+      "correct_answer": "8 giờ 40 phút",
+      "distractors": [
+        "8 giờ 30 phút",
+        "8 giờ 20 phút",
+        "9 giờ"
+      ],
+      "explanation": "Tổng thời gian là 50 phút; thêm vào 7 giờ 50 phút được 8 giờ 40 phút.",
+      "difficulty": "van_dung"
+    }
+  ],
+  "games": [
+    {
+      "id": "TOAN3_T2_B79_GAME1",
+      "title": "Đúng đơn vị",
+      "mode": "tf",
+      "objective": "Kiểm chứng đáp án về hình học, đơn vị và thời gian.",
+      "rules": [
+        "Mỗi lượt lấy 10 câu trong bài và đưa ra một kết quả để kiểm chứng.",
+        "Chọn Đúng nếu kết quả phù hợp, chọn Sai nếu không phù hợp; đọc lời giải trước khi sang câu.",
+        "Mỗi câu đúng được 10 điểm; tối đa 100 điểm."
+      ],
+      "question_ids": [
+        "TOAN3_T2_B79_Q01",
+        "TOAN3_T2_B79_Q02",
+        "TOAN3_T2_B79_Q03",
+        "TOAN3_T2_B79_Q04",
+        "TOAN3_T2_B79_Q05",
+        "TOAN3_T2_B79_Q06",
+        "TOAN3_T2_B79_Q07",
+        "TOAN3_T2_B79_Q08",
+        "TOAN3_T2_B79_Q09",
+        "TOAN3_T2_B79_Q10",
+        "TOAN3_T2_B79_Q11",
+        "TOAN3_T2_B79_Q12",
+        "TOAN3_T2_B79_Q13",
+        "TOAN3_T2_B79_Q14",
+        "TOAN3_T2_B79_Q15",
+        "TOAN3_T2_B79_Q16",
+        "TOAN3_T2_B79_Q17",
+        "TOAN3_T2_B79_Q18",
+        "TOAN3_T2_B79_Q19",
+        "TOAN3_T2_B79_Q20",
+        "TOAN3_T2_B79_Q21",
+        "TOAN3_T2_B79_Q22",
+        "TOAN3_T2_B79_Q23",
+        "TOAN3_T2_B79_Q24",
+        "TOAN3_T2_B79_Q25",
+        "TOAN3_T2_B79_Q26",
+        "TOAN3_T2_B79_Q27",
+        "TOAN3_T2_B79_Q28",
+        "TOAN3_T2_B79_Q29",
+        "TOAN3_T2_B79_Q30",
+        "TOAN3_T2_B79_Q31",
+        "TOAN3_T2_B79_Q32",
+        "TOAN3_T2_B79_Q33",
+        "TOAN3_T2_B79_Q34",
+        "TOAN3_T2_B79_Q35",
+        "TOAN3_T2_B79_Q36",
+        "TOAN3_T2_B79_Q37",
+        "TOAN3_T2_B79_Q38",
+        "TOAN3_T2_B79_Q39",
+        "TOAN3_T2_B79_Q40"
+      ],
+      "answer_source": "practice.correct_answer",
+      "feedback_source": "practice.explanation",
+      "max_score": 100
+    }
+  ],
+  "assessment": {
+    "session_size": 10,
+    "distribution": {
+      "nhan_biet": 3,
+      "thong_hieu": 3,
+      "van_dung": 4
+    },
+    "scoring": "Đúng lần đầu: 1 điểm; đúng sau một gợi ý: 0,5 điểm. Từ 90%: 3 sao; từ 60%: 2 sao; còn lại: 1 sao.",
+    "review_advice": "Xem lời giải các câu sai, đọc lại quy tắc, rồi làm một lượt mới."
+  },
+  "feedback": {
+    "correct": "Chính xác! Hãy đọc lời giải để củng cố cách làm.",
+    "incorrect": "Em thử lại một lần. Sau đó xem đáp án và cách giải."
+  },
+  "verification": {
+    "ai_authored": true,
+    "structure_checked": true,
+    "answer_reviewed": true,
+    "source_reviewed": true,
+    "teacher_approved": false
+  },
+  "status": "AI_CHECKED_AWAITING_TEACHER",
+  "figures": [
+    {
+      "path": "content/toan/tap-2/TOAN3_T2_B79_Q07.svg",
+      "caption": "Hình vuông cạnh 3 cm"
+    },
+    {
+      "path": "content/toan/tap-2/TOAN3_T2_B79_Q11.svg",
+      "caption": "Hình chữ nhật dài 9 cm, rộng 4 cm"
+    },
+    {
+      "path": "content/toan/tap-2/TOAN3_T2_B79_Q12.svg",
+      "caption": "Hình chữ nhật dài 9 cm, rộng 4 cm"
+    },
+    {
+      "path": "content/toan/tap-2/TOAN3_T2_B79_Q19.svg",
+      "caption": "Hình vuông: chu vi 28 cm, cạnh cần tìm"
+    },
+    {
+      "path": "content/toan/tap-2/TOAN3_T2_B79_Q21.svg",
+      "caption": "Vườn rộng 7 m, dài hơn rộng 5 m"
+    },
+    {
+      "path": "content/toan/tap-2/TOAN3_T2_B79_Q23.svg",
+      "caption": "Bìa 12 cm × 5 cm; cắt bỏ ô vuông cạnh 3 cm"
+    },
+    {
+      "path": "content/toan/tap-2/TOAN3_T2_B79_Q24.svg",
+      "caption": "Hai hình vuông cạnh 4 cm ghép trọn một cạnh"
+    },
+    {
+      "path": "content/toan/tap-2/TOAN3_T2_B79_Q33.svg",
+      "caption": "Hình chữ nhật: dài 11 cm, chu vi 34 cm"
+    },
+    {
+      "path": "content/toan/tap-2/TOAN3_T2_B79_Q38.svg",
+      "caption": "Hai tam giác chung cạnh 5 cm; tổng chu vi 32 cm"
+    },
+    {
+      "path": "content/toan/tap-2/TOAN3_T2_B79_Q39.svg",
+      "caption": "Đường kính 16 cm đi qua tâm O"
+    }
+  ]
+}

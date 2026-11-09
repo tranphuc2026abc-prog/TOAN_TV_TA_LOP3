@@ -1,3 +1,13 @@
+# Batch 20 tích hợp — 09/11/2026
+
+Đã tích hợp Toán 77–80: 4 JSON/Markdown, 160 câu 10/10/20, 4 trò chơi, 11 SVG gắn trực tiếp câu hỏi. Đã xem trực quan toàn bộ 11 SVG qua bản xuất PNG. Nguồn trang 115–124 đã đọc trực quan và ghi nhận ở các checkpoint trước. npm test đạt gồm validate_site.py/validate_content.py, toàn bộ hồi quy cũ cộng test_batch20.py và test_content_dom.cjs; 80 kho/3200 câu, lượt 10 câu 3/3/4, trò chơi, hình và fallback. Chưa có kiểm thử bố cục Chromium thật.
+
+AI biên soạn/kiểm tra/tích hợp 80/168 mục, 3200 câu, 80 trò chơi; giáo viên duyệt 4, 76 chờ duyệt. Bài mới AI_CHECKED_AWAITING_TEACHER. Còn 88 mục: Toán 81, Tiếng Việt 62, Tiếng Anh 25. Giữ giao diện và dữ liệu wl3. Cần xác minh Actions/Pages sau commit này.
+
+Checkpoint tiếp: hoàn thành riêng bài cuối Toán 81; trước khi chuyển Tiếng Việt điều chỉnh renderer, validator và bài kiểm thử theo cấu trúc môn. Không tính 88 mục nháp là hoàn thành.
+
+## Lịch sử
+
 # Hồi quy đáp án Batch 20 — 09/11/2026
 
 Đã bổ sung scripts/test_batch20.py và chạy đạt trên bản đóng gói cục bộ: tính độc lập các tình huống cộng/trừ, nhân/chia, xe chứa hết so với bó đủ, phép tính ngược, đổi đơn vị, chu vi/diện tích/cạnh chung, mốc giờ bằng datetime, tiền, tổng bảng và liệt kê tổ hợp lấy thẻ. Kiểm tra 160 câu không trùng trong batch và trạng thái chờ giáo viên đạt. Chưa thay đổi INDEX công khai.
