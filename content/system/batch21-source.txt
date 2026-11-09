@@ -1,0 +1,41 @@
+Bài 81
+Số gồm 6 chục nghìn, 3 nghìn và 8 đơn vị là bao nhiêu?|63008|Các hàng trăm và chục bằng 0 nên viết 63008.|63800;63080;60308
+Giá trị chữ số 4 trong 74219 là bao nhiêu?|4000|Chữ số 4 ở hàng nghìn nên có giá trị 4000.|400;40;40000
+Số liền trước 30000 là số nào?|29999|Bớt 1 từ 30000 được 29999.|30001;29990;29000
+Trong 41205, 42105, 41025, 42015, số bé nhất là số nào?|41025|Cùng 4 chục nghìn, so hàng nghìn rồi hàng trăm và chục được 41025 nhỏ nhất.|41205;42105;42015
+Tính 23000 cộng 16000.|39000|23 nghìn cộng 16 nghìn được 39 nghìn.|7000;38000;49000
+Tính 80000 trừ 35000.|45000|80 nghìn bớt 35 nghìn còn 45 nghìn.|55000;11500;35000
+Tích của 1200 và 5 bằng bao nhiêu?|6000|12 trăm nhân 5 được 60 trăm.|600;1250;7000
+Thương của 36000 và 4 bằng bao nhiêu?|9000|4 nhân 9000 bằng 36000.|900;8000;32000
+Đổi 4 kg thành g.|4000|Một kg bằng 1000 g nên 4 kg bằng 4000 g.|400;40;40000
+Hình vuông có cạnh 6 cm. Chu vi bằng bao nhiêu cm?|24|Bốn cạnh bằng nhau, lấy 6 nhân 4 được 24 cm.|36;12;6
+Viết tổng 50000 cộng 700 cộng 40 cộng 9 thành một số.|50749|Hàng nghìn bằng 0, các hàng còn lại lần lượt 5, 7, 4, 9.|57409;50794;57049
+Tính 25000 trừ 6000 cộng 8000.|27000|Từ trái sang phải: 19000 rồi 27000.|11000;39000;19000
+Tính 3600 nhân (9 trừ 6).|10800|Trong ngoặc là 3, nhân 3600 được 10800.|32394;3603;7200
+Tính (4200 cộng 1800) chia 6.|1000|Tổng trong ngoặc là 6000, chia 6 được 1000.|4500;6000;600
+Một túi bột cân bằng hai quả cân 500 g và một quả cân 100 g. Túi bột nặng bao nhiêu g?|1100|Tổng các quả cân là 500 cộng 500 cộng 100 bằng 1100 g.|600;1000;1500
+Đi từ 7 giờ 15 phút đến 7 giờ 55 phút hết mấy phút?|40|Cùng giờ, lấy 55 trừ 15 bằng 40 phút.|30;70;45
+Hình chữ nhật dài 8 cm, rộng 5 cm có diện tích bao nhiêu cm vuông?|40|Lấy 8 nhân 5 bằng 40 cm vuông.|26;13;80
+Một hình vuông có chu vi 20 cm. Cạnh bằng bao nhiêu cm?|5|Chia chu vi cho 4 cạnh: 20 chia 4 bằng 5 cm.|4;10;80
+Trong phép chia cho 6, số dư 6 có hợp lệ không?|không|Số dư phải nhỏ hơn 6 nên không được bằng 6.|có;luôn hợp lệ;chỉ khi thương bằng 0
+Một số tròn nghìn nằm giữa 18500 và 19500. Số đó là bao nhiêu?|19000|19000 là số tròn nghìn duy nhất trong khoảng đã cho.|18000;19500;20000
+Cửa hàng bán 1450 bút ngày đầu, ngày sau bán gấp 3 lần ngày đầu. Hai ngày bán bao nhiêu bút?|5800|Ngày sau bán 4350 bút; cộng ngày đầu được 5800 bút.|4350;2900;7250
+Một số cộng 12500 rồi chia 5 được 6000. Số ban đầu bằng bao nhiêu?|17500|Làm ngược: 6000 nhân 5 bằng 30000; trừ 12500 còn 17500.|42500;2500;30000
+Bố mua 3 quyển sách, mỗi quyển 18000 đồng và một bút 9500 đồng. Đưa 70000 đồng còn mấy đồng?|6500|Ba sách hết 54000, thêm bút là 63500; còn 6500 đồng.|63500;16000;15500
+Kho có 45000 kg thóc, chia đều vào 5 kho nhỏ. Mỗi kho nhỏ xuất 1200 kg. Cả năm kho còn tất cả bao nhiêu kg?|39000|Mỗi kho xuất 1200 kg, tổng xuất 6000; còn 39000 kg.|43800;9000;7800
+Xe đi 12500 m buổi sáng, chiều đi ít hơn sáng 1800 m. Tổng hai buổi đi bao nhiêu m?|23200|Chiều đi 10700 m, cộng sáng được 23200 m.|25000;14300;10700
+Hình vuông chu vi 36 cm. Diện tích bằng bao nhiêu cm vuông?|81|Cạnh là 9 cm, diện tích 9 nhân 9 bằng 81 cm vuông.|36;18;144
+Hình chữ nhật rộng 6 cm, dài gấp 3 lần rộng. Chu vi bằng bao nhiêu cm?|48|Dài 18 cm, tổng dài rộng 24 cm, gấp đôi được 48 cm.|108;24;36
+Một túi gạo nặng 2 kg 500 g, dùng 850 g. Còn bao nhiêu g?|1650|Đổi thành 2500 g rồi trừ 850 được 1650 g.|3350;1750;650
+Can có 5 lít nước. Rót ra 6 cốc, mỗi cốc 500 ml. Còn bao nhiêu ml?|2000|Năm lít là 5000 ml; sáu cốc dùng 3000 ml; còn 2000 ml.|3000;4500;8000
+Đi lúc 8 giờ 40 phút, đến 9 giờ 25 phút. Chuyến đi dài mấy phút?|45|20 phút đến 9 giờ rồi thêm 25 phút, tổng 45 phút.|85;35;55
+Có 74 học sinh, mỗi xe tối đa 9 học sinh. Cần ít nhất mấy xe?|9|8 xe chỉ chở 72 bạn, còn 2 nên cần xe thứ chín.|8;10;2
+Có 74 bông hoa, mỗi bó đủ 9 bông. Bó được nhiều nhất mấy bó đủ?|8|8 bó dùng 72 bông, 2 bông còn lại chưa đủ thêm bó.|9;7;2
+Một số có năm chữ số, hàng chục nghìn là 2, nghìn là 8, trăm là 0, chục là 4, đơn vị là 6. Số đó hơn 28000 bao nhiêu?|46|Số đó là 28046, hơn 28000 đúng 46.|460;8046;6
+An có 24000 đồng, Bình có 16000 đồng. An cho Bình 4000 đồng. Hai bạn có tổng bao nhiêu đồng sau đó?|40000|Chuyển tiền giữa hai bạn không làm thay đổi tổng 40000 đồng.|36000;44000;32000
+Hai đoạn dây tổng dài 150 cm. Đoạn đầu dài 65 cm. Đoạn thứ hai dài hơn đoạn đầu bao nhiêu cm?|20|Đoạn hai dài 85 cm; hơn 65 cm là 20 cm.|85;35;150
+Lớp trồng 8 hàng cây, mỗi hàng 12 cây. Có 7 cây chưa sống. Số cây sống là bao nhiêu?|89|Tổng 96 cây, trừ 7 còn 89 cây.|96;103;84
+Một tờ bìa diện tích 72 cm vuông, cắt thành 8 phần bằng nhau. Mỗi phần có diện tích bao nhiêu cm vuông?|9|Chia đều diện tích: 72 chia 8 bằng 9 cm vuông.|64;8;576
+Tổng hai số là 35000. Bớt số thứ nhất 2000, thêm số thứ hai 2000. Tổng mới bằng bao nhiêu?|35000|Bớt và thêm cùng lượng nên tổng không đổi.|33000;37000;39000
+Một trường có 2350 học sinh. Khối 3 có 420 bạn, các khối khác có bao nhiêu bạn?|1930|Lấy tổng toàn trường trừ khối 3: 2350 trừ 420 bằng 1930.|2770;1920;2030
+Một hộp có 16000 nhãn, đã phát cho 4 lớp, mỗi lớp 2500 nhãn. Chia đều số còn lại cho 3 tổ. Mỗi tổ nhận bao nhiêu nhãn?|2000|Đã phát 10000, còn 6000 nhãn; chia 3 được 2000 mỗi tổ.|6000;4000;2500

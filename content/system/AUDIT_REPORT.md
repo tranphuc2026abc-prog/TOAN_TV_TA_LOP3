@@ -1,3 +1,11 @@
+# Nguồn Toán 81 — 09/11/2026
+
+Đã đọc trực quan trang in 125–126 (PDF 126–127), Toán tập 2: cấu tạo và so sánh số, bốn phép tính, tình huống gấp số lần, cân khối lượng, thời gian, biểu thức, chu vi và diện tích. Đã biên soạn riêng 40 câu Bài 81 trong batch21-source.txt theo thứ tự 10/10/20; kiểm tra số dòng và bốn phương án khác nhau đạt. Chưa đóng gói/tích hợp bài này; cần kiến thức/ví dụ/game, SVG cần thiết, JSON/Markdown và hồi quy đáp án độc lập.
+
+Batch 20 commit 49abee79d7d4dd23878fd5427d97fd5aaff38888: cả hai workflow Pages đã completed/success khi kiểm tra lại. Giữ tiến độ tích hợp 80/168, 3200 câu, 80 trò chơi; giáo viên duyệt 4, chờ duyệt 76; còn 88 mục. Hoàn tất Toán 81 trước, rồi chỉnh renderer/validator cho Tiếng Việt; không ép phân mức Toán vào môn mới.
+
+## Lịch sử
+
 # Batch 20 tích hợp — 09/11/2026
 
 Đã tích hợp Toán 77–80: 4 JSON/Markdown, 160 câu 10/10/20, 4 trò chơi, 11 SVG gắn trực tiếp câu hỏi. Đã xem trực quan toàn bộ 11 SVG qua bản xuất PNG. Nguồn trang 115–124 đã đọc trực quan và ghi nhận ở các checkpoint trước. npm test đạt gồm validate_site.py/validate_content.py, toàn bộ hồi quy cũ cộng test_batch20.py và test_content_dom.cjs; 80 kho/3200 câu, lượt 10 câu 3/3/4, trò chơi, hình và fallback. Chưa có kiểm thử bố cục Chromium thật.
