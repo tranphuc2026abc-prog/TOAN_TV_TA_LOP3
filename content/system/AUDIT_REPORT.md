@@ -1,3 +1,9 @@
+# Checkpoint nguồn Batch25 — 10/11/2026
+
+Đã đọc trực quan trang in59–74, lưu BATCH25_SOURCE_NOTES.md về B13–16. Xác định B16 kết phần học ở trang73; trang74 bắt đầu ôn giữa kì, khác khoảng70–81 trong catalog. Chưa đọc75–81, chưa thêm học liệu hoàn chỉnh. Giữ INDEX93/168, giáo viên duyệt4, chờ89, nháp75. Tiếp biên soạn Batch25 theo ghi chú và nguồn; không tính ghi chú là bài hoàn thành.
+
+## Lịch sử
+
 # Xác minh Batch24 và bổ sung hồi quy — 09/11/2026
 
 Đã xác minh cả hai workflow của commit 8b1fcf8df482c8091c38964a95f0d2fce5d8703a completed/success. Pages TV3_T1_B12.json trả HTTP200, 12 câu, SHA256 khớp tệp đã kiểm thử. Thêm test_batch24.py vào npm test: chi tiết dễ nhầm của 4 bài, 5 nhóm kỹ năng, hoạt động có tiêu chí, trạng thái chờ duyệt, số đáp án khác nhau đủ cho game và không trùng nguyên văn câu hỏi trên toàn bộ kho Tiếng Việt. npm test đạt 93 kho, giữ toàn bộ hồi quy cũ và DOM. Không có Chromium, chưa xác minh bố cục trình duyệt thật.
