@@ -1,3 +1,11 @@
+# Hồi quy yêu cầu theo môn — 09/11/2026
+
+Đã thêm test_content_policy.py vào npm test: fixture Tiếng Việt một câu không có difficulty được chấp nhận; thiếu căn cứ đọc hiểu hoặc một nhóm luyện từ/câu/chính tả/diễn đạt bị từ chối; lượt luyện không được dài hơn ngân hàng. Hồi quy Toán vẫn bắt đủ 40 câu/10-10-20 và phân lượt 3/3/4. Toàn bộ npm test đạt trên 81 bài/3240 câu, giữ tất cả hồi quy cũ và DOM. Fixture chỉ kiểm tra cấu trúc, không phải bài học đã biên soạn và không chứng minh nội dung đúng nguồn.
+
+Tiếp điều chỉnh renderer/loader và DOM cho Tiếng Việt, đọc nguồn TV1–4 trước biên soạn. Chưa tích hợp bài ngôn ngữ mới; INDEX vẫn 81/168, giáo viên duyệt 4, 77 chờ duyệt; 87 mục nháp. Không báo hoàn thành dự án.
+
+## Lịch sử
+
 # Chuẩn bị validator theo môn — 09/11/2026
 
 Đã tách content_policy.py và cập nhật validate_content.py: giữ yêu cầu Toán 40 câu/10-10-20, lượt 10 câu 3/3/4; Tiếng Việt kiểm tra tóm tắt/nhân vật hoặc hình ảnh/thông điệp, luyện từ-câu-chính tả-diễn đạt và câu đọc hiểu có căn cứ. Tiếng Anh có nhánh yêu cầu từ vựng nghĩa Việt/ví dụ, mẫu câu, phát âm và ba kỹ năng. validate_site.py/validate_content.py đạt trên toàn bộ 81 bài Toán. Chưa có bài ngôn ngữ mới; nhánh môn mới còn cần test dữ liệu hợp lệ/không hợp lệ và renderer tương ứng trước tích hợp.
