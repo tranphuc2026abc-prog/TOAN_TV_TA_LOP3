@@ -1,0 +1,329 @@
+{
+  "id": "TV3_T1_B20",
+  "subject": "tv",
+  "grade": 3,
+  "book": "Kết nối tri thức với cuộc sống",
+  "volume": 1,
+  "lesson_no": 20,
+  "title": "Trò chuyện cùng mẹ",
+  "topic": "Mái nhà yêu thương",
+  "source": {
+    "pdf": "03-sgk-tieng-viet-3-tap-mot.pdf",
+    "printed_pages": [
+      93,
+      96
+    ],
+    "pdf_pages": [
+      94,
+      97
+    ],
+    "review": "Đọc trực quan các trang nguồn PDF tương ứng; ghi chú BATCH26_SOURCE_NOTES.md. Nội dung luyện tập mới biên soạn, không chép toàn văn SGK."
+  },
+  "objectives": [
+    "Hiểu nội dung và chi tiết chính của Trò chuyện cùng mẹ.",
+    "Giải thích ý nghĩa bằng căn cứ trong bài.",
+    "Luyện từ, câu, chính tả và diễn đạt theo chủ đề gia đình."
+  ],
+  "reading": {
+    "summary": "Thư và Hân thích được đọc sách, trò chuyện với mẹ trước khi ngủ. Mẹ kể chuyện của mình, hai con kể chuyện trường lớp; những câu chuyện nối nhau và tiếng cười khiến ba mẹ con thêm gần gũi.",
+    "characters_or_images": [
+      "Mẹ",
+      "Thư",
+      "Hân"
+    ],
+    "message": "Ba mẹ con ở đây là mẹ cùng hai con Thư, Hân; từ ba chỉ số lượng."
+  },
+  "knowledge": {
+    "introduction": "Thư và Hân thích được đọc sách, trò chuyện với mẹ trước khi ngủ. Mẹ kể chuyện của mình, hai con kể chuyện trường lớp; những câu chuyện nối nhau và tiếng cười khiến ba mẹ con thêm gần gũi.",
+    "rules": [
+      "Ba mẹ con ở đây là mẹ cùng hai con Thư, Hân; từ ba chỉ số lượng.",
+      "Hân kể chuyện lớp mẫu giáo, trò chơi và quà chiều; Thư kể chuyện đọc văn và đố toán.",
+      "Dấu hai chấm có thể báo phần liệt kê hoặc giải thích; cần đọc phần sau để xác định."
+    ],
+    "steps": [
+      "Đọc bài trong sách ở trang nguồn.",
+      "Đối chiếu người, sự việc với phần tóm tắt.",
+      "Làm bài tập, xem lời giải rồi thực hành nói hoặc viết."
+    ],
+    "common_errors": [
+      "Hiểu ba mẹ con là bố, mẹ và một con.",
+      "Đổi chuyện của Hân thành chuyện của Thư.",
+      "Cho rằng mọi dấu hai chấm đều báo lời nói trực tiếp."
+    ]
+  },
+  "language_practice": {
+    "vocabulary": [
+      "Líu lo kể chuyện gợi cách kể thế nào? Đáp án: Vui vẻ, ríu rít. Líu lo gợi tiếng nói vui, liên tiếp như tiếng chim.",
+      "Ai là bà ngoại của một bạn nhỏ? Đáp án: Mẹ của mẹ bạn ấy. Bên ngoại là phía gia đình mẹ; mẹ của mẹ là bà ngoại."
+    ],
+    "sentences": [
+      "Trong câu Mẹ mang ra hai thứ: sách và bút, dấu hai chấm báo gì? Đáp án: Phần liệt kê. Phía sau kể tên hai đồ vật đã được giới thiệu.",
+      "Trong câu Em thích góc này: nơi ấy có cửa sổ nhìn ra vườn, dấu hai chấm báo gì? Đáp án: Phần giải thích lí do thích. Vế sau làm rõ vì sao em thích góc nhà."
+    ],
+    "spelling": [
+      "Tên hai chị em được viết đúng là gì? Đáp án: Thư và Hân Tên riêng của mỗi người phải viết hoa đầu tên.",
+      "Chọn cách viết đúng: Ba mẹ con cười ... khi nghe chuyện vui. Đáp án: rúc rích Rúc rích tả tiếng cười nhỏ, vui vẻ; hai tiếng viết r."
+    ],
+    "expression": [
+      "Để tả ngôi nhà rõ hơn, câu nào hữu ích? Đáp án: Cửa sổ cạnh bàn học nhìn ra một cây xoài. Chi tiết vị trí và cảnh nhìn thấy giúp hình dung ngôi nhà.",
+      "Cuối buổi trò chuyện, cách nào thể hiện vừa yêu mẹ vừa giữ giờ ngủ? Đáp án: Cảm ơn mẹ, hẹn mai kể tiếp rồi đi ngủ. Tình cảm đi cùng sự quan tâm thời gian nghỉ của cả nhà."
+    ]
+  },
+  "examples": [
+    {
+      "question": "Ai cùng trò chuyện trước giờ ngủ trong bài?",
+      "steps": [
+        "Trang 93–94: tên Thư, Hân và người mẹ.",
+        "Ba trong ba mẹ con là số ba, gồm mẹ và hai chị em.",
+        "Trả lời: Mẹ, Thư và Hân."
+      ]
+    },
+    {
+      "question": "Trong câu Mẹ mang ra hai thứ: sách và bút, dấu hai chấm báo gì?",
+      "steps": [
+        "Phía sau kể tên hai đồ vật đã được giới thiệu.",
+        "Đáp án: Phần liệt kê."
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "title": "Nói và viết về mái ấm",
+      "materials": [
+        "Vở",
+        "Bút"
+      ],
+      "steps": [
+        "Viết một đoạn tả ngôi nhà em: giới thiệu, tả một nét bên ngoài, một góc bên trong và tình cảm. Không cần ghi địa chỉ riêng tư.",
+        "Đọc hoặc kể cho người thân nghe.",
+        "Dựa vào tiêu chí để sửa một chỗ chưa rõ."
+      ],
+      "check": [
+        "Có chi tiết cụ thể, đúng điều quan sát hoặc được nghe.",
+        "Các ý nối nhau rõ, câu đủ ý và có dấu kết câu.",
+        "Thể hiện tình cảm phù hợp, không chép đoạn mẫu."
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "question_id": "TV3_T1_B20_Q01",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Ai cùng trò chuyện trước giờ ngủ trong bài?",
+      "options": [
+        "Mẹ, Thư và Hân.",
+        "Bố, mẹ và Thư.",
+        "Ông, bà và Hân.",
+        "Cô giáo và cả lớp."
+      ],
+      "correct_answer": "Mẹ, Thư và Hân.",
+      "explanation": "Ba trong ba mẹ con là số ba, gồm mẹ và hai chị em.",
+      "evidence": "Trang 93–94: tên Thư, Hân và người mẹ."
+    },
+    {
+      "question_id": "TV3_T1_B20_Q02",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Vì sao thời gian trò chuyện thường kéo dài thêm?",
+      "options": [
+        "Các câu chuyện nối tiếp nhau và ai cũng thích nghe kể.",
+        "Vì mẹ bắt hai con làm bài phạt.",
+        "Vì cả nhà đang chờ tàu.",
+        "Vì đồng hồ đã ngừng chạy."
+      ],
+      "correct_answer": "Các câu chuyện nối tiếp nhau và ai cũng thích nghe kể.",
+      "explanation": "Sự hào hứng khiến lời hẹn thêm vài phút chưa kết thúc được cuộc trò chuyện.",
+      "evidence": "Trang 93: mẹ hẹn thêm năm phút nhưng vẫn tiếp tục lắng nghe."
+    },
+    {
+      "question_id": "TV3_T1_B20_Q03",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Nội dung nào thuộc chuyện Hân thường kể?",
+      "options": [
+        "Bạn ở lớp mẫu giáo và trò chơi được cô dạy.",
+        "Một bài văn được đọc trước cả lớp.",
+        "Những bài toán đố giờ ra chơi của Thư.",
+        "Cuộc họp ở nơi làm việc của mẹ."
+      ],
+      "correct_answer": "Bạn ở lớp mẫu giáo và trò chơi được cô dạy.",
+      "explanation": "Hân kể những điều gần gũi với em ở lớp mẫu giáo.",
+      "evidence": "Trang 94: đoạn phân biệt chuyện Hân và chuyện Thư."
+    },
+    {
+      "question_id": "TV3_T1_B20_Q04",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Mẹ làm điều gì khiến hai con bật cười?",
+      "options": [
+        "Kể về hình dáng của mẹ khi còn bé.",
+        "Bắt hai con ngủ ngay mà không nói.",
+        "Đọc bảng điểm thật nghiêm khắc.",
+        "Giấu hết sách trong phòng."
+      ],
+      "correct_answer": "Kể về hình dáng của mẹ khi còn bé.",
+      "explanation": "Hình dáng của mẹ lúc nhỏ khiến hai con thấy buồn cười.",
+      "evidence": "Trang 93: mẹ kể chuyện ngày bé; hình dáng mẹ hồi bé khiến con cười."
+    },
+    {
+      "question_id": "TV3_T1_B20_Q05",
+      "type": "mcq",
+      "skill": "vocabulary",
+      "question": "Líu lo kể chuyện gợi cách kể thế nào?",
+      "options": [
+        "Vui vẻ, ríu rít.",
+        "Cáu kỉnh, quát mắng.",
+        "Im lặng hoàn toàn.",
+        "Chậm vì đang ngủ."
+      ],
+      "correct_answer": "Vui vẻ, ríu rít.",
+      "explanation": "Líu lo gợi tiếng nói vui, liên tiếp như tiếng chim."
+    },
+    {
+      "question_id": "TV3_T1_B20_Q06",
+      "type": "mcq",
+      "skill": "vocabulary",
+      "question": "Ai là bà ngoại của một bạn nhỏ?",
+      "options": [
+        "Mẹ của mẹ bạn ấy.",
+        "Mẹ của bố bạn ấy.",
+        "Chị của bố bạn ấy.",
+        "Em gái của bạn ấy."
+      ],
+      "correct_answer": "Mẹ của mẹ bạn ấy.",
+      "explanation": "Bên ngoại là phía gia đình mẹ; mẹ của mẹ là bà ngoại."
+    },
+    {
+      "question_id": "TV3_T1_B20_Q07",
+      "type": "mcq",
+      "skill": "sentences",
+      "question": "Trong câu Mẹ mang ra hai thứ: sách và bút, dấu hai chấm báo gì?",
+      "options": [
+        "Phần liệt kê.",
+        "Một câu hỏi.",
+        "Lời của người đang nói trực tiếp.",
+        "Kết thúc toàn bộ đoạn văn."
+      ],
+      "correct_answer": "Phần liệt kê.",
+      "explanation": "Phía sau kể tên hai đồ vật đã được giới thiệu."
+    },
+    {
+      "question_id": "TV3_T1_B20_Q08",
+      "type": "mcq",
+      "skill": "sentences",
+      "question": "Trong câu Em thích góc này: nơi ấy có cửa sổ nhìn ra vườn, dấu hai chấm báo gì?",
+      "options": [
+        "Phần giải thích lí do thích.",
+        "Danh sách nhiều người.",
+        "Một lời gọi đáp.",
+        "Chỗ kết thúc câu hỏi."
+      ],
+      "correct_answer": "Phần giải thích lí do thích.",
+      "explanation": "Vế sau làm rõ vì sao em thích góc nhà."
+    },
+    {
+      "question_id": "TV3_T1_B20_Q09",
+      "type": "mcq",
+      "skill": "spelling",
+      "question": "Tên hai chị em được viết đúng là gì?",
+      "options": [
+        "Thư và Hân",
+        "thư và Hân",
+        "Thư và hân",
+        "thư và hân"
+      ],
+      "correct_answer": "Thư và Hân",
+      "explanation": "Tên riêng của mỗi người phải viết hoa đầu tên."
+    },
+    {
+      "question_id": "TV3_T1_B20_Q10",
+      "type": "mcq",
+      "skill": "spelling",
+      "question": "Chọn cách viết đúng: Ba mẹ con cười ... khi nghe chuyện vui.",
+      "options": [
+        "rúc rích",
+        "dúc dích",
+        "rút rích",
+        "rúc rít"
+      ],
+      "correct_answer": "rúc rích",
+      "explanation": "Rúc rích tả tiếng cười nhỏ, vui vẻ; hai tiếng viết r."
+    },
+    {
+      "question_id": "TV3_T1_B20_Q11",
+      "type": "mcq",
+      "skill": "expression",
+      "question": "Để tả ngôi nhà rõ hơn, câu nào hữu ích?",
+      "options": [
+        "Cửa sổ cạnh bàn học nhìn ra một cây xoài.",
+        "Nhà em rất rất rất rất nhà.",
+        "Thư là tên một nhân vật.",
+        "Hai chị em trò chuyện cùng mẹ."
+      ],
+      "correct_answer": "Cửa sổ cạnh bàn học nhìn ra một cây xoài.",
+      "explanation": "Chi tiết vị trí và cảnh nhìn thấy giúp hình dung ngôi nhà."
+    },
+    {
+      "question_id": "TV3_T1_B20_Q12",
+      "type": "mcq",
+      "skill": "expression",
+      "question": "Cuối buổi trò chuyện, cách nào thể hiện vừa yêu mẹ vừa giữ giờ ngủ?",
+      "options": [
+        "Cảm ơn mẹ, hẹn mai kể tiếp rồi đi ngủ.",
+        "Đòi kể đến sáng mỗi ngày.",
+        "Giận mẹ vì cần nghỉ ngơi.",
+        "Nói mẹ không được đi làm."
+      ],
+      "correct_answer": "Cảm ơn mẹ, hẹn mai kể tiếp rồi đi ngủ.",
+      "explanation": "Tình cảm đi cùng sự quan tâm thời gian nghỉ của cả nhà."
+    }
+  ],
+  "games": [
+    {
+      "id": "TV3_T1_B20_GAME",
+      "title": "Chuyện trước giờ ngủ",
+      "mode": "treasure",
+      "objective": "Tìm kho báu bằng cách hiểu chi tiết và dùng tiếng Việt đúng theo bài.",
+      "rules": [
+        "Trả lời 10 câu được chọn từ chính bài này.",
+        "Mỗi đáp án đúng được 10 điểm; đọc phản hồi để hiểu và sửa câu sai.",
+        "Chơi lại để gặp một bộ câu khác."
+      ],
+      "question_ids": [
+        "TV3_T1_B20_Q01",
+        "TV3_T1_B20_Q02",
+        "TV3_T1_B20_Q03",
+        "TV3_T1_B20_Q04",
+        "TV3_T1_B20_Q05",
+        "TV3_T1_B20_Q06",
+        "TV3_T1_B20_Q07",
+        "TV3_T1_B20_Q08",
+        "TV3_T1_B20_Q09",
+        "TV3_T1_B20_Q10",
+        "TV3_T1_B20_Q11",
+        "TV3_T1_B20_Q12"
+      ],
+      "answer_source": "practice.correct_answer",
+      "feedback_source": "practice.explanation",
+      "max_score": 100
+    }
+  ],
+  "assessment": {
+    "session_size": 10,
+    "scoring": "Mỗi câu đúng được tính điểm theo hệ thống; 8–10 câu đúng: nắm tốt, 5–7: đọc lại phần còn nhầm, dưới 5: đọc bài cùng người thân rồi thử lại. Nhiệm vụ nói/viết tự kiểm theo tiêu chí, không chấm bằng một đáp án duy nhất.",
+    "review_advice": "Sau lượt luyện, chọn một câu sai để giải thích lại. Với nói/viết: đúng chi tiết hoặc trải nghiệm thật, đủ ý, câu rõ, chính tả đúng; sửa ít nhất một điểm trước khi hoàn tất."
+  },
+  "feedback": {
+    "correct": "Em đã chọn phù hợp. Đọc lời giải để nhắc lại căn cứ.",
+    "incorrect": "Đọc lại câu hỏi và chi tiết liên quan; xem lời giải để biết vì sao."
+  },
+  "verification": {
+    "ai_authored": true,
+    "structure_checked": true,
+    "answer_reviewed": true,
+    "source_reviewed": true,
+    "teacher_approved": false
+  },
+  "status": "AI_CHECKED_AWAITING_TEACHER"
+}

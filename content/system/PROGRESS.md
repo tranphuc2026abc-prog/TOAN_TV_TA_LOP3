@@ -1,3 +1,13 @@
+# Batch26 — Tiếng Việt17–20 — 10/11/2026
+
+Đã đọc trực quan trang in82–96 (PDF83–97) và tích hợp Ngưỡng cửa, Món quà đặc biệt, Khi cả nhà bé tí, Trò chuyện cùng mẹ:4 JSON+4 Markdown,48 câu mới (12/bài),4 trò chơi kho báu,10 câu/lượt. Có mục tiêu, kiến thức, lỗi thường gặp, ví dụ giải, luyện từ/câu/chính tả/diễn đạt, nhiệm vụ nói/viết và tiêu chí tự kiểm. Không đăng toàn văn SGK. Ghi chú nguồn: BATCH26_SOURCE_NOTES.md. Chú ý các câu hỏi tuổi thơ chưa phải sự kiện xác nhận; ba mẹ con là mẹ,Thư,Hân; mẹ kể hình dáng hồi bé khiến con cười.
+
+validate_site.py, validate_content.py, toàn bộ hồi quy trước và DOM101 kho đạt; bổ sung test_batch26.py vào npm test, kiểm tra căn cứ đọc hiểu, nhầm nghĩa và trùng đề toàn bộ TV. Không có Chromium nên chưa kiểm thử bố cục trình duyệt thật. Actions/Pages batch26 cần xác minh sau commit, không dùng kết quả batch25 thay thế.
+
+Tổng AI đã biên soạn/kiểm tra101/168; Toán81/81, TV20/62, TA0/25;3512 câu,101 trò chơi. Giáo viên đã duyệt4 (Toán1–4),97 bài chờ giáo viên;67 mục nháp (42TV,25TA). APPROVALS giữ nguyên. Nối tiếp Batch27 TV21–24, đọc nguồn trước khi biên soạn. Chưa đủ điều kiện bàn giao toàn dự án.
+
+## Lịch sử
+
 # Batch25 hoàn thiện TV13–16 — 10/11/2026
 
 Đã tích hợp4 bài Bàn tay cô giáo, Cuộc họp của chữ viết, Thư viện, Ngày em vào Đội từ các bản kiến thức/câu đọc hiểu đã lưu:4 JSON+4 Markdown,48 câu (12/bài, gồm đọc hiểu/từ/câu/chính tả/diễn đạt),4 game kho báu, lượt10 câu, ví dụ và hoạt động viết có tiêu chí. B16 nguồn70–73 theo trang đã đọc; không tự nhận đọc75–81. Không sao chép toàn văn. npm test đạt toàn bộ97 kho, giữ hồi quy cũ, DOM và fixture; không có Chromium để kiểm thử bố cục thật.

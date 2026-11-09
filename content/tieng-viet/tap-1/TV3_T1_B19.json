@@ -1,0 +1,331 @@
+{
+  "id": "TV3_T1_B19",
+  "subject": "tv",
+  "grade": 3,
+  "book": "Kết nối tri thức với cuộc sống",
+  "volume": 1,
+  "lesson_no": 19,
+  "title": "Khi cả nhà bé tí",
+  "topic": "Mái nhà yêu thương",
+  "source": {
+    "pdf": "03-sgk-tieng-viet-3-tap-mot.pdf",
+    "printed_pages": [
+      90,
+      92
+    ],
+    "pdf_pages": [
+      91,
+      93
+    ],
+    "review": "Đọc trực quan các trang nguồn PDF tương ứng; ghi chú BATCH26_SOURCE_NOTES.md. Nội dung luyện tập mới biên soạn, không chép toàn văn SGK."
+  },
+  "objectives": [
+    "Hiểu nội dung và chi tiết chính của Khi cả nhà bé tí.",
+    "Giải thích ý nghĩa bằng căn cứ trong bài.",
+    "Luyện từ, câu, chính tả và diễn đạt theo chủ đề gia đình."
+  ],
+  "reading": {
+    "summary": "Bạn nhỏ tò mò không biết người thân hồi còn bé có giống mình hay không. Những câu hỏi về việc bà, ông, bố, mẹ thường làm cho thấy sự quan sát gần gũi và tình yêu gia đình.",
+    "characters_or_images": [
+      "Bạn nhỏ",
+      "Bà",
+      "Ông",
+      "Bố",
+      "Mẹ"
+    ],
+    "message": "Bạn nhỏ tự nhận mình hồi bé chủ yếu nô đùa, chưa làm được nhiều việc như người lớn."
+  },
+  "knowledge": {
+    "introduction": "Bạn nhỏ tò mò không biết người thân hồi còn bé có giống mình hay không. Những câu hỏi về việc bà, ông, bố, mẹ thường làm cho thấy sự quan sát gần gũi và tình yêu gia đình.",
+    "rules": [
+      "Nhiều dòng thơ là câu hỏi, chưa khẳng định ông bà, bố mẹ hồi bé đã làm những việc ấy.",
+      "Bạn nhỏ tự nhận mình hồi bé chủ yếu nô đùa, chưa làm được nhiều việc như người lớn.",
+      "Hỏi chuyện tuổi thơ giúp em hiểu thêm người thân; lắng nghe rồi kể đúng lời được nghe."
+    ],
+    "steps": [
+      "Đọc bài trong sách ở trang nguồn.",
+      "Đối chiếu người, sự việc với phần tóm tắt.",
+      "Làm bài tập, xem lời giải rồi thực hành nói hoặc viết."
+    ],
+    "common_errors": [
+      "Biến thắc mắc thành sự thật đã xác nhận.",
+      "Cho rằng bạn nhỏ chê cả nhà.",
+      "Ngắt lời người thân hoặc kể thay khi chưa nghe rõ."
+    ]
+  },
+  "language_practice": {
+    "vocabulary": [
+      "Từ nào gần nghĩa với nô đùa? Đáp án: Chơi đùa vui vẻ. Nô đùa gợi hoạt động vui chơi, thường có sự tinh nghịch.",
+      "Cụm từ bé tí nhấn mạnh điều gì trong tên bài? Đáp án: Tuổi còn rất nhỏ. Trong nhan đề, bé tí nói về thời thơ ấu của mọi người."
+    ],
+    "sentences": [
+      "Câu nào hỏi về sở thích tuổi thơ của bà? Đáp án: Hồi nhỏ bà thích chơi trò gì ạ? Câu hỏi nêu rõ mốc hồi nhỏ và điều muốn biết.",
+      "Sau khi nghe bố kể, câu nào tránh tự khẳng định quá mức? Đáp án: Bố kể hồi nhỏ bố thích thả diều. Câu giới hạn thông tin trong điều bố đã kể, không suy rộng tuỳ tiện."
+    ],
+    "spelling": [
+      "Chọn tiếng hợp nghĩa: Mẹ ... em bé trên lưng. Đáp án: địu Địu là mang em bé trên lưng hoặc trước ngực bằng vật đỡ phù hợp.",
+      "Cặp từ nào viết đúng để khuyên bạn chăm chỉ? Đáp án: Đừng lười biếng. Biếng có vần iêng, chỉ thái độ ngại làm việc."
+    ],
+    "expression": [
+      "Khi người thân đang kể tuổi thơ, em nên làm gì? Đáp án: Lắng nghe hết ý rồi hỏi thêm điều chưa rõ. Lắng nghe giúp ghi nhớ đúng và thể hiện sự tôn trọng.",
+      "Cách mở đầu nào phù hợp khi kể điều đã hỏi được? Đáp án: Hôm qua em nghe bà kể về trò chơi chuyền hồi nhỏ. Câu mở nêu người kể, thời điểm nghe và nội dung chính."
+    ]
+  },
+  "examples": [
+    {
+      "question": "Bạn nhỏ muốn tìm hiểu điều gì về cả nhà?",
+      "steps": [
+        "Trang 90–91: chuỗi câu hỏi về lúc cả nhà còn bé.",
+        "Các câu hỏi đều hướng tới tuổi thơ người thân.",
+        "Trả lời: Khi còn nhỏ mọi người có giống bạn không."
+      ]
+    },
+    {
+      "question": "Câu nào hỏi về sở thích tuổi thơ của bà?",
+      "steps": [
+        "Câu hỏi nêu rõ mốc hồi nhỏ và điều muốn biết.",
+        "Đáp án: Hồi nhỏ bà thích chơi trò gì ạ?"
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "title": "Nói và viết về mái ấm",
+      "materials": [
+        "Vở",
+        "Bút"
+      ],
+      "steps": [
+        "Hỏi một người thân về trò chơi hoặc công việc yêu thích khi còn nhỏ. Ghi lại ba ý rồi kể trong một phút.",
+        "Đọc hoặc kể cho người thân nghe.",
+        "Dựa vào tiêu chí để sửa một chỗ chưa rõ."
+      ],
+      "check": [
+        "Có chi tiết cụ thể, đúng điều quan sát hoặc được nghe.",
+        "Các ý nối nhau rõ, câu đủ ý và có dấu kết câu.",
+        "Thể hiện tình cảm phù hợp, không chép đoạn mẫu."
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "question_id": "TV3_T1_B19_Q01",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Bạn nhỏ muốn tìm hiểu điều gì về cả nhà?",
+      "options": [
+        "Khi còn nhỏ mọi người có giống bạn không.",
+        "Ai có nhiều tiền nhất.",
+        "Ai sẽ đi xa ngày mai.",
+        "Nhà mình xây năm nào."
+      ],
+      "correct_answer": "Khi còn nhỏ mọi người có giống bạn không.",
+      "explanation": "Các câu hỏi đều hướng tới tuổi thơ người thân.",
+      "evidence": "Trang 90–91: chuỗi câu hỏi về lúc cả nhà còn bé."
+    },
+    {
+      "question_id": "TV3_T1_B19_Q02",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Có thể kết luận ông hồi bé chắc chắn đã chơi cờ giỏi không?",
+      "options": [
+        "Chưa thể, bạn nhỏ chỉ đang đặt câu hỏi.",
+        "Có, vì mọi người sinh ra đều biết chơi cờ.",
+        "Có, vì bài ghi kết quả một ván cờ.",
+        "Không, vì bài nói ông ghét cờ."
+      ],
+      "correct_answer": "Chưa thể, bạn nhỏ chỉ đang đặt câu hỏi.",
+      "explanation": "Không đổi một câu hỏi thành lời khẳng định về quá khứ.",
+      "evidence": "Trang 90: bạn hỏi về dáng ông khi chơi cờ."
+    },
+    {
+      "question_id": "TV3_T1_B19_Q03",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Những câu hỏi về bố gắn với nhóm việc nào?",
+      "options": [
+        "Lái xe, sửa đồ và xem bóng đá.",
+        "May áo, trồng lúa và chèo thuyền.",
+        "Dạy múa, bán vé và đánh trống.",
+        "Làm thiệp, đọc văn và trực thư viện."
+      ],
+      "correct_answer": "Lái xe, sửa đồ và xem bóng đá.",
+      "explanation": "Những việc ấy là các hình ảnh bạn nhỏ quan sát ở bố.",
+      "evidence": "Trang 90: khổ thơ hỏi về bố."
+    },
+    {
+      "question_id": "TV3_T1_B19_Q04",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Bạn nhỏ nói gì về bản thân khi còn bé?",
+      "options": [
+        "Thích nô đùa và chưa làm được nhiều việc.",
+        "Đã sửa mọi đồ dùng trong nhà.",
+        "Đã đọc sách thâu đêm mỗi ngày.",
+        "Đã chơi cờ thắng ông."
+      ],
+      "correct_answer": "Thích nô đùa và chưa làm được nhiều việc.",
+      "explanation": "Lời cuối thơ đặt cái bé nhỏ của mình cạnh hình ảnh người lớn.",
+      "evidence": "Trang 90: khổ cuối tự nói về mình."
+    },
+    {
+      "question_id": "TV3_T1_B19_Q05",
+      "type": "mcq",
+      "skill": "vocabulary",
+      "question": "Từ nào gần nghĩa với nô đùa?",
+      "options": [
+        "Chơi đùa vui vẻ.",
+        "Ngồi im buồn bã.",
+        "Làm bài thật lặng lẽ.",
+        "Mệt đến thiếp đi."
+      ],
+      "correct_answer": "Chơi đùa vui vẻ.",
+      "explanation": "Nô đùa gợi hoạt động vui chơi, thường có sự tinh nghịch."
+    },
+    {
+      "question_id": "TV3_T1_B19_Q06",
+      "type": "mcq",
+      "skill": "vocabulary",
+      "question": "Cụm từ bé tí nhấn mạnh điều gì trong tên bài?",
+      "options": [
+        "Tuổi còn rất nhỏ.",
+        "Chiều cao ngôi nhà.",
+        "Số lượng thành viên.",
+        "Giá tiền món quà."
+      ],
+      "correct_answer": "Tuổi còn rất nhỏ.",
+      "explanation": "Trong nhan đề, bé tí nói về thời thơ ấu của mọi người."
+    },
+    {
+      "question_id": "TV3_T1_B19_Q07",
+      "type": "mcq",
+      "skill": "sentences",
+      "question": "Câu nào hỏi về sở thích tuổi thơ của bà?",
+      "options": [
+        "Hồi nhỏ bà thích chơi trò gì ạ?",
+        "Bà đang đọc báo.",
+        "Bà thích uống trà.",
+        "Cháu đem sách giúp bà nhé!"
+      ],
+      "correct_answer": "Hồi nhỏ bà thích chơi trò gì ạ?",
+      "explanation": "Câu hỏi nêu rõ mốc hồi nhỏ và điều muốn biết."
+    },
+    {
+      "question_id": "TV3_T1_B19_Q08",
+      "type": "mcq",
+      "skill": "sentences",
+      "question": "Sau khi nghe bố kể, câu nào tránh tự khẳng định quá mức?",
+      "options": [
+        "Bố kể hồi nhỏ bố thích thả diều.",
+        "Ai hồi nhỏ cũng chỉ thích thả diều.",
+        "Bố chắc chắn chưa từng chơi trò khác.",
+        "Bố không bao giờ làm việc gì."
+      ],
+      "correct_answer": "Bố kể hồi nhỏ bố thích thả diều.",
+      "explanation": "Câu giới hạn thông tin trong điều bố đã kể, không suy rộng tuỳ tiện."
+    },
+    {
+      "question_id": "TV3_T1_B19_Q09",
+      "type": "mcq",
+      "skill": "spelling",
+      "question": "Chọn tiếng hợp nghĩa: Mẹ ... em bé trên lưng.",
+      "options": [
+        "địu",
+        "đựu",
+        "điệu",
+        "đượu"
+      ],
+      "correct_answer": "địu",
+      "explanation": "Địu là mang em bé trên lưng hoặc trước ngực bằng vật đỡ phù hợp."
+    },
+    {
+      "question_id": "TV3_T1_B19_Q10",
+      "type": "mcq",
+      "skill": "spelling",
+      "question": "Cặp từ nào viết đúng để khuyên bạn chăm chỉ?",
+      "options": [
+        "Đừng lười biếng.",
+        "Đừng lười biến.",
+        "Đừng lười biên.",
+        "Đừng lười biễn."
+      ],
+      "correct_answer": "Đừng lười biếng.",
+      "explanation": "Biếng có vần iêng, chỉ thái độ ngại làm việc."
+    },
+    {
+      "question_id": "TV3_T1_B19_Q11",
+      "type": "mcq",
+      "skill": "expression",
+      "question": "Khi người thân đang kể tuổi thơ, em nên làm gì?",
+      "options": [
+        "Lắng nghe hết ý rồi hỏi thêm điều chưa rõ.",
+        "Cắt lời liên tục.",
+        "Tự thêm thành tích cho người kể.",
+        "Đổi sang chuyện khác ngay."
+      ],
+      "correct_answer": "Lắng nghe hết ý rồi hỏi thêm điều chưa rõ.",
+      "explanation": "Lắng nghe giúp ghi nhớ đúng và thể hiện sự tôn trọng."
+    },
+    {
+      "question_id": "TV3_T1_B19_Q12",
+      "type": "mcq",
+      "skill": "expression",
+      "question": "Cách mở đầu nào phù hợp khi kể điều đã hỏi được?",
+      "options": [
+        "Hôm qua em nghe bà kể về trò chơi chuyền hồi nhỏ.",
+        "Em sẽ bịa tuổi thơ cho bà.",
+        "Tất cả người lớn đều giống nhau.",
+        "Không cần nghe cũng biết mọi chuyện."
+      ],
+      "correct_answer": "Hôm qua em nghe bà kể về trò chơi chuyền hồi nhỏ.",
+      "explanation": "Câu mở nêu người kể, thời điểm nghe và nội dung chính."
+    }
+  ],
+  "games": [
+    {
+      "id": "TV3_T1_B19_GAME",
+      "title": "Hỏi chuyện tuổi thơ",
+      "mode": "treasure",
+      "objective": "Tìm kho báu bằng cách hiểu chi tiết và dùng tiếng Việt đúng theo bài.",
+      "rules": [
+        "Trả lời 10 câu được chọn từ chính bài này.",
+        "Mỗi đáp án đúng được 10 điểm; đọc phản hồi để hiểu và sửa câu sai.",
+        "Chơi lại để gặp một bộ câu khác."
+      ],
+      "question_ids": [
+        "TV3_T1_B19_Q01",
+        "TV3_T1_B19_Q02",
+        "TV3_T1_B19_Q03",
+        "TV3_T1_B19_Q04",
+        "TV3_T1_B19_Q05",
+        "TV3_T1_B19_Q06",
+        "TV3_T1_B19_Q07",
+        "TV3_T1_B19_Q08",
+        "TV3_T1_B19_Q09",
+        "TV3_T1_B19_Q10",
+        "TV3_T1_B19_Q11",
+        "TV3_T1_B19_Q12"
+      ],
+      "answer_source": "practice.correct_answer",
+      "feedback_source": "practice.explanation",
+      "max_score": 100
+    }
+  ],
+  "assessment": {
+    "session_size": 10,
+    "scoring": "Mỗi câu đúng được tính điểm theo hệ thống; 8–10 câu đúng: nắm tốt, 5–7: đọc lại phần còn nhầm, dưới 5: đọc bài cùng người thân rồi thử lại. Nhiệm vụ nói/viết tự kiểm theo tiêu chí, không chấm bằng một đáp án duy nhất.",
+    "review_advice": "Sau lượt luyện, chọn một câu sai để giải thích lại. Với nói/viết: đúng chi tiết hoặc trải nghiệm thật, đủ ý, câu rõ, chính tả đúng; sửa ít nhất một điểm trước khi hoàn tất."
+  },
+  "feedback": {
+    "correct": "Em đã chọn phù hợp. Đọc lời giải để nhắc lại căn cứ.",
+    "incorrect": "Đọc lại câu hỏi và chi tiết liên quan; xem lời giải để biết vì sao."
+  },
+  "verification": {
+    "ai_authored": true,
+    "structure_checked": true,
+    "answer_reviewed": true,
+    "source_reviewed": true,
+    "teacher_approved": false
+  },
+  "status": "AI_CHECKED_AWAITING_TEACHER"
+}
