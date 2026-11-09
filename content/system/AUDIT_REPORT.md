@@ -1,3 +1,11 @@
+# Builder Batch 20 và kiểm thử ban đầu — 09/11/2026
+
+Đã thêm scripts/build_batch20.py: đóng gói 160 câu và kiến thức của 77–80 thành 4 JSON/Markdown, gắn SVG theo từng câu, giữ trạng thái chờ giáo viên và phân mức 3/3/4. Đã chạy thử tạo 80 kho học liệu ở môi trường làm việc; validate_site.py/validate_content.py đạt trên 3200 câu. Đây chưa phải xác nhận đã tích hợp lên main: chưa đưa JSON/Markdown và INDEX tăng số vào commit này.
+
+Tiếp xem trực quan tất cả SVG, hoàn thiện hình còn thiếu và bổ sung test đáp án độc lập Batch 20, xác nhận hồi quy/DOM rồi commit riêng cả batch với INDEX. Builder không thay giao diện hoặc dữ liệu wl3. Tiến độ công khai vẫn 76/168 mục, 3040 câu, 76 trò chơi; giáo viên duyệt 4, chờ duyệt 72, còn 92 mục nháp. Head mới của người dùng chỉ xóa PDF_KNOWLEDGE/a; thay đổi đó được giữ nguyên.
+
+## Lịch sử
+
 # SVG Batch 20 — 09/11/2026
 
 Đã bổ sung bộ dựng 11 SVG mới và ánh xạ batch20-figures.json: chu vi/diện tích hình chữ nhật, hình vuông, vườn, cắt bìa, hai hình vuông ghép, cạnh chung tam giác, đường kính và bảng lượt mượn. XML hợp lệ; đã xuất và xem trực quan riêng hình cắt bìa Q23. Những SVG còn lại cần xem trực quan trước khi đánh dấu đã kiểm tra hình toàn bộ. Chưa gắn vào câu hỏi trên luồng học.
