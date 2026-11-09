@@ -1,3 +1,11 @@
+# Kiến thức Toán 81 — 09/11/2026
+
+Đã bổ sung batch21-details.json: mục tiêu, giải thích dễ hiểu, quy tắc tổng hợp, hướng dẫn từng bước, lỗi thường gặp, ba ví dụ có lời giải, cấu hình trò chơi và hoạt động tự kiểm tra. Giữ nguyên 40 câu nguồn đã lưu. JSON chi tiết hợp lệ, chưa phải học liệu đã tích hợp.
+
+Tiếp dựng SVG cần thiết cho câu hình học, đóng gói riêng bài cuối Toán 81 thành JSON/Markdown và kiểm thử hồi quy/DOM cùng 80 bài trước. Chỉ tăng INDEX sau khi kiểm tra đạt. Tổng công khai vẫn 80/168, 3200 câu, 80 trò chơi; giáo viên duyệt 4, chờ duyệt 76, còn 88 mục nháp. Sau Toán 81 phải chỉnh renderer/validator phù hợp Tiếng Việt trước khi chuyển môn.
+
+## Lịch sử
+
 # Nguồn Toán 81 — 09/11/2026
 
 Đã đọc trực quan trang in 125–126 (PDF 126–127), Toán tập 2: cấu tạo và so sánh số, bốn phép tính, tình huống gấp số lần, cân khối lượng, thời gian, biểu thức, chu vi và diện tích. Đã biên soạn riêng 40 câu Bài 81 trong batch21-source.txt theo thứ tự 10/10/20; kiểm tra số dòng và bốn phương án khác nhau đạt. Chưa đóng gói/tích hợp bài này; cần kiến thức/ví dụ/game, SVG cần thiết, JSON/Markdown và hồi quy đáp án độc lập.
