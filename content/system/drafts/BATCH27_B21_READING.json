@@ -1,0 +1,46 @@
+{
+  "id": "TV3_T1_B21",
+  "status": "SOURCE_DRAFT_NOT_INTEGRATED",
+  "source": {
+    "pdf": "03-sgk-tieng-viet-3-tap-mot.pdf",
+    "printed_pages_read": [
+      97,
+      98
+    ],
+    "pdf_pages_read": [
+      98,
+      99
+    ],
+    "method": "Đọc trực quan ảnh trang; pdftotext không có lớp chữ.",
+    "remaining_pages": [
+      99
+    ]
+  },
+  "summary": "Na muốn mang nắng về cho bà nội già yếu, đi lại khó và ở phòng không có nắng. Em tưởng giữ được nắng trong vạt áo nhưng khi mở áo không có nắng. Bà vui vì tình cảm của cháu; Na vẫn tiếp tục mang niềm vui tới bà mỗi sáng.",
+  "questions": [
+    {
+      "question": "Vì sao việc Na mở vạt áo trong phòng không đem lại ánh nắng như em tưởng?",
+      "answer": "Ánh nắng không phải đồ vật có thể giữ trong áo.",
+      "explanation": "Câu chuyện cho thấy vạt áo mở ra không còn tia nắng; niềm vui bà nhận là tình yêu thương của cháu.",
+      "evidence": "Trang 97, Na mở vạt áo trong phòng bà."
+    },
+    {
+      "question": "Hai điều nào cùng khiến bà khó ra chỗ có nắng?",
+      "answer": "Bà đi lại khó khăn và phòng bà không có nắng.",
+      "explanation": "Cần kết hợp tình trạng sức khoẻ với vị trí phòng, không chỉ nói trời thiếu nắng.",
+      "evidence": "Đầu truyện trang 97."
+    },
+    {
+      "question": "Ở cuối truyện, Na đã hiểu đầy đủ lời bà nói chưa?",
+      "answer": "Chưa, em vẫn ngạc nhiên nhưng vui vì làm bà vui.",
+      "explanation": "Không gán cho Na sự hiểu biết mà người kể chưa xác nhận.",
+      "evidence": "Đầu trang 98."
+    },
+    {
+      "question": "Điều gì cho thấy sự quan tâm của Na không chỉ diễn ra một lần?",
+      "answer": "Em tiếp tục chạy vào phòng bà mỗi sáng sau khi chơi trong vườn.",
+      "explanation": "Hành động lặp lại mỗi sáng thể hiện sự gắn bó.",
+      "evidence": "Kết truyện trang 98."
+    }
+  ]
+}

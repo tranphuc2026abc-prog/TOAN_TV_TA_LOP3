@@ -1,3 +1,11 @@
+# Chuẩn bị Batch27 — 10/11/2026
+
+Đã đọc trực quan riêng trang in97–98 (PDF98–99), hoàn tất phần truyện Tia nắng bé nhỏ; lưu bốn câu đọc hiểu dự thảo trong drafts/BATCH27_B21_READING.json. Chưa đọc trang99 phần viết và chưa đọc B22–24; chưa tích hợp hoặc tăng số bài/câu/trò chơi. pdftotext trang98–112 chỉ trả15 ký tự xuống trang, nên phải tiếp tục đọc ảnh. Không phải trở ngại cần đính kèm lại: PDF nguồn vẫn truy cập được.
+
+Giữ checkpoint101/168,3512 câu,101 trò chơi;4 giáo viên duyệt,97 chờ,67 nháp. Batch27 chưa hoàn thành. Tiếp theo đọc trang99–111 và biên soạn đủ4 bài trước khi đưa vào INDEX.
+
+## Lịch sử
+
 # Xác minh Batch26 — 10/11/2026
 
 Commit học liệu: https://github.com/tranphuc2026abc-prog/TOAN_TV_TA_LOP3/commit/b53b5022cb8bffbb683d12b96408dd0192bdc563. Đã xác minh main trỏ đúng commit. Hai workflow Actions/Pages 42710839610 và 42710838752 đều completed/success. Sau triển khai, INDEX và toàn bộ 4 JSON + 4 Markdown TV17–20 trả HTTP200, 9/9 tệp khớp SHA-256 với bản đã kiểm thử. Lần kiểm tra B20 trước khi triển khai xong trả404; kiểm tra lại sau triển khai đã thành công. npm test sau chỉnh sửa cuối đạt đầy đủ.
