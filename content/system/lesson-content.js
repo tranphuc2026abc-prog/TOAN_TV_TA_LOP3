@@ -15,6 +15,7 @@
   }
   function sample(id) {
     var all=bankFor(id), out=[];
+    if(content[id].subject!=='toan')return shuf(all).slice(0,content[id].assessment.session_size);
     [['nhan_biet',3],['thong_hieu',3],['van_dung',4]].forEach(function(pair){
       out=out.concat(shuf(all.filter(function(q){return q.difficulty===pair[0];})).slice(0,pair[1]));
     });
@@ -108,8 +109,9 @@
       '<h3>🔎 Lỗi thường gặp</h3>'+list(c.knowledge.common_errors)+(c.figures?'<h3>📐 Hình minh họa</h3>'+c.figures.map(figureHTML).join(''):'')+
       (c.reference_table?'<h3>🔢 Tra bảng</h3>'+referenceTable(c.reference_table):'')+
       (c.activities?activitiesHTML(c.activities):'')+(c.drawing_practice?'<section id="geometryDraw"></section>':'')+
-      '<h3>🎯 Luyện tập</h3><p>Mỗi lượt 10 câu: 3 nhận biết, 3 thông hiểu, 4 vận dụng. Xem lời giải sau khi trả lời.</p>'+
-      '<button class="big" onclick="startQ(\''+c.id+'\',\'all\')">Luyện tập 10 câu</button> '+
+      (c.subject==='tv'?'<h3>📖 Cùng hiểu bài đọc</h3><p>'+esc(c.reading.summary)+'</p>'+list(c.reading.characters_or_images)+'<p>'+esc(c.reading.message)+'</p>'+Object.keys(c.language_practice).map(function(k){return '<h4>'+esc({vocabulary:'Từ ngữ',sentences:'Luyện câu',spelling:'Chính tả',expression:'Diễn đạt'}[k]||k)+'</h4>'+list(c.language_practice[k]);}).join(''):'')+
+      '<h3>🎯 Luyện tập</h3><p>'+ (c.subject==='toan'?'Mỗi lượt 10 câu: 3 nhận biết, 3 thông hiểu, 4 vận dụng.':'Mỗi lượt '+c.assessment.session_size+' câu luyện theo bài học.')+' Xem lời giải sau khi trả lời.</p>'+
+      '<button class="big" onclick="startQ(\''+c.id+'\',\'all\')">Luyện tập '+c.assessment.session_size+' câu</button> '+
       '<button onclick="startQ(\''+c.id+'\',\'mcq\')">Trắc nghiệm</button> '+
       '<button onclick="startQ(\''+c.id+'\',\'fill\')">Điền đáp án</button>'+
       '<h3>🎮 '+esc(c.games[0].title)+'</h3><p>'+esc(c.games[0].objective)+'</p>'+list(c.games[0].rules)+

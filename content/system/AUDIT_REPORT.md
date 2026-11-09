@@ -1,3 +1,11 @@
+# Renderer theo môn — 09/11/2026
+
+Đã sửa lesson-content.js: lượt luyện môn ngôn ngữ lấy số câu từ assessment.session_size, không lọc ba mức Toán; nhãn lượt luyện theo cấu hình. Khi học liệu subject=tv được nạp, phần đọc hiển thị tóm tắt/nhân vật hoặc hình ảnh/thông điệp và các nhóm từ-câu-chính tả-diễn đạt, nội dung escape trước khi chèn HTML. Toán giữ nguyên lượt 3/3/4. npm test đạt toàn bộ 81 bài Toán và policy fixture.
+
+Chưa có bài Tiếng Việt tích hợp, chưa kiểm thử DOM nhánh Tiếng Việt bằng fixture đầy đủ; chưa xác nhận nội dung ngôn ngữ thực tế. Tiếp thêm hồi quy DOM nhánh mới, kiểm tra loader/index updater theo môn, đọc nguồn TV1–4 rồi biên soạn. INDEX vẫn 81/168, giáo viên duyệt 4, 77 chờ duyệt; 87 mục nháp. Không tăng tiến độ cho thay đổi renderer.
+
+## Lịch sử
+
 # Hồi quy yêu cầu theo môn — 09/11/2026
 
 Đã thêm test_content_policy.py vào npm test: fixture Tiếng Việt một câu không có difficulty được chấp nhận; thiếu căn cứ đọc hiểu hoặc một nhóm luyện từ/câu/chính tả/diễn đạt bị từ chối; lượt luyện không được dài hơn ngân hàng. Hồi quy Toán vẫn bắt đủ 40 câu/10-10-20 và phân lượt 3/3/4. Toàn bộ npm test đạt trên 81 bài/3240 câu, giữ tất cả hồi quy cũ và DOM. Fixture chỉ kiểm tra cấu trúc, không phải bài học đã biên soạn và không chứng minh nội dung đúng nguồn.
