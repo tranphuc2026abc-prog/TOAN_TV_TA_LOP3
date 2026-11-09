@@ -1,3 +1,13 @@
+# Checkpoint triển khai đã xác minh — 09/11/2026
+
+Batch22: https://github.com/tranphuc2026abc-prog/TOAN_TV_TA_LOP3/commit/424886bfb77be6b15f6330d28bf116466e6a3859 (TV1–4). Batch23: https://github.com/tranphuc2026abc-prog/TOAN_TV_TA_LOP3/commit/4aa6bce0c33f6e455199c12da30da8d7549fb628 (TV5–8). Main đã xác minh trỏ đúng commit batch23. Hai workflow của batch23 đều completed/success: Publish class 3 website to GitHub Pages (42627256959) và pages build and deployment (42627255107).
+
+Pages đã trả HTTP 200 cho INDEX, lesson-content.js và toàn bộ 8 JSON + 8 Markdown TV1–8; 18/18 tệp khớp SHA-256 với các tệp cục bộ đã kiểm thử. Đây là kiểm tra tài nguyên triển khai; không thay thế kiểm thử bố cục Chromium (môi trường không có Chromium).
+
+Mốc nối tiếp: Batch24, Tiếng Việt 9–12. Tổng AI biên soạn/kiểm tra 89/168, 3.368 câu, 89 trò chơi; giáo viên duyệt 4, chờ giáo viên 85, còn 79 mục nháp. Giữ nguyên APPROVALS; chưa đủ điều kiện bàn giao toàn dự án. Đọc lại head và các hồ sơ hệ thống trước lần cập nhật tiếp theo để tránh ghi đè.
+
+## Lịch sử
+
 # Batch 23 — Tiếng Việt 5–8 — 09/11/2026
 
 Đã biên soạn và tích hợp Nhật kí tập bơi, Tập nấu ăn, Mùa hè lấp lánh, Tạm biệt mùa hè: 4 JSON + 4 Markdown, 64 câu mới, 4 trò chơi kho báu, 10 câu/lượt. Đọc trực quan trang in 26–42 (PDF 27–43) từ PDF Tiếng Việt tập 1 thực sự truy cập được trong upload; trang 42 là trang chuyển chủ điểm, phần bài 8 kết ở trang 41. Không đăng toàn văn/ảnh quét. Đọc hiểu bám mạch tập bơi và sự động viên, cấu trúc hướng dẫn món trứng đúc thịt, hình ảnh nắng hè, các trải nghiệm thật của Diệu. Có từ ngữ, câu, chính tả, nói/viết, ví dụ và tiêu chí tự kiểm; phân biệt suy nghĩ về chuyện bạn bè với việc Diệu thực sự làm. Việc bếp và bơi chỉ luyện ngôn ngữ, có hướng dẫn chọn việc vừa sức, không yêu cầu trẻ tự dùng dao/bếp hoặc ra nơi có nước.
