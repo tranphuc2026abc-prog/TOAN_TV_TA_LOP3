@@ -1,3 +1,11 @@
+# Xác minh Batch24 và bổ sung hồi quy — 09/11/2026
+
+Đã xác minh cả hai workflow của commit 8b1fcf8df482c8091c38964a95f0d2fce5d8703a completed/success. Pages TV3_T1_B12.json trả HTTP200, 12 câu, SHA256 khớp tệp đã kiểm thử. Thêm test_batch24.py vào npm test: chi tiết dễ nhầm của 4 bài, 5 nhóm kỹ năng, hoạt động có tiêu chí, trạng thái chờ duyệt, số đáp án khác nhau đủ cho game và không trùng nguyên văn câu hỏi trên toàn bộ kho Tiếng Việt. npm test đạt 93 kho, giữ toàn bộ hồi quy cũ và DOM. Không có Chromium, chưa xác minh bố cục trình duyệt thật.
+
+Không có bài mới trong checkpoint này. AI biên soạn/kiểm tra 93/168, giáo viên duyệt 4, chờ duyệt 89, còn 75 bản nháp. Tiếp Batch25 TV13–16: phải đọc nguồn trước biên soạn; chưa đọc các trang nguồn này trong lượt hiện tại. Không tăng tiến độ cho kiểm thử.
+
+## Lịch sử
+
 # Batch24 — Tiếng Việt 9–12 — 09/11/2026
 
 Đã tích hợp Đi học vui sao, Con đường đến trường, Lời giải toán đặc biệt, Bài tập làm văn: 4 JSON/Markdown riêng, 48 câu (12/bài), 4 game kho báu, lượt luyện 10 câu. Có mục tiêu, kiến thức, lỗi thường gặp, ví dụ giải thích, từ/câu/chính tả/diễn đạt và hoạt động nói/viết có tiêu chí. Nguồn đã đọc trực quan trong lượt trước: trang in 43–58, chi tiết lưu BATCH24_SOURCE_NOTES.md; không đăng toàn văn. Phân biệt cảnh trong sách với cảnh đi học, cô hỗ trợ trò trên đường khó, lời giải bằng thơ nhưng đúng đáp số, việc Cô-li-a viết với việc thực sự làm.
