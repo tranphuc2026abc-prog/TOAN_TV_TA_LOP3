@@ -1,3 +1,11 @@
+# DOM Tiếng Việt — 09/11/2026
+
+Đã bổ sung test_vietnamese_dom.cjs và chạy đạt: fixture 12 câu, lượt 6 câu không có phân mức Toán; hiển thị nhân vật/thông điệp và đủ từ-câu-chính tả-diễn đạt; chuỗi HTML được escape; trả lời có phản hồi và lời giải. Fixture chỉ là dữ liệu kỹ thuật, không dùng làm học liệu hoặc tính hoàn thành. Test mới chạy độc lập; cần đưa vào npm test ở bước tiếp và kiểm tra loader/index updater, trò chơi cho dữ liệu Tiếng Việt thực.
+
+Tiếp đọc nguồn TV1–4 và biên soạn bám bài đọc, không đăng toàn văn. INDEX giữ 81/168, giáo viên duyệt 4, 77 chờ duyệt; còn 87 mục nháp. Không tăng tiến độ cho fixture.
+
+## Lịch sử
+
 # Renderer theo môn — 09/11/2026
 
 Đã sửa lesson-content.js: lượt luyện môn ngôn ngữ lấy số câu từ assessment.session_size, không lọc ba mức Toán; nhãn lượt luyện theo cấu hình. Khi học liệu subject=tv được nạp, phần đọc hiển thị tóm tắt/nhân vật hoặc hình ảnh/thông điệp và các nhóm từ-câu-chính tả-diễn đạt, nội dung escape trước khi chèn HTML. Toán giữ nguyên lượt 3/3/4. npm test đạt toàn bộ 81 bài Toán và policy fixture.
