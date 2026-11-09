@@ -1,3 +1,11 @@
+# Checkpoint câu đọc hiểu Batch25 — 10/11/2026
+
+Đã biên soạn16 câu đọc hiểu mới cho TV13–16 (4/bài), mỗi câu có đáp án,3 phương án nhiễu, giải thích và căn cứ trang; lưu drafts/BATCH25_READING_QUESTIONS.json. Kiểm tra JSON,16 đề không trùng,4 lựa chọn khác nhau/câu,căn cứ/lời giải đầy đủ đạt. Bản chưa tích hợp: còn câu từ/câu/chính tả/diễn đạt, game, xuất bài JSON/Markdown và kiểm thử toàn bộ. Không đưa bản dở vào INDEX.
+
+Tiếp nối kiến thức đã lưu, không làm lại. Tổng giữ93/168, AI biên soạn/kiểm tra93, giáo viên duyệt4, chờ89, nháp75. Không có batch mới hoàn chỉnh trong checkpoint này.
+
+## Lịch sử
+
 # Checkpoint biên soạn kiến thức Batch25 — 10/11/2026
 
 Đã viết bản làm việc phần kiến thức cho TV13–16 trong drafts/BATCH25_KNOWLEDGE.json: mục tiêu, giải thích trọng tâm, lỗi dễ nhầm, ví dụ giải thích và nhiệm vụ viết có tiêu chí riêng từng bài. JSON hợp lệ. B16 dùng trang70–73 theo nguồn đã đối chiếu. Đây là bản chưa hoàn chỉnh, không được bộ tải INDEX sử dụng; chưa có ngân hàng câu hỏi/trò chơi nên không đánh dấu AI_CHECKED_AWAITING_TEACHER hoặc tính hoàn thành.

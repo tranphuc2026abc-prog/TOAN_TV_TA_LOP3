@@ -1,0 +1,30 @@
+{
+ "status":"WORK_IN_PROGRESS_NOT_PUBLISHED",
+ "lessons":[
+ {"id":"TV3_T1_B13","questions":[
+ {"question":"Trong cảnh thủ công, phần nào được tạo từ giấy trắng?","answer":"Chiếc thuyền","wrong":["Mặt trời","Mặt nước","Đám mây"],"explanation":"Giấy trắng được gấp thành thuyền; giấy đỏ và xanh tạo các phần khác.","evidence":"Trang59: khổ đầu và các khổ tiếp theo về màu giấy."},
+ {"question":"Tờ giấy đỏ góp phần nào vào bức tranh cô làm?","answer":"Mặt trời có tia nắng","wrong":["Chiếc thuyền đang trôi","Sóng quanh thuyền","Bờ cát màu trắng"],"explanation":"Màu đỏ gắn với mặt trời; không đổi quan hệ giữa các màu và sản phẩm.","evidence":"Trang59: khổ thứ hai."},
+ {"question":"Cảnh cuối cùng hiện ra trước mắt học trò gợi thời điểm nào?","answer":"Bình minh trên biển","wrong":["Đêm tuyết giữa rừng","Giữa trưa trong thư viện","Chiều mưa ở sân trường"],"explanation":"Thuyền, mặt trời và sóng kết hợp thành cảnh biển lúc ngày mới bắt đầu.","evidence":"Trang59: khổ tả cảnh hoàn chỉnh."},
+ {"question":"Vì sao học trò cảm thấy việc cô làm như phép màu?","answer":"Cô biến giấy thành cảnh sinh động bằng bàn tay khéo léo","wrong":["Cô dùng phép thuật thật để tạo biển","Cô đưa cả lớp đi tàu ra biển","Cô mua sẵn một chiếc thuyền lớn"],"explanation":"Đây là cách thể hiện sự khâm phục tay nghề và sáng tạo, không khẳng định có phép thuật.","evidence":"Trang59–60: quá trình gấp cắt và cảm nhận của học trò."}
+ ]},
+ {"id":"TV3_T1_B14","questions":[
+ {"question":"Ai mở đầu cuộc họp để tìm cách giúp Hoàng?","answer":"Bác chữ A","wrong":["Thầy hiệu trưởng","Bạn Cô-li-a","Dấu hỏi"],"explanation":"Bác chữ A nêu vấn đề trong cuộc họp của chữ và dấu câu.","evidence":"Trang62: phần mở cuộc họp."},
+ {"question":"Vấn đề chính khiến chữ và dấu câu phải họp là gì?","answer":"Hoàng đặt dấu chấm tùy tiện làm câu sai nghĩa","wrong":["Hoàng quên trả sách thư viện","Hoàng gấp sai thuyền giấy","Hoàng viết lời giải bằng thơ"],"explanation":"Việc chấm không theo ý làm các bộ phận câu bị tách sai, gây khó hiểu.","evidence":"Trang62–63: đoạn văn của Hoàng và nhận xét dấu chấm."},
+ {"question":"Theo giải pháp trong cuộc họp, trước lúc đặt dấu chấm Hoàng cần làm gì?","answer":"Đọc lại nội dung câu vừa viết","wrong":["Đếm đủ năm tiếng rồi chấm","Đợi mỏi tay mới chấm","Bỏ hết dấu câu trong bài"],"explanation":"Đọc lại giúp nhận ra ý đã trọn vẹn hay còn dở dang, thay vì chấm theo chỗ mỏi tay.","evidence":"Trang63: lời đề nghị của bác chữ A."},
+ {"question":"Cách kể chữ và dấu câu tự họp giúp câu chuyện đạt điều gì?","answer":"Làm bài học về dấu câu trở nên sinh động, dễ nhớ","wrong":["Khẳng định chữ ngoài đời tự đi lại","Chứng minh dấu câu không cần thiết","Yêu cầu học sinh bỏ viết câu"],"explanation":"Chữ được kể như người để người đọc thấy hậu quả và cách sửa lỗi dấu câu rõ hơn.","evidence":"Trang62–63: các chữ và dấu câu cùng trao đổi cách giúp Hoàng."}
+ ]},
+ {"id":"TV3_T1_B15","questions":[
+ {"question":"Sau kì nghỉ, các bạn phát hiện điều mới nào ở trường?","answer":"Một căn phòng đã thành thư viện","wrong":["Tất cả sách bị mang đi hết","Lớp chuyển lên toa tàu thật","Trường không còn bàn ghế"],"explanation":"Các bạn vui vì có không gian sách mới đối diện dãy lớp học.","evidence":"Trang66: đoạn đầu bài."},
+ {"question":"Điều nào đúng với lời thầy dặn về sách mượn về?","answer":"Đọc xong cần trả lại thư viện","wrong":["Được giữ luôn làm sách riêng","Không bao giờ được mang về","Chỉ được xem bìa rồi trả"],"explanation":"Thầy cho phép mượn về nhưng nhắc trách nhiệm trả sách.","evidence":"Trang66: lời thầy hiệu trưởng."},
+ {"question":"Vì sao trong thư viện có bạn phải đứng đọc?","answer":"Bàn ghế không đủ cho tất cả học sinh","wrong":["Thầy cấm mọi người ngồi","Không ai muốn chọn sách","Các bạn đang chờ tàu thật"],"explanation":"Bàn ghế chỉ đủ một phần số bạn; đây là nguyên nhân có người ngồi, người đứng.","evidence":"Trang67: cảnh các bạn cùng đọc."},
+ {"question":"Việc bạn nào cũng háo hức ghé thư viện cho thấy điều gì?","answer":"Các bạn vui và thích không gian đọc sách mới","wrong":["Các bạn chỉ muốn tránh đọc sách","Các bạn sợ thầy bắt trả sách","Thư viện là nơi không ai được vào"],"explanation":"Niềm háo hức sau ngày đầu thể hiện sức hấp dẫn của thư viện với học sinh.","evidence":"Trang67: đoạn kết bài."}
+ ]},
+ {"id":"TV3_T1_B16","questions":[
+ {"question":"Lời nhắn trong Ngày em vào Đội là lời của ai dành cho ai?","answer":"Người chị nói với em","wrong":["Hoàng nói với dấu chấm","Thầy hiệu trưởng nói với cô giáo","Người bán hàng nói với khách"],"explanation":"Bài mở đầu bằng sự khác nhau giữa tuổi của chị và ngày em được vào Đội.","evidence":"Trang70: khổ mở đầu."},
+ {"question":"Hình ảnh khăn đỏ dẫn em qua thời thơ dại gợi điều gì?","answer":"Em trưởng thành hơn về ý thức khi vào Đội","wrong":["Khăn tự làm em cao thêm ngay","Em không cần học nữa","Em được đi tàu thật ngay hôm ấy"],"explanation":"Khăn đỏ gợi bước lớn lên và trách nhiệm, không phải tác dụng vật lí làm người lớn tức thì.","evidence":"Trang70–71: khổ đầu và câu hỏi về trưởng thành."},
+ {"question":"Những hình ảnh trời xanh, cánh buồm và biển sông giúp gợi điều gì?","answer":"Niềm vui và những ước mơ rộng mở","wrong":["Một bản đồ đường tàu cụ thể","Danh sách đồ dùng nấu ăn","Nội quy mượn sách"],"explanation":"Các hình ảnh mở ra không gian và khát vọng tương lai trong lời chị nhắn.","evidence":"Trang70: các khổ giữa bài."},
+ {"question":"Khổ cuối liên hệ những ngày chị đã qua và em đang tới để nhắn điều gì?","answer":"Em đang bắt đầu chặng trưởng thành với những khát vọng đẹp","wrong":["Hai chị em phải có mọi việc giống hệt nhau","Vào Đội xong không cần cố gắng","Chiếc khăn sẽ thay em làm mọi việc"],"explanation":"Chị chia sẻ trải nghiệm và hi vọng với em, không hứa khăn đỏ thay thế nỗ lực của em.","evidence":"Trang70–71: khổ cuối và phần tìm hiểu bài."}
+ ]}
+ ],
+ "remaining":"Còn biên soạn từ/câu/chính tả/diễn đạt, tích hợp game, xuất JSON/Markdown và kiểm thử; chưa tính hoàn thành."
+}
