@@ -1,3 +1,11 @@
+# Checkpoint biên soạn kiến thức Batch25 — 10/11/2026
+
+Đã viết bản làm việc phần kiến thức cho TV13–16 trong drafts/BATCH25_KNOWLEDGE.json: mục tiêu, giải thích trọng tâm, lỗi dễ nhầm, ví dụ giải thích và nhiệm vụ viết có tiêu chí riêng từng bài. JSON hợp lệ. B16 dùng trang70–73 theo nguồn đã đối chiếu. Đây là bản chưa hoàn chỉnh, không được bộ tải INDEX sử dụng; chưa có ngân hàng câu hỏi/trò chơi nên không đánh dấu AI_CHECKED_AWAITING_TEACHER hoặc tính hoàn thành.
+
+Tiếp hoàn thiện câu hỏi/phương án/lời giải, từ-câu-chính tả, trò chơi và xuất 4 JSON/Markdown chuẩn trước kiểm thử batch. Tổng giữ93/168, AI đã biên soạn/kiểm tra93, giáo viên duyệt4, chờ89, nháp75. Không sửa APPROVALS hoặc dữ liệu tiến độ wl3. Chưa có batch học liệu mới để chạy kiểm thử tích hợp.
+
+## Lịch sử
+
 # Checkpoint nguồn Batch25 — 10/11/2026
 
 Đã đọc trực quan trang in59–74, lưu BATCH25_SOURCE_NOTES.md về B13–16. Xác định B16 kết phần học ở trang73; trang74 bắt đầu ôn giữa kì, khác khoảng70–81 trong catalog. Chưa đọc75–81, chưa thêm học liệu hoàn chỉnh. Giữ INDEX93/168, giáo viên duyệt4, chờ89, nháp75. Tiếp biên soạn Batch25 theo ghi chú và nguồn; không tính ghi chú là bài hoàn thành.
