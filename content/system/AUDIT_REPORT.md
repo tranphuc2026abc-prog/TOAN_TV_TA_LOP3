@@ -1,3 +1,11 @@
+# Đóng gói thử Toán 81 — 09/11/2026
+
+Đã thêm build_batch21.py, ánh xạ hình và 5 SVG cho các câu hình vuông/chữ nhật. Tạo thử JSON/Markdown của Bài 81 tại môi trường làm việc; validate_site.py/validate_content.py đạt với 81 bài/3240 câu. SVG XML hợp lệ nhưng chưa xem trực quan toàn bộ; chưa bổ sung test đáp án độc lập Bài 81. Commit này chỉ lưu builder và hình, chưa tăng INDEX công khai hoặc đưa JSON/Markdown mới vào main.
+
+Tiếp xem 5 hình, bổ sung test_batch21.py, chạy toàn bộ hồi quy/DOM rồi commit tích hợp bài cuối Toán và xác minh Pages. Tổng công khai vẫn 80/168, 3200 câu, 80 trò chơi; giáo viên duyệt 4, chờ duyệt 76; 88 mục nháp. Không tạo lại 40 câu hoặc kiến thức đã lưu.
+
+## Lịch sử
+
 # Kiến thức Toán 81 — 09/11/2026
 
 Đã bổ sung batch21-details.json: mục tiêu, giải thích dễ hiểu, quy tắc tổng hợp, hướng dẫn từng bước, lỗi thường gặp, ba ví dụ có lời giải, cấu hình trò chơi và hoạt động tự kiểm tra. Giữ nguyên 40 câu nguồn đã lưu. JSON chi tiết hợp lệ, chưa phải học liệu đã tích hợp.
