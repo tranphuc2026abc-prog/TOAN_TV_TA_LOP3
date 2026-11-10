@@ -1,3 +1,14 @@
+# Batch 33 — Tiếng Việt tập 2 bài 13–16 — 10/11/2026
+
+- Nối tiếp commit a8c4d1d203fc38005ec4b5fee4cabf193b80d988: Mèo đi câu cá, Học nghề, Ngày như thế nào là đẹp?, A lô, tớ đây.
+- Đã đọc trực quan PDF56–72, tương ứng trang in55–71; trang71 xác nhận bắt đầu ôn tập. Học liệu dùng trang55–70. Sửa phạm vi nguồn bài16 kết thúc70 thay79, không đổi ID hay tổng danh mục.
+- Thêm4 JSON/4 Markdown,48 câu mới,8 ví dụ có lời giải,4 hoạt động nói/viết và4 game kho báu; luyện10 câu/lượt. Không chép toàn văn sách.
+- Tổng AI biên soạn/kiểm tra129/168 (Toán81,TV48,TA0),3848 câu/129 game; giáo viên duyệt4,125 bài chờ duyệt. Còn39 mục(TV14,TA25).
+- npm test PASS: hai validator, mọi hồi quy trước + test_batch33.py, DOM129 kho và TV DOM. Kiểm tra trách nhiệm của cả hai mèo, Va-li-a học từ việc nền tảng, kiến tính cả công việc và nghỉ ngơi, hai mức giọng đều chưa phù hợp của An/Minh, bài16 dừng trước ôn tập.
+- Đã xác minh Batch32: ref main a8c4d1d203fc38005ec4b5fee4cabf193b80d988, Actions42817051675 và42817050553 completed/success;8 tệp bài9–12, INDEX và danh mục trên Pages trùng SHA-256 bản kiểm thử.
+- Batch33 sẽ xác minh Actions/Pages sau commit. Hạn chế Chromium vẫn như lần thử trong lượt này: socket/ptrace bị chặn trước render; không nhận đã kiểm thử bố cục.
+- Bài mới AI_CHECKED_AWAITING_TEACHER. Tiếp theo TV3_T2_B17–B20. Chưa đủ168.
+
 # Batch 32 — Tiếng Việt tập 2 bài 9–12 — 10/11/2026
 
 - Nối tiếp main a4a3721ce6bd699d0d82b6d11854377985b6b45e: Lời kêu gọi toàn dân tập thể dục, Quả hồng của thỏ con, Chuyện bên cửa sổ, Tay trái và tay phải.
