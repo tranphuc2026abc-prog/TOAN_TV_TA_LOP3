@@ -1,3 +1,13 @@
+# Xác minh sau commit Batch28 — 10/11/2026
+
+Main đã xác minh trỏ b787c2cdae86c90970f5b4d17f6e8a3f94cfda02 (https://github.com/tranphuc2026abc-prog/TOAN_TV_TA_LOP3/commit/b787c2cdae86c90970f5b4d17f6e8a3f94cfda02). Actions42800255632 đang in_progress,42800254539 queued ở lần kiểm tra cuối; tài nguyên Pages B28 trả404 khi triển khai chưa xong, chưa kết luận lỗi bền vững hoặc triển khai thành công. Lượt sau phải kiểm tra lại đúng commit.
+
+Môi trường hiện có /usr/bin/chromium, đã thử headless nhưng tiến trình bị abort trước render: process_singleton_posix.cc socket() failed: Operation not permitted; ptrace cũng không được phép. Không có kết quả kiểm thử trình duyệt thực tế; DOM109 kho đã đạt như báo cáo batch. Cập nhật giới hạn này thay cho giả định cũ không có Chromium.
+
+Checkpoint109/168,3608 câu,109 game;4 giáo viên duyệt,105 chờ,59 nháp. Batch29 TV29–32 cần đọc nguồn; chưa bàn giao168/168.
+
+## Lịch sử
+
 # Batch28 tích hợp TV25–28 — 10/11/2026
 
 Hoàn thiện4 JSON+4 Markdown: Những bậc đá chạm mây, Đi tìm mặt trời, Những chiếc áo ấm, Con đường của bé;48 câu mới,4 trò chơi,10 câu/lượt. Có kiến thức, hướng dẫn, lỗi thường gặp, ví dụ giải, hoạt động nói/viết, tiêu chí và phản hồi. Dùng nguồn đã đọc trực quan và ghi chú từng trang từ các lượt trước; không nhận là đọc lại ảnh trong lượt này, không đăng toàn văn sách.
