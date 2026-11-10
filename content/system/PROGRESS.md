@@ -1,3 +1,17 @@
+# Checkpoint đã xác minh Pages — 10/11/2026
+
+- Hoàn tất thực tế 3 batch 29–31 trong lượt này: 12 bài Tiếng Việt, 144 câu, 12 trò chơi, mỗi batch commit riêng:
+  - Batch29: https://github.com/tranphuc2026abc-prog/TOAN_TV_TA_LOP3/commit/a11d527516df2e862371fd0bac684322abb013af
+  - Batch30: https://github.com/tranphuc2026abc-prog/TOAN_TV_TA_LOP3/commit/9759f4f243a1828d1e3fc905e5cef612bad97dfa
+  - Batch31: https://github.com/tranphuc2026abc-prog/TOAN_TV_TA_LOP3/commit/786c1cb8f0cffaae61792940a04e19bd63ef6f8c
+- AI đã biên soạn/kiểm tra 121/168: Toán81, TV40, TA0; 3752 câu,121 game. Giáo viên duyệt4,117 bài chờ duyệt. Còn47 (TV22,TA25). Tiếp theo TV3_T2_B09–B12.
+- Bản Pages đã kiểm chứng: 8 tệp JSON/Markdown TV tập2 bài5–8, INDEX.json, danh mục và index.html đều HTTP200, SHA-256 trùng chính xác bản đã chạy npm test. Tên Mặt trời xanh của tôi hiển thị theo nguồn, ID không đổi.
+- Run Pages tự động 42811066702 ở commit 57c55921bad7e207b6152d50db45558fb591cccb: build, report-build-status và deploy đều completed/success.
+- Làm rõ sự cố trước: bước huỷ deployment cũ của run 42811067474 thất bại HTTP400 vì GitHub báo deployment Batch30 đã finished; không có xác nhận đã huỷ. Sau đó luồng Pages tự động xuất bản thành công. Gỡ bước khôi phục tạm khỏi workflow để không giữ thao tác một lần.
+- Giữ sửa bền vững: artifact có run_id/run_attempt và upload/deploy dùng cùng tên, concurrency không huỷ lượt đang chạy. Commit checkpoint này cũng cần theo dõi Actions; không diễn giải các run cũ failure thành success.
+- Kiểm thử: npm test PASS trên121 kho, mọi hồi quy giữ nguyên và bổ sung29/30/31. Chromium hiện có nhưng khởi động bị chặn socket/ptrace, nên chỉ xác nhận DOM jsdom, không xác nhận bố cục Chromium.
+- Đã lưu đầy đủ ghi chú đọc nguồn, kiểm thử, lịch sử dưới đây. Không tuyên bố168/168, không cần người dùng can thiệp; tiếp tục tác vụ ở batch32.
+
 # Khôi phục khoá Pages của Batch 30 — 10/11/2026
 
 - Commit sửa retry c156ff2911b47994a3086414c4caa3156337fd5d đã lên main. Tên artifact riêng đã hoạt động, nhưng run 42810820719 vẫn HTTP400 do Pages còn giữ deployment 9759f4f243a1828d1e3fc905e5cef612bad97dfa ở trạng thái in_progress.
