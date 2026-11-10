@@ -1,0 +1,330 @@
+{
+  "id": "TV3_T1_B29",
+  "subject": "tv",
+  "grade": 3,
+  "book": "Kết nối tri thức với cuộc sống",
+  "volume": 1,
+  "lesson_no": 29,
+  "title": "Ngôi nhà trong cỏ",
+  "topic": "Gắn bó với cộng đồng",
+  "source": {
+    "pdf": "03-sgk-tieng-viet-3-tap-mot.pdf",
+    "printed_pages": [
+      129,
+      132
+    ],
+    "pdf_pages": [
+      130,
+      133
+    ],
+    "review": "Đã đọc trực quan toàn bộ các trang nguồn nêu trên từ PDF ảnh quét ngày 10/11/2026; học liệu diễn giải và câu hỏi được biên soạn mới, không đăng toàn văn sách."
+  },
+  "objectives": [
+    "Đọc và giải thích chi tiết của bài Ngôi nhà trong cỏ.",
+    "Nhận xét nhân vật hoặc công việc dựa trên căn cứ.",
+    "Luyện từ, câu, chính tả và nói/viết theo bài."
+  ],
+  "reading": {
+    "summary": "Các bạn tìm tiếng hát và gặp dế than đang đào nhà. Họ làm quen, khen tài ca hát rồi chung tay giúp bạn có ngôi nhà dưới nấm.",
+    "characters_or_images": [
+      "Cào cào",
+      "Nhái bén",
+      "Chuồn chuồn",
+      "Dế than"
+    ],
+    "message": "Tình bạn bắt đầu từ sự quan tâm và được nuôi dưỡng bằng hành động giúp đỡ."
+  },
+  "knowledge": {
+    "introduction": "Các bạn tìm tiếng hát và gặp dế than đang đào nhà. Họ làm quen, khen tài ca hát rồi chung tay giúp bạn có ngôi nhà dưới nấm.",
+    "rules": [
+      "Không chỉ kể ai hát hay; hãy nối cuộc tìm kiếm với việc cả nhóm giúp dựng nhà.",
+      "Khi khen bạn, nói rõ điều mình quý và lắng nghe lời đáp.",
+      "Phân biệt s/x theo nghĩa: sáo là nhạc cụ, xào là cách nấu."
+    ],
+    "steps": [
+      "Đọc bài trong sách, đánh dấu chi tiết liên quan câu hỏi.",
+      "Nêu câu trả lời rồi giải thích bằng chi tiết, phân biệt suy luận với lời kể.",
+      "Làm nhiệm vụ nói/viết; kiểm tra đủ ý, xưng hô và dấu câu."
+    ],
+    "common_errors": [
+      "Nhầm dế than với cào cào là người hát.",
+      "Chỉ kể lời khen mà bỏ việc giúp dựng nhà."
+    ]
+  },
+  "language_practice": {
+    "vocabulary": [
+      "Trong cuộc gặp với dế than, làng giềng chỉ ai? Đáp án: Người sống gần nhà nhau. Các bạn nhận dế là hàng xóm, rồi cùng giúp dựng nhà.",
+      "Từ ngượng ngùng giúp em hình dung dế than thế nào khi được khen? Đáp án: Hơi e dè, chưa tự nhiên. Dế có chút bối rối trước lời khen của những người bạn mới."
+    ],
+    "sentences": [
+      "Lời nào vừa giới thiệu mình vừa khen dế than lịch sự? Đáp án: Mình là nhái bén, mình rất thích tiếng hát của bạn. Người nói nêu tên và bày tỏ sự yêu thích, không ra lệnh.",
+      "Câu nào nối đúng việc nghe tiếng hát với hành động tiếp theo? Đáp án: Vì tò mò về người hát, các bạn đi tìm tiếng nhạc. Nguyên nhân phải xuất hiện trước hành động tìm kiếm trong truyện."
+    ],
+    "spelling": [
+      "Chọn cách viết đúng: Các bạn ... vào giúp dế than. Đáp án: xúm Xúm viết x, diễn tả nhiều người tụ lại cùng làm.",
+      "Cặp từ nào đều viết đúng để nói về âm nhạc và việc nấu ăn? Đáp án: Tiếng sáo, xào rau. Sáo là nhạc cụ; xào là cách làm chín thức ăn. Phân biệt s và x theo nghĩa."
+    ],
+    "expression": [
+      "Khi kể lại cuộc gặp trong cỏ, ý nào cần đặt sau khi xác định người hát? Đáp án: Các bạn làm quen rồi cùng giúp dế dựng nhà. Đó là bước phát triển sau cuộc tìm kiếm, trước kết quả hoàn thành nhà.",
+      "Muốn khen một bạn hát hay và làm giỏi như dế than, lời nào rõ và thân thiện? Đáp án: Bạn hát rất hay, mình cùng bạn hoàn thành ngôi nhà nhé! Lời khen cụ thể đi cùng đề nghị giúp đỡ thể hiện sự quý mến."
+    ]
+  },
+  "examples": [
+    {
+      "question": "Chi tiết nào cho thấy dế than không khoe tài của mình?",
+      "steps": [
+        "Trang 130, lời dế than sau lời khen.",
+        "Cách phản ứng khi được khen thể hiện sự khiêm tốn.",
+        "Trả lời: Dế ngượng ngùng và tự nhận mình chỉ là thợ đào đất."
+      ]
+    },
+    {
+      "question": "Lời nào vừa giới thiệu mình vừa khen dế than lịch sự?",
+      "steps": [
+        "Xác định yêu cầu câu hỏi.",
+        "Người nói nêu tên và bày tỏ sự yêu thích, không ra lệnh.",
+        "Trả lời: Mình là nhái bén, mình rất thích tiếng hát của bạn."
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "title": "Nói và viết từ bài đọc",
+      "materials": [
+        "Sách",
+        "Vở",
+        "Bút"
+      ],
+      "steps": [
+        "Kể cuộc làm quen với dế than bằng 4 câu. Sau đó nói một việc em có thể làm để chào đón bạn mới.",
+        "Đọc cho người thân nghe và sửa ít nhất một câu chưa rõ."
+      ],
+      "check": [
+        "Nội dung đúng bài hoặc trải nghiệm được nêu rõ.",
+        "Ý sắp xếp dễ theo dõi, có chi tiết cụ thể.",
+        "Viết hoa, dấu thanh và dấu kết câu phù hợp."
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "question_id": "TV3_T1_B29_Q01",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Lúc tiếng nhạc vang lên, cào cào và nhái bén đang làm việc gì?",
+      "correct_answer": "Tập nhảy.",
+      "options": [
+        "Xây nhà đất.",
+        "Tìm củi khô.",
+        "May áo ấm.",
+        "Tập nhảy."
+      ],
+      "explanation": "Hai bạn đang vận động buổi sáng rồi mới chú ý tiếng nhạc.",
+      "evidence": "Trang 129, mở đầu."
+    },
+    {
+      "question_id": "TV3_T1_B29_Q02",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Điều gì khiến các bạn bất ngờ khi tìm ra người hát?",
+      "correct_answer": "Dế than vừa đào đất xây nhà vừa hát hay.",
+      "options": [
+        "Người hát là một chiếc lá.",
+        "Nhái bén xây xong cả xóm.",
+        "Dế than vừa đào đất xây nhà vừa hát hay.",
+        "Chuồn chuồn đã giấu một cây đàn."
+      ],
+      "explanation": "Tài ca hát nằm ở người bạn đang làm công việc đào đất bình dị.",
+      "evidence": "Trang 130, đoạn các bạn gặp dế than."
+    },
+    {
+      "question_id": "TV3_T1_B29_Q03",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Chi tiết nào cho thấy dế than không khoe tài của mình?",
+      "correct_answer": "Dế ngượng ngùng và tự nhận mình chỉ là thợ đào đất.",
+      "options": [
+        "Dế chê tiếng hát của bạn.",
+        "Dế ngượng ngùng và tự nhận mình chỉ là thợ đào đất.",
+        "Dế bắt mọi người phải nghe.",
+        "Dế đòi quà mới hát."
+      ],
+      "explanation": "Cách phản ứng khi được khen thể hiện sự khiêm tốn.",
+      "evidence": "Trang 130, lời dế than sau lời khen."
+    },
+    {
+      "question_id": "TV3_T1_B29_Q04",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Ngôi nhà cuối truyện thể hiện kết quả của điều gì?",
+      "correct_answer": "Các bạn góp sức giúp người hàng xóm mới.",
+      "options": [
+        "Các bạn góp sức giúp người hàng xóm mới.",
+        "Dế than đuổi mọi người đi.",
+        "Chuồn chuồn mang nhà từ nơi khác tới.",
+        "Mỗi bạn chỉ lo việc của mình."
+      ],
+      "explanation": "Nhà bằng đất hoàn thành nhanh sau khi cả nhóm cùng làm.",
+      "evidence": "Trang 130, đoạn kết."
+    },
+    {
+      "question_id": "TV3_T1_B29_Q05",
+      "type": "mcq",
+      "skill": "vocabulary",
+      "question": "Trong cuộc gặp với dế than, làng giềng chỉ ai?",
+      "correct_answer": "Người sống gần nhà nhau.",
+      "options": [
+        "Người luôn đi xa.",
+        "Người biểu diễn trên sân khấu.",
+        "Người chỉ gặp qua sách.",
+        "Người sống gần nhà nhau."
+      ],
+      "explanation": "Các bạn nhận dế là hàng xóm, rồi cùng giúp dựng nhà."
+    },
+    {
+      "question_id": "TV3_T1_B29_Q06",
+      "type": "mcq",
+      "skill": "vocabulary",
+      "question": "Từ ngượng ngùng giúp em hình dung dế than thế nào khi được khen?",
+      "correct_answer": "Hơi e dè, chưa tự nhiên.",
+      "options": [
+        "Kiêu căng ra lệnh.",
+        "Buồn ngủ không nghe.",
+        "Hơi e dè, chưa tự nhiên.",
+        "Giận dữ đập bàn."
+      ],
+      "explanation": "Dế có chút bối rối trước lời khen của những người bạn mới."
+    },
+    {
+      "question_id": "TV3_T1_B29_Q07",
+      "type": "mcq",
+      "skill": "sentences",
+      "question": "Lời nào vừa giới thiệu mình vừa khen dế than lịch sự?",
+      "correct_answer": "Mình là nhái bén, mình rất thích tiếng hát của bạn.",
+      "options": [
+        "Tôi chẳng muốn biết tên bạn.",
+        "Mình là nhái bén, mình rất thích tiếng hát của bạn.",
+        "Tôi giỏi hơn bạn!",
+        "Bạn phải hát suốt ngày."
+      ],
+      "explanation": "Người nói nêu tên và bày tỏ sự yêu thích, không ra lệnh."
+    },
+    {
+      "question_id": "TV3_T1_B29_Q08",
+      "type": "mcq",
+      "skill": "sentences",
+      "question": "Câu nào nối đúng việc nghe tiếng hát với hành động tiếp theo?",
+      "correct_answer": "Vì tò mò về người hát, các bạn đi tìm tiếng nhạc.",
+      "options": [
+        "Vì tò mò về người hát, các bạn đi tìm tiếng nhạc.",
+        "Các bạn đi tìm vì đã xây nhà xong.",
+        "Dế hát vì không muốn có bạn.",
+        "Chuồn chuồn bỏ đi nên mọi người vỗ tay."
+      ],
+      "explanation": "Nguyên nhân phải xuất hiện trước hành động tìm kiếm trong truyện."
+    },
+    {
+      "question_id": "TV3_T1_B29_Q09",
+      "type": "mcq",
+      "skill": "spelling",
+      "question": "Chọn cách viết đúng: Các bạn ... vào giúp dế than.",
+      "correct_answer": "xúm",
+      "options": [
+        "súm",
+        "xụm",
+        "sụm",
+        "xúm"
+      ],
+      "explanation": "Xúm viết x, diễn tả nhiều người tụ lại cùng làm."
+    },
+    {
+      "question_id": "TV3_T1_B29_Q10",
+      "type": "mcq",
+      "skill": "spelling",
+      "question": "Cặp từ nào đều viết đúng để nói về âm nhạc và việc nấu ăn?",
+      "correct_answer": "Tiếng sáo, xào rau.",
+      "options": [
+        "Tiếng sáo, sào rau.",
+        "Tiếng xáo, xào rau.",
+        "Tiếng sáo, xào rau.",
+        "Tiếng xáo, sào rau."
+      ],
+      "explanation": "Sáo là nhạc cụ; xào là cách làm chín thức ăn. Phân biệt s và x theo nghĩa."
+    },
+    {
+      "question_id": "TV3_T1_B29_Q11",
+      "type": "mcq",
+      "skill": "expression",
+      "question": "Khi kể lại cuộc gặp trong cỏ, ý nào cần đặt sau khi xác định người hát?",
+      "correct_answer": "Các bạn làm quen rồi cùng giúp dế dựng nhà.",
+      "options": [
+        "Tiếng nhạc mới vang lên lần đầu.",
+        "Các bạn làm quen rồi cùng giúp dế dựng nhà.",
+        "Cào cào bắt đầu tập nhảy.",
+        "Chuồn chuồn vừa bay tới."
+      ],
+      "explanation": "Đó là bước phát triển sau cuộc tìm kiếm, trước kết quả hoàn thành nhà."
+    },
+    {
+      "question_id": "TV3_T1_B29_Q12",
+      "type": "mcq",
+      "skill": "expression",
+      "question": "Muốn khen một bạn hát hay và làm giỏi như dế than, lời nào rõ và thân thiện?",
+      "correct_answer": "Bạn hát rất hay, mình cùng bạn hoàn thành ngôi nhà nhé!",
+      "options": [
+        "Bạn hát rất hay, mình cùng bạn hoàn thành ngôi nhà nhé!",
+        "Bạn chỉ được hát, không được làm.",
+        "Tôi khen nhưng sẽ phá nhà.",
+        "Bạn phải cho tôi hết đồ dùng."
+      ],
+      "explanation": "Lời khen cụ thể đi cùng đề nghị giúp đỡ thể hiện sự quý mến."
+    }
+  ],
+  "games": [
+    {
+      "id": "TV3_T1_B29_GAME",
+      "title": "Kho báu: Ngôi nhà trong cỏ",
+      "mode": "treasure",
+      "objective": "Tìm kho báu bằng cách hiểu chi tiết và dùng tiếng Việt đúng theo bài.",
+      "rules": [
+        "Trả lời 10 câu được chọn từ chính bài này.",
+        "Mỗi đáp án đúng được 10 điểm; đọc phản hồi để hiểu và sửa câu sai.",
+        "Chơi lại để gặp một bộ câu khác."
+      ],
+      "question_ids": [
+        "TV3_T1_B29_Q01",
+        "TV3_T1_B29_Q02",
+        "TV3_T1_B29_Q03",
+        "TV3_T1_B29_Q04",
+        "TV3_T1_B29_Q05",
+        "TV3_T1_B29_Q06",
+        "TV3_T1_B29_Q07",
+        "TV3_T1_B29_Q08",
+        "TV3_T1_B29_Q09",
+        "TV3_T1_B29_Q10",
+        "TV3_T1_B29_Q11",
+        "TV3_T1_B29_Q12"
+      ],
+      "answer_source": "practice.correct_answer",
+      "feedback_source": "practice.explanation",
+      "max_score": 100
+    }
+  ],
+  "assessment": {
+    "session_size": 10,
+    "scoring": "Mỗi câu đúng được tính điểm theo hệ thống; 8–10 câu đúng: nắm tốt, 5–7: đọc lại phần còn nhầm, dưới 5: đọc bài cùng người thân rồi thử lại. Nhiệm vụ nói/viết tự kiểm theo tiêu chí, không chấm bằng một đáp án duy nhất.",
+    "review_advice": "Sau lượt luyện, chọn một câu sai để giải thích lại. Với nói/viết: đúng chi tiết hoặc trải nghiệm thật, đủ ý, câu rõ, chính tả đúng; sửa ít nhất một điểm trước khi hoàn tất."
+  },
+  "feedback": {
+    "correct": "Em đã chọn phù hợp. Đọc lời giải để nhắc lại căn cứ.",
+    "incorrect": "Đọc lại câu hỏi và chi tiết liên quan; xem lời giải để biết vì sao."
+  },
+  "verification": {
+    "ai_authored": true,
+    "structure_checked": true,
+    "answer_reviewed": true,
+    "source_reviewed": true,
+    "teacher_approved": false
+  },
+  "status": "AI_CHECKED_AWAITING_TEACHER"
+}

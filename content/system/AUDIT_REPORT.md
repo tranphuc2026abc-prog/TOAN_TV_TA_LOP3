@@ -1,3 +1,15 @@
+# Batch 29 — Tiếng Việt tập 1 bài 29–32 — 10/11/2026
+
+- Nối tiếp main 054d90f1185094648e3f60c964f13e82ebf69ee3; 4 bài: Ngôi nhà trong cỏ, Những ngọn hải đăng, Người làm đồ chơi, Cây bút thần.
+- Đã đọc trực quan PDF ảnh quét 03-sgk-tieng-viet-3-tap-mot.pdf: trang in 129–143, trang PDF 130–144 trong lượt này. Không dùng OCR chưa đối chiếu; không đăng toàn văn.
+- Thêm 4 JSON + 4 Markdown, 48 câu tự biên soạn (mỗi bài 4 đọc hiểu, 2 từ vựng, 2 câu, 2 chính tả, 2 diễn đạt), 8 ví dụ có lời giải, 4 hoạt động nói/viết, 4 trò chơi kho báu 10 câu/lượt.
+- Tổng: AI đã biên soạn/kiểm tra 113/168 mục (Toán 81, Tiếng Việt 32, Tiếng Anh 0); 3656 câu, 113 trò chơi. Giáo viên duyệt 4; 109 bài chờ giáo viên; còn 55 mục (TV 30, TA 25).
+- npm test PASS: validate_site.py, validate_content.py, toàn bộ hồi quy trước + test_batch29.py, test_content_dom.cjs trên 113 kho học liệu và test_vietnamese_dom.cjs. Giữ kiểm thử nguồn điện dự phòng hải đăng, bác Nhân tiếp tục nặn ở quê, Mã Lương thoát bằng thang; phương án đúng phân bố cả 4 vị trí.
+- Chromium có sẵn nhưng lần thử gần nhất không khởi chạy được do socket() bị môi trường từ chối; DOM jsdom đã PASS, chưa xác nhận bố cục bằng trình duyệt.
+- Đã xác minh checkpoint Batch 28 054d90f1185094648e3f60c964f13e82ebf69ee3: Actions 42800383503 và 42800382722 completed/success; Pages trả HTTP 200 cho TV3_T1_B28 (12 câu). Các workflow của commit nội dung b787c2c đã bị cancelled khi checkpoint thay thế, không ghi là thành công.
+- Commit/Actions/Pages của Batch 29: xác minh sau khi commit; cập nhật vào checkpoint kế tiếp.
+- Điểm nối tiếp: Tiếng Việt tập 2 bài 1–4 (đọc nguồn thật trước khi biên soạn). Không tự duyệt; tất cả bài mới AI_CHECKED_AWAITING_TEACHER.
+
 # Xác minh sau commit Batch28 — 10/11/2026
 
 Main đã xác minh trỏ b787c2cdae86c90970f5b4d17f6e8a3f94cfda02 (https://github.com/tranphuc2026abc-prog/TOAN_TV_TA_LOP3/commit/b787c2cdae86c90970f5b4d17f6e8a3f94cfda02). Actions42800255632 đang in_progress,42800254539 queued ở lần kiểm tra cuối; tài nguyên Pages B28 trả404 khi triển khai chưa xong, chưa kết luận lỗi bền vững hoặc triển khai thành công. Lượt sau phải kiểm tra lại đúng commit.
