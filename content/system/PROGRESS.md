@@ -1,3 +1,11 @@
+# Khôi phục khoá Pages của Batch 30 — 10/11/2026
+
+- Commit sửa retry c156ff2911b47994a3086414c4caa3156337fd5d đã lên main. Tên artifact riêng đã hoạt động, nhưng run 42810820719 vẫn HTTP400 do Pages còn giữ deployment 9759f4f243a1828d1e3fc905e5cef612bad97dfa ở trạng thái in_progress.
+- Thêm bước khôi phục một lần trong workflow hiện có, chỉ chạy khi thông điệp commit chứa [recover-pages-batch30]: gọi API GitHub chính thức để huỷ đúng deployment Batch30 cũ, sau đó xuất bản bản mới. Không huỷ deployment tuỳ ý, không thay đổi học liệu hay dữ liệu người dùng.
+- API tham khảo: https://docs.github.com/en/rest/pages/pages#cancel-a-github-pages-deployment. Bước này dùng quyền pages:write sẵn của workflow, không ghi token vào repo hoặc log.
+- 121 học liệu đã kiểm thử; Batch31 hiện chưa được xác nhận trên Pages. Kiểm tra kết quả bước khôi phục và bản xuất sau commit này; nếu thất bại phải ghi đúng nguyên nhân.
+- Điểm nối tiếp nội dung vẫn TV tập2 bài9–12; còn47 mục; giáo viên mới duyệt4.
+
 # Checkpoint sau Batch 29–31 và sửa quy trình Pages — 10/11/2026
 
 - Ba batch nội dung đã commit riêng lên main bằng expected_sha, không force:
