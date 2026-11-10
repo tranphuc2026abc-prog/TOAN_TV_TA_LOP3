@@ -1,0 +1,92 @@
+"""Học liệu TV tập2 bài5–8; trực quan trang in23–40/PDF24–41,10/11/2026."""
+import json
+from pathlib import Path
+R=Path(__file__).resolve().parents[1]
+rows=[
+[
+'reading|Vai trò của gõ kiến và gà rừng ở đầu ngày hội là gì?|Tạo tiếng báo gọi để mọi người cùng đi hội.|Dựng chiếc nhà mới cho dế.;Đưa voi đi tắm.;Trồng cây gạo bên sông.|Tiếng mõ và lời gọi mở đầu không khí ngày hội.|Trang 23, khổ một.',
+'reading|Sự vật nào được nhà thơ hình dung như người gảy đàn?|Khe suối.|Nấm.;Công.;Kì nhông.|Tiếng nước được gợi thành nhạc, cùng tre trúc góp âm thanh cho hội.|Trang 23, khổ hai.',
+'reading|Tiết mục của kì nhông được gợi từ đặc điểm nào?|Thay đổi màu da.|Xoè đuôi múa.;Gáy gọi sáng.;Quay đưa nước lên ruộng.|Tác giả hình dung đổi màu là biểu diễn ảo thuật.|Trang 23, khổ ba.',
+'reading|Chiếc đu quay ở cuối bài thực ra được gợi từ vật gì?|Cọn nước quay bên suối.|Chiếc quạt điện.;Đuôi công xoè rộng.;Tổ chim trên cây.|Đọc cả chú giải giúp phân biệt vật thật dùng đưa nước với trò vui trong tưởng tượng.|Trang 23 khổ cuối, trang 24 chú giải.',
+'vocabulary|Lĩnh xướng khi khướu tham gia ngày hội là cách hát nào?|Một người hát dẫn một câu hoặc đoạn trước hay sau phần tập thể.|Tất cả im lặng không hát.;Chỉ dùng tay ra hiệu.;Mọi người đọc tên cây.|Khướu được hình dung có vai trò hát dẫn trong buổi biểu diễn.|',
+'vocabulary|Vì sao nhà thơ có thể hình dung tre trúc thổi sáo?|Âm thanh gió qua tre trúc gợi tiếng nhạc.|Tre trúc có người thổi thật trong thân.;Cây luôn cầm sáo bằng tay.;Suối đã biến thành cây tre.|Đó là liên tưởng làm cảnh rừng vui như hội, không phải miêu tả cơ thể cây có tay miệng.|',
+'sentences|Câu hỏi nào tìm hoạt động của công trong ngày hội?|Công tham gia tiết mục gì?|Công có màu gì?;Công đến từ khu rừng nào?;Có mấy con công trong ảnh?|Tiết mục gì hỏi việc tham gia, khác hỏi màu sắc, nơi đến hay số lượng.|',
+'sentences|Câu tự viết nào làm cảnh vật trong rừng gần gũi như người?|Dòng suối reo vui đón các bạn tới hội.|Suối chảy qua tảng đá.;Cây tre có nhiều đốt.;Chim công có bộ lông đẹp.|Reo vui đón bạn gán cảm xúc và hành động người cho suối.|',
+'spelling|Tên khu rừng trong phần luyện viết cần ghi như thế nào?|Cúc Phương.|Cúc phương.;cúc Phương.;Cút Phương.|Tên riêng viết hoa mỗi tiếng, Cúc có âm cuối c.|',
+'spelling|Điền tiếng đúng: Chúng em tìm ... thêm về các loài cây rừng.|hiểu|hỉu;hữu;hĩu|Hiểu viết iêu và dấu hỏi; tìm hiểu là học để biết rõ hơn.|',
+'expression|Chia sẻ về khu rừng biết qua phim, câu mở đầu nào rõ căn cứ?|Em biết khu rừng này qua một bộ phim về thiên nhiên.|Em đã tới đó dù chỉ xem phim.;Mọi khu rừng đều giống hệt nhau.;Em không cần nói mình biết từ đâu.|Nêu nguồn biết giúp người nghe phân biệt trải nghiệm trực tiếp với thông tin xem đọc.|',
+'expression|Lựa chọn nào thể hiện ý tưởng bảo vệ rừng phù hợp buổi trao đổi?|Không bẻ cây, không xả rác và báo người lớn khi thấy việc phá rừng.|Lấy trứng chim để đem khoe.;Đốt cành khô tuỳ thích.;Đuổi hết con vật khỏi rừng.|Các việc giữ cây, giữ nơi sống và nhờ người lớn xử lí giúp bảo vệ rừng.|'
+],
+[
+'reading|Sắc đỏ hoa gạo trong mùa xuân được tác giả gợi qua hình ảnh nào?|Những ngọn lửa hồng tươi.|Những hòn đá xám.;Những dòng suối xanh.;Những chiếc lá úa.|Liên tưởng tới lửa làm nổi màu hoa sáng và ấm.|Trang 27, đoạn đầu.',
+'reading|Điều gì tạo không khí giống ngày hội quanh cây gạo?|Nhiều loài chim bay lượn, gọi và trò chuyện rộn ràng.|Cây gạo phát tiếng chuông điện.;Mọi bông hoa biến thành trống.;Cây chuyển tới sân trường.|Cử động và âm thanh đàn chim khiến mùa hoa náo nhiệt.|Trang 27–28, đàn chim trong mùa hoa.',
+'reading|Sau mùa hoa, vẻ đẹp cây gạo thay đổi thế nào?|Xanh mát, yên tĩnh và trầm tư hơn.|Không còn thân cây.;Đỏ rực và đông chim hơn mọi lúc.;Biến thành ngọn đèn thật.|Tác giả đối chiếu sự rộn ràng mùa hoa với dáng vẻ hiền lành khi hoa hết.|Trang 28, đoạn cuối.',
+'reading|Vai trò làm tiêu của cây gạo giúp người đi xa điều gì?|Nhìn thấy mốc để nhận ra bến và hướng về quê.|Biết giá mọi món hàng.;Dự báo chính xác thời tiết cả năm.;Đếm đủ mọi con chim.|Cây cao quen thuộc là dấu mốc với đò cập bến và người về quê.|Trang 28, câu kết và chú giải tiêu.',
+'vocabulary|Chim chóc vãn sau mùa hoa nghĩa là gì?|Số chim giảm, không còn đông như trước.|Chim đông thêm từng giờ.;Chim đổi hết màu lông.;Chim không bao giờ quay lại.|Vãn chỉ giảm số lượng trong ngữ cảnh này, không khẳng định mất hẳn.|',
+'vocabulary|Trầm tư giúp diễn tả cây gạo hết mùa hoa ra sao?|Yên lặng như đang suy nghĩ sâu.|Hò hét ầm ĩ.;Chạy rất nhanh.;Nhảy múa liên tục.|Tác giả dùng dáng vẻ của người suy nghĩ để gợi nét tĩnh lặng của cây.|',
+'sentences|Câu tự viết nào so sánh dựa trên màu sắc giống cách tả hoa gạo?|Chùm hoa đỏ như đốm lửa nhỏ.|Cây đứng bên bến sông.;Chim đang bay đi.;Lá rơi xuống bãi cỏ.|Hoa đỏ và lửa có nét chung về màu; từ như nối hai hình ảnh.|',
+'sentences|Với câu Đàn chim tụ trên cành gạo, câu hỏi nào tìm nơi chốn?|Đàn chim tụ ở đâu?|Đàn chim tụ lúc nào?;Ai đang tụ trên cành?;Chim tụ để làm gì?|Ở đâu tìm địa điểm trên cành gạo; các từ hỏi còn lại tìm thông tin khác.|',
+'spelling|Địa danh trong phần luyện chữ P, Q của Cây gạo viết đúng là gì?|Phú Quốc.|Phú quốc.;phú Quốc.;Phú Quốt.|Quốc viết âm cuối c, và mỗi tiếng tên riêng viết hoa.|',
+'spelling|Chọn cách viết đúng cho cảnh đàn chim gọi nhau quanh cây gạo.|Ríu rít.|Díu dít.;Ríu ríc.;Díu ríc.|Ríu rít dùng r, gợi âm thanh trong trẻo nối nhau của chim.|',
+'expression|Đoạn cảm nghĩ về cây gạo sẽ rõ hơn khi bổ sung ý nào?|Em thích màu hoa đỏ vì làm bến quê sáng rực và gần gũi.|Cây đẹp vì cây đẹp.;Em chỉ ghi lại tên bài mười lần.;Em đổi sang kể món ăn không liên quan.|Cảm xúc đi cùng đặc điểm cụ thể giúp người đọc hiểu vì sao em thích.|',
+'expression|Sửa đoạn chỉ liệt kê cây, hoa, chim để thành đoạn nêu cảm xúc, em nên làm gì?|Thêm tình cảm của mình và gắn với một nét cảnh vật đã kể.|Xoá hết các chi tiết cảnh vật.;Chỉ thêm nhiều dấu chấm than.;Thay toàn bộ bằng bảng số liệu.|Cần kết nối cảnh quan sát với tình cảm, không chỉ thêm dấu câu.|'
+],
+[
+'reading|Âm thanh mưa trong rừng cọ được liên tưởng với những gì?|Tiếng thác và tiếng gió ào ào.|Tiếng bút viết và bước chân nhẹ.;Tiếng đồng hồ và còi tàu.;Tiếng ong và tiếng dế rả rích.|Những âm thanh mạnh gợi mưa đổ trên tán cọ.|Trang 32, khổ đầu.',
+'reading|Trải nghiệm trưa hè trong rừng cọ được bài thơ gợi ra thế nào?|Nằm trên thảm cỏ, nhìn trời qua lá che.|Chèo thuyền giữa biển.;Chạy qua đụn cát nóng.;Ngồi dưới tuyết rơi.|Thảm cỏ và lá che gợi một khoảng nghỉ gần gũi thiên nhiên.|Trang 32, khổ hai.',
+'reading|Hình dáng nào của lá cọ giúp tác giả gọi lá là mặt trời xanh?|Lá xoè ra thành những tia từ một chỗ.|Lá vuông như hộp.;Lá đỏ như than.;Lá dài không có phiến.|Dáng toả tia giống mặt trời, màu lá xanh làm tên gọi đặc biệt.|Trang 32, khổ bốn và khổ cuối.',
+'reading|Các chi tiết nghe mưa và nhìn lá cho thấy tác giả cảm nhận rừng bằng gì?|Cả tai nghe và mắt nhìn.|Chỉ vị giác.;Chỉ nhìn qua bản đồ.;Không dùng giác quan nào.|Bài thơ kết hợp âm thanh, hình ảnh và tình yêu rừng cọ.|Trang 32, các khổ 1, 3, 4.',
+'vocabulary|Từ ngời ngời khi tả lá cọ gợi nét nào?|Sáng đẹp, rạng rỡ.|Tối mờ không rõ.;Héo úa khô giòn.;Nặng nề dưới đất.|Từ giúp thể hiện vẻ tươi sáng cùng tình cảm yêu mến.|',
+'vocabulary|Cụm hoa vàng như hoa cau nhấn vào điểm giống nhau nào?|Màu hoa vàng nhạt.|Cây cao bằng nhau tuyệt đối.;Hai cây là cùng một loài.;Cả hai đều không có hoa.|So sánh một đặc điểm không có nghĩa hai sự vật giống nhau mọi mặt.|',
+'sentences|Câu nào hỏi đúng lí do tên gọi mặt trời xanh dành cho lá cọ?|Vì sao lá cọ được ví như mặt trời xanh?|Rừng cọ ở đâu?;Ai đang nằm nghỉ?;Mưa bắt đầu khi nào?|Vì sao tìm căn cứ của cách ví, không hỏi địa điểm hay thời điểm.|',
+'sentences|Chọn câu tự viết nêu tình cảm rõ với rừng cọ.|Em yêu khoảng mát dưới tán cọ và muốn giữ cây luôn xanh.|Lá cọ có màu xanh.;Rừng cọ có nhiều cây.;Hôm nay là thứ ba.|Yêu và muốn giữ cây nêu tình cảm, thái độ, khác chỉ kể đặc điểm.|',
+'spelling|Điền từ đúng: Chiếc lá cọ có thể gợi một chiếc quạt ... .|xinh|sinh;xìn;sình|Xinh chỉ vẻ đẹp, âm cuối nh; sinh thường liên quan sinh ra hoặc sự sống.|',
+'spelling|Cặp từ nào viết đúng để chỉ rong trôi trên mặt nước và một buổi đi chơi xa?|Rong rêu, rong chơi.|Dong rêu, dong chơi.;Rong rêu, dong chơi.;Dong rêu, rong chơi.|Hai cụm trong câu này cùng dùng rong; không đồng nhất mọi tiếng có âm gần nhau.|',
+'expression|Kể điều thích ở bài Mặt trời xanh của tôi, ý nào có căn cứ?|Em thích hình lá xoè tia vì làm em liên tưởng tới mặt trời màu xanh.|Em thích vì bài nói về đua xe.;Em thích vì hoa cọ màu tím theo bài.;Em thích vì tác giả bảo chặt hết cọ.|Lí do bám hình ảnh lá và tên gọi, tránh thêm nội dung ngoài bài.|',
+'expression|Viết một câu tả loài cây quen bằng so sánh, cách nào hợp lí?|Tán lá xoè như chiếc ô che một khoảng sân.|Cây giống mọi thứ trên đời.;Cây là một con cá đang lái xe thật.;Không cần có đặc điểm chung.|Hình dáng xoè rộng là điểm chung rõ giữa tán cây và chiếc ô.|'
+],
+[
+'reading|Theo bài đọc, vì sao voi thường di chuyển để kiếm ăn?|Cơ thể lớn cần nhiều thức ăn mỗi ngày.|Voi không thể đứng nghỉ.;Voi chỉ ăn một lần mỗi năm.;Voi không ăn cỏ.|Nhu cầu khoảng 150 ki-lô-gam cỏ mỗi ngày được dùng để giải thích việc tìm ăn liên tục.|Trang 35, đoạn hai.',
+'reading|Nếp sinh hoạt buổi trưa của đàn voi được kể thế nào?|Trú trong cảnh rừng rậm.|Lúc nào cũng tắm giữa sông.;Lên đỉnh núi ngủ trên đá.;Ra bãi giữa trưa để rống liên tục.|Bài phân biệt trưa trú rừng với chiều xuống tắm và tìm ăn.|Trang 35, hoạt động thường ngày.',
+'reading|Chi tiết nào cho thấy voi quan tâm tới thành viên gặp nạn?|Cả bầy tìm cách cứu một con sa bẫy, dù phải dừng đi.|Cả bầy bỏ đi ngay.;Chỉ đứng nhìn rồi tranh thức ăn.;Luôn đẩy voi yếu ra xa.|Việc chấp nhận khó khăn để cứu bạn làm rõ tình nghĩa trong bầy.|Trang 36, đoạn cuối.',
+'reading|Trình tự ý nào đúng với văn bản Bầy voi rừng Trường Sơn?|Nơi sống – sinh hoạt – sự thông minh và tình nghĩa.|Tình nghĩa – cách trồng cọ – giờ đi học.;Chỉ liệt kê thức ăn.;Chỉ tả một con voi trong sở thú.|Ba phần chuyển từ môi trường sang đời sống và phẩm chất được tác giả cảm nhận.|Trang 35–36, toàn bài.',
+'vocabulary|Tầng tầng lớp lớp khi tả cây rừng cho biết điều gì?|Cây mọc nhiều, cao thấp nối tiếp nhau.|Chỉ có một cây duy nhất.;Rừng hoàn toàn trống.;Các cây đều thấp bằng nhau.|Cụm từ giúp hình dung rừng rậm với nhiều tầng cây.|',
+'vocabulary|Nhóm nào gồm các từ chỉ đặc điểm địa hình hoặc cảnh rừng?|Gập ghềnh, quanh co, bạt ngạt.|Suối, rừng, ngọn núi.;Voi, chim, cọp.;Đi, tắm, ăn.|Các từ nhóm đầu nói sự vật như thế nào; nhóm còn lại gọi tên hoặc nêu hoạt động.|',
+'sentences|Muốn tìm nơi đàn voi trú buổi trưa, em hỏi thế nào?|Buổi trưa đàn voi trú ở đâu?|Đàn voi ăn lúc nào?;Voi nặng bao nhiêu?;Ai yêu đàn voi?|Ở đâu hỏi địa điểm; cần giữ rõ mốc buổi trưa để tránh nhầm với nơi tắm chiều.|',
+'sentences|Câu nào hỏi về thời điểm voi rống vang trong bài?|Đàn voi rống vang vào lúc nào?|Voi có cái vòi thế nào?;Rừng mọc ở đâu?;Một con voi cần ăn bao nhiêu?|Vào lúc nào tìm thời gian rạng sáng và chiều tà theo bài.|',
+'spelling|Tên dãy núi trong bài voi được viết đúng ở phương án nào?|Trường Sơn.|Trường sơn.;trường Sơn.;Trườn Sơn.|Tên riêng viết hoa hai tiếng, Trường có âm cuối ng.|',
+'spelling|Chọn từ viết đúng để tả dáng núi cao lớn, nổi bật.|Sừng sững.|Sừng sửng.;Sừng sữngh.;Sừn sững.|Sừng mang thanh huyền, sững mang thanh ngã, hai tiếng có âm cuối ng.|',
+'expression|Phiếu đọc bài về voi nên ghi chi tiết thú vị thế nào?|Ghi chuyện cả bầy cứu voi mắc bẫy và điều em hiểu từ đó.|Chỉ ghi mình rất thích mà không nêu gì.;Bịa voi bay cao hơn mây như thông tin thật.;Chép tên bài vào mọi mục.|Chi tiết kèm điều học được giúp chia sẻ có nội dung cụ thể.|',
+'expression|Nêu cảm xúc về rừng Trường Sơn sau bài đọc, lời nào có lí do rõ?|Em quý khu rừng vì đó là nơi voi sống và chăm sóc nhau.|Em thích vì không cần cây nào.;Em muốn đặt bẫy để xem voi giúp nhau.;Em nghĩ loài voi chỉ cần nhựa.|Tình cảm gắn với vai trò nơi sống và chi tiết tình nghĩa, hướng tới giữ môi trường.|'
+]]
+meta=[
+('Ngày hội rừng xanh',23,26,['Gõ kiến','Gà rừng','Công','Khướu','Kì nhông','Nấm','Cọn nước'],'Bài thơ biến rừng thành một ngày hội: chim gọi bạn, tre trúc và suối góp nhạc, công múa, khướu hát dẫn, kì nhông đổi màu; nấm đi hội và cọn nước được ví như đu quay.','Yêu vẻ phong phú, vui tươi của rừng qua liên tưởng sinh động.',['Phân biệt sự vật thật với hành động tác giả tưởng tượng như người đi hội.','Tìm âm thanh và động tác để hiểu không khí vui, không chỉ đếm tên loài vật.','Cọn nước là thiết bị đưa nước nhờ dòng chảy; đu quay là liên tưởng trong thơ, không phải tên công dụng thật.'],['Nhầm cọn nước là con vật.','Đổi tiết mục của công và khướu.'],'Nói về một khu rừng em biết qua sách hoặc phim: nguồn biết, cây, con vật và cảm nghĩ. Nêu hai việc giữ rừng phù hợp lứa tuổi.'),
+('Cây gạo',27,31,['Cây gạo','Hoa','Búp nõn','Các loài chim','Người về quê'],'Mùa xuân, hoa gạo đỏ và búp xanh nổi bật, đàn chim tụ về tạo không khí ngày hội. Hết hoa, cây lại xanh mát và yên tĩnh, làm dấu mốc thân quen bên bến quê.','Một cây quê hương có nhiều vẻ đẹp ở những thời điểm khác nhau.',['So sánh giúp cảnh rõ hơn bằng nét chung: cây cao nổi bật như tháp, sắc hoa gợi lửa, búp gợi nến.','Đọc đối chiếu mùa hoa và hết mùa hoa để thấy vẻ đẹp thay đổi chứ không biến mất.','Đoạn nêu cảm nghĩ cần cảnh cụ thể đi cùng tình cảm và lí do.'],['Cho rằng hết hoa là cây không còn đẹp.','Hiểu vãn là mọi con chim biến mất vĩnh viễn.'],'Quan sát một cây gần nhà hoặc tranh em chọn. Viết đoạn nêu nét nổi bật, cảm xúc và một điều em muốn làm để chăm cây.'),
+('Mặt trời xanh của tôi',32,34,['Rừng cọ','Hoa cọ','Lá cọ','Người ngắm rừng'],'Người viết lắng nghe mưa trên rừng cọ, cảm nhận bóng lá trưa hè, ngắm hoa vàng và lá xoè thành tia. Từ dáng lá cùng màu xanh, tác giả trìu mến gọi cọ là mặt trời xanh.','Tình yêu thiên nhiên làm những điều quen thuộc trở thành hình ảnh mới mẻ.',['Tên đúng theo trang sách là Mặt trời xanh của tôi. Mặt trời xanh là hình ảnh ví lá cọ, không phải một thiên thể khác.','Tiếng mưa được so với thác và gió; lá được gợi bằng tia nắng. Nhận xét cần nêu đúng giác quan.','Khi nói thích hình ảnh nào, chọn chi tiết rồi nêu lí do thay vì chỉ nói hay.'],['Đọc nhầm tên bài thành Một trời xanh của tôi.','Coi cách gọi mặt trời xanh là thông tin thiên văn.'],'Vẽ lá của một cây quen, thử so sánh với vật có hình giống. Nói 3 câu giới thiệu, nêu rõ điểm giống và tình cảm của em.'),
+('Bầy voi rừng Trường Sơn',35,40,['Rừng Trường Sơn','Đàn voi'],'Bài đọc giới thiệu nơi sống của voi trong rừng Trường Sơn, nhu cầu ăn nhiều và việc đi tìm ăn, trú rừng, tắm sông. Đàn voi thông minh, chăm sóc con đau yếu và tìm cách cứu con bị bẫy.','Trân trọng thiên nhiên cùng đời sống gắn bó của loài voi.',['Đọc văn bản thông tin theo từng nhóm ý: môi trường, sinh hoạt, tình nghĩa.','Số liệu khoảng 150 ki-lô-gam cỏ được kể trong bài để gợi nhu cầu ăn lớn; không tự biến thành số đo của mọi con voi ngoài đời.','Hỏi ở đâu để tìm địa điểm, khi nào để tìm thời gian; đừng đổi thông tin câu hỏi đang cần.'],['Nhầm giờ trú rừng với giờ tắm sông.','Bỏ qua việc cả bầy dừng đi để cứu voi mắc bẫy.'],'Viết phiếu đọc gồm tên bài, tác giả, loài vật, một chi tiết thú vị và cảm nghĩ. Vẽ hoặc nói lại môi trường sống của voi dựa trên chi tiết bài.')]
+for j,(title,start,end,chars,summary,message,rules,errors,task) in enumerate(meta):
+ ident=f'TV3_T2_B{j+5:02}'
+ c=json.loads((R/'content/tieng-viet/tap-1/TV3_T1_B28.json').read_text())
+ c.update(id=ident,title=title,lesson_no=j+5,volume=2,topic='Những sắc màu thiên nhiên',objectives=['Đọc và giải thích chi tiết của bài '+title+'.','Nhận xét nhân vật hoặc công việc dựa trên căn cứ.','Luyện từ, câu, chính tả và nói/viết theo bài.'])
+ c['source'].update(pdf='03-sgk-tieng-viet-3-tap-hai.pdf',printed_pages=[start,end],pdf_pages=[start+1,end+1],review='Đã đọc trực quan toàn bộ các trang nguồn nêu trên từ PDF ảnh quét ngày 10/11/2026; học liệu diễn giải và câu hỏi được biên soạn mới, không đăng toàn văn sách.')
+ c['reading']=dict(summary=summary,characters_or_images=chars,message=message)
+ c['knowledge']=dict(introduction=summary,rules=rules,steps=['Đọc bài trong sách, đánh dấu chi tiết liên quan câu hỏi.','Nêu câu trả lời rồi giải thích bằng chi tiết, phân biệt suy luận với lời kể.','Làm nhiệm vụ nói/viết; kiểm tra đủ ý, xưng hô và dấu câu.'],common_errors=errors)
+ c['practice']=[]
+ for n,row in enumerate(rows[j],1):
+  skill,q,a,w,e,ev=row.split('|');opts=[a]+w.split(';');opts=opts[n%4:]+opts[:n%4]
+  z=dict(question_id=f'{ident}_Q{n:02}',type='mcq',skill=skill,question=q,correct_answer=a,options=opts,explanation=e)
+  if ev:z['evidence']=ev
+  c['practice'].append(z)
+ c['examples']=[dict(question=c['practice'][k]['question'],steps=[c['practice'][k].get('evidence','Xác định yêu cầu câu hỏi.'),c['practice'][k]['explanation'],'Trả lời: '+c['practice'][k]['correct_answer']]) for k in [2,6]]
+ c['language_practice']={s:[q['question']+' Đáp án: '+q['correct_answer']+' '+q['explanation'] for q in c['practice'] if q['skill']==s] for s in ['vocabulary','sentences','spelling','expression']}
+ c['activities']=[dict(title='Nói và viết từ bài đọc',materials=['Sách','Vở','Bút'],steps=[task,'Đọc cho người thân nghe và sửa ít nhất một câu chưa rõ.'],check=['Nội dung đúng bài hoặc trải nghiệm được nêu rõ.','Ý sắp xếp dễ theo dõi, có chi tiết cụ thể.','Viết hoa, dấu thanh và dấu kết câu phù hợp.'])]
+ c['games'][0].update(id=ident+'_GAME',title='Kho báu: '+title,question_ids=[q['question_id'] for q in c['practice']])
+ c['status']='AI_CHECKED_AWAITING_TEACHER';c['verification']['teacher_approved']=False
+ p=R/f'content/tieng-viet/tap-2/{ident}.json';p.parent.mkdir(parents=True,exist_ok=True);p.write_text(json.dumps(c,ensure_ascii=False,indent=2)+'\n')
+ lines=['# '+title,'Trạng thái: '+c['status'],'## Nguồn',str(c['source']),'## Mục tiêu',*c['objectives'],'## Kiến thức trọng tâm',summary,message,*rules,'## Hướng dẫn',*c['knowledge']['steps'],'## Lỗi thường gặp',*errors,'## Ví dụ có lời giải']
+ for ex in c['examples']:lines +=[ex['question'],*ex['steps']]
+ lines +=['## Hoạt động nói và viết',*c['activities'][0]['steps'],*c['activities'][0]['check'],'## Luyện tập và đáp án']
+ for q in c['practice']:lines +=[q['question_id']+' — '+q['question'],*q['options'],'Đáp án: '+q['correct_answer'],q['explanation'],q.get('evidence','')]
+ lines +=['## Trò chơi',c['games'][0]['title'],*c['games'][0]['rules'],'## Đánh giá',*map(str,c['assessment'].values()),'## Phản hồi',*map(str,c['feedback'].values())]
+ p.with_suffix('.md').write_text('\n\n'.join(lines)+'\n')
+print('Batch31: 4 bài, 48 câu mới, 4 game, 8 ví dụ có lời giải.')

@@ -1,3 +1,16 @@
+# Batch 31 — Tiếng Việt tập 2 bài 5–8 — 10/11/2026
+
+- Nối tiếp main 9759f4f243a1828d1e3fc905e5cef612bad97dfa. Hoàn thiện Ngày hội rừng xanh, Cây gạo, Mặt trời xanh của tôi, Bầy voi rừng Trường Sơn.
+- Đã đọc trực quan PDF tập 2 trang 24–41 (trang in 23–40, trang 40 là trang mở chủ điểm kế tiếp); biên soạn từ phần đọc và các phần luyện tập tương ứng, không chép toàn văn.
+- Sửa lỗi OCR tên TV3_T2_B07 từ “Một trời xanh của tôi” thành “Mặt trời xanh của tôi”, căn cứ trang in 32. Đồng bộ danh mục, INDEX và một chuỗi mục tiêu trong index.html; đã đối chiếu file main mới nhất, chỉ thay tên này, giữ nguyên ID và wl3.
+- Batch thêm 4 JSON, 4 Markdown, 48 câu, 8 ví dụ giải thích, 4 hoạt động và 4 trò chơi. Mỗi bài có 4 đọc hiểu và 8 câu từ/câu/chính tả/diễn đạt, luyện 10 câu/lượt.
+- Tổng: AI biên soạn/kiểm tra 121/168 mục (Toán 81, Tiếng Việt 40, TA 0), 3752 câu và 121 trò chơi. Giáo viên duyệt 4; 117 bài AI_CHECKED_AWAITING_TEACHER. Còn 47 mục: TV 22, TA 25.
+- npm test PASS: cả hai validator, mọi hồi quy cũ, test_batch31.py và DOM trên 121 kho học liệu. Thêm hồi quy tên OCR, cọn nước, cây gạo hết mùa hoa, lá cọ xoè tia và đàn voi cứu con mắc bẫy; toàn bộ TV không trùng nguyên đề.
+- Xác minh Batch 30: ref main đúng 9759f4f243a1828d1e3fc905e5cef612bad97dfa; Actions 42809578063 và 42809577275 completed/success; 8 JSON/Markdown cùng INDEX trên Pages có SHA-256 đúng bản đã kiểm thử.
+- Thử Chromium lại trong lượt này: exit 134, socket() failed: Operation not permitted và ptrace bị từ chối trước khi render. Có Chromium nhưng chưa kiểm thử được bố cục bằng trình duyệt; không cần giáo viên duyệt để tiếp tục học liệu.
+- Commit/Actions/Pages Batch 31: xác minh sau commit và ghi checkpoint.
+- Điểm nối tiếp: TV3_T2_B09–B12, đọc nguồn trước khi soạn. Chưa hoàn thành 168; giữ tác vụ đang hoạt động.
+
 # Batch 30 — Tiếng Việt tập 2 bài 1–4 — 10/11/2026
 
 - Nối tiếp commit Batch 29 a11d527516df2e862371fd0bac684322abb013af; thêm Bầu trời, Mưa, Cóc kiện Trời, Những cái tên đáng yêu.
