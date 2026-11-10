@@ -6,7 +6,7 @@
     "test": "npm run validate && npm run test:regressions && npm run test:dom",
     "validate": "python3 scripts/validate_site.py",
     "test:dom": "node scripts/test_content_dom.cjs && node scripts/test_vietnamese_dom.cjs",
-    "test:regressions": "python3 scripts/test_batch7.py && python3 scripts/test_batch8.py && python3 scripts/test_batch9.py && python3 scripts/test_batch12.py && python3 scripts/test_batch13.py && python3 scripts/test_batch14.py && python3 scripts/test_batch15.py && python3 scripts/test_batch16.py && python3 scripts/test_batch17.py && python3 scripts/test_batch18.py && python3 scripts/test_batch19.py && python3 scripts/test_batch20.py && python3 scripts/test_batch21.py && python3 scripts/test_content_policy.py && python3 scripts/test_batch22.py && python3 scripts/test_batch23.py && python3 scripts/test_batch24.py && python3 scripts/test_batch26.py && python3 scripts/test_batch28.py && python3 scripts/test_batch29.py"
+    "test:regressions": "python3 scripts/test_batch7.py && python3 scripts/test_batch8.py && python3 scripts/test_batch9.py && python3 scripts/test_batch12.py && python3 scripts/test_batch13.py && python3 scripts/test_batch14.py && python3 scripts/test_batch15.py && python3 scripts/test_batch16.py && python3 scripts/test_batch17.py && python3 scripts/test_batch18.py && python3 scripts/test_batch19.py && python3 scripts/test_batch20.py && python3 scripts/test_batch21.py && python3 scripts/test_content_policy.py && python3 scripts/test_batch22.py && python3 scripts/test_batch23.py && python3 scripts/test_batch24.py && python3 scripts/test_batch26.py && python3 scripts/test_batch28.py && python3 scripts/test_batch29.py && python3 scripts/test_batch30.py"
   },
   "devDependencies": {
     "jsdom": "31.0.0"

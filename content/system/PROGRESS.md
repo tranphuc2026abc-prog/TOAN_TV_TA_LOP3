@@ -1,3 +1,15 @@
+# Batch 30 — Tiếng Việt tập 2 bài 1–4 — 10/11/2026
+
+- Nối tiếp commit Batch 29 a11d527516df2e862371fd0bac684322abb013af; thêm Bầu trời, Mưa, Cóc kiện Trời, Những cái tên đáng yêu.
+- Đã đọc trực quan PDF 03-sgk-tieng-viet-3-tap-hai.pdf: trang in 8–22/PDF 9–23 trong lượt này, gồm cả phần luyện từ/câu, chính tả, nói/viết. Học liệu và câu hỏi tự biên soạn, không đăng toàn văn sách.
+- Batch: 4 JSON + 4 Markdown, 48 câu mới, 8 ví dụ có lời giải, 4 nhiệm vụ nói/viết, 4 trò chơi chạy qua renderer hiện có; lượt luyện 10 câu.
+- Tổng AI biên soạn/kiểm tra: 117/168 mục, Toán 81/81, Tiếng Việt 36/62, Tiếng Anh 0/25; 3704 câu và 117 trò chơi. Giáo viên đã duyệt 4; 113 bài chờ giáo viên; còn 51 mục (TV 26, TA 25). Tất cả bài mới AI_CHECKED_AWAITING_TEACHER.
+- npm test PASS: validate_site.py/validate_content.py, mọi hồi quy trước và test_batch30.py, test_content_dom.cjs trên 117 kho học liệu, test_vietnamese_dom.cjs. Kiểm tra riêng ID/tập/đường dẫn nguồn, không đụng mã tập 1; cua trong chum, chị đọc sách, tâm trạng nấm cuối truyện; phân loại câu theo nghĩa, không chỉ dấu chấm than.
+- Giới hạn kiểm thử trình duyệt: Chromium có sẵn nhưng lần thử gần nhất bị môi trường chặn socket/ptrace trước khi render; chưa xác nhận bố cục bằng Chromium. Kiểm thử jsdom có bao phủ tải chỉ mục/fallback, luyện tập/game, phản hồi và lưu/nạp wl3.
+- Đã xác minh Batch 29: main đúng commit a11d527516df2e862371fd0bac684322abb013af; Actions 42808818919 và 42808817048 completed/success. Pages trả 8 tệp JSON/Markdown bài 29–32 và INDEX.json có SHA-256 trùng toàn bộ bản đã kiểm thử.
+- Commit/Actions/Pages Batch 30: sẽ xác minh sau commit, lưu tại checkpoint kế tiếp.
+- Điểm nối tiếp: TV3_T2_B05–B08, đọc nguồn PDF thật trước khi biên soạn. Chưa đủ 168, chưa bàn giao hoàn tất.
+
 # Batch 29 — Tiếng Việt tập 1 bài 29–32 — 10/11/2026
 
 - Nối tiếp main 054d90f1185094648e3f60c964f13e82ebf69ee3; 4 bài: Ngôi nhà trong cỏ, Những ngọn hải đăng, Người làm đồ chơi, Cây bút thần.

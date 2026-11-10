@@ -1,0 +1,331 @@
+{
+  "id": "TV3_T2_B02",
+  "subject": "tv",
+  "grade": 3,
+  "book": "Kết nối tri thức với cuộc sống",
+  "volume": 2,
+  "lesson_no": 2,
+  "title": "Mưa",
+  "topic": "Những sắc màu thiên nhiên",
+  "source": {
+    "pdf": "03-sgk-tieng-viet-3-tap-hai.pdf",
+    "printed_pages": [
+      11,
+      14
+    ],
+    "pdf_pages": [
+      12,
+      15
+    ],
+    "review": "Đã đọc trực quan toàn bộ các trang nguồn nêu trên từ PDF ảnh quét ngày 10/11/2026; học liệu diễn giải và câu hỏi được biên soạn mới, không đăng toàn văn sách."
+  },
+  "objectives": [
+    "Đọc và giải thích chi tiết của bài Mưa.",
+    "Nhận xét nhân vật hoặc công việc dựa trên căn cứ.",
+    "Luyện từ, câu, chính tả và nói/viết theo bài."
+  ],
+  "reading": {
+    "summary": "Bài thơ kể cơn mưa từ lúc mây đen kéo đến. Thiên nhiên như vui đón nước mát; trong nhà, bà xỏ kim, chị đọc sách, mẹ làm bánh. Mọi người nghĩ tới bác ếch còn vất vả ngoài đồng.",
+    "characters_or_images": [
+      "Mây",
+      "Mưa",
+      "Cây lá",
+      "Gia đình",
+      "Bác ếch"
+    ],
+    "message": "Cảm nhận vẻ sinh động của thiên nhiên và sự quan tâm tới người đang vất vả."
+  },
+  "knowledge": {
+    "introduction": "Bài thơ kể cơn mưa từ lúc mây đen kéo đến. Thiên nhiên như vui đón nước mát; trong nhà, bà xỏ kim, chị đọc sách, mẹ làm bánh. Mọi người nghĩ tới bác ếch còn vất vả ngoài đồng.",
+    "rules": [
+      "Theo dõi cảnh trước mưa, trong mưa rồi cảnh trong nhà để hiểu mạch bài.",
+      "Tả cây lá như con người là cách làm thơ sinh động, không có nghĩa lá có tay thật.",
+      "Câu cảm bộc lộ cảm xúc; câu khiến đề nghị làm việc. Dấu chấm than có thể đi với cả hai, cần đọc ý câu."
+    ],
+    "steps": [
+      "Đọc bài trong sách, đánh dấu chi tiết liên quan câu hỏi.",
+      "Nêu câu trả lời rồi giải thích bằng chi tiết, phân biệt suy luận với lời kể.",
+      "Làm nhiệm vụ nói/viết; kiểm tra đủ ý, xưng hô và dấu câu."
+    ],
+    "common_errors": [
+      "Đổi việc mẹ làm bánh thành mẹ đọc sách.",
+      "Chỉ dựa dấu chấm than để xác định kiểu câu."
+    ]
+  },
+  "language_practice": {
+    "vocabulary": [
+      "Lũ lượt trong cảnh mây kéo tới nhấn mạnh điều gì? Đáp án: Từng đợt nối tiếp nhau. Từ gợi nhiều lượt tiếp nối không ngớt.",
+      "Nhóm nào gồm các từ chỉ đặc điểm thời tiết? Đáp án: Oi bức, lạnh buốt, mát dịu. Các từ này nêu cảm giác hoặc đặc điểm, khác tên hiện tượng và hành động."
+    ],
+    "sentences": [
+      "Câu nào là lời yêu cầu nhẹ nhàng để tránh ướt sách khi mưa tới? Đáp án: Em cất sách vào cặp giúp chị nhé! Câu khiến đề nghị người nghe thực hiện việc cất sách.",
+      "Câu nào bộc lộ cảm xúc trước cơn mưa mát? Đáp án: Ôi, cơn mưa làm dịu cả buổi trưa! Ôi và dấu chấm than bộc lộ niềm vui, khác yêu cầu, câu hỏi hoặc kể việc."
+    ],
+    "spelling": [
+      "Tên sông trong phần luyện chữ bài Mưa được viết đúng ở đâu? Đáp án: sông Ông Đốc. Ông Đốc là tên riêng, viết hoa hai tiếng; sông là danh từ chung trong cụm này.",
+      "Điền đúng từ vào câu: Tiếng củi cháy ... làm căn bếp thêm ấm. Đáp án: tí tách Tách có âm cuối ch, gợi tiếng nhỏ nối tiếp; không thay bằng tác hoặc tát."
+    ],
+    "expression": [
+      "Kể một buổi chơi ngoài sân bị gián đoạn bởi mưa, ý nào tạo mạch rõ? Đáp án: Nêu trò chơi, lúc mây kéo đến, cách cả nhóm thu dọn rồi cảm nghĩ. Trình tự giúp người nghe hiểu hoạt động thay đổi thế nào khi trời sắp mưa.",
+      "Nhận xét nào về khổ cảnh gia đình có căn cứ từ bài Mưa? Đáp án: Em thấy ấm áp vì mỗi người làm việc bên bếp lửa. Bếp lửa, làm bánh, đọc sách và xỏ kim gợi sinh hoạt bình dị, ấm cúng."
+    ]
+  },
+  "examples": [
+    {
+      "question": "Trong căn nhà lúc mưa, ai đang đọc sách?",
+      "steps": [
+        "Trang 11, khổ bốn.",
+        "Các thành viên làm những việc khác nhau: cần phân biệt chị đọc với mẹ làm bánh và bà xỏ kim.",
+        "Trả lời: Chị."
+      ]
+    },
+    {
+      "question": "Câu nào là lời yêu cầu nhẹ nhàng để tránh ướt sách khi mưa tới?",
+      "steps": [
+        "Xác định yêu cầu câu hỏi.",
+        "Câu khiến đề nghị người nghe thực hiện việc cất sách.",
+        "Trả lời: Em cất sách vào cặp giúp chị nhé!"
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "title": "Nói và viết từ bài đọc",
+      "materials": [
+        "Sách",
+        "Vở",
+        "Bút"
+      ],
+      "steps": [
+        "Kể một hoạt động ngoài trời em từng tham gia: ở đâu, với ai, các việc theo thứ tự, kết quả. Nếu có mưa, nêu cách cả nhóm thu dọn và về chỗ an toàn.",
+        "Đọc cho người thân nghe và sửa ít nhất một câu chưa rõ."
+      ],
+      "check": [
+        "Nội dung đúng bài hoặc trải nghiệm được nêu rõ.",
+        "Ý sắp xếp dễ theo dõi, có chi tiết cụ thể.",
+        "Viết hoa, dấu thanh và dấu kết câu phù hợp."
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "question_id": "TV3_T2_B02_Q01",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Dấu hiệu nào báo cơn mưa sắp tới trong khổ mở đầu Mưa?",
+      "correct_answer": "Mây đen nối nhau kéo về, Mặt Trời khuất trong mây.",
+      "options": [
+        "Trăng tròn đứng giữa trời.",
+        "Băng phủ trắng sân.",
+        "Đàn cá bơi trên cạn.",
+        "Mây đen nối nhau kéo về, Mặt Trời khuất trong mây."
+      ],
+      "explanation": "Cảnh chuyển từ mây kéo tới sang mưa tạo trình tự bài thơ.",
+      "evidence": "Trang 11, khổ đầu."
+    },
+    {
+      "question_id": "TV3_T2_B02_Q02",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Cách tả cây lá trong mưa gợi cảm giác gì?",
+      "correct_answer": "Cây như đang đưa tay đón nước mát.",
+      "options": [
+        "Cây biến thành người thật.",
+        "Lá không hề gặp nước.",
+        "Cây như đang đưa tay đón nước mát.",
+        "Cây bỏ chạy vào nhà."
+      ],
+      "explanation": "Nhà thơ dùng hành động con người để làm cảnh đón mưa sinh động.",
+      "evidence": "Trang 11, khổ hai."
+    },
+    {
+      "question_id": "TV3_T2_B02_Q03",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Trong căn nhà lúc mưa, ai đang đọc sách?",
+      "correct_answer": "Chị.",
+      "options": [
+        "Bác ếch.",
+        "Chị.",
+        "Mẹ.",
+        "Bà."
+      ],
+      "explanation": "Các thành viên làm những việc khác nhau: cần phân biệt chị đọc với mẹ làm bánh và bà xỏ kim.",
+      "evidence": "Trang 11, khổ bốn."
+    },
+    {
+      "question_id": "TV3_T2_B02_Q04",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Vì sao ở khổ cuối, mọi người thương bác ếch?",
+      "correct_answer": "Ếch còn lặn lội dưới mưa để xem lúa đã lên chưa.",
+      "options": [
+        "Ếch còn lặn lội dưới mưa để xem lúa đã lên chưa.",
+        "Ếch đã lấy hết bánh.",
+        "Ếch không biết bơi.",
+        "Ếch đang ngồi đọc sách trong nhà."
+      ],
+      "explanation": "Cảm xúc hướng tới sự vất vả ngoài đồng, đối lập cảnh ấm áp trong nhà.",
+      "evidence": "Trang 11, khổ cuối."
+    },
+    {
+      "question_id": "TV3_T2_B02_Q05",
+      "type": "mcq",
+      "skill": "vocabulary",
+      "question": "Lũ lượt trong cảnh mây kéo tới nhấn mạnh điều gì?",
+      "correct_answer": "Từng đợt nối tiếp nhau.",
+      "options": [
+        "Chỉ một đám mây đứng im.",
+        "Mây biến mất ngay.",
+        "Không hề có đám mây.",
+        "Từng đợt nối tiếp nhau."
+      ],
+      "explanation": "Từ gợi nhiều lượt tiếp nối không ngớt."
+    },
+    {
+      "question_id": "TV3_T2_B02_Q06",
+      "type": "mcq",
+      "skill": "vocabulary",
+      "question": "Nhóm nào gồm các từ chỉ đặc điểm thời tiết?",
+      "correct_answer": "Oi bức, lạnh buốt, mát dịu.",
+      "options": [
+        "Bút chì, vở, thước.",
+        "Chạy, đọc, cất.",
+        "Oi bức, lạnh buốt, mát dịu.",
+        "Cầu vồng, cơn mưa, sấm."
+      ],
+      "explanation": "Các từ này nêu cảm giác hoặc đặc điểm, khác tên hiện tượng và hành động."
+    },
+    {
+      "question_id": "TV3_T2_B02_Q07",
+      "type": "mcq",
+      "skill": "sentences",
+      "question": "Câu nào là lời yêu cầu nhẹ nhàng để tránh ướt sách khi mưa tới?",
+      "correct_answer": "Em cất sách vào cặp giúp chị nhé!",
+      "options": [
+        "Ngoài trời có mây đen.",
+        "Em cất sách vào cặp giúp chị nhé!",
+        "Mưa rào mát thật!",
+        "Sách nằm trên bàn."
+      ],
+      "explanation": "Câu khiến đề nghị người nghe thực hiện việc cất sách."
+    },
+    {
+      "question_id": "TV3_T2_B02_Q08",
+      "type": "mcq",
+      "skill": "sentences",
+      "question": "Câu nào bộc lộ cảm xúc trước cơn mưa mát?",
+      "correct_answer": "Ôi, cơn mưa làm dịu cả buổi trưa!",
+      "options": [
+        "Ôi, cơn mưa làm dịu cả buổi trưa!",
+        "Bạn đóng cửa sổ đi.",
+        "Khi nào trời mưa?",
+        "Mẹ đang làm bánh."
+      ],
+      "explanation": "Ôi và dấu chấm than bộc lộ niềm vui, khác yêu cầu, câu hỏi hoặc kể việc."
+    },
+    {
+      "question_id": "TV3_T2_B02_Q09",
+      "type": "mcq",
+      "skill": "spelling",
+      "question": "Tên sông trong phần luyện chữ bài Mưa được viết đúng ở đâu?",
+      "correct_answer": "sông Ông Đốc.",
+      "options": [
+        "sông ông Đốc.",
+        "Sông ông đốc.",
+        "sông Ông đốc.",
+        "sông Ông Đốc."
+      ],
+      "explanation": "Ông Đốc là tên riêng, viết hoa hai tiếng; sông là danh từ chung trong cụm này."
+    },
+    {
+      "question_id": "TV3_T2_B02_Q10",
+      "type": "mcq",
+      "skill": "spelling",
+      "question": "Điền đúng từ vào câu: Tiếng củi cháy ... làm căn bếp thêm ấm.",
+      "correct_answer": "tí tách",
+      "options": [
+        "tí tát",
+        "tý tác",
+        "tí tách",
+        "tí tác"
+      ],
+      "explanation": "Tách có âm cuối ch, gợi tiếng nhỏ nối tiếp; không thay bằng tác hoặc tát."
+    },
+    {
+      "question_id": "TV3_T2_B02_Q11",
+      "type": "mcq",
+      "skill": "expression",
+      "question": "Kể một buổi chơi ngoài sân bị gián đoạn bởi mưa, ý nào tạo mạch rõ?",
+      "correct_answer": "Nêu trò chơi, lúc mây kéo đến, cách cả nhóm thu dọn rồi cảm nghĩ.",
+      "options": [
+        "Chỉ ghi tên bốn người.",
+        "Nêu trò chơi, lúc mây kéo đến, cách cả nhóm thu dọn rồi cảm nghĩ.",
+        "Chỉ kể màu áo mà bỏ diễn biến.",
+        "Kể kết quả trước nhưng không giải thích."
+      ],
+      "explanation": "Trình tự giúp người nghe hiểu hoạt động thay đổi thế nào khi trời sắp mưa."
+    },
+    {
+      "question_id": "TV3_T2_B02_Q12",
+      "type": "mcq",
+      "skill": "expression",
+      "question": "Nhận xét nào về khổ cảnh gia đình có căn cứ từ bài Mưa?",
+      "correct_answer": "Em thấy ấm áp vì mỗi người làm việc bên bếp lửa.",
+      "options": [
+        "Em thấy ấm áp vì mỗi người làm việc bên bếp lửa.",
+        "Cả nhà đang đi tắm biển.",
+        "Không ai có việc làm.",
+        "Mẹ đang sửa thuyền giữa sông."
+      ],
+      "explanation": "Bếp lửa, làm bánh, đọc sách và xỏ kim gợi sinh hoạt bình dị, ấm cúng."
+    }
+  ],
+  "games": [
+    {
+      "id": "TV3_T2_B02_GAME",
+      "title": "Kho báu: Mưa",
+      "mode": "treasure",
+      "objective": "Tìm kho báu bằng cách hiểu chi tiết và dùng tiếng Việt đúng theo bài.",
+      "rules": [
+        "Trả lời 10 câu được chọn từ chính bài này.",
+        "Mỗi đáp án đúng được 10 điểm; đọc phản hồi để hiểu và sửa câu sai.",
+        "Chơi lại để gặp một bộ câu khác."
+      ],
+      "question_ids": [
+        "TV3_T2_B02_Q01",
+        "TV3_T2_B02_Q02",
+        "TV3_T2_B02_Q03",
+        "TV3_T2_B02_Q04",
+        "TV3_T2_B02_Q05",
+        "TV3_T2_B02_Q06",
+        "TV3_T2_B02_Q07",
+        "TV3_T2_B02_Q08",
+        "TV3_T2_B02_Q09",
+        "TV3_T2_B02_Q10",
+        "TV3_T2_B02_Q11",
+        "TV3_T2_B02_Q12"
+      ],
+      "answer_source": "practice.correct_answer",
+      "feedback_source": "practice.explanation",
+      "max_score": 100
+    }
+  ],
+  "assessment": {
+    "session_size": 10,
+    "scoring": "Mỗi câu đúng được tính điểm theo hệ thống; 8–10 câu đúng: nắm tốt, 5–7: đọc lại phần còn nhầm, dưới 5: đọc bài cùng người thân rồi thử lại. Nhiệm vụ nói/viết tự kiểm theo tiêu chí, không chấm bằng một đáp án duy nhất.",
+    "review_advice": "Sau lượt luyện, chọn một câu sai để giải thích lại. Với nói/viết: đúng chi tiết hoặc trải nghiệm thật, đủ ý, câu rõ, chính tả đúng; sửa ít nhất một điểm trước khi hoàn tất."
+  },
+  "feedback": {
+    "correct": "Em đã chọn phù hợp. Đọc lời giải để nhắc lại căn cứ.",
+    "incorrect": "Đọc lại câu hỏi và chi tiết liên quan; xem lời giải để biết vì sao."
+  },
+  "verification": {
+    "ai_authored": true,
+    "structure_checked": true,
+    "answer_reviewed": true,
+    "source_reviewed": true,
+    "teacher_approved": false
+  },
+  "status": "AI_CHECKED_AWAITING_TEACHER"
+}
