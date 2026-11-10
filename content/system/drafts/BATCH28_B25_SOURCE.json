@@ -1,0 +1,53 @@
+{
+  "id": "TV3_T1_B25",
+  "status": "SOURCE_DRAFT_NOT_INTEGRATED",
+  "source": {
+    "pdf": "03-sgk-tieng-viet-3-tap-mot.pdf",
+    "printed_pages_read": [
+      112,
+      113
+    ],
+    "pdf_pages_read": [
+      113,
+      114
+    ],
+    "remaining_printed_pages": [
+      114,
+      115
+    ],
+    "method": "Đọc trực quan ảnh quét"
+  },
+  "summary": "Sau bão, dân xóm dưới núi Hồng Lĩnh mất thuyền bè nên phải lên núi kiếm củi, nhưng đường vòng rất xa. Cố Đương kiên trì ghép đá làm bậc thang, dần được người dân cùng giúp. Sau năm năm, đường hoàn thành, dân biết ơn gọi ông là cố Ghép.",
+  "anchors": [
+    "Bão cuốn mất thuyền bè là nguyên nhân đổi sinh kế, không chỉ vì người dân chán nghề cá.",
+    "Cố Đương làm đường để rút ngắn lối lên núi, không phải xây nhà.",
+    "Lúc đầu mọi người cho việc quá khó; về sau nhiều người tự nguyện cùng làm.",
+    "Chi tiết vượn mang quả, chim hót là yếu tố kể chuyện; không coi là dữ kiện khoa học."
+  ],
+  "questions": [
+    {
+      "question": "Điều gì khiến dân xóm phải tìm việc kiếm củi trên núi?",
+      "answer": "Bão cuốn mất thuyền bè dùng đánh cá.",
+      "evidence": "Trang112, đoạn đầu.",
+      "explanation": "Mất phương tiện sinh sống khiến họ tìm cách mưu sinh khác."
+    },
+    {
+      "question": "Sự thay đổi nào trong thái độ dân xóm giúp công việc tiến triển?",
+      "answer": "Từ nghĩ không làm được đến tình nguyện cùng làm.",
+      "evidence": "Trang112–113.",
+      "explanation": "Sự kiên trì của cố Đương góp phần khơi dậy tinh thần chung sức."
+    },
+    {
+      "question": "Con đường hoàn thành trong khoảng thời gian nào?",
+      "answer": "Sau năm năm.",
+      "evidence": "Trang113.",
+      "explanation": "Thời gian dài nhấn mạnh công việc bền bỉ, không hoàn thành trong một buổi."
+    },
+    {
+      "question": "Tên cố Ghép thể hiện tình cảm gì của dân xóm?",
+      "answer": "Biết ơn người khởi xướng làm đường.",
+      "evidence": "Trang113, đoạn kết.",
+      "explanation": "Tên mới gắn với công sức ghép đá giúp cả cộng đồng đi lại thuận tiện."
+    }
+  ]
+}

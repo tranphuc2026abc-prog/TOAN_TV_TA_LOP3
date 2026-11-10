@@ -1,3 +1,11 @@
+# Xác minh Batch27 và đọc đầu Batch28 — 10/11/2026
+
+Main đầu lượt b29cc91c59d4f51096466741042db5769183b57a. Hai workflow42762330359 và42762328508 của đúng commit Batch27 đều completed/success. Đã bắt đầu đọc trực quan trang in112–113/PDF113–114 bài Những bậc đá chạm mây, lưu ghi chú và4 câu đọc hiểu dự thảo trong drafts/BATCH28_B25_SOURCE.json. Chưa đọc phần114–115 và B26–28; chưa tích hợp Batch28, không tăng INDEX.
+
+Checkpoint105/168,3560 câu,105 trò chơi;4 giáo viên duyệt,101 chờ,63 nháp. Bước tiếp theo đọc trang114–128 và hoàn thiện Batch28 TV25–28. Không nhận ghi chú nguồn là học liệu đã kiểm thử.
+
+## Lịch sử
+
 # Batch27 tích hợp TV21–24 — 10/11/2026
 
 Đã tích hợp4 JSON+4 Markdown,48 câu và4 trò chơi,10 câu/lượt từ nguồn đã đọc và bản thảo đã lưu. npm test đạt validate_site/content, toàn bộ hồi quy, DOM105 kho và lưu/nạp wl3; không kiểm thử bố cục Chromium. Tổng105/168,3560 câu,105 trò chơi;Toán81,TV24,TA0. Giáo viên duyệt4,101 chờ,63 nháp. APPROVALS không đổi. Tiếp theo Batch28 TV25–28 cần đọc nguồn. Actions/Pages cần xác minh sau commit; chưa hoàn thành toàn dự án.
