@@ -1,3 +1,14 @@
+# Batch 32 — Tiếng Việt tập 2 bài 9–12 — 10/11/2026
+
+- Nối tiếp main a4a3721ce6bd699d0d82b6d11854377985b6b45e: Lời kêu gọi toàn dân tập thể dục, Quả hồng của thỏ con, Chuyện bên cửa sổ, Tay trái và tay phải.
+- Đã đọc trực quan PDF ảnh quét tập2 trang PDF42–55/trang in41–54 trong lượt này, gồm phần đọc và phần luyện ngôn ngữ. Sửa danh mục B11 kết thúc trang50 và B12 bắt đầu trang51 theo trang sách, không đổi ID.
+- Thêm4 JSON+4 Markdown,48 câu tự biên soạn,8 ví dụ có lời giải,4 hoạt động nói/viết,4 trò chơi kho báu; luyện10 câu/lượt. Không đăng toàn văn nguồn.
+- Tổng AI biên soạn/kiểm tra125/168: Toán81,TV44,TA0;3800 câu/125 game. Giáo viên duyệt4,121 chờ duyệt. Còn43 mục(TV18,TA25).
+- npm test PASS: validate_site.py gọi validate_content.py, toàn bộ hồi quy cũ và test_batch32.py; test_content_dom.cjs trên125 kho cùng test_vietnamese_dom.cjs. Kiểm tra riêng thỏ chưa từng ăn hồng, kết truyện chim chưa quay lại, vai trò giữ giấy, không ép đổi tay thuận và mốc trang nguồn.
+- Head trước lượt và hai Actions42811281494/42811279750 đều verified completed/success. Batch32 sẽ xác minh commit/Actions/Pages sau khi ghi.
+- Chromium vẫn có sẵn; lần thử trong lượt này bị chặn socket/ptrace trước khi render(exit134). Đã kiểm thử jsdom, chưa xác nhận bố cục trình duyệt.
+- Tất cả4 bài mới AI_CHECKED_AWAITING_TEACHER. Tiếp theo TV3_T2_B13–B16. Chưa hoàn thành168.
+
 # Checkpoint đã xác minh Pages — 10/11/2026
 
 - Hoàn tất thực tế 3 batch 29–31 trong lượt này: 12 bài Tiếng Việt, 144 câu, 12 trò chơi, mỗi batch commit riêng:
