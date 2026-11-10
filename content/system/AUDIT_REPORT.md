@@ -1,3 +1,11 @@
+# Đọc tiếp nguồn Batch28 — 10/11/2026
+
+Đã đọc trực quan trang in114–117/PDF115–118: hoàn tất nguồn B25 phần kể/chính tả và đọc truyện Đi tìm mặt trời B26. Lưu ghi chú và4 câu đọc hiểu dự thảo B26 tại drafts/BATCH28_B25_B26_SOURCE.json. Phân biệt truyện tưởng tượng với giải thích khoa học; ghi đúng chuỗi sương tan/sao lặn/mặt trời hiện.
+
+Chưa đọc trang118–128; Batch28 chưa biên soạn đầy đủ và chưa tích hợp. Tổng giữ105/168,3560 câu,105 trò chơi;4 giáo viên duyệt,101 chờ,63 nháp. Tiếp theo đọc phần luyện B26 và B27–28 trước khi hoàn thiện đủ batch. INDEX/APPROVALS giữ nguyên.
+
+## Lịch sử
+
 # Xác minh Batch27 và đọc đầu Batch28 — 10/11/2026
 
 Main đầu lượt b29cc91c59d4f51096466741042db5769183b57a. Hai workflow42762330359 và42762328508 của đúng commit Batch27 đều completed/success. Đã bắt đầu đọc trực quan trang in112–113/PDF113–114 bài Những bậc đá chạm mây, lưu ghi chú và4 câu đọc hiểu dự thảo trong drafts/BATCH28_B25_SOURCE.json. Chưa đọc phần114–115 và B26–28; chưa tích hợp Batch28, không tăng INDEX.

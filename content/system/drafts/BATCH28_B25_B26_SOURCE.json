@@ -1,0 +1,64 @@
+{
+  "status": "SOURCE_DRAFT_NOT_INTEGRATED",
+  "source": {
+    "pdf": "03-sgk-tieng-viet-3-tap-mot.pdf",
+    "printed_pages_read": [
+      114,
+      115,
+      116,
+      117
+    ],
+    "pdf_pages_read": [
+      115,
+      116,
+      117,
+      118
+    ],
+    "method": "Đọc trực quan ảnh quét"
+  },
+  "b25_language": [
+    "Kể theo4 tranh: bão mất thuyền, đường vòng, cố Đương ghép đá, dân cùng làm.",
+    "Chính tả ch/tr hoặc ăn/ăng; không chép nguyên bài tập."
+  ],
+  "b26": {
+    "title": "Đi tìm mặt trời",
+    "summary": "Muôn loài sống trong rừng tối ẩm. Gõ kiến đi hỏi công, liếu điếu, chích choè nhưng chỉ gà trống nhận lời tìm mặt trời. Gà vượt các tầng rừng, bám cây chò giữa gió lạnh và kiên trì gọi. Sau ba tiếng kêu, mặt trời hiện ra và tặng gà cụm lửa hồng trên đầu; gà mang ánh sáng về rừng.",
+    "anchors": [
+      "Công mải múa, liếu điếu bận cãi nhau, chích choè mải hót; không gán cho các con vật hành động khác.",
+      "Lộ trình: bụi mây, rừng nứa, rừng lim, rừng chò.",
+      "Gió lạnh khiến gà suýt ngã; gà quặp ngón chân bám chặt.",
+      "Trình tự: sương tan, sao lặn, mặt trời hiện ra.",
+      "Đây là truyện tưởng tượng ca ngợi việc tốt vì cộng đồng; không dạy rằng tiếng gà gây ra mặt trời mọc như kiến thức khoa học."
+    ],
+    "questions": [
+      {
+        "question": "Chi tiết nào cho thấy gà trống tiếp tục cố gắng dù nguy hiểm?",
+        "answer": "Gà bám chặt thân cây khi gió lạnh làm mình suýt ngã.",
+        "evidence": "Trang116.",
+        "explanation": "Hành động giữ vững trên cây thể hiện sự kiên trì trước gian nan."
+      },
+      {
+        "question": "Vì sao không thể nói công đã nhận nhiệm vụ tìm mặt trời?",
+        "answer": "Công còn mải múa; chỉ gà trống nhận lời.",
+        "evidence": "Trang116, đoạn đầu.",
+        "explanation": "Cần phân biệt người được hỏi với người thực sự nhận làm."
+      },
+      {
+        "question": "Sau tiếng kêu thứ hai của gà, điều gì xảy ra trong truyện?",
+        "answer": "Sao lặn.",
+        "evidence": "Trang117, đoạn đầu.",
+        "explanation": "Sương tan ở tiếng thứ nhất, mặt trời hiện ở tiếng thứ ba."
+      },
+      {
+        "question": "Hình ảnh cụm lửa hồng trên đầu gà có thể gợi điều gì?",
+        "answer": "Chiếc mào đỏ như phần thưởng cho việc tốt.",
+        "evidence": "Trang117.",
+        "explanation": "Đó là hình ảnh tưởng tượng gắn với sự dũng cảm vì mọi người."
+      }
+    ],
+    "remaining_printed_pages": [
+      118,
+      119
+    ]
+  }
+}
