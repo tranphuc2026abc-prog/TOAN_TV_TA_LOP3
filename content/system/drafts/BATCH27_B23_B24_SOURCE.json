@@ -1,0 +1,55 @@
+{
+  "status": "SOURCE_DRAFT_NOT_INTEGRATED",
+  "source": "03-sgk-tieng-viet-3-tap-mot.pdf",
+  "visually_read_printed_pages": [
+    104,
+    105,
+    106,
+    107,
+    108,
+    109,
+    110,
+    111
+  ],
+  "lessons": [
+    {
+      "id": "TV3_T1_B23",
+      "title": "Tôi yêu em tôi",
+      "author": "Phạm Hổ",
+      "summary": "Người kể yêu em gái qua tiếng cười, đôi mắt, lời nói và những việc nhỏ. Em thích cài hoa, mong người kể về, ôm chặt và vẽ thỏ có đôi vì sợ thỏ không có bạn.",
+      "reading_anchors": [
+        "Em cười khi người kể đùa.",
+        "Em mong, nhắc khi người kể đi lâu; nấp sau cây rồi ôm chặt.",
+        "Vẽ thỏ có đôi cho thấy em quan tâm tới việc có bạn chơi.",
+        "Không suy đoán giới tính của người kể từ cách xưng tôi."
+      ],
+      "language": [
+        "Nói và nghe về tình cảm anh chị em.",
+        "Chính tả r/d/gi hoặc ươn/ương.",
+        "Viết về việc mình làm khiến người thân vui."
+      ]
+    },
+    {
+      "id": "TV3_T1_B24",
+      "title": "Bạn nhỏ trong nhà",
+      "author": "Theo Trần Đức Tiến",
+      "summary": "Người kể nhớ chú chó Cúp ngày đầu về nhà. Cúp có lông trắng khoang đen, biết lấy trái banh dưới giường, mang khăn và đưa chân bắt tay. Cúp nằm nghe đọc truyện rồi ngủ, mừng rỡ khi bạn nhỏ đi học về.",
+      "reading_anchors": [
+        "Cúp không được dạy làm xiếc; không gán mọi tài giỏi cho chú chó.",
+        "Người kể chưa rõ tên hay giới tính; không tự đặt thêm.",
+        "Nằm trên lòng khi nghe truyện và mừng đón đi học về cho thấy sự quấn quýt.",
+        "Cúp ngủ khi nghe đọc, không khẳng định Cúp hiểu hết nội dung sách."
+      ],
+      "language": [
+        "Nhóm từ vật nuôi và đồ đạc.",
+        "Hình ảnh so sánh làm nét được tả sinh động.",
+        "Tả đồ vật: bộ phận, màu/chất liệu, công dụng và tình cảm."
+      ],
+      "source_pages": [
+        107,
+        110
+      ]
+    }
+  ],
+  "boundary_note": "Trang111 là trang chuyển chủ điểm Cộng đồng gắn bó, không phải nội dung học B24."
+}

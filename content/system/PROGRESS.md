@@ -1,3 +1,11 @@
+# Đã đọc nguồn còn lại Batch27 — 10/11/2026
+
+Đã đọc trực quan trang in104–111/PDF105–112; lưu ghi chú B23 Tôi yêu em tôi và B24 Bạn nhỏ trong nhà trong drafts/BATCH27_B23_B24_SOURCE.json. Trang111 là chuyển chủ điểm; B24 học đến110. Kết hợp ghi chú B21–22 đã lưu, nguồn batch27 nay đã được đọc đủ; chưa hoàn thiện các JSON/Markdown học liệu nên chưa tăng INDEX hoặc tổng tiến độ.
+
+Tiếp theo: biên soạn đủ TV21–24 từ các ghi chú nguồn, bổ sung lựa chọn/nhiễu/lời giải, kiến thức, hoạt động, trò chơi và kiểm thử toàn batch trước khi tích hợp. Giữ101/168 tích hợp,3512 câu,101 trò chơi;4 đã được giáo viên duyệt,97 chờ giáo viên,67 nháp. Không có trở ngại truy cập PDF.
+
+## Lịch sử
+
 # Nối tiếp nguồn Batch27 — 10/11/2026
 
 Đã đọc thêm trang in99–103 (PDF100–104) trực quan. B21 phần viết: s/x, uôn/uông, làm thiệp bày tỏ tình cảm; B22 đủ trang100–103: Dương và ông ngoại tại Tháp Bà Pô-na-ga, nhận thức về tuổi già, luyện từ hoạt động/đặc điểm và câu kể, viết cảm xúc với người thân. Lưu dự thảo kiến thức và4 câu đọc hiểu B22, chưa tích hợp. B23–24 chưa đọc trong lượt này.
