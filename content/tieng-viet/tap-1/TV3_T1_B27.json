@@ -1,0 +1,322 @@
+{
+  "id": "TV3_T1_B27",
+  "subject": "tv",
+  "grade": 3,
+  "book": "Kết nối tri thức với cuộc sống",
+  "volume": 1,
+  "lesson_no": 27,
+  "title": "Những chiếc áo ấm",
+  "topic": "Cộng đồng gắn bó",
+  "source": {
+    "pdf": "03-sgk-tieng-viet-3-tap-mot.pdf",
+    "printed_pages": [
+      120,
+      123
+    ],
+    "pdf_pages": [
+      121,
+      124
+    ],
+    "review": "Đã đọc trực quan nguồn qua các lượt trước; đối chiếu các ghi chú BATCH28 đã lưu. Lượt xuất bản dùng ghi chú, không nhận là đọc lại ảnh."
+  },
+  "objectives": [
+    "Kể và giải thích đúng chi tiết của Những chiếc áo ấm.",
+    "Dùng chi tiết nguồn làm căn cứ cho nhận xét.",
+    "Luyện từ, câu, chính tả và diễn đạt theo bài."
+  ],
+  "reading": {
+    "summary": "Thỏ quấn vải chống rét nhưng vải bị gió thổi xuống ao. Nhím giúp lấy vải rồi đề nghị may áo. Các con vật cùng góp khả năng: thỏ trải vải, ốc sên vạch đường, bọ ngựa cắt, tằm xe chỉ, nhím chắp vải dùi lỗ, đôi chim ổ dộc luồn kim may. Nhờ hợp tác, cả rừng có áo ấm.",
+    "characters_or_images": [
+      "Thỏ",
+      "Nhím",
+      "Tằm",
+      "Bọ ngựa",
+      "Ốc sên",
+      "Chim ổ dộc"
+    ],
+    "message": "Mỗi bạn góp thế mạnh riêng để cả rừng có áo ấm."
+  },
+  "knowledge": {
+    "introduction": "Thỏ quấn vải chống rét nhưng vải bị gió thổi xuống ao. Nhím giúp lấy vải rồi đề nghị may áo. Các con vật cùng góp khả năng: thỏ trải vải, ốc sên vạch đường, bọ ngựa cắt, tằm xe chỉ, nhím chắp vải dùi lỗ, đôi chim ổ dộc luồn kim may. Nhờ hợp tác, cả rừng có áo ấm.",
+    "rules": [
+      "Mỗi bạn góp thế mạnh riêng để cả rừng có áo ấm.",
+      "Cần phối hợp theo thứ tự: trải, vạch, cắt rồi may."
+    ],
+    "steps": [
+      "Đọc bài trong sách.",
+      "Tìm chi tiết rồi mới kết luận.",
+      "Thực hành và đọc lại để sửa."
+    ],
+    "common_errors": [
+      "Đổi phần việc của các con vật.",
+      "Nói một bạn làm hết mọi công đoạn."
+    ]
+  },
+  "language_practice": {
+    "vocabulary": [
+      "Xe chỉ nghĩa là làm gì? Đáp án: Xoắn các sợi nhỏ thành sợi lớn hơn. Xe chỉ là phần việc của tằm trong truyện.",
+      "Từ nào hợp với việc các bạn góp sức làm áo? Đáp án: Hợp tác. Các bạn chia việc và phối hợp để cùng đạt kết quả."
+    ],
+    "sentences": [
+      "Câu nào nêu đúng hai việc theo trình tự làm áo? Đáp án: Ốc sên kẻ vạch rồi bọ ngựa cắt theo vạch. Có vạch kích thước trước giúp cắt phù hợp.",
+      "Muốn hỏi bạn đã làm phần việc nào trong nhóm, em nói thế nào? Đáp án: Bạn phụ trách việc gì trong nhóm? Câu hỏi tìm thông tin về trách nhiệm, không chỉ bộc lộ cảm xúc."
+    ],
+    "spelling": [
+      "Điền tiếng đúng: Các bạn ... nghe nhím bàn cách may áo. Đáp án: lắng Lắng nghe viết l, chỉ chú ý nghe người khác.",
+      "Câu nào phân biệt đúng đỗ và đổ? Đáp án: Tằm nghỉ cạnh rổ đỗ, nhím đổ nước ra chậu. Đỗ là hạt cây; đổ là làm chất chứa chảy ra, cần giữ dấu đúng."
+    ],
+    "expression": [
+      "Kể hoạt động tập thể rõ nhất cần có phần nào? Đáp án: Việc chung, phần việc của em và kết quả. Người nghe cần hiểu em tham gia như thế nào và đạt điều gì.",
+      "Bạn nói ý tưởng chưa rõ, cách phản hồi nào giúp hợp tác? Đáp án: Hỏi lại điều chưa hiểu rồi cùng bàn cách làm. Hỏi và lắng nghe giúp hiểu đúng, phối hợp tốt hơn."
+    ]
+  },
+  "examples": [
+    {
+      "question": "Vì sao có kim và chỉ mà các bạn vẫn chưa thể may ngay?",
+      "steps": [
+        "Trang120–121.",
+        "Làm áo có nhiều công đoạn; không chỉ cần vật liệu.",
+        "Trả lời: Còn cần người vạch kích thước, cắt vải và luồn kim may."
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "title": "Thực hành theo bài",
+      "materials": [
+        "Vở",
+        "Bút"
+      ],
+      "steps": [
+        "Kể một hoạt động nhóm thật: việc chung, phần em làm, kết quả và cảm nghĩ.",
+        "Nói hoặc đọc cho người thân nghe, sửa một chỗ chưa rõ."
+      ],
+      "check": [
+        "Đúng người, đúng việc.",
+        "Có lí do và chi tiết.",
+        "Câu rõ ý, đúng dấu kết câu."
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "question_id": "TV3_T1_B27_Q01",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Vì sao có kim và chỉ mà các bạn vẫn chưa thể may ngay?",
+      "correct_answer": "Còn cần người vạch kích thước, cắt vải và luồn kim may.",
+      "options": [
+        "Còn cần người vạch kích thước, cắt vải và luồn kim may.",
+        "Đã có đủ mọi người và dụng cụ.",
+        "Thỏ không muốn có áo.",
+        "Vải không thể cắt được."
+      ],
+      "explanation": "Làm áo có nhiều công đoạn; không chỉ cần vật liệu.",
+      "evidence": "Trang120–121."
+    },
+    {
+      "question_id": "TV3_T1_B27_Q02",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Vì sao nhím ngăn bọ ngựa cắt vải ngay?",
+      "correct_answer": "Cần có đường vạch đúng kích thước trước.",
+      "options": [
+        "Cần có đường vạch đúng kích thước trước.",
+        "Vì bọ ngựa định cắt cây.",
+        "Vì nhím muốn giấu vải.",
+        "Vì cả rừng không cần áo."
+      ],
+      "explanation": "Trình tự công việc giúp áo được cắt phù hợp.",
+      "evidence": "Đầu trang121."
+    },
+    {
+      "question_id": "TV3_T1_B27_Q03",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Sự phân công nào đúng với đoạn kết?",
+      "correct_answer": "Ốc sên kẻ vạch, bọ ngựa cắt theo vạch.",
+      "options": [
+        "Ốc sên kẻ vạch, bọ ngựa cắt theo vạch.",
+        "Thỏ xe chỉ, tằm cắt vải.",
+        "Chim kẻ vạch, nhím trải vải.",
+        "Bọ ngựa luồn kim, ốc sên cắt."
+      ],
+      "explanation": "Mỗi bạn dùng thế mạnh riêng, không đổi việc của nhau.",
+      "evidence": "Trang121, đoạn xưởng may."
+    },
+    {
+      "question_id": "TV3_T1_B27_Q04",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Kết quả cả rừng có áo ấm thể hiện điều gì?",
+      "correct_answer": "Cùng góp sức có thể tạo lợi ích cho nhiều người.",
+      "options": [
+        "Cùng góp sức có thể tạo lợi ích cho nhiều người.",
+        "Chỉ một người làm được hết.",
+        "Mỗi người nên giữ tài riêng.",
+        "Không cần bàn bạc khi làm chung."
+      ],
+      "explanation": "Không nhân vật nào làm một mình toàn bộ các công đoạn.",
+      "evidence": "Kết truyện trang121."
+    },
+    {
+      "question_id": "TV3_T1_B27_Q05",
+      "type": "mcq",
+      "skill": "vocabulary",
+      "question": "Xe chỉ nghĩa là làm gì?",
+      "correct_answer": "Xoắn các sợi nhỏ thành sợi lớn hơn.",
+      "options": [
+        "Xoắn các sợi nhỏ thành sợi lớn hơn.",
+        "Cắt tấm vải thành áo.",
+        "Trải vải trên bàn.",
+        "Vạch đường lên vải."
+      ],
+      "explanation": "Xe chỉ là phần việc của tằm trong truyện."
+    },
+    {
+      "question_id": "TV3_T1_B27_Q06",
+      "type": "mcq",
+      "skill": "vocabulary",
+      "question": "Từ nào hợp với việc các bạn góp sức làm áo?",
+      "correct_answer": "Hợp tác.",
+      "options": [
+        "Hợp tác.",
+        "Tranh giành.",
+        "Xa lánh.",
+        "Phá phách."
+      ],
+      "explanation": "Các bạn chia việc và phối hợp để cùng đạt kết quả."
+    },
+    {
+      "question_id": "TV3_T1_B27_Q07",
+      "type": "mcq",
+      "skill": "sentences",
+      "question": "Câu nào nêu đúng hai việc theo trình tự làm áo?",
+      "correct_answer": "Ốc sên kẻ vạch rồi bọ ngựa cắt theo vạch.",
+      "options": [
+        "Ốc sên kẻ vạch rồi bọ ngựa cắt theo vạch.",
+        "Bọ ngựa may còn chim cắt.",
+        "Tằm trải vải rồi thỏ xe chỉ.",
+        "Nhím cắt vải trước khi có vạch."
+      ],
+      "explanation": "Có vạch kích thước trước giúp cắt phù hợp."
+    },
+    {
+      "question_id": "TV3_T1_B27_Q08",
+      "type": "mcq",
+      "skill": "sentences",
+      "question": "Muốn hỏi bạn đã làm phần việc nào trong nhóm, em nói thế nào?",
+      "correct_answer": "Bạn phụ trách việc gì trong nhóm?",
+      "options": [
+        "Bạn phụ trách việc gì trong nhóm?",
+        "Nhóm mình rất vui!",
+        "Bạn làm tốt lắm.",
+        "Chúng ta cùng làm nhé!"
+      ],
+      "explanation": "Câu hỏi tìm thông tin về trách nhiệm, không chỉ bộc lộ cảm xúc."
+    },
+    {
+      "question_id": "TV3_T1_B27_Q09",
+      "type": "mcq",
+      "skill": "spelling",
+      "question": "Điền tiếng đúng: Các bạn ... nghe nhím bàn cách may áo.",
+      "correct_answer": "lắng",
+      "options": [
+        "lắng",
+        "nắng",
+        "lắn",
+        "nắn"
+      ],
+      "explanation": "Lắng nghe viết l, chỉ chú ý nghe người khác."
+    },
+    {
+      "question_id": "TV3_T1_B27_Q10",
+      "type": "mcq",
+      "skill": "spelling",
+      "question": "Câu nào phân biệt đúng đỗ và đổ?",
+      "correct_answer": "Tằm nghỉ cạnh rổ đỗ, nhím đổ nước ra chậu.",
+      "options": [
+        "Tằm nghỉ cạnh rổ đỗ, nhím đổ nước ra chậu.",
+        "Tằm nghỉ cạnh rổ đổ, nhím đỗ nước.",
+        "Rổ đổ còn nước đỗ.",
+        "Hai tiếng luôn thay được nhau."
+      ],
+      "explanation": "Đỗ là hạt cây; đổ là làm chất chứa chảy ra, cần giữ dấu đúng."
+    },
+    {
+      "question_id": "TV3_T1_B27_Q11",
+      "type": "mcq",
+      "skill": "expression",
+      "question": "Kể hoạt động tập thể rõ nhất cần có phần nào?",
+      "correct_answer": "Việc chung, phần việc của em và kết quả.",
+      "options": [
+        "Việc chung, phần việc của em và kết quả.",
+        "Chỉ kể tên nhóm.",
+        "Chỉ nói vui quá.",
+        "Chỉ kể việc của nhóm khác."
+      ],
+      "explanation": "Người nghe cần hiểu em tham gia như thế nào và đạt điều gì."
+    },
+    {
+      "question_id": "TV3_T1_B27_Q12",
+      "type": "mcq",
+      "skill": "expression",
+      "question": "Bạn nói ý tưởng chưa rõ, cách phản hồi nào giúp hợp tác?",
+      "correct_answer": "Hỏi lại điều chưa hiểu rồi cùng bàn cách làm.",
+      "options": [
+        "Hỏi lại điều chưa hiểu rồi cùng bàn cách làm.",
+        "Cắt lời để chê ngay.",
+        "Im lặng bỏ phần việc.",
+        "Tự đổi việc của bạn không báo."
+      ],
+      "explanation": "Hỏi và lắng nghe giúp hiểu đúng, phối hợp tốt hơn."
+    }
+  ],
+  "games": [
+    {
+      "id": "TV3_T1_B27_GAME",
+      "title": "Kho báu: Những chiếc áo ấm",
+      "mode": "treasure",
+      "objective": "Tìm kho báu bằng cách hiểu chi tiết và dùng tiếng Việt đúng theo bài.",
+      "rules": [
+        "Trả lời 10 câu được chọn từ chính bài này.",
+        "Mỗi đáp án đúng được 10 điểm; đọc phản hồi để hiểu và sửa câu sai.",
+        "Chơi lại để gặp một bộ câu khác."
+      ],
+      "question_ids": [
+        "TV3_T1_B27_Q01",
+        "TV3_T1_B27_Q02",
+        "TV3_T1_B27_Q03",
+        "TV3_T1_B27_Q04",
+        "TV3_T1_B27_Q05",
+        "TV3_T1_B27_Q06",
+        "TV3_T1_B27_Q07",
+        "TV3_T1_B27_Q08",
+        "TV3_T1_B27_Q09",
+        "TV3_T1_B27_Q10",
+        "TV3_T1_B27_Q11",
+        "TV3_T1_B27_Q12"
+      ],
+      "answer_source": "practice.correct_answer",
+      "feedback_source": "practice.explanation",
+      "max_score": 100
+    }
+  ],
+  "assessment": {
+    "session_size": 10,
+    "scoring": "Mỗi câu đúng được tính điểm theo hệ thống; 8–10 câu đúng: nắm tốt, 5–7: đọc lại phần còn nhầm, dưới 5: đọc bài cùng người thân rồi thử lại. Nhiệm vụ nói/viết tự kiểm theo tiêu chí, không chấm bằng một đáp án duy nhất.",
+    "review_advice": "Sau lượt luyện, chọn một câu sai để giải thích lại. Với nói/viết: đúng chi tiết hoặc trải nghiệm thật, đủ ý, câu rõ, chính tả đúng; sửa ít nhất một điểm trước khi hoàn tất."
+  },
+  "feedback": {
+    "correct": "Em đã chọn phù hợp. Đọc lời giải để nhắc lại căn cứ.",
+    "incorrect": "Đọc lại câu hỏi và chi tiết liên quan; xem lời giải để biết vì sao."
+  },
+  "verification": {
+    "ai_authored": true,
+    "structure_checked": true,
+    "answer_reviewed": true,
+    "source_reviewed": true,
+    "teacher_approved": false
+  },
+  "status": "AI_CHECKED_AWAITING_TEACHER"
+}

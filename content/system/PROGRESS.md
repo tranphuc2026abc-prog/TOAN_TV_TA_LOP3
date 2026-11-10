@@ -1,3 +1,13 @@
+# Batch28 tích hợp TV25–28 — 10/11/2026
+
+Hoàn thiện4 JSON+4 Markdown: Những bậc đá chạm mây, Đi tìm mặt trời, Những chiếc áo ấm, Con đường của bé;48 câu mới,4 trò chơi,10 câu/lượt. Có kiến thức, hướng dẫn, lỗi thường gặp, ví dụ giải, hoạt động nói/viết, tiêu chí và phản hồi. Dùng nguồn đã đọc trực quan và ghi chú từng trang từ các lượt trước; không nhận là đọc lại ảnh trong lượt này, không đăng toàn văn sách.
+
+npm test đạt validate_site/content, toàn bộ hồi quy và DOM109 kho, trò chơi, lưu/nạp wl3, fallback; test_batch28 riêng đạt và đã thêm vào npm test, gồm phân công may áo, chuỗi tiếng gà, thời gian làm đường, nghề lái tàu và không trùng đề toàn TV. Không có kiểm thử bố cục Chromium mới. Actions/Pages cần xác minh sau commit.
+
+Tổng109/168 AI biên soạn/kiểm tra,3608 câu,109 trò chơi. Toán81/81,TV28/62,TA0/25. Giáo viên duyệt4;105 chờ;59 nháp(34TV,25TA). APPROVALS không đổi. Nối tiếp Batch29 TV29–32, đọc nguồn trước khi soạn. Chưa hoàn thành168/168.
+
+## Lịch sử
+
 # Đã đọc đủ nguồn Batch28 — 10/11/2026
 
 Đã đọc trực quan trang in122–128/PDF123–129: hoàn tất nói/viết B27 và toàn phần B28 Con đường của bé. Lưu ghi chú và4 câu đọc hiểu dự thảo B28 tại drafts/BATCH28_B27_B28_SOURCE.json. Nguồn4 bài25–28 đã được đọc qua các lượt, chưa biên soạn đủ học liệu/tích hợp.

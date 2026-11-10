@@ -1,0 +1,318 @@
+{
+  "id": "TV3_T1_B25",
+  "subject": "tv",
+  "grade": 3,
+  "book": "Kết nối tri thức với cuộc sống",
+  "volume": 1,
+  "lesson_no": 25,
+  "title": "Những bậc đá chạm mây",
+  "topic": "Cộng đồng gắn bó",
+  "source": {
+    "pdf": "03-sgk-tieng-viet-3-tap-mot.pdf",
+    "printed_pages": [
+      112,
+      115
+    ],
+    "pdf_pages": [
+      113,
+      116
+    ],
+    "review": "Đã đọc trực quan nguồn qua các lượt trước; đối chiếu các ghi chú BATCH28 đã lưu. Lượt xuất bản dùng ghi chú, không nhận là đọc lại ảnh."
+  },
+  "objectives": [
+    "Kể và giải thích đúng chi tiết của Những bậc đá chạm mây.",
+    "Dùng chi tiết nguồn làm căn cứ cho nhận xét.",
+    "Luyện từ, câu, chính tả và diễn đạt theo bài."
+  ],
+  "reading": {
+    "summary": "Sau bão, dân xóm dưới núi Hồng Lĩnh mất thuyền bè nên phải lên núi kiếm củi, nhưng đường vòng rất xa. Cố Đương kiên trì ghép đá làm bậc thang, dần được người dân cùng giúp. Sau năm năm, đường hoàn thành, dân biết ơn gọi ông là cố Ghép.",
+    "characters_or_images": [
+      "Cố Đương",
+      "Dân xóm"
+    ],
+    "message": "Kiên trì làm việc có ích có thể thuyết phục mọi người cùng góp sức."
+  },
+  "knowledge": {
+    "introduction": "Sau bão, dân xóm dưới núi Hồng Lĩnh mất thuyền bè nên phải lên núi kiếm củi, nhưng đường vòng rất xa. Cố Đương kiên trì ghép đá làm bậc thang, dần được người dân cùng giúp. Sau năm năm, đường hoàn thành, dân biết ơn gọi ông là cố Ghép.",
+    "rules": [
+      "Kiên trì làm việc có ích có thể thuyết phục mọi người cùng góp sức.",
+      "Kể chuyện theo nguyên nhân, hành động, kết quả; không bỏ hoàn cảnh mất thuyền."
+    ],
+    "steps": [
+      "Đọc bài trong sách.",
+      "Tìm chi tiết rồi mới kết luận.",
+      "Thực hành và đọc lại để sửa."
+    ],
+    "common_errors": [
+      "Nhầm nguyên nhân dân bỏ nghề cá.",
+      "Nói con đường xong ngay một ngày."
+    ]
+  },
+  "language_practice": {
+    "vocabulary": [
+      "Đảm đương việc khó nghĩa là gì? Đáp án: Nhận trách nhiệm và gánh vác việc ấy. Tên cố Đương gắn với tinh thần sẵn sàng gánh vác.",
+      "Sờn lòng trước việc nặng nhọc là trạng thái nào? Đáp án: Nản chí, muốn thôi cố gắng. Cố Đương không sờn lòng nghĩa là ông vẫn kiên trì."
+    ],
+    "sentences": [
+      "Câu nào nêu việc làm giúp dân xóm đi lại? Đáp án: Cố Đương ghép đá thành bậc lên núi. Ghép đá là hành động tạo lối đi, khác câu tả cảnh.",
+      "Câu nào giải thích đúng sự thay đổi của dân xóm? Đáp án: Thấy ông kiên trì, nhiều người đến cùng làm. Câu gắn nguyên nhân với việc người dân tự nguyện giúp."
+    ],
+    "spelling": [
+      "Điền tiếng đúng: Mọi người cùng ... đá làm đường. Đáp án: chuyển Chuyển viết ch và dấu hỏi, chỉ đưa từ nơi này tới nơi khác.",
+      "Chọn từ viết đúng để tả sườn núi cao dốc. Đáp án: Dựng đứng. Đứng có vần ưng; cụm từ gợi độ dốc lớn."
+    ],
+    "expression": [
+      "Kể lại việc làm đường nên sắp xếp ý nào trước? Đáp án: Bão làm dân mất thuyền nên phải lên núi kiếm củi. Nêu hoàn cảnh trước giúp hiểu vì sao cần con đường.",
+      "Muốn giới thiệu cố Đương thuyết phục, em nên nêu gì? Đáp án: Việc ông kiên trì làm và lợi ích cho dân xóm. Chi tiết cụ thể giúp nhận xét có căn cứ."
+    ]
+  },
+  "examples": [
+    {
+      "question": "Điều gì khiến dân xóm phải tìm việc kiếm củi trên núi?",
+      "steps": [
+        "Trang112, đoạn đầu.",
+        "Mất phương tiện sinh sống khiến họ tìm cách mưu sinh khác.",
+        "Trả lời: Bão cuốn mất thuyền bè dùng đánh cá."
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "title": "Thực hành theo bài",
+      "materials": [
+        "Vở",
+        "Bút"
+      ],
+      "steps": [
+        "Kể lại công việc làm đường bằng4 ý, rồi nói điều em cảm phục ở cố Đương.",
+        "Nói hoặc đọc cho người thân nghe, sửa một chỗ chưa rõ."
+      ],
+      "check": [
+        "Đúng người, đúng việc.",
+        "Có lí do và chi tiết.",
+        "Câu rõ ý, đúng dấu kết câu."
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "question_id": "TV3_T1_B25_Q01",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Điều gì khiến dân xóm phải tìm việc kiếm củi trên núi?",
+      "correct_answer": "Bão cuốn mất thuyền bè dùng đánh cá.",
+      "options": [
+        "Bão cuốn mất thuyền bè dùng đánh cá.",
+        "Dân thích đổi nghề cho vui.",
+        "Không còn cây trong rừng.",
+        "Biển không có cá từ trước."
+      ],
+      "explanation": "Mất phương tiện sinh sống khiến họ tìm cách mưu sinh khác.",
+      "evidence": "Trang112, đoạn đầu."
+    },
+    {
+      "question_id": "TV3_T1_B25_Q02",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Sự thay đổi nào trong thái độ dân xóm giúp công việc tiến triển?",
+      "correct_answer": "Từ nghĩ không làm được đến tình nguyện cùng làm.",
+      "options": [
+        "Từ nghĩ không làm được đến tình nguyện cùng làm.",
+        "Từ cùng làm đến bỏ hết việc.",
+        "Từ quý ông đến ghét ông.",
+        "Ai cũng làm ngay từ đầu."
+      ],
+      "explanation": "Sự kiên trì của cố Đương góp phần khơi dậy tinh thần chung sức.",
+      "evidence": "Trang112–113."
+    },
+    {
+      "question_id": "TV3_T1_B25_Q03",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Con đường hoàn thành trong khoảng thời gian nào?",
+      "correct_answer": "Sau năm năm.",
+      "options": [
+        "Sau năm năm.",
+        "Chỉ một ngày.",
+        "Sau một buổi sáng.",
+        "Sau năm mươi năm."
+      ],
+      "explanation": "Thời gian dài nhấn mạnh công việc bền bỉ, không hoàn thành trong một buổi.",
+      "evidence": "Trang113."
+    },
+    {
+      "question_id": "TV3_T1_B25_Q04",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Tên cố Ghép thể hiện tình cảm gì của dân xóm?",
+      "correct_answer": "Biết ơn người khởi xướng làm đường.",
+      "options": [
+        "Biết ơn người khởi xướng làm đường.",
+        "Chê ông quá chậm.",
+        "Vì ông bỏ dở công việc.",
+        "Vì ông thích nhận quà."
+      ],
+      "explanation": "Tên mới gắn với công sức ghép đá giúp cả cộng đồng đi lại thuận tiện.",
+      "evidence": "Trang113, đoạn kết."
+    },
+    {
+      "question_id": "TV3_T1_B25_Q05",
+      "type": "mcq",
+      "skill": "vocabulary",
+      "question": "Đảm đương việc khó nghĩa là gì?",
+      "correct_answer": "Nhận trách nhiệm và gánh vác việc ấy.",
+      "options": [
+        "Nhận trách nhiệm và gánh vác việc ấy.",
+        "Chỉ đứng nhìn",
+        "Đẩy hết việc cho người khác",
+        "Bỏ đi khi việc chưa xong"
+      ],
+      "explanation": "Tên cố Đương gắn với tinh thần sẵn sàng gánh vác."
+    },
+    {
+      "question_id": "TV3_T1_B25_Q06",
+      "type": "mcq",
+      "skill": "vocabulary",
+      "question": "Sờn lòng trước việc nặng nhọc là trạng thái nào?",
+      "correct_answer": "Nản chí, muốn thôi cố gắng.",
+      "options": [
+        "Nản chí, muốn thôi cố gắng.",
+        "Vui vì hoàn thành",
+        "Tự nguyện giúp đỡ",
+        "Bàn cách hợp tác"
+      ],
+      "explanation": "Cố Đương không sờn lòng nghĩa là ông vẫn kiên trì."
+    },
+    {
+      "question_id": "TV3_T1_B25_Q07",
+      "type": "mcq",
+      "skill": "sentences",
+      "question": "Câu nào nêu việc làm giúp dân xóm đi lại?",
+      "correct_answer": "Cố Đương ghép đá thành bậc lên núi.",
+      "options": [
+        "Cố Đương ghép đá thành bậc lên núi.",
+        "Núi rất cao.",
+        "Xóm nằm dưới núi.",
+        "Bão thật dữ dội!"
+      ],
+      "explanation": "Ghép đá là hành động tạo lối đi, khác câu tả cảnh."
+    },
+    {
+      "question_id": "TV3_T1_B25_Q08",
+      "type": "mcq",
+      "skill": "sentences",
+      "question": "Câu nào giải thích đúng sự thay đổi của dân xóm?",
+      "correct_answer": "Thấy ông kiên trì, nhiều người đến cùng làm.",
+      "options": [
+        "Thấy ông kiên trì, nhiều người đến cùng làm.",
+        "Dân xóm luôn làm đường từ đầu.",
+        "Ông bỏ việc nên dân bỏ theo.",
+        "Ai cũng chỉ muốn đi đánh cá."
+      ],
+      "explanation": "Câu gắn nguyên nhân với việc người dân tự nguyện giúp."
+    },
+    {
+      "question_id": "TV3_T1_B25_Q09",
+      "type": "mcq",
+      "skill": "spelling",
+      "question": "Điền tiếng đúng: Mọi người cùng ... đá làm đường.",
+      "correct_answer": "chuyển",
+      "options": [
+        "chuyển",
+        "truyển",
+        "chuyễn",
+        "truyễn"
+      ],
+      "explanation": "Chuyển viết ch và dấu hỏi, chỉ đưa từ nơi này tới nơi khác."
+    },
+    {
+      "question_id": "TV3_T1_B25_Q10",
+      "type": "mcq",
+      "skill": "spelling",
+      "question": "Chọn từ viết đúng để tả sườn núi cao dốc.",
+      "correct_answer": "Dựng đứng.",
+      "options": [
+        "Dựng đứng.",
+        "Dựng đứn.",
+        "Dựng đướng.",
+        "Dựng đưng."
+      ],
+      "explanation": "Đứng có vần ưng; cụm từ gợi độ dốc lớn."
+    },
+    {
+      "question_id": "TV3_T1_B25_Q11",
+      "type": "mcq",
+      "skill": "expression",
+      "question": "Kể lại việc làm đường nên sắp xếp ý nào trước?",
+      "correct_answer": "Bão làm dân mất thuyền nên phải lên núi kiếm củi.",
+      "options": [
+        "Bão làm dân mất thuyền nên phải lên núi kiếm củi.",
+        "Cả xóm đặt tên mới cho ông.",
+        "Con đường đã hoàn thành.",
+        "Mọi người đi lại dễ dàng."
+      ],
+      "explanation": "Nêu hoàn cảnh trước giúp hiểu vì sao cần con đường."
+    },
+    {
+      "question_id": "TV3_T1_B25_Q12",
+      "type": "mcq",
+      "skill": "expression",
+      "question": "Muốn giới thiệu cố Đương thuyết phục, em nên nêu gì?",
+      "correct_answer": "Việc ông kiên trì làm và lợi ích cho dân xóm.",
+      "options": [
+        "Việc ông kiên trì làm và lợi ích cho dân xóm.",
+        "Chỉ nói ông tốt rất nhiều lần.",
+        "Bịa ông xây cả thành phố.",
+        "Chỉ đọc tên mọi ngọn núi."
+      ],
+      "explanation": "Chi tiết cụ thể giúp nhận xét có căn cứ."
+    }
+  ],
+  "games": [
+    {
+      "id": "TV3_T1_B25_GAME",
+      "title": "Kho báu: Những bậc đá chạm mây",
+      "mode": "treasure",
+      "objective": "Tìm kho báu bằng cách hiểu chi tiết và dùng tiếng Việt đúng theo bài.",
+      "rules": [
+        "Trả lời 10 câu được chọn từ chính bài này.",
+        "Mỗi đáp án đúng được 10 điểm; đọc phản hồi để hiểu và sửa câu sai.",
+        "Chơi lại để gặp một bộ câu khác."
+      ],
+      "question_ids": [
+        "TV3_T1_B25_Q01",
+        "TV3_T1_B25_Q02",
+        "TV3_T1_B25_Q03",
+        "TV3_T1_B25_Q04",
+        "TV3_T1_B25_Q05",
+        "TV3_T1_B25_Q06",
+        "TV3_T1_B25_Q07",
+        "TV3_T1_B25_Q08",
+        "TV3_T1_B25_Q09",
+        "TV3_T1_B25_Q10",
+        "TV3_T1_B25_Q11",
+        "TV3_T1_B25_Q12"
+      ],
+      "answer_source": "practice.correct_answer",
+      "feedback_source": "practice.explanation",
+      "max_score": 100
+    }
+  ],
+  "assessment": {
+    "session_size": 10,
+    "scoring": "Mỗi câu đúng được tính điểm theo hệ thống; 8–10 câu đúng: nắm tốt, 5–7: đọc lại phần còn nhầm, dưới 5: đọc bài cùng người thân rồi thử lại. Nhiệm vụ nói/viết tự kiểm theo tiêu chí, không chấm bằng một đáp án duy nhất.",
+    "review_advice": "Sau lượt luyện, chọn một câu sai để giải thích lại. Với nói/viết: đúng chi tiết hoặc trải nghiệm thật, đủ ý, câu rõ, chính tả đúng; sửa ít nhất một điểm trước khi hoàn tất."
+  },
+  "feedback": {
+    "correct": "Em đã chọn phù hợp. Đọc lời giải để nhắc lại căn cứ.",
+    "incorrect": "Đọc lại câu hỏi và chi tiết liên quan; xem lời giải để biết vì sao."
+  },
+  "verification": {
+    "ai_authored": true,
+    "structure_checked": true,
+    "answer_reviewed": true,
+    "source_reviewed": true,
+    "teacher_approved": false
+  },
+  "status": "AI_CHECKED_AWAITING_TEACHER"
+}
