@@ -1,3 +1,16 @@
+# Checkpoint sau Batch 29–31 và sửa quy trình Pages — 10/11/2026
+
+- Ba batch nội dung đã commit riêng lên main bằng expected_sha, không force:
+  - Batch 29: https://github.com/tranphuc2026abc-prog/TOAN_TV_TA_LOP3/commit/a11d527516df2e862371fd0bac684322abb013af — TV tập 1 bài 29–32, 48 câu/4 game.
+  - Batch 30: https://github.com/tranphuc2026abc-prog/TOAN_TV_TA_LOP3/commit/9759f4f243a1828d1e3fc905e5cef612bad97dfa — TV tập 2 bài 1–4, 48 câu/4 game.
+  - Batch 31: https://github.com/tranphuc2026abc-prog/TOAN_TV_TA_LOP3/commit/786c1cb8f0cffaae61792940a04e19bd63ef6f8c — TV tập 2 bài 5–8, 48 câu/4 game; sửa tên OCR bài 7 theo sách.
+- Tổng 121/168 AI biên soạn và kiểm tra; 4 giáo viên duyệt, 117 chờ giáo viên; 3752 câu/121 game. Còn 47 mục (TV22/TA25). Điểm nối tiếp TV3_T2_B09–B12.
+- Batch 29 và 30: Actions success, các tệp bài và chỉ mục trên Pages trùng SHA-256 bản kiểm thử.
+- Batch 31: kiểm tra nội dung/JavaScript của Actions đã success nhưng xuất bản run 42810459426 lần 1 lỗi HTTP400 do deployment của Batch30 còn bị báo in_progress; run tự động 42810458342 cũng lỗi tương tự. Retry run 42810459426 lần2 lỗi vì có 2 artifacts cùng tên github-pages. Không ghi hai run này là thành công.
+- Sửa .github/workflows/pages.yml: tên artifact gồm run_id và run_attempt, truyền cùng tên cho upload/deploy; concurrency không huỷ lượt đang xuất bản. Mục đích tránh xung đột gói khi retry và tránh huỷ lượt cũ giữa chừng. Cần kiểm tra Actions/Pages của commit sửa sau khi ghi.
+- Chromium thử trong lượt này vẫn exit134 do socket/ptrace không được phép; jsdom và toàn bộ hồi quy npm test PASS trên 121 kho học liệu. Chưa xác minh bố cục Chromium.
+- Không có bài mới được tự cấp duyệt; chưa đủ 168, tác vụ tiếp tục.
+
 # Batch 31 — Tiếng Việt tập 2 bài 5–8 — 10/11/2026
 
 - Nối tiếp main 9759f4f243a1828d1e3fc905e5cef612bad97dfa. Hoàn thiện Ngày hội rừng xanh, Cây gạo, Mặt trời xanh của tôi, Bầy voi rừng Trường Sơn.
