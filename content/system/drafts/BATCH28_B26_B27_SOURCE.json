@@ -1,0 +1,75 @@
+{
+  "status": "SOURCE_DRAFT_NOT_INTEGRATED",
+  "source": {
+    "pdf": "03-sgk-tieng-viet-3-tap-mot.pdf",
+    "printed_pages_read": [
+      118,
+      119,
+      120,
+      121
+    ],
+    "pdf_pages_read": [
+      119,
+      120,
+      121,
+      122
+    ],
+    "method": "Đọc trực quan ảnh quét"
+  },
+  "b26_language": [
+    "Từ chỉ đặc điểm trái nghĩa: vui/buồn, nóng/lạnh, đẹp/xấu, lớn/bé; tự soạn tình huống mới.",
+    "Câu khiến để đề nghị hoặc động viên nhân vật.",
+    "Viết2–3 câu nêu lí do thích/không thích nhân vật dựa vào việc làm."
+  ],
+  "b27": {
+    "title": "Những chiếc áo ấm",
+    "summary": "Thỏ quấn vải chống rét nhưng vải bị gió thổi xuống ao. Nhím giúp lấy vải rồi đề nghị may áo. Các con vật cùng góp khả năng: thỏ trải vải, ốc sên vạch đường, bọ ngựa cắt, tằm xe chỉ, nhím chắp vải dùi lỗ, đôi chim ổ dộc luồn kim may. Nhờ hợp tác, cả rừng có áo ấm.",
+    "roles": {
+      "tho": "Trải vải.",
+      "oc_sen": "Kẻ đường vạch.",
+      "bo_ngua": "Cắt vải theo vạch.",
+      "tam": "Xe chỉ.",
+      "nhim": "Góp lông làm kim; chắp vải, dùi lỗ.",
+      "chim_o_doc": "Luồn kim, may áo."
+    },
+    "questions": [
+      {
+        "question": "Vì sao có kim và chỉ mà các bạn vẫn chưa thể may ngay?",
+        "answer": "Còn cần người vạch kích thước, cắt vải và luồn kim may.",
+        "explanation": "Làm áo có nhiều công đoạn; không chỉ cần vật liệu.",
+        "evidence": "Trang120–121."
+      },
+      {
+        "question": "Vì sao nhím ngăn bọ ngựa cắt vải ngay?",
+        "answer": "Cần có đường vạch đúng kích thước trước.",
+        "explanation": "Trình tự công việc giúp áo được cắt phù hợp.",
+        "evidence": "Đầu trang121."
+      },
+      {
+        "question": "Sự phân công nào đúng với đoạn kết?",
+        "answer": "Ốc sên kẻ vạch, bọ ngựa cắt theo vạch.",
+        "explanation": "Mỗi bạn dùng thế mạnh riêng, không đổi việc của nhau.",
+        "evidence": "Trang121, đoạn xưởng may."
+      },
+      {
+        "question": "Kết quả cả rừng có áo ấm thể hiện điều gì?",
+        "answer": "Cùng góp sức có thể tạo lợi ích cho nhiều người.",
+        "explanation": "Không nhân vật nào làm một mình toàn bộ các công đoạn.",
+        "evidence": "Kết truyện trang121."
+      }
+    ],
+    "remaining_printed_pages": [
+      122,
+      123
+    ]
+  },
+  "remaining_batch_pages": [
+    122,
+    123,
+    124,
+    125,
+    126,
+    127,
+    128
+  ]
+}

@@ -1,3 +1,11 @@
+# Nguồn luyện B26 và đọc B27 — 10/11/2026
+
+Đã đọc trực quan trang in118–121/PDF119–122: luyện trái nghĩa/câu khiến/viết lí do thích nhân vật của B26; truyện Những chiếc áo ấm B27. Lưu phân công đúng từng nhân vật và4 câu đọc hiểu dự thảo tại drafts/BATCH28_B26_B27_SOURCE.json. Chưa đọc phần122–128; chưa tích hợp Batch28.
+
+Checkpoint105/168,3560 câu,105 trò chơi;4 giáo viên duyệt,101 chờ,63 nháp. Nối tiếp đọc luyện B27 và toàn B28 trước khi hoàn thiện4 bài. INDEX và APPROVALS giữ nguyên; ghi chú nguồn không được tính là học liệu hoàn thiện.
+
+## Lịch sử
+
 # Đọc tiếp nguồn Batch28 — 10/11/2026
 
 Đã đọc trực quan trang in114–117/PDF115–118: hoàn tất nguồn B25 phần kể/chính tả và đọc truyện Đi tìm mặt trời B26. Lưu ghi chú và4 câu đọc hiểu dự thảo B26 tại drafts/BATCH28_B25_B26_SOURCE.json. Phân biệt truyện tưởng tượng với giải thích khoa học; ghi đúng chuỗi sương tan/sao lặn/mặt trời hiện.
