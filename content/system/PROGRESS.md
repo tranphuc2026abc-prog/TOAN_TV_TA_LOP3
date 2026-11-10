@@ -1,3 +1,11 @@
+# Đã đọc đủ nguồn Batch28 — 10/11/2026
+
+Đã đọc trực quan trang in122–128/PDF123–129: hoàn tất nói/viết B27 và toàn phần B28 Con đường của bé. Lưu ghi chú và4 câu đọc hiểu dự thảo B28 tại drafts/BATCH28_B27_B28_SOURCE.json. Nguồn4 bài25–28 đã được đọc qua các lượt, chưa biên soạn đủ học liệu/tích hợp.
+
+Tiếp theo biên soạn kiến thức riêng, câu ngôn ngữ/nhiễu và xuất đủ4 JSON+4 Markdown, game, kiểm thử. Không tăng INDEX:105/168,3560 câu,105 trò chơi;4 giáo viên duyệt,101 chờ,63 nháp. Không có trở ngại truy cập nguồn. Chưa đủ điều kiện bàn giao168/168.
+
+## Lịch sử
+
 # Nguồn luyện B26 và đọc B27 — 10/11/2026
 
 Đã đọc trực quan trang in118–121/PDF119–122: luyện trái nghĩa/câu khiến/viết lí do thích nhân vật của B26; truyện Những chiếc áo ấm B27. Lưu phân công đúng từng nhân vật và4 câu đọc hiểu dự thảo tại drafts/BATCH28_B26_B27_SOURCE.json. Chưa đọc phần122–128; chưa tích hợp Batch28.

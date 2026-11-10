@@ -1,0 +1,71 @@
+{
+  "status": "SOURCE_DRAFT_NOT_INTEGRATED",
+  "source": {
+    "pdf": "03-sgk-tieng-viet-3-tap-mot.pdf",
+    "printed_pages_read": [
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128
+    ],
+    "pdf_pages_read": [
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129
+    ],
+    "method": "Đọc trực quan ảnh quét"
+  },
+  "b27_language": [
+    "Nói về hoạt động tập thể: việc tham gia, người cùng làm, phần việc, kết quả, cảm nghĩ.",
+    "Chính tả lặng/nặng hoặc dấu hỏi/ngã; soạn ví dụ mới."
+  ],
+  "b28": {
+    "title": "Con đường của bé",
+    "author": "Thanh Thảo",
+    "summary": "Bé hình dung mỗi nghề có một con đường: phi công trên trời, hải quân trên biển, lái tàu trên đường sắt, bố làm xây dựng trên giàn giáo, mẹ làm việc trên đồng. Bé đến trường và tìm hành trình khám phá kiến thức qua sách.",
+    "anchors": [
+      "Không đổi đường sắt của bác lái tàu thành đường bộ.",
+      "Bố dựng nhà mới trên giàn giáo; mẹ gắn với cánh đồng, ruộng dâu và lúa.",
+      "Con đường trên trang sách gợi khám phá kiến thức; không chỉ là hình đường vẽ trong sách.",
+      "Các nghề đều có ích, không xếp nghề nào cao quý duy nhất."
+    ],
+    "language": [
+      "Nhóm nghề nghiệp, người làm nghề, công việc.",
+      "Từ hỏi: gì, vì sao, à, mấy giờ; chuyển câu kể thành câu hỏi.",
+      "Viết đoạn ngắn nêu lí do thích hoặc không thích nhân vật có chi tiết làm căn cứ."
+    ],
+    "questions": [
+      {
+        "question": "Trong bài thơ, nghề nào gắn với hai đường sắt đi song song?",
+        "answer": "Nghề lái tàu.",
+        "evidence": "Trang124, khổ3.",
+        "explanation": "Đường làm bằng sắt gắn với tàu hoả, không phải đường của phi công."
+      },
+      {
+        "question": "Những hình ảnh nào giúp hiểu công việc bố của bé?",
+        "answer": "Giàn giáo cao, khung sắt và những ngôi nhà mới.",
+        "evidence": "Trang125, khổ đầu.",
+        "explanation": "Các chi tiết gợi nghề xây dựng, không phải làm ruộng hay lái tàu."
+      },
+      {
+        "question": "Con đường của mẹ được gợi qua cảnh nào?",
+        "answer": "Cánh đồng với ruộng dâu và lúa.",
+        "evidence": "Trang125, khổ2.",
+        "explanation": "Hình ảnh đồng ruộng gắn công việc sản xuất nông nghiệp."
+      },
+      {
+        "question": "Vì sao bé còn tìm con đường trên trang sách?",
+        "answer": "Bé muốn học hỏi và khám phá thế giới kiến thức.",
+        "evidence": "Trang125, khổ cuối.",
+        "explanation": "Con đường mang nghĩa gợi mở hành trình học, không chỉ một lối đi thật."
+      }
+    ]
+  }
+}
