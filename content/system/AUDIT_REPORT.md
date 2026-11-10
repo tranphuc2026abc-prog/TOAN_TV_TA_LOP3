@@ -1,3 +1,11 @@
+# Luyện ngôn ngữ TV21–22 — 10/11/2026
+
+Đã biên soạn16 câu mới: mỗi bài2 từ vựng,2 câu,2 chính tả,2 diễn đạt; có3 nhiễu, đáp án và lời giải. Lưu drafts/BATCH27_B21_B22_LANGUAGE.json. Nội dung gắn Na/bà và Dương/ông, có tình huống liên hệ được trình bày là tình huống mới. Chưa đọc lại ảnh nguồn trong lượt này; dùng các trang đã đọc và ghi chú đã lưu.
+
+Batch27 chưa tích hợp. Còn16 câu luyện ngôn ngữ TV23–24, chuẩn hoá nhiễu TV21–22 đọc hiểu, xuất4 JSON+4 Markdown, gắn game và kiểm thử đầy đủ. INDEX vẫn101/168,3512 câu,101 trò chơi;4 giáo viên duyệt,97 chờ,67 nháp. Không tự nâng trạng thái các bản dự thảo.
+
+## Lịch sử
+
 # Câu đọc hiểu bổ sung Batch27 — 10/11/2026
 
 Đã biên soạn8 câu đọc hiểu riêng cho TV23–24, đủ đáp án,3 phương án nhiễu, lời giải và căn cứ trang; lưu drafts/BATCH27_B23_B24_READING.json. Nối tiếp8 câu dự thảo TV21–22 đã có, nay đủ16 câu đọc hiểu dự thảo cho4 bài. Các câu mới phân biệt suy đoán giới tính người kể, sở thích vẽ thỏ, hoa cài đầu, Cúp nghe đọc/ngủ và việc chưa học làm xiếc.

@@ -1,0 +1,191 @@
+{
+  "status": "DRAFT_NOT_INTEGRATED",
+  "lessons": [
+    {
+      "id": "TV3_T1_B21",
+      "questions": [
+        {
+          "skill": "vocabulary",
+          "question": "Từ trìu mến tả cách bà nhìn Na mang sắc thái nào?",
+          "answer": "Yêu thương, dịu dàng.",
+          "wrong": [
+            "Lạnh nhạt, xa cách.",
+            "Giận dữ, quát mắng.",
+            "Hoảng sợ, bỏ chạy."
+          ],
+          "explanation": "Bà nhìn cháu bằng tình yêu thương, dù cháu chưa mang được nắng như định làm."
+        },
+        {
+          "skill": "vocabulary",
+          "question": "Xổ vạt áo trong chuyện nghĩa là làm gì?",
+          "answer": "Mở tung phần áo đang túm lại.",
+          "wrong": [
+            "Khâu kín vạt áo.",
+            "Giặt cả chiếc áo.",
+            "Cất áo vào tủ."
+          ],
+          "explanation": "Xổ ở đây là mở ra, phù hợp hành động Na muốn khoe nắng."
+        },
+        {
+          "skill": "sentences",
+          "question": "Câu nào nêu rõ việc làm thể hiện Na quan tâm bà?",
+          "answer": "Na chạy vào phòng để làm bà vui.",
+          "wrong": [
+            "Na là tên một bạn nhỏ.",
+            "Ánh nắng thật đẹp.",
+            "Phòng bà ở đâu?"
+          ],
+          "explanation": "Câu nêu người thực hiện, hành động và mục đích cụ thể."
+        },
+        {
+          "skill": "sentences",
+          "question": "Muốn nhờ người lớn giúp bà ngồi chỗ có nắng, lời nào phù hợp?",
+          "answer": "Bố giúp bà ra chỗ nắng dịu một lát nhé!",
+          "wrong": [
+            "Bà không được ngồi trong nhà nữa!",
+            "Bà cứ tự đi thật nhanh đi!",
+            "Con mặc kệ bà ở đâu."
+          ],
+          "explanation": "Lời nhờ lễ phép thể hiện quan tâm và tính tới việc bà đi lại khó."
+        },
+        {
+          "skill": "spelling",
+          "question": "Chọn từ đúng cho câu: Niềm vui ... lên trong mắt Na.",
+          "answer": "sáng",
+          "wrong": [
+            "xáng",
+            "sán",
+            "xán"
+          ],
+          "explanation": "Sáng viết s; ở đây diễn tả ánh nhìn vui tươi."
+        },
+        {
+          "skill": "spelling",
+          "question": "Từ nào đúng để tả những đợt gió mạnh liên tiếp?",
+          "answer": "Cuồn cuộn.",
+          "wrong": [
+            "Cuồng cuộng.",
+            "Cuồn cuộng.",
+            "Cuồng cuộn."
+          ],
+          "explanation": "Cuồn cuộn viết vần uôn ở cả hai tiếng; không nhầm uông."
+        },
+        {
+          "skill": "expression",
+          "question": "Lời cảm ơn nào cho thấy em nhớ một việc bà đã làm?",
+          "answer": "Con cảm ơn bà đã kể chuyện cho con mỗi tối.",
+          "wrong": [
+            "Con cảm ơn vì cảm ơn.",
+            "Bà có nhiều đồ vật.",
+            "Hôm nay trời nhiều mây."
+          ],
+          "explanation": "Nhắc việc cụ thể làm lời cảm ơn rõ và chân thành."
+        },
+        {
+          "skill": "expression",
+          "question": "Nếu kể lại chuyện Na, phần kết cần giữ ý nào?",
+          "answer": "Na vui vì làm bà vui và vẫn tới thăm bà mỗi sáng.",
+          "wrong": [
+            "Na bỏ bà đi nơi khác.",
+            "Bà trách Na làm mất nắng.",
+            "Na đã điều khiển được mặt trời."
+          ],
+          "explanation": "Kết thúc cần đúng diễn biến, không thêm thành tích hay phản ứng trái nguồn."
+        }
+      ]
+    },
+    {
+      "id": "TV3_T1_B22",
+      "questions": [
+        {
+          "skill": "vocabulary",
+          "question": "Chần chừ khi rời nơi tham quan nghĩa là gì?",
+          "answer": "Còn do dự, chưa muốn đi ngay.",
+          "wrong": [
+            "Chạy đi trước mọi người.",
+            "Đã quên toàn bộ đường về.",
+            "Ngủ say trên ghế."
+          ],
+          "explanation": "Ông còn muốn ngắm công trình nên chưa đi ngay theo đoàn."
+        },
+        {
+          "skill": "vocabulary",
+          "question": "Những nét chạm trổ tinh xảo có đặc điểm gì?",
+          "answer": "Khéo léo và tỉ mỉ.",
+          "wrong": [
+            "Làm vội, không rõ hình.",
+            "Hoàn toàn không có chi tiết.",
+            "Chỉ là vết bẩn tự nhiên."
+          ],
+          "explanation": "Tinh xảo nói về sự tinh vi, khéo léo của sản phẩm."
+        },
+        {
+          "skill": "sentences",
+          "question": "Trong câu Dương nắm tay ông, từ nào nêu hoạt động?",
+          "answer": "nắm",
+          "wrong": [
+            "Dương",
+            "ông",
+            "tay"
+          ],
+          "explanation": "Nắm là việc làm; các từ còn lại gọi người hoặc bộ phận cơ thể."
+        },
+        {
+          "skill": "sentences",
+          "question": "Câu nào giới thiệu một người thân?",
+          "answer": "Ông ngoại là người em rất kính yêu.",
+          "wrong": [
+            "Ông đang đi chậm.",
+            "Bàn tay ông hơi run.",
+            "Ông ơi, cháu yêu ông!"
+          ],
+          "explanation": "Cấu trúc là dùng để giới thiệu; các câu kia nêu hoạt động, đặc điểm hoặc cảm xúc."
+        },
+        {
+          "skill": "spelling",
+          "question": "Tên địa danh nào viết đúng theo bài?",
+          "answer": "Khánh Hoà",
+          "wrong": [
+            "khánh Hoà",
+            "Khánh hoà",
+            "khánh hoà"
+          ],
+          "explanation": "Tên địa lí viết hoa chữ đầu mỗi tiếng."
+        },
+        {
+          "skill": "spelling",
+          "question": "Điền tiếng đúng: Dương ... tay ôm ông.",
+          "answer": "choàng",
+          "wrong": [
+            "chàng",
+            "choàn",
+            "troàng"
+          ],
+          "explanation": "Choàng tay là vòng tay ôm; cần viết đủ vần oang và dấu huyền."
+        },
+        {
+          "skill": "expression",
+          "question": "Đoạn nêu tình cảm với ông sẽ rõ hơn khi có điều gì?",
+          "answer": "Một cử chỉ của ông và cảm xúc của em trước cử chỉ ấy.",
+          "wrong": [
+            "Chỉ lặp em yêu ông thật nhiều.",
+            "Danh sách tất cả nơi du lịch trên thế giới.",
+            "Nhận xét về người không liên quan."
+          ],
+          "explanation": "Cử chỉ cụ thể là căn cứ khiến cảm xúc có sức thuyết phục."
+        },
+        {
+          "skill": "expression",
+          "question": "Khi muốn giúp ông đang đi chậm, lời nào tôn trọng ông?",
+          "answer": "Ông có muốn cháu nắm tay đi cùng không ạ?",
+          "wrong": [
+            "Ông chậm quá, để cháu đi trước!",
+            "Ông không được nói gì nữa!",
+            "Ông phải chạy theo cháu ngay!"
+          ],
+          "explanation": "Hỏi nhẹ nhàng cho ông lựa chọn, vừa quan tâm vừa tôn trọng."
+        }
+      ]
+    }
+  ]
+}
