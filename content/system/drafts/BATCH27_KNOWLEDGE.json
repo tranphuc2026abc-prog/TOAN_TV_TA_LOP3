@@ -1,0 +1,152 @@
+{
+  "lessons": [
+    {
+      "id": "TV3_T1_B21",
+      "objectives": [
+        "Kể đúng ý định và việc làm của Na.",
+        "Phân biệt ánh nắng thật với niềm vui Na mang tới bà.",
+        "Viết lời biết ơn người thân."
+      ],
+      "introduction": "Na chưa thể mang tia nắng vào căn phòng bằng vạt áo, nhưng sự quan tâm trong trẻo của em làm bà vui. Ánh sáng trên mắt cháu còn gợi tình yêu thương.",
+      "rules": [
+        "Kể theo trình tự: bà khó thấy nắng; Na nghĩ cách; mở áo không có nắng; bà vui và Na tiếp tục tới thăm.",
+        "Lời bà vừa nói về ánh sáng trên tóc, mắt vừa thể hiện sự trìu mến; không kết luận Na đã hiểu hết lời bà.",
+        "Khi viết thiệp, gọi đúng người nhận, nhắc một việc cụ thể rồi bày tỏ cảm ơn."
+      ],
+      "common_errors": [
+        "Nói Na đã giữ được tia nắng trong áo.",
+        "Cho rằng bà chê Na không biết làm.",
+        "Chỉ viết lời cảm ơn chung chung mà không nêu việc được giúp."
+      ],
+      "examples": [
+        {
+          "question": "Na có thất bại hoàn toàn khi mở áo không thấy nắng không?",
+          "steps": [
+            "Xét việc Na định làm: mang ánh nắng về phòng.",
+            "Xét cảm xúc bà: bà vui vì cháu quan tâm.",
+            "Kết luận: chưa mang được nắng theo cách em nghĩ, nhưng đã đem niềm vui đến bà."
+          ]
+        }
+      ],
+      "writing_task": {
+        "prompt": "Viết một tấm thiệp nhỏ gửi người thân, nhắc một việc người ấy đã làm cho em và lời cảm ơn.",
+        "check": [
+          "Có người nhận.",
+          "Có việc cụ thể.",
+          "Lời cảm ơn chân thành, câu rõ ý."
+        ]
+      }
+    },
+    {
+      "id": "TV3_T1_B22",
+      "objectives": [
+        "So sánh suy nghĩ trước và sau của Dương về ông.",
+        "Giải thích ý nghĩa chủ động nắm tay ông.",
+        "Nhận diện câu kể và viết tình cảm từ việc làm."
+      ],
+      "introduction": "Từ chỗ quen được ông chăm sóc, Dương nhận ra ông đang già đi và cần sự nâng đỡ. Một cái nắm tay đánh dấu sự trưởng thành trong cách yêu thương của bạn.",
+      "rules": [
+        "Trước chuyến đi Dương thấy ông nhanh nhẹn; trong chuyến đi bạn nhận ra ông chậm và yếu hơn.",
+        "Đưa tay cho ông nắm là chủ động quan tâm, không phải giành quyền quyết định của ông.",
+        "Câu kể có thể giới thiệu, nêu việc làm hoặc đặc điểm; xem mục đích câu trước khi phân loại."
+      ],
+      "common_errors": [
+        "Nhầm ông ngoại thành ông nội.",
+        "Nói ông bị lạc dù nguồn chỉ nói ông chần chừ, rớt lại.",
+        "Viết cảm xúc mà không gắn cử chỉ gợi cảm xúc."
+      ],
+      "examples": [
+        {
+          "question": "Vì sao Dương muốn đổi từ người được dắt sang người đưa tay?",
+          "steps": [
+            "Nhớ ông từng đưa đón, chơi cùng Dương.",
+            "Đối chiếu hình ảnh ông chậm đi trong chuyến tham quan.",
+            "Dương hiểu mình lớn lên còn ông già đi nên muốn giúp ông."
+          ]
+        }
+      ],
+      "writing_task": {
+        "prompt": "Kể một cử chỉ của người thân khiến em xúc động, rồi viết 4–5 câu nêu cảm xúc và điều em muốn làm đáp lại.",
+        "check": [
+          "Cử chỉ rõ ràng.",
+          "Cảm xúc phù hợp.",
+          "Không thêm sự việc chưa từng có vào trải nghiệm thật."
+        ]
+      }
+    },
+    {
+      "id": "TV3_T1_B23",
+      "objectives": [
+        "Tìm chi tiết thể hiện tình cảm hai chiều giữa người kể và em gái.",
+        "Giải thích sở thích vẽ thỏ có đôi.",
+        "Nói về việc làm cùng anh chị em."
+      ],
+      "introduction": "Người kể nhận ra vẻ đáng yêu của em gái từ tiếng cười đến cách làm điệu. Em cũng gắn bó với người kể qua sự mong chờ và cái ôm khi gặp lại.",
+      "rules": [
+        "Tình cảm được thể hiện bằng quan sát cụ thể chứ không chỉ lời nói yêu thương.",
+        "Vẽ thỏ có đôi vì sợ thỏ thiếu bạn cho thấy em quan tâm tới sự gắn bó.",
+        "Khi trao đổi, nói rõ ý, lắng nghe và hỏi lại điều chưa hiểu."
+      ],
+      "common_errors": [
+        "Tự xác định người kể là anh trai dù bài không nêu.",
+        "Nói em vẽ thỏ một mình.",
+        "Kể sở thích của bản thân thay cho sở thích em gái trong bài."
+      ],
+      "examples": [
+        {
+          "question": "Vì sao chi tiết vẽ hai chú thỏ giúp hiểu tính em gái?",
+          "steps": [
+            "Em không chỉ thích vẽ.",
+            "Em lo thỏ không có bạn chơi.",
+            "Chi tiết bộc lộ sự quan tâm và mong có bạn cùng vui."
+          ]
+        }
+      ],
+      "writing_task": {
+        "prompt": "Nói về một việc em cùng anh, chị hoặc em làm. Nếu không có anh chị em, chọn người thân em gần gũi. Viết 2–3 câu về niềm vui khi cùng làm.",
+        "check": [
+          "Nêu việc cụ thể.",
+          "Có người cùng làm.",
+          "Có cảm xúc và lí do."
+        ]
+      }
+    },
+    {
+      "id": "TV3_T1_B24",
+      "objectives": [
+        "Nhớ đúng đặc điểm, việc làm và sở thích của Cúp.",
+        "Tìm dấu hiệu quấn quýt giữa bạn nhỏ và vật nuôi.",
+        "Luyện so sánh và viết đoạn tả đồ vật."
+      ],
+      "introduction": "Chú chó Cúp trở thành người bạn thân thiết trong nhà. Những việc nhỏ như mang khăn, nằm nghe đọc sách và mừng đón bạn đi học về làm nổi bật sự gắn bó.",
+      "rules": [
+        "Cúp có lông trắng khoang đen; không đổi màu lông hoặc đặt thêm tài làm xiếc.",
+        "Cúp thích nghe người kể đọc rồi ngủ; không có căn cứ nói chú hiểu hết nội dung truyện.",
+        "So sánh dùng nét giống nhau để giúp người đọc hình dung; tả đồ vật cần nét bộ phận, công dụng và tình cảm."
+      ],
+      "common_errors": [
+        "Nhầm vật nuôi với đồ đạc.",
+        "Cho rằng Cúp được huấn luyện biểu diễn xiếc.",
+        "Gán việc bắt tay cho chân sau thay vì hai chân trước."
+      ],
+      "examples": [
+        {
+          "question": "Cúp nằm nghe đọc rồi ngủ có cho thấy chú không yêu bạn nhỏ không?",
+          "steps": [
+            "Tìm thêm hành động: chạy đón, mừng rỡ, dụi mõm vào chân.",
+            "Đặt việc ngủ trong cảnh Cúp nằm yên trên lòng.",
+            "Không thể lấy riêng việc ngủ để phủ nhận sự gắn bó."
+          ]
+        }
+      ],
+      "writing_task": {
+        "prompt": "Chọn một đồ vật em yêu thích. Viết đoạn tả hai bộ phận, công dụng và lí do em quý nó; có thể thêm một so sánh phù hợp.",
+        "check": [
+          "Tả đúng đồ vật đã chọn.",
+          "Chi tiết giúp hình dung.",
+          "So sánh có điểm giống rõ, không dùng thay mọi câu tả."
+        ]
+      }
+    }
+  ]
+}

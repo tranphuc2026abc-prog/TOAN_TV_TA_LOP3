@@ -1,3 +1,11 @@
+# Biên soạn kiến thức Batch27 — 10/11/2026
+
+Đã bổ sung bản kiến thức riêng cho đủ TV21–24: mục tiêu, giải thích trọng tâm, lỗi thường gặp, bốn ví dụ có hướng giải, bốn nhiệm vụ nói/viết và tiêu chí tự kiểm. Lưu tại drafts/BATCH27_KNOWLEDGE.json, nối tiếp các ghi chú và câu đọc hiểu đã lưu. Đây là bản biên soạn chưa tích hợp, chưa được tính là bài hoàn thiện; cần hoàn thành ngân hàng câu hỏi/phương án nhiễu, xuất JSON/Markdown riêng, gắn trò chơi và chạy kiểm thử trước khi tăng INDEX.
+
+Checkpoint vẫn101/168 tích hợp,3512 câu,101 trò chơi;4 giáo viên duyệt,97 chờ giáo viên,67 nháp. Không đổi APPROVALS và không tự duyệt. Nguồn đã đọc ở các lượt trước; không nhận là đã đọc lại trong lượt này.
+
+## Lịch sử
+
 # Đã đọc nguồn còn lại Batch27 — 10/11/2026
 
 Đã đọc trực quan trang in104–111/PDF105–112; lưu ghi chú B23 Tôi yêu em tôi và B24 Bạn nhỏ trong nhà trong drafts/BATCH27_B23_B24_SOURCE.json. Trang111 là chuyển chủ điểm; B24 học đến110. Kết hợp ghi chú B21–22 đã lưu, nguồn batch27 nay đã được đọc đủ; chưa hoàn thiện các JSON/Markdown học liệu nên chưa tăng INDEX hoặc tổng tiến độ.
