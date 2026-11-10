@@ -1,3 +1,11 @@
+# Luyện ngôn ngữ TV23–24 — 10/11/2026
+
+Đã bổ sung16 câu mới cho TV23–24: mỗi bài2 từ,2 câu,2 chính tả,2 diễn đạt, đủ đáp án/nhiễu/giải thích. Lưu drafts/BATCH27_B23_B24_LANGUAGE.json. Các ví dụ so sánh và tả hộp bút là tình huống mới, không nhận là chi tiết của truyện Cúp. Kết hợp bản đã lưu, đủ32 câu ngôn ngữ và16 câu đọc hiểu dự thảo cho batch27.
+
+Còn chuẩn hoá phương án nhiễu đọc hiểu TV21–22, xuất4 JSON+4 Markdown, gắn game, chạy kiểm thử đầy đủ rồi mới tăng INDEX. Chưa tích hợp nên giữ101/168,3512 câu,101 trò chơi;4 giáo viên duyệt,97 chờ giáo viên,67 nháp. Không nhận dự thảo là bài đã kiểm tra hoàn chỉnh.
+
+## Lịch sử
+
 # Luyện ngôn ngữ TV21–22 — 10/11/2026
 
 Đã biên soạn16 câu mới: mỗi bài2 từ vựng,2 câu,2 chính tả,2 diễn đạt; có3 nhiễu, đáp án và lời giải. Lưu drafts/BATCH27_B21_B22_LANGUAGE.json. Nội dung gắn Na/bà và Dương/ông, có tình huống liên hệ được trình bày là tình huống mới. Chưa đọc lại ảnh nguồn trong lượt này; dùng các trang đã đọc và ghi chú đã lưu.

@@ -1,0 +1,191 @@
+{
+  "status": "DRAFT_NOT_INTEGRATED",
+  "lessons": [
+    {
+      "id": "TV3_T1_B23",
+      "questions": [
+        {
+          "skill": "vocabulary",
+          "question": "Trong bài thơ, đôi mắt đen ngời gợi đôi mắt thế nào?",
+          "answer": "Đen và sáng, có sức sống.",
+          "wrong": [
+            "Nhắm nghiền vì ngủ.",
+            "Đục mờ không nhìn thấy.",
+            "Đỏ vì bị đau."
+          ],
+          "explanation": "Ngời nhấn mạnh vẻ sáng; kết hợp đen tạo nét đáng yêu của em."
+        },
+        {
+          "skill": "vocabulary",
+          "question": "Nhóm từ nào gọi người có quan hệ cùng thế hệ trong gia đình?",
+          "answer": "Anh, chị, em.",
+          "wrong": [
+            "Ông, bà, cháu.",
+            "Bố, mẹ, con.",
+            "Cô, chú, cháu."
+          ],
+          "explanation": "Anh chị em thuộc cùng thế hệ; không đồng nhất với những quan hệ cách thế hệ."
+        },
+        {
+          "skill": "sentences",
+          "question": "Câu nào nói rõ tình cảm có căn cứ đối với em gái?",
+          "answer": "Em quý em gái vì em luôn chờ và ôm em khi gặp lại.",
+          "wrong": [
+            "Em gái vì rồi.",
+            "Em có một chiếc bàn.",
+            "Trong vườn có nhiều cây."
+          ],
+          "explanation": "Câu nêu tình cảm và việc làm khiến người nói có tình cảm ấy."
+        },
+        {
+          "skill": "sentences",
+          "question": "Câu Em vẽ hai chú thỏ nêu điều gì?",
+          "answer": "Hoạt động của em.",
+          "wrong": [
+            "Nghề nghiệp của em.",
+            "Màu lông hai chú thỏ.",
+            "Lời yêu cầu người khác vẽ."
+          ],
+          "explanation": "Vẽ là hoạt động, hai chú thỏ là đối tượng được vẽ."
+        },
+        {
+          "skill": "spelling",
+          "question": "Tiếng nào viết đúng trong cụm ... dừa?",
+          "answer": "rặng",
+          "wrong": [
+            "dặng",
+            "giặng",
+            "rặn"
+          ],
+          "explanation": "Rặng dừa chỉ các cây dừa mọc thành hàng hoặc dải; tiếng rặng viết r."
+        },
+        {
+          "skill": "spelling",
+          "question": "Chọn từ có vần ương để gọi một loài hoa quen thuộc.",
+          "answer": "Hướng dương.",
+          "wrong": [
+            "Hoa lan.",
+            "Hoa lí.",
+            "Hoa hồng."
+          ],
+          "explanation": "Hai tiếng hướng và dương đều chứa vần ương."
+        },
+        {
+          "skill": "expression",
+          "question": "Khi kể việc làm cùng anh chị em, thông tin nào giúp câu chuyện rõ?",
+          "answer": "Hai người làm gì và giúp nhau ra sao.",
+          "wrong": [
+            "Chỉ kể mọi món ăn từng thấy.",
+            "Chỉ đọc tên bài thơ.",
+            "Đoán chuyện của gia đình bạn khác."
+          ],
+          "explanation": "Việc làm và cách hợp tác gắn trực tiếp với chủ đề tình cảm anh chị em."
+        },
+        {
+          "skill": "expression",
+          "question": "Bạn không có anh chị em thì có thể thực hành nói về ai?",
+          "answer": "Một người thân gần gũi và việc cùng làm với người ấy.",
+          "wrong": [
+            "Phải tự nhận mình có một em gái.",
+            "Bịa tên một người anh.",
+            "Không được nói về gia đình mình."
+          ],
+          "explanation": "Có thể vận dụng chủ đề gắn bó vào trải nghiệm thật, không cần bịa quan hệ gia đình."
+        }
+      ]
+    },
+    {
+      "id": "TV3_T1_B24",
+      "questions": [
+        {
+          "skill": "vocabulary",
+          "question": "Quấn quýt bên nhau diễn tả điều gì giữa Cúp và bạn nhỏ?",
+          "answer": "Gắn bó, thường ở gần nhau.",
+          "wrong": [
+            "Luôn tránh mặt nhau.",
+            "Chỉ gặp khi cãi nhau.",
+            "Không nhận ra nhau."
+          ],
+          "explanation": "Quấn quýt nhấn mạnh sự gần gũi, khó rời nhau."
+        },
+        {
+          "skill": "vocabulary",
+          "question": "Nhóm nào chỉ gồm đồ đạc trong nhà?",
+          "answer": "Ghế, đèn bàn, đồng hồ.",
+          "wrong": [
+            "Cúp, mèo, chim.",
+            "Bà, ông, chị.",
+            "Chạy, ngủ, đọc."
+          ],
+          "explanation": "Ba từ gọi đồ dùng; các nhóm khác gọi vật nuôi, người hoặc hoạt động."
+        },
+        {
+          "skill": "sentences",
+          "question": "Trong câu Đuôi Cúp phe phẩy như chiếc quạt nhỏ, hai hình ảnh được so sánh là gì?",
+          "answer": "Đuôi Cúp và chiếc quạt nhỏ.",
+          "wrong": [
+            "Cúp và quyển sách.",
+            "Chiếc quạt và bàn học.",
+            "Bạn nhỏ và cái giường."
+          ],
+          "explanation": "Từ như nối hai hình ảnh có nét giống về chuyển động phe phẩy."
+        },
+        {
+          "skill": "sentences",
+          "question": "Câu so sánh nào giúp hình dung âm thanh đồng hồ?",
+          "answer": "Tiếng tích tắc đều như bước chân nhỏ.",
+          "wrong": [
+            "Đồng hồ là đồ dùng.",
+            "Đồng hồ để trên bàn.",
+            "Em mua đồng hồ hôm qua."
+          ],
+          "explanation": "So sánh dựa vào nhịp đều của âm thanh, giúp người đọc dễ tưởng tượng."
+        },
+        {
+          "skill": "spelling",
+          "question": "Chọn cách viết đúng tên chú chó trong bài.",
+          "answer": "Cúp",
+          "wrong": [
+            "cúp",
+            "CÚp",
+            "cÚp"
+          ],
+          "explanation": "Tên riêng được viết hoa chữ đầu, không viết hoa tuỳ ý trong tiếng."
+        },
+        {
+          "skill": "spelling",
+          "question": "Điền từ đúng: Cúp ... hai chân trước khi mừng bạn.",
+          "answer": "chồm",
+          "wrong": [
+            "trồm",
+            "chồn",
+            "trồn"
+          ],
+          "explanation": "Chồm là nhô phần thân trước lên; khác chồn là tên một con vật."
+        },
+        {
+          "skill": "expression",
+          "question": "Khi tả đồ vật yêu thích, đoạn nào có chi tiết quan sát?",
+          "answer": "Hộp bút màu xanh, nắp có khoá kéo và đựng vừa bút của em.",
+          "wrong": [
+            "Hộp bút rất hộp bút.",
+            "Hộp bút tốt vì tốt.",
+            "Hộp bút hay vô cùng hay."
+          ],
+          "explanation": "Màu sắc, bộ phận và công dụng giúp người nghe hình dung cụ thể."
+        },
+        {
+          "skill": "expression",
+          "question": "Sau khi đọc đoạn tả đồ vật cho người thân, em nên làm gì với góp ý hợp lí?",
+          "answer": "Sửa chỗ chưa rõ rồi đọc lại.",
+          "wrong": [
+            "Xoá hết mọi chi tiết của mình.",
+            "Chép đoạn của người khác.",
+            "Bỏ qua vì viết xong là đủ."
+          ],
+          "explanation": "Đọc lại sau khi sửa giúp kiểm tra câu và trình tự ý có rõ hơn không."
+        }
+      ]
+    }
+  ]
+}
