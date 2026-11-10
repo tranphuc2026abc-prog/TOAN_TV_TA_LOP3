@@ -1,3 +1,11 @@
+# Nối tiếp nguồn Batch27 — 10/11/2026
+
+Đã đọc thêm trang in99–103 (PDF100–104) trực quan. B21 phần viết: s/x, uôn/uông, làm thiệp bày tỏ tình cảm; B22 đủ trang100–103: Dương và ông ngoại tại Tháp Bà Pô-na-ga, nhận thức về tuổi già, luyện từ hoạt động/đặc điểm và câu kể, viết cảm xúc với người thân. Lưu dự thảo kiến thức và4 câu đọc hiểu B22, chưa tích hợp. B23–24 chưa đọc trong lượt này.
+
+validate_site.py (bao gồm validate_content.py) và hồi quy Batch26 đạt101 kho/3512 câu. Chưa chạy lại DOM vì lượt này chỉ thêm dự thảo ngoài chỉ mục. INDEX và APPROVALS không đổi; Batch27 chưa hoàn thành; tiến độ101/168,4 giáo viên duyệt,97 chờ giáo viên,67 nháp. Tiếp theo đọc trang104–111, hoàn thiện đủ4 bài rồi kiểm thử/tích hợp chung batch.
+
+## Lịch sử
+
 # Chuẩn bị Batch27 — 10/11/2026
 
 Đã đọc trực quan riêng trang in97–98 (PDF98–99), hoàn tất phần truyện Tia nắng bé nhỏ; lưu bốn câu đọc hiểu dự thảo trong drafts/BATCH27_B21_READING.json. Chưa đọc trang99 phần viết và chưa đọc B22–24; chưa tích hợp hoặc tăng số bài/câu/trò chơi. pdftotext trang98–112 chỉ trả15 ký tự xuống trang, nên phải tiếp tục đọc ảnh. Không phải trở ngại cần đính kèm lại: PDF nguồn vẫn truy cập được.

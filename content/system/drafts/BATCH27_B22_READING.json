@@ -1,0 +1,47 @@
+{
+  "id": "TV3_T1_B22",
+  "status": "SOURCE_DRAFT_NOT_INTEGRATED",
+  "source": {
+    "pdf": "03-sgk-tieng-viet-3-tap-mot.pdf",
+    "printed_pages_read": [
+      100,
+      101,
+      102,
+      103
+    ],
+    "method": "Đọc trực quan PDF101–104"
+  },
+  "summary": "Dương đi du lịch Nha Trang cùng bố mẹ và ông ngoại. Ở Tháp Bà Pô-na-ga, ông ngắm các nét chạm trổ, chần chừ rời đi. Dương chạy tới nắm tay ông, nhận ra ông đã già yếu hơn trước và mình cần quan tâm, nâng đỡ ông.",
+  "knowledge": [
+    "Phân biệt suy nghĩ trước chuyến đi (ông nhanh nhẹn) với nhận thức mới (ông không còn khoẻ như trước).",
+    "Từ chỉ hoạt động nêu việc làm; từ chỉ đặc điểm nêu nét của người hoặc vật.",
+    "Câu kể có thể giới thiệu, nêu hoạt động hoặc đặc điểm; câu bộc lộ cảm xúc có mục đích khác."
+  ],
+  "questions": [
+    {
+      "question": "Điều gì làm Dương thay đổi cách nhìn về sức khoẻ của ông?",
+      "answer": "Dương thấy ông chậm chạp, ngơ ngác khi mình nắm tay dắt ông theo đoàn.",
+      "evidence": "Trang100–101.",
+      "explanation": "Trải nghiệm thực tế khiến Dương nhận ra ông đang già đi, khác suy nghĩ ông luôn nhanh nhẹn."
+    },
+    {
+      "question": "Vì sao ông bị rớt lại phía sau đoàn?",
+      "answer": "Ông chần chừ vì còn muốn ngắm công trình.",
+      "evidence": "Trang100.",
+      "explanation": "Không có căn cứ cho rằng ông cố tình bỏ đoàn hoặc bị lạc."
+    },
+    {
+      "question": "Ý nghĩ đưa tay cho ông nắm cho thấy Dương muốn làm gì?",
+      "answer": "Chủ động chăm sóc ông khi mình lớn lên.",
+      "evidence": "Kết truyện trang101.",
+      "explanation": "Hình ảnh đổi vai từ được ông dẫn dắt sang giúp ông thể hiện sự trưởng thành."
+    },
+    {
+      "question": "Khi nhớ chuyện ông đưa đón đi học và chơi với mình, Dương nhận ra điều gì?",
+      "answer": "Ông từng chăm sóc mình nhiều, còn hiện tại ông cũng cần được quan tâm.",
+      "evidence": "Cuối trang100 và đầu101.",
+      "explanation": "Kết nối kỉ niệm với hiện tại giúp hiểu tình cảm và trách nhiệm của Dương."
+    }
+  ],
+  "writing_task": "Viết đoạn nêu tình cảm với người thân từ một cử chỉ hoặc việc làm cụ thể; đọc lại để sửa dùng từ, câu và trình tự ý."
+}
