@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09",
+  "updated": "2026-11-10",
   "total": 168,
   "counts": {
     "math": 81,
@@ -1226,48 +1226,48 @@
       "subject": "tv",
       "volume": "Tập 1",
       "title": "Tia nắng bé nhỏ",
-      "path": null,
-      "markdown": null,
-      "question_count": null,
-      "game_count": null,
-      "status": "BAN_NHAP",
-      "note": "Có bài mẫu hoặc bản nháp tự động; chưa kiểm định từng bài."
+      "path": "content/tieng-viet/tap-1/TV3_T1_B21.json",
+      "markdown": "content/tieng-viet/tap-1/TV3_T1_B21.md",
+      "question_count": 12,
+      "game_count": 1,
+      "status": "CAN_RA_SOAT",
+      "note": "AI đã rà soát nguồn, đáp án; chờ giáo viên thẩm định."
     },
     {
       "id": "TV3_T1_B22",
       "subject": "tv",
       "volume": "Tập 1",
       "title": "Để cháu nắm tay ông",
-      "path": null,
-      "markdown": null,
-      "question_count": null,
-      "game_count": null,
-      "status": "BAN_NHAP",
-      "note": "Có bài mẫu hoặc bản nháp tự động; chưa kiểm định từng bài."
+      "path": "content/tieng-viet/tap-1/TV3_T1_B22.json",
+      "markdown": "content/tieng-viet/tap-1/TV3_T1_B22.md",
+      "question_count": 12,
+      "game_count": 1,
+      "status": "CAN_RA_SOAT",
+      "note": "AI đã rà soát nguồn, đáp án; chờ giáo viên thẩm định."
     },
     {
       "id": "TV3_T1_B23",
       "subject": "tv",
       "volume": "Tập 1",
       "title": "Tôi yêu em tôi",
-      "path": null,
-      "markdown": null,
-      "question_count": null,
-      "game_count": null,
-      "status": "BAN_NHAP",
-      "note": "Có bài mẫu hoặc bản nháp tự động; chưa kiểm định từng bài."
+      "path": "content/tieng-viet/tap-1/TV3_T1_B23.json",
+      "markdown": "content/tieng-viet/tap-1/TV3_T1_B23.md",
+      "question_count": 12,
+      "game_count": 1,
+      "status": "CAN_RA_SOAT",
+      "note": "AI đã rà soát nguồn, đáp án; chờ giáo viên thẩm định."
     },
     {
       "id": "TV3_T1_B24",
       "subject": "tv",
       "volume": "Tập 1",
       "title": "Bạn nhỏ trong nhà",
-      "path": null,
-      "markdown": null,
-      "question_count": null,
-      "game_count": null,
-      "status": "BAN_NHAP",
-      "note": "Có bài mẫu hoặc bản nháp tự động; chưa kiểm định từng bài."
+      "path": "content/tieng-viet/tap-1/TV3_T1_B24.json",
+      "markdown": "content/tieng-viet/tap-1/TV3_T1_B24.md",
+      "question_count": 12,
+      "game_count": 1,
+      "status": "CAN_RA_SOAT",
+      "note": "AI đã rà soát nguồn, đáp án; chờ giáo viên thẩm định."
     },
     {
       "id": "TV3_T1_B25",

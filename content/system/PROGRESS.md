@@ -1,3 +1,9 @@
+# Batch27 tích hợp TV21–24 — 10/11/2026
+
+Đã tích hợp4 JSON+4 Markdown,48 câu và4 trò chơi,10 câu/lượt từ nguồn đã đọc và bản thảo đã lưu. npm test đạt validate_site/content, toàn bộ hồi quy, DOM105 kho và lưu/nạp wl3; không kiểm thử bố cục Chromium. Tổng105/168,3560 câu,105 trò chơi;Toán81,TV24,TA0. Giáo viên duyệt4,101 chờ,63 nháp. APPROVALS không đổi. Tiếp theo Batch28 TV25–28 cần đọc nguồn. Actions/Pages cần xác minh sau commit; chưa hoàn thành toàn dự án.
+
+## Lịch sử
+
 # Luyện ngôn ngữ TV23–24 — 10/11/2026
 
 Đã bổ sung16 câu mới cho TV23–24: mỗi bài2 từ,2 câu,2 chính tả,2 diễn đạt, đủ đáp án/nhiễu/giải thích. Lưu drafts/BATCH27_B23_B24_LANGUAGE.json. Các ví dụ so sánh và tả hộp bút là tình huống mới, không nhận là chi tiết của truyện Cúp. Kết hợp bản đã lưu, đủ32 câu ngôn ngữ và16 câu đọc hiểu dự thảo cho batch27.

@@ -1,0 +1,320 @@
+{
+  "id": "TV3_T1_B23",
+  "subject": "tv",
+  "grade": 3,
+  "book": "Kết nối tri thức với cuộc sống",
+  "volume": 1,
+  "lesson_no": 23,
+  "title": "Tôi yêu em tôi",
+  "topic": "Mái nhà yêu thương",
+  "source": {
+    "pdf": "03-sgk-tieng-viet-3-tap-mot.pdf",
+    "printed_pages": [
+      104,
+      106
+    ],
+    "pdf_pages": [
+      105,
+      107
+    ],
+    "review": "Nguồn đã đọc trực quan trong các lượt trước; đối chiếu các ghi chú BATCH27 đã lưu. B24 kết thúc110;111 chuyển chủ điểm. Không chép toàn văn."
+  },
+  "objectives": [
+    "Tìm chi tiết thể hiện tình cảm hai chiều giữa người kể và em gái.",
+    "Giải thích sở thích vẽ thỏ có đôi.",
+    "Nói về việc làm cùng anh chị em."
+  ],
+  "reading": {
+    "summary": "Người kể nhận ra vẻ đáng yêu của em gái từ tiếng cười đến cách làm điệu. Em cũng gắn bó với người kể qua sự mong chờ và cái ôm khi gặp lại.",
+    "characters_or_images": [
+      "Người kể",
+      "Em gái"
+    ],
+    "message": "Tình cảm được thể hiện bằng quan sát cụ thể chứ không chỉ lời nói yêu thương."
+  },
+  "knowledge": {
+    "introduction": "Người kể nhận ra vẻ đáng yêu của em gái từ tiếng cười đến cách làm điệu. Em cũng gắn bó với người kể qua sự mong chờ và cái ôm khi gặp lại.",
+    "rules": [
+      "Tình cảm được thể hiện bằng quan sát cụ thể chứ không chỉ lời nói yêu thương.",
+      "Vẽ thỏ có đôi vì sợ thỏ thiếu bạn cho thấy em quan tâm tới sự gắn bó.",
+      "Khi trao đổi, nói rõ ý, lắng nghe và hỏi lại điều chưa hiểu."
+    ],
+    "common_errors": [
+      "Tự xác định người kể là anh trai dù bài không nêu.",
+      "Nói em vẽ thỏ một mình.",
+      "Kể sở thích của bản thân thay cho sở thích em gái trong bài."
+    ],
+    "steps": [
+      "Đọc bài ở trang nguồn.",
+      "Tìm chi tiết làm căn cứ trước khi trả lời.",
+      "Luyện nói, viết và tự sửa theo tiêu chí."
+    ]
+  },
+  "language_practice": {
+    "vocabulary": [
+      "Trong bài thơ, đôi mắt đen ngời gợi đôi mắt thế nào? Đáp án: Đen và sáng, có sức sống. Ngời nhấn mạnh vẻ sáng; kết hợp đen tạo nét đáng yêu của em.",
+      "Nhóm từ nào gọi người có quan hệ cùng thế hệ trong gia đình? Đáp án: Anh, chị, em. Anh chị em thuộc cùng thế hệ; không đồng nhất với những quan hệ cách thế hệ."
+    ],
+    "sentences": [
+      "Câu nào nói rõ tình cảm có căn cứ đối với em gái? Đáp án: Em quý em gái vì em luôn chờ và ôm em khi gặp lại. Câu nêu tình cảm và việc làm khiến người nói có tình cảm ấy.",
+      "Câu Em vẽ hai chú thỏ nêu điều gì? Đáp án: Hoạt động của em. Vẽ là hoạt động, hai chú thỏ là đối tượng được vẽ."
+    ],
+    "spelling": [
+      "Tiếng nào viết đúng trong cụm ... dừa? Đáp án: rặng Rặng dừa chỉ các cây dừa mọc thành hàng hoặc dải; tiếng rặng viết r.",
+      "Chọn từ có vần ương để gọi một loài hoa quen thuộc. Đáp án: Hướng dương. Hai tiếng hướng và dương đều chứa vần ương."
+    ],
+    "expression": [
+      "Khi kể việc làm cùng anh chị em, thông tin nào giúp câu chuyện rõ? Đáp án: Hai người làm gì và giúp nhau ra sao. Việc làm và cách hợp tác gắn trực tiếp với chủ đề tình cảm anh chị em.",
+      "Bạn không có anh chị em thì có thể thực hành nói về ai? Đáp án: Một người thân gần gũi và việc cùng làm với người ấy. Có thể vận dụng chủ đề gắn bó vào trải nghiệm thật, không cần bịa quan hệ gia đình."
+    ]
+  },
+  "examples": [
+    {
+      "question": "Vì sao chi tiết vẽ hai chú thỏ giúp hiểu tính em gái?",
+      "steps": [
+        "Em không chỉ thích vẽ.",
+        "Em lo thỏ không có bạn chơi.",
+        "Chi tiết bộc lộ sự quan tâm và mong có bạn cùng vui."
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "title": "Thực hành theo bài",
+      "materials": [
+        "Vở",
+        "Bút"
+      ],
+      "steps": [
+        "Nói về một việc em cùng anh, chị hoặc em làm. Nếu không có anh chị em, chọn người thân em gần gũi. Viết 2–3 câu về niềm vui khi cùng làm.",
+        "Đọc cho người thân nghe rồi sửa một ý chưa rõ."
+      ],
+      "check": [
+        "Nêu việc cụ thể.",
+        "Có người cùng làm.",
+        "Có cảm xúc và lí do."
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "question_id": "TV3_T1_B23_Q01",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Điều gì khiến em gái vẽ thỏ thành đôi?",
+      "correct_answer": "Em lo một chú thỏ sẽ không có bạn chơi.",
+      "options": [
+        "Em lo một chú thỏ sẽ không có bạn chơi.",
+        "Em chỉ có hai bút màu.",
+        "Người kể bắt em vẽ đúng hai con.",
+        "Em không thích các con vật khác."
+      ],
+      "explanation": "Sở thích vẽ cho thấy em quan tâm tới sự có đôi, có bạn.",
+      "evidence": "Trang105: em thích vẽ thỏ có đôi vì sợ thỏ một mình."
+    },
+    {
+      "question_id": "TV3_T1_B23_Q02",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Chi tiết nào thể hiện em gái nhớ người kể khi xa nhau lâu?",
+      "correct_answer": "Em mong, nhắc và ôm chặt khi gặp lại.",
+      "options": [
+        "Em mong, nhắc và ôm chặt khi gặp lại.",
+        "Em bỏ đi không chào.",
+        "Em giấu hết giấy vẽ.",
+        "Em chỉ nhìn hoa trong vườn."
+      ],
+      "explanation": "Chờ đợi và cái ôm là biểu hiện trực tiếp của sự gắn bó.",
+      "evidence": "Trang104: khổ thơ nói về lúc người kể đi lâu."
+    },
+    {
+      "question_id": "TV3_T1_B23_Q03",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Cách em gái làm điệu gắn với vật gì?",
+      "correct_answer": "Những bông hoa em nhặt cài đầu.",
+      "options": [
+        "Những bông hoa em nhặt cài đầu.",
+        "Một chiếc đồng hồ báo thức.",
+        "Chiếc khăn lau nhà.",
+        "Một trái banh dưới giường."
+      ],
+      "explanation": "Chi tiết hoa cài đầu làm nổi bật nét hồn nhiên, đáng yêu của em.",
+      "evidence": "Trang104: khổ thơ về hoa lan, hoa lí."
+    },
+    {
+      "question_id": "TV3_T1_B23_Q04",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Bài thơ có cho biết người xưng tôi chắc chắn là anh trai không?",
+      "correct_answer": "Không, phần thơ được đọc không xác định điều ấy.",
+      "options": [
+        "Không, phần thơ được đọc không xác định điều ấy.",
+        "Có, vì ai xưng tôi cũng là con trai.",
+        "Có, vì em gái chỉ có anh trai.",
+        "Có, vì người kể chơi bóng đá."
+      ],
+      "explanation": "Cần giữ thông tin đúng văn bản, không suy đoán giới tính từ đại từ tôi.",
+      "evidence": "Trang104–105: người kể xưng tôi, nói về em gái."
+    },
+    {
+      "question_id": "TV3_T1_B23_Q05",
+      "type": "mcq",
+      "skill": "vocabulary",
+      "question": "Trong bài thơ, đôi mắt đen ngời gợi đôi mắt thế nào?",
+      "correct_answer": "Đen và sáng, có sức sống.",
+      "options": [
+        "Đen và sáng, có sức sống.",
+        "Nhắm nghiền vì ngủ.",
+        "Đục mờ không nhìn thấy.",
+        "Đỏ vì bị đau."
+      ],
+      "explanation": "Ngời nhấn mạnh vẻ sáng; kết hợp đen tạo nét đáng yêu của em."
+    },
+    {
+      "question_id": "TV3_T1_B23_Q06",
+      "type": "mcq",
+      "skill": "vocabulary",
+      "question": "Nhóm từ nào gọi người có quan hệ cùng thế hệ trong gia đình?",
+      "correct_answer": "Anh, chị, em.",
+      "options": [
+        "Anh, chị, em.",
+        "Ông, bà, cháu.",
+        "Bố, mẹ, con.",
+        "Cô, chú, cháu."
+      ],
+      "explanation": "Anh chị em thuộc cùng thế hệ; không đồng nhất với những quan hệ cách thế hệ."
+    },
+    {
+      "question_id": "TV3_T1_B23_Q07",
+      "type": "mcq",
+      "skill": "sentences",
+      "question": "Câu nào nói rõ tình cảm có căn cứ đối với em gái?",
+      "correct_answer": "Em quý em gái vì em luôn chờ và ôm em khi gặp lại.",
+      "options": [
+        "Em quý em gái vì em luôn chờ và ôm em khi gặp lại.",
+        "Em gái vì rồi.",
+        "Em có một chiếc bàn.",
+        "Trong vườn có nhiều cây."
+      ],
+      "explanation": "Câu nêu tình cảm và việc làm khiến người nói có tình cảm ấy."
+    },
+    {
+      "question_id": "TV3_T1_B23_Q08",
+      "type": "mcq",
+      "skill": "sentences",
+      "question": "Câu Em vẽ hai chú thỏ nêu điều gì?",
+      "correct_answer": "Hoạt động của em.",
+      "options": [
+        "Hoạt động của em.",
+        "Nghề nghiệp của em.",
+        "Màu lông hai chú thỏ.",
+        "Lời yêu cầu người khác vẽ."
+      ],
+      "explanation": "Vẽ là hoạt động, hai chú thỏ là đối tượng được vẽ."
+    },
+    {
+      "question_id": "TV3_T1_B23_Q09",
+      "type": "mcq",
+      "skill": "spelling",
+      "question": "Tiếng nào viết đúng trong cụm ... dừa?",
+      "correct_answer": "rặng",
+      "options": [
+        "rặng",
+        "dặng",
+        "giặng",
+        "rặn"
+      ],
+      "explanation": "Rặng dừa chỉ các cây dừa mọc thành hàng hoặc dải; tiếng rặng viết r."
+    },
+    {
+      "question_id": "TV3_T1_B23_Q10",
+      "type": "mcq",
+      "skill": "spelling",
+      "question": "Chọn từ có vần ương để gọi một loài hoa quen thuộc.",
+      "correct_answer": "Hướng dương.",
+      "options": [
+        "Hướng dương.",
+        "Hoa lan.",
+        "Hoa lí.",
+        "Hoa hồng."
+      ],
+      "explanation": "Hai tiếng hướng và dương đều chứa vần ương."
+    },
+    {
+      "question_id": "TV3_T1_B23_Q11",
+      "type": "mcq",
+      "skill": "expression",
+      "question": "Khi kể việc làm cùng anh chị em, thông tin nào giúp câu chuyện rõ?",
+      "correct_answer": "Hai người làm gì và giúp nhau ra sao.",
+      "options": [
+        "Hai người làm gì và giúp nhau ra sao.",
+        "Chỉ kể mọi món ăn từng thấy.",
+        "Chỉ đọc tên bài thơ.",
+        "Đoán chuyện của gia đình bạn khác."
+      ],
+      "explanation": "Việc làm và cách hợp tác gắn trực tiếp với chủ đề tình cảm anh chị em."
+    },
+    {
+      "question_id": "TV3_T1_B23_Q12",
+      "type": "mcq",
+      "skill": "expression",
+      "question": "Bạn không có anh chị em thì có thể thực hành nói về ai?",
+      "correct_answer": "Một người thân gần gũi và việc cùng làm với người ấy.",
+      "options": [
+        "Một người thân gần gũi và việc cùng làm với người ấy.",
+        "Phải tự nhận mình có một em gái.",
+        "Bịa tên một người anh.",
+        "Không được nói về gia đình mình."
+      ],
+      "explanation": "Có thể vận dụng chủ đề gắn bó vào trải nghiệm thật, không cần bịa quan hệ gia đình."
+    }
+  ],
+  "games": [
+    {
+      "id": "TV3_T1_B23_GAME",
+      "title": "Kho báu: Tôi yêu em tôi",
+      "mode": "treasure",
+      "objective": "Tìm kho báu bằng cách hiểu chi tiết và dùng tiếng Việt đúng theo bài.",
+      "rules": [
+        "Trả lời 10 câu được chọn từ chính bài này.",
+        "Mỗi đáp án đúng được 10 điểm; đọc phản hồi để hiểu và sửa câu sai.",
+        "Chơi lại để gặp một bộ câu khác."
+      ],
+      "question_ids": [
+        "TV3_T1_B23_Q01",
+        "TV3_T1_B23_Q02",
+        "TV3_T1_B23_Q03",
+        "TV3_T1_B23_Q04",
+        "TV3_T1_B23_Q05",
+        "TV3_T1_B23_Q06",
+        "TV3_T1_B23_Q07",
+        "TV3_T1_B23_Q08",
+        "TV3_T1_B23_Q09",
+        "TV3_T1_B23_Q10",
+        "TV3_T1_B23_Q11",
+        "TV3_T1_B23_Q12"
+      ],
+      "answer_source": "practice.correct_answer",
+      "feedback_source": "practice.explanation",
+      "max_score": 100
+    }
+  ],
+  "assessment": {
+    "session_size": 10,
+    "scoring": "Mỗi câu đúng được tính điểm theo hệ thống; 8–10 câu đúng: nắm tốt, 5–7: đọc lại phần còn nhầm, dưới 5: đọc bài cùng người thân rồi thử lại. Nhiệm vụ nói/viết tự kiểm theo tiêu chí, không chấm bằng một đáp án duy nhất.",
+    "review_advice": "Sau lượt luyện, chọn một câu sai để giải thích lại. Với nói/viết: đúng chi tiết hoặc trải nghiệm thật, đủ ý, câu rõ, chính tả đúng; sửa ít nhất một điểm trước khi hoàn tất."
+  },
+  "feedback": {
+    "correct": "Em đã chọn phù hợp. Đọc lời giải để nhắc lại căn cứ.",
+    "incorrect": "Đọc lại câu hỏi và chi tiết liên quan; xem lời giải để biết vì sao."
+  },
+  "verification": {
+    "ai_authored": true,
+    "structure_checked": true,
+    "answer_reviewed": true,
+    "source_reviewed": true,
+    "teacher_approved": false
+  },
+  "status": "AI_CHECKED_AWAITING_TEACHER"
+}
