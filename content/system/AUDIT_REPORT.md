@@ -1,3 +1,11 @@
+# Câu đọc hiểu bổ sung Batch27 — 10/11/2026
+
+Đã biên soạn8 câu đọc hiểu riêng cho TV23–24, đủ đáp án,3 phương án nhiễu, lời giải và căn cứ trang; lưu drafts/BATCH27_B23_B24_READING.json. Nối tiếp8 câu dự thảo TV21–22 đã có, nay đủ16 câu đọc hiểu dự thảo cho4 bài. Các câu mới phân biệt suy đoán giới tính người kể, sở thích vẽ thỏ, hoa cài đầu, Cúp nghe đọc/ngủ và việc chưa học làm xiếc.
+
+Chưa hoàn thiện phần luyện ngôn ngữ và chưa xuất/tích hợp4 JSON+4 Markdown; không tăng INDEX. Tiến độ vẫn101/168,3512 câu,101 trò chơi;4 giáo viên duyệt,97 chờ,67 nháp. Bước tiếp nối:8 câu ngôn ngữ mỗi bài, xuất học liệu rồi chạy validator/hồi quy/DOM và xác minh triển khai. Không nhận các dự thảo là AI_CHECKED_AWAITING_TEACHER khi chưa hoàn tất kiểm tra tích hợp.
+
+## Lịch sử
+
 # Biên soạn kiến thức Batch27 — 10/11/2026
 
 Đã bổ sung bản kiến thức riêng cho đủ TV21–24: mục tiêu, giải thích trọng tâm, lỗi thường gặp, bốn ví dụ có hướng giải, bốn nhiệm vụ nói/viết và tiêu chí tự kiểm. Lưu tại drafts/BATCH27_KNOWLEDGE.json, nối tiếp các ghi chú và câu đọc hiểu đã lưu. Đây là bản biên soạn chưa tích hợp, chưa được tính là bài hoàn thiện; cần hoàn thành ngân hàng câu hỏi/phương án nhiễu, xuất JSON/Markdown riêng, gắn trò chơi và chạy kiểm thử trước khi tăng INDEX.

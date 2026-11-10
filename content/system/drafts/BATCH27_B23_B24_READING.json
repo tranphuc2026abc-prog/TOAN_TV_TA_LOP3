@@ -1,0 +1,104 @@
+{
+  "status": "DRAFT_NOT_INTEGRATED",
+  "source_review": "Biên soạn từ các trang nguồn đã đọc trực quan và ghi chú đã commit; chưa đọc lại ảnh trong lượt này.",
+  "lessons": [
+    {
+      "id": "TV3_T1_B23",
+      "questions": [
+        {
+          "question": "Điều gì khiến em gái vẽ thỏ thành đôi?",
+          "answer": "Em lo một chú thỏ sẽ không có bạn chơi.",
+          "wrong": [
+            "Em chỉ có hai bút màu.",
+            "Người kể bắt em vẽ đúng hai con.",
+            "Em không thích các con vật khác."
+          ],
+          "explanation": "Sở thích vẽ cho thấy em quan tâm tới sự có đôi, có bạn.",
+          "evidence": "Trang105: em thích vẽ thỏ có đôi vì sợ thỏ một mình."
+        },
+        {
+          "question": "Chi tiết nào thể hiện em gái nhớ người kể khi xa nhau lâu?",
+          "answer": "Em mong, nhắc và ôm chặt khi gặp lại.",
+          "wrong": [
+            "Em bỏ đi không chào.",
+            "Em giấu hết giấy vẽ.",
+            "Em chỉ nhìn hoa trong vườn."
+          ],
+          "explanation": "Chờ đợi và cái ôm là biểu hiện trực tiếp của sự gắn bó.",
+          "evidence": "Trang104: khổ thơ nói về lúc người kể đi lâu."
+        },
+        {
+          "question": "Cách em gái làm điệu gắn với vật gì?",
+          "answer": "Những bông hoa em nhặt cài đầu.",
+          "wrong": [
+            "Một chiếc đồng hồ báo thức.",
+            "Chiếc khăn lau nhà.",
+            "Một trái banh dưới giường."
+          ],
+          "explanation": "Chi tiết hoa cài đầu làm nổi bật nét hồn nhiên, đáng yêu của em.",
+          "evidence": "Trang104: khổ thơ về hoa lan, hoa lí."
+        },
+        {
+          "question": "Bài thơ có cho biết người xưng tôi chắc chắn là anh trai không?",
+          "answer": "Không, phần thơ được đọc không xác định điều ấy.",
+          "wrong": [
+            "Có, vì ai xưng tôi cũng là con trai.",
+            "Có, vì em gái chỉ có anh trai.",
+            "Có, vì người kể chơi bóng đá."
+          ],
+          "explanation": "Cần giữ thông tin đúng văn bản, không suy đoán giới tính từ đại từ tôi.",
+          "evidence": "Trang104–105: người kể xưng tôi, nói về em gái."
+        }
+      ]
+    },
+    {
+      "id": "TV3_T1_B24",
+      "questions": [
+        {
+          "question": "Hành động nào của Cúp xảy ra khi nghe người kể đọc truyện?",
+          "answer": "Nằm yên trên lòng rồi ngủ.",
+          "wrong": [
+            "Nhảy qua vòng làm xiếc.",
+            "Chạy đến trường tìm bạn.",
+            "Đọc to từng trang sách."
+          ],
+          "explanation": "Cúp thích ở gần nghe đọc nhưng truyện không nói chú hiểu hoặc tự đọc sách.",
+          "evidence": "Trang107: đoạn kể sở thích nghe đọc truyện."
+        },
+        {
+          "question": "Điều nào đúng về những việc Cúp biết làm?",
+          "answer": "Lấy trái banh dưới giường và mang khăn lau nhà.",
+          "wrong": [
+            "Biểu diễn xiếc chuyên nghiệp.",
+            "Viết thiệp sinh nhật.",
+            "Tự đạp xe đi học."
+          ],
+          "explanation": "Những việc nhỏ trong nhà là khả năng được văn bản kể rõ; người kể chưa dạy Cúp làm xiếc.",
+          "evidence": "Trang107: đoạn sau khi đặt tên Cúp."
+        },
+        {
+          "question": "Khi bạn nhỏ đi học về, Cúp thể hiện tình cảm thế nào?",
+          "answer": "Chạy ra mừng rỡ rồi dụi mõm vào chân bạn.",
+          "wrong": [
+            "Trốn mãi và không đến gần.",
+            "Cào rách sách để giận bạn.",
+            "Chạy sang nhà khác ở luôn."
+          ],
+          "explanation": "Chuỗi hành động đón, mừng và gần gũi thể hiện sự quấn quýt.",
+          "evidence": "Trang108: đoạn kết truyện."
+        },
+        {
+          "question": "Nhóm chi tiết nào đúng với dáng vẻ Cúp ngày đầu về nhà?",
+          "answer": "Lông trắng khoang đen, mắt tròn xoe.",
+          "wrong": [
+            "Lông vàng toàn thân, mắt nhắm tịt.",
+            "Lông xám sọc đỏ, đuôi dài như chổi.",
+            "Không có lông, tai xanh."
+          ],
+          "explanation": "Cần dựa vào chi tiết ngoại hình được kể, không đổi màu hoặc thêm đặc điểm tưởng tượng.",
+          "evidence": "Trang107: đoạn đầu tả chú chó mới tới."
+        }
+      ]
+    }
+  ]
+}
