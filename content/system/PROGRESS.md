@@ -1,3 +1,17 @@
+# Checkpoint xác minh Batch 34–35 — 14/11/2026
+
+- Đã hoàn thiện8 bài Tiếng Việt tập2 B17–B24,96 câu mới,8 trò chơi,16 ví dụ có lời giải; mỗi batch4 bài commit riêng:
+  - Batch34: https://github.com/tranphuc2026abc-prog/TOAN_TV_TA_LOP3/commit/433d79ed72df40ce3b050c3841279774d0b1ab88
+  - Batch35: https://github.com/tranphuc2026abc-prog/TOAN_TV_TA_LOP3/commit/afd1352e40935fc3e62f3209301bd02e4ff537bf
+- Tổng AI đã biên soạn137/168, AI đã kiểm tra137/168; giáo viên đã duyệt4(Toán1–4),133 chờ giáo viên. Toán81/81,TV56/62,TA0/25;3944 câu và137 trò chơi. Còn31 mục(TV6,TA25).
+- Batch35 ref main đã xác nhận afd1352e40935fc3e62f3209301bd02e4ff537bf; Actions43598197897 và43598197153 completed/success. Pages trả HTTP200, SHA-256 trùng chính xác cho8 tệp JSON/Markdown B21–B24, INDEX.json và danh mục.
+- Batch34 Actions43597561758/43597561452 completed/success và8 tệp bài17–20 đã đối chiếu Pages khớp. Lưu nguyên lịch sử kiểm tra nguồn và sửa mốc trang ở các mục dưới.
+- npm test exit0 trên137 kho: validate_site.py/validate_content.py, mọi hồi quy cũ và batch34/35, test_content_dom.cjs cùng test_vietnamese_dom.cjs. Không bỏ kiểm thử Toán hoặc các bài TV trước.
+- Chromium có sẵn nhưng thử14/11 vẫn exit134 vì socket/ptrace bị chặn trước render; chỉ xác nhận DOM jsdom, chưa xác nhận bố cục Chromium.
+- Checkpoint nội dung: tiếp tục TV3_T2_B25–B28. B25 mới xem trang mở đầu111 để sửa mốc danh mục, chưa đọc đủ bài, chưa biên soạn và không tính hoàn thiện. Sau đó B29–B30; đọc nguồn đầy đủ trước khi làm.
+- Trước khi bắt đầu tiếng Anh cần mở rộng renderer/validator/test theo cấu trúc TA, đủ từ vựng nghĩa Việt/ví dụ/mẫu câu/phát âm/đọc viết nói; giọng máy phải ghi rõ. Không áp ngân hàng40 câu hoặc phân mức Toán cho TA.
+- Chưa đủ168/168; chưa tạo bàn giao hoàn tất, chưa dừng tác vụ. Không cần giáo viên phê duyệt giữa các batch; tất cả bài mới giữ AI_CHECKED_AWAITING_TEACHER.
+
 # Batch 35 — Tiếng Việt tập 2 bài 21–24 — 14/11/2026
 
 - Nối tiếp commit 433d79ed72df40ce3b050c3841279774d0b1ab88; hoàn thiện Nhà rông, Sự tích ông Đùng bà Đùng, Hai Bà Trưng, Cùng Bác qua suối.
