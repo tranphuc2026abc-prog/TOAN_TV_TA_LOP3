@@ -1,0 +1,380 @@
+{
+  "id": "TA3_T2_U14",
+  "subject": "ta",
+  "grade": 3,
+  "book": "Kết nối tri thức với cuộc sống",
+  "volume": 2,
+  "lesson_no": 14,
+  "title": "Unit 14: My bedroom",
+  "topic": "English Global Success",
+  "source": {
+    "pdf": "03-sgk-tieng-anh-3-tap-2-global-success.pdf",
+    "printed_pages": [
+      24,
+      29
+    ],
+    "pdf_pages": [
+      25,
+      30
+    ],
+    "review": "Đã đọc trực quan đầy đủ trang nguồn PDF ảnh quét ngày14/11/2026. Biên soạn tình huống, ví dụ và câu hỏi mới; không đăng toàn văn hay sao chép hệ thống bài tập SGK; không có bản thu âm sách."
+  },
+  "objectives": [
+    "Hiểu và dùng đúng: Giới thiệu đồ trong phòng bằng There is/are và miêu tả to/nhỏ, mới/cũ.",
+    "Đọc, viết và thực hành nói theo tình huống mới.",
+    "Nhận biết trọng tâm phát âm và luyện nghe bằng giọng máy có ghi nhãn."
+  ],
+  "knowledge": {
+    "introduction": "Giới thiệu đồ trong phòng bằng There is/are và miêu tả to/nhỏ, mới/cũ.",
+    "rules": [
+      "There's a desk in the room. → Có một bàn học trong phòng. There's = There is.",
+      "There are two chairs in the room. → Có hai ghế trong phòng.",
+      "The door is big. The windows are small. → Cửa lớn. Các cửa sổ nhỏ.",
+      "Một đồ: is/It's. Nhiều đồ: are/They're. Kích thước khác tình trạng mới/cũ."
+    ],
+    "steps": [
+      "Đọc từ và nghĩa, quan sát tình huống trước khi chọn cách nói.",
+      "Nghe từ bằng giọng máy nếu thiết bị hỗ trợ, đọc lại chậm theo hướng dẫn phát âm.",
+      "Làm câu hỏi, xem giải thích rồi thực hành nói và viết theo nhiệm vụ."
+    ],
+    "common_errors": [
+      "Dùng There is two hoặc bỏ s trong two windows.",
+      "Gán đặc điểm vật này sang vật khác; nhầm new/old với kích thước."
+    ]
+  },
+  "examples": [
+    {
+      "question": "Đồ dùng desk trong phòng ngủ là gì?",
+      "steps": [
+        "Nhận diện yêu cầu: vocabulary",
+        "Desk là bàn học hoặc làm việc, khác bed, window, door.",
+        "Đáp án: Bàn học/bàn làm việc."
+      ]
+    },
+    {
+      "question": "Cặp tính từ nào đối nghĩa khi tả kích thước?",
+      "steps": [
+        "Nhận diện yêu cầu: vocabulary",
+        "Big là to/lớn, small là nhỏ; new/old nói mới/cũ chứ không phải kích thước.",
+        "Đáp án: big và small"
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "title": "Thực hành theo cặp: Unit 14: My bedroom",
+      "materials": [
+        "Giấy",
+        "Bút",
+        "Thẻ tự làm"
+      ],
+      "steps": [
+        "Vẽ căn phòng với ba loại đồ, ghi số lượng và hai tính từ mô tả; thuyết trình theo cặp rồi bạn nghe đối chiếu tranh.",
+        "Đổi vai và nhờ bạn nhắc lại thông tin đã nghe.",
+        "Sửa một lỗi sau khi đọc phần giải thích trong bài."
+      ],
+      "check": [
+        "Đúng nội dung giao tiếp hoặc chữ/số yêu cầu.",
+        "Phát âm chậm, đủ nghe; nhờ người lớn hỗ trợ chỗ chưa chắc.",
+        "Viết đúng từ, tên riêng, dấu nháy và dấu câu."
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "question_id": "TA3_T2_U14_Q01",
+      "type": "mcq",
+      "skill": "vocabulary",
+      "question": "Đồ dùng desk trong phòng ngủ là gì?",
+      "correct_answer": "Bàn học/bàn làm việc.",
+      "options": [
+        "Giường.",
+        "Cửa sổ.",
+        "Cửa ra vào.",
+        "Bàn học/bàn làm việc."
+      ],
+      "explanation": "Desk là bàn học hoặc làm việc, khác bed, window, door."
+    },
+    {
+      "question_id": "TA3_T2_U14_Q02",
+      "type": "mcq",
+      "skill": "grammar",
+      "question": "Phòng có một chiếc giường. Chọn câu giới thiệu đúng số ít.",
+      "correct_answer": "There's a bed in the room.",
+      "options": [
+        "There's two beds.",
+        "There bed is are.",
+        "There's a bed in the room.",
+        "There are a bed in the room."
+      ],
+      "explanation": "There's là There is, đi với a bed số ít."
+    },
+    {
+      "question_id": "TA3_T2_U14_Q03",
+      "type": "mcq",
+      "skill": "grammar",
+      "question": "Hai cửa sổ trong phòng cần giới thiệu bằng câu nào?",
+      "correct_answer": "There are two windows in the room.",
+      "options": [
+        "There two windows is.",
+        "There are two windows in the room.",
+        "There is two windows in the room.",
+        "There are two window."
+      ],
+      "explanation": "Two windows là số nhiều, dùng There are và danh từ có s."
+    },
+    {
+      "question_id": "TA3_T2_U14_Q04",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Đọc: The bed is new. The desk is old. Vật nào cũ?",
+      "correct_answer": "Bàn học.",
+      "options": [
+        "Bàn học.",
+        "Giường.",
+        "Cả hai.",
+        "Không vật nào."
+      ],
+      "explanation": "Old mô tả desk; new mô tả bed, không đổi đặc điểm giữa hai đồ."
+    },
+    {
+      "question_id": "TA3_T2_U14_Q05",
+      "type": "mcq",
+      "skill": "vocabulary",
+      "question": "Cặp tính từ nào đối nghĩa khi tả kích thước?",
+      "correct_answer": "big và small",
+      "options": [
+        "new và door",
+        "old và chair",
+        "room và bed",
+        "big và small"
+      ],
+      "explanation": "Big là to/lớn, small là nhỏ; new/old nói mới/cũ chứ không phải kích thước."
+    },
+    {
+      "question_id": "TA3_T2_U14_Q06",
+      "type": "mcq",
+      "skill": "writing",
+      "question": "Sửa The chairs is new cho đúng.",
+      "correct_answer": "The chairs are new.",
+      "options": [
+        "The chairs new is.",
+        "The chairs are news.",
+        "The chairs are new.",
+        "The chairs am new."
+      ],
+      "explanation": "Chairs số nhiều dùng are, tính từ new không thêm s."
+    },
+    {
+      "question_id": "TA3_T2_U14_Q07",
+      "type": "mcq",
+      "skill": "communication",
+      "question": "Bạn hỏi về những cửa sổ và em muốn nói chúng nhỏ. Câu đáp nào phù hợp?",
+      "correct_answer": "They're small.",
+      "options": [
+        "I'm small windows.",
+        "They're small.",
+        "It's small.",
+        "They're a small."
+      ],
+      "explanation": "Những cửa sổ dùng they are/they're; small mô tả kích thước."
+    },
+    {
+      "question_id": "TA3_T2_U14_Q08",
+      "type": "mcq",
+      "skill": "pronunciation",
+      "question": "Nhóm oo trong room và oo trong door có luôn cùng âm không?",
+      "correct_answer": "Không; room thường /uː/, door có /ɔː/ trong giọng Anh.",
+      "options": [
+        "Không; room thường /uː/, door có /ɔː/ trong giọng Anh.",
+        "Có, mọi oo đều đọc /ʊ/.",
+        "Có, mọi oo đều đọc tên chữ O.",
+        "Cả hai oo đều câm."
+      ],
+      "explanation": "Cùng nhóm chữ có thể khác âm; cần nghe và học cả từ thay vì suy âm chỉ từ cách viết."
+    },
+    {
+      "question_id": "TA3_T2_U14_Q09",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Đọc: There are two chairs. The chairs are old. Biết chắc thông tin nào?",
+      "correct_answer": "Có hai ghế và chúng cũ.",
+      "options": [
+        "Có hai giường mới.",
+        "Ghế nhỏ vì cũ.",
+        "Có hai cửa sổ.",
+        "Có hai ghế và chúng cũ."
+      ],
+      "explanation": "Hai câu cho số lượng và tình trạng ghế; không có dữ kiện kích thước."
+    },
+    {
+      "question_id": "TA3_T2_U14_Q10",
+      "type": "mcq",
+      "skill": "writing",
+      "question": "Dạng đầy đủ của There's a desk là gì?",
+      "correct_answer": "There is a desk.",
+      "options": [
+        "Their is a desk.",
+        "There has a desk.",
+        "There is a desk.",
+        "There are a desk."
+      ],
+      "explanation": "Trong mẫu này There's rút gọn There is, không phải There are."
+    },
+    {
+      "question_id": "TA3_T2_U14_Q11",
+      "type": "mcq",
+      "skill": "speaking",
+      "question": "Tả căn phòng trên thẻ có số lượng và đặc điểm, cách nói nào đủ hai ý?",
+      "correct_answer": "There are two chairs. They're new.",
+      "options": [
+        "My name's room.",
+        "There are two chairs. They're new.",
+        "Chairs, chairs.",
+        "I'm two."
+      ],
+      "explanation": "Câu đầu nêu có hai ghế, câu sau nói chúng mới; dùng they cho nhiều vật."
+    },
+    {
+      "question_id": "TA3_T2_U14_Q12",
+      "type": "mcq",
+      "skill": "communication",
+      "question": "Chưa biết kích thước giường trong thẻ, em nên làm gì trước khi nói The bed is big?",
+      "correct_answer": "Xem thẻ hoặc hỏi thêm, không suy kích thước từ việc giường mới.",
+      "options": [
+        "Xem thẻ hoặc hỏi thêm, không suy kích thước từ việc giường mới.",
+        "Mặc định mọi giường mới đều lớn.",
+        "Mặc định mọi giường cũ đều nhỏ.",
+        "Chỉ đoán rồi khẳng định."
+      ],
+      "explanation": "New/old và big/small là hai đặc điểm độc lập; câu mô tả cần đúng dữ kiện."
+    }
+  ],
+  "games": [
+    {
+      "id": "TA3_T2_U14_GAME",
+      "title": "Kho báu tiếng Anh: Unit 14: My bedroom",
+      "mode": "treasure",
+      "objective": "Chọn từ và lời nói phù hợp để mở kho báu.",
+      "rules": [
+        "Mỗi lượt10 câu thuộc bài, không áp phân mức Toán.",
+        "Chọn đáp án rồi đọc giải thích. Trả lời đúng tiến thêm một bước.",
+        "Kết thúc, ôn câu sai và thử lại."
+      ],
+      "question_ids": [
+        "TA3_T2_U14_Q01",
+        "TA3_T2_U14_Q02",
+        "TA3_T2_U14_Q03",
+        "TA3_T2_U14_Q04",
+        "TA3_T2_U14_Q05",
+        "TA3_T2_U14_Q06",
+        "TA3_T2_U14_Q07",
+        "TA3_T2_U14_Q08",
+        "TA3_T2_U14_Q09",
+        "TA3_T2_U14_Q10",
+        "TA3_T2_U14_Q11",
+        "TA3_T2_U14_Q12"
+      ],
+      "answer_source": "practice.correct_answer",
+      "feedback_source": "practice.explanation",
+      "max_score": 100
+    }
+  ],
+  "assessment": {
+    "session_size": 10,
+    "scoring": "Mỗi câu đúng được tính điểm theo hệ thống; 8–10 câu đúng: nắm tốt, 5–7: đọc lại phần còn nhầm, dưới 5: đọc bài cùng người thân rồi thử lại. Nhiệm vụ nói/viết tự kiểm theo tiêu chí, không chấm bằng một đáp án duy nhất.",
+    "review_advice": "Xem lại câu sai theo nhóm từ, mẫu câu, phát âm; thực hiện cả nhiệm vụ nói và viết. Điểm trắc nghiệm không thay thế nhận xét phát âm."
+  },
+  "feedback": {
+    "correct": "Đúng rồi! Em đọc lại từ hoặc lời nói vừa chọn.",
+    "incorrect": "Đọc lời giải, chú ý tình huống rồi thử dùng mẫu câu.",
+    "teacher_note": "AI_CHECKED_AWAITING_TEACHER; phần nói và phát âm cần người lớn nghe và góp ý."
+  },
+  "verification": {
+    "ai_authored": true,
+    "structure_checked": true,
+    "answer_reviewed": true,
+    "source_reviewed": true,
+    "teacher_approved": false
+  },
+  "status": "AI_CHECKED_AWAITING_TEACHER",
+  "vocabulary": [
+    {
+      "word": "desk",
+      "meaning_vi": "bàn học/bàn làm việc",
+      "example": "There's a desk."
+    },
+    {
+      "word": "bed",
+      "meaning_vi": "giường",
+      "example": "There's a bed."
+    },
+    {
+      "word": "door",
+      "meaning_vi": "cửa ra vào",
+      "example": "The door is big."
+    },
+    {
+      "word": "window",
+      "meaning_vi": "cửa sổ",
+      "example": "The windows are small."
+    },
+    {
+      "word": "big",
+      "meaning_vi": "to, lớn",
+      "example": "The bed is big."
+    },
+    {
+      "word": "small",
+      "meaning_vi": "nhỏ",
+      "example": "The desk is small."
+    },
+    {
+      "word": "new",
+      "meaning_vi": "mới",
+      "example": "The chairs are new."
+    },
+    {
+      "word": "old",
+      "meaning_vi": "cũ",
+      "example": "The desk is old."
+    },
+    {
+      "word": "room",
+      "meaning_vi": "phòng",
+      "example": "There are two chairs in the room."
+    }
+  ],
+  "patterns": [
+    "There's a desk in the room. → Có một bàn học trong phòng. There's = There is.",
+    "There are two chairs in the room. → Có hai ghế trong phòng.",
+    "The door is big. The windows are small. → Cửa lớn. Các cửa sổ nhỏ.",
+    "Một đồ: is/It's. Nhiều đồ: are/They're. Kích thước khác tình trạng mới/cũ."
+  ],
+  "pronunciation": [
+    "oo trong room thường /uː/, oo trong door có /ɔː/ ở giọng Anh; không đoán mọi oo giống book.",
+    "Nghe room/door, đọc cả từ và câu. Room có một số biến thể giọng, ưu tiên mẫu rõ của người đọc."
+  ],
+  "skills": {
+    "reading": [
+      "Đoạn mới: There are two chairs. They are new. The desk is old.",
+      "Vật nào cũ? Đáp án: desk, bàn học. Hai ghế mới; chưa có dữ kiện chúng lớn hay nhỏ."
+    ],
+    "writing": [
+      "Viết ba câu cho phòng tưởng tượng: There's a bed. There are two windows. The windows are small.",
+      "Thêm câu tả mới/cũ, soát chủ ngữ một/nhiều với is/are và danh từ số nhiều."
+    ],
+    "speaking": [
+      "Rút thẻ số lượng và đồ, giới thiệu bằng There's/There are; bạn nhắc lại số lượng.",
+      "Đổi thẻ tính từ big/small/new/old rồi mô tả đúng, không suy cũ đồng nghĩa nhỏ."
+    ],
+    "listening": [
+      "Nghe room/door từ giọng máy rồi chỉ đúng thẻ và đọc vào câu.",
+      "Nhờ bạn đọc câu có một hoặc hai đồ, em đặt đúng số thẻ rồi đối chiếu."
+    ]
+  },
+  "audio": {
+    "type": "speechSynthesis",
+    "label": "Giọng máy tiếng Anh của thiết bị, không phải âm thanh sách. Có thể khác theo thiết bị; nếu không phát, đọc theo mẫu và nhờ người lớn hỗ trợ."
+  }
+}

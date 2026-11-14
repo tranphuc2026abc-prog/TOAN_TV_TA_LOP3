@@ -1,0 +1,380 @@
+{
+  "id": "TA3_T2_U16",
+  "subject": "ta",
+  "grade": 3,
+  "book": "Kết nối tri thức với cuộc sống",
+  "volume": 2,
+  "lesson_no": 16,
+  "title": "Unit 16: My pets",
+  "topic": "English Global Success",
+  "source": {
+    "pdf": "03-sgk-tieng-anh-3-tap-2-global-success.pdf",
+    "printed_pages": [
+      40,
+      45
+    ],
+    "pdf_pages": [
+      41,
+      46
+    ],
+    "review": "Đã đọc trực quan đầy đủ trang nguồn PDF ảnh quét ngày14/11/2026. Biên soạn tình huống, ví dụ và câu hỏi mới; không đăng toàn văn hay sao chép hệ thống bài tập SGK; không có bản thu âm sách."
+  },
+  "objectives": [
+    "Hiểu và dùng đúng: Hỏi có nuôi loài vật nào và hỏi số lượng; dùng any, some, many và danh từ số nhiều.",
+    "Đọc, viết và thực hành nói theo tình huống mới.",
+    "Nhận biết trọng tâm phát âm và luyện nghe bằng giọng máy có ghi nhãn."
+  ],
+  "knowledge": {
+    "introduction": "Hỏi có nuôi loài vật nào và hỏi số lượng; dùng any, some, many và danh từ số nhiều.",
+    "rules": [
+      "Do you have any cats? — Yes, I do. / No, I don't. → Bạn có nuôi mèo không?",
+      "How many rabbits do you have? — I have two/some/many rabbits. → Bạn có bao nhiêu thỏ?",
+      "Số nhiều cats/dogs/rabbits/parrots; goldfish thường giữ nguyên khi nói nhiều con trong mẫu này.",
+      "Some/many không cho số chính xác và không có ngưỡng số cố định; hỏi thêm nếu cần biết số đếm."
+    ],
+    "steps": [
+      "Đọc từ và nghĩa, quan sát tình huống trước khi chọn cách nói.",
+      "Nghe từ bằng giọng máy nếu thiết bị hỗ trợ, đọc lại chậm theo hướng dẫn phát âm.",
+      "Làm câu hỏi, xem giải thích rồi thực hành nói và viết theo nhiệm vụ."
+    ],
+    "common_errors": [
+      "Dùng any cat thay any cats trong mẫu hỏi; dùng three cat.",
+      "Viết goldfishs; hiểu some/many là số đếm cố định."
+    ]
+  },
+  "examples": [
+    {
+      "question": "Con rabbit trong nhóm vật nuôi là con gì?",
+      "steps": [
+        "Nhận diện yêu cầu: vocabulary",
+        "Rabbit là thỏ, parrot vẹt, dog chó, cat mèo.",
+        "Đáp án: Thỏ."
+      ]
+    },
+    {
+      "question": "Goldfish có nghĩa gì trong bài vật nuôi?",
+      "steps": [
+        "Nhận diện yêu cầu: vocabulary",
+        "Goldfish là cá vàng; gold trong từ không biến nó thành tên loài chim.",
+        "Đáp án: Cá vàng."
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "title": "Thực hành theo cặp: Unit 16: My pets",
+      "materials": [
+        "Giấy",
+        "Bút",
+        "Thẻ tự làm"
+      ],
+      "steps": [
+        "Vẽ áp phích vật nuôi cho nhân vật, ghi số lượng từng loài; tổ chức buổi giới thiệu theo tranh, không cần mang động vật thật tới lớp.",
+        "Đổi vai và nhờ bạn nhắc lại thông tin đã nghe.",
+        "Sửa một lỗi sau khi đọc phần giải thích trong bài."
+      ],
+      "check": [
+        "Đúng nội dung giao tiếp hoặc chữ/số yêu cầu.",
+        "Phát âm chậm, đủ nghe; nhờ người lớn hỗ trợ chỗ chưa chắc.",
+        "Viết đúng từ, tên riêng, dấu nháy và dấu câu."
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "question_id": "TA3_T2_U16_Q01",
+      "type": "mcq",
+      "skill": "vocabulary",
+      "question": "Con rabbit trong nhóm vật nuôi là con gì?",
+      "correct_answer": "Thỏ.",
+      "options": [
+        "Vẹt.",
+        "Chó.",
+        "Mèo.",
+        "Thỏ."
+      ],
+      "explanation": "Rabbit là thỏ, parrot vẹt, dog chó, cat mèo."
+    },
+    {
+      "question_id": "TA3_T2_U16_Q02",
+      "type": "mcq",
+      "skill": "grammar",
+      "question": "Em hỏi bạn có nuôi mèo không, theo mẫu any của Unit16 chọn câu nào?",
+      "correct_answer": "Do you have any cats?",
+      "options": [
+        "Are you have any cats?",
+        "Have cats you do any?",
+        "Do you have any cats?",
+        "Do you have any cat?"
+      ],
+      "explanation": "Sau any trong mẫu hỏi này là cats số nhiều; câu bắt đầu Do you have."
+    },
+    {
+      "question_id": "TA3_T2_U16_Q03",
+      "type": "mcq",
+      "skill": "communication",
+      "question": "Bạn hỏi Do you have any birds? Em không có chim. Đáp ngắn thế nào?",
+      "correct_answer": "No, I don't.",
+      "options": [
+        "No, I does.",
+        "No, I don't.",
+        "No, it isn't.",
+        "No, she isn't."
+      ],
+      "explanation": "Câu hỏi sở hữu dùng do/don't với I; không trả lời bằng it is hay she is."
+    },
+    {
+      "question_id": "TA3_T2_U16_Q04",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Đọc: I have two dogs and one cat. Có bao nhiêu con mèo?",
+      "correct_answer": "Một con.",
+      "options": [
+        "Một con.",
+        "Hai con.",
+        "Ba con.",
+        "Chưa nêu số mèo."
+      ],
+      "explanation": "One cat nêu một con mèo; two dogs là hai chó, không chuyển số lượng giữa loài."
+    },
+    {
+      "question_id": "TA3_T2_U16_Q05",
+      "type": "mcq",
+      "skill": "vocabulary",
+      "question": "Goldfish có nghĩa gì trong bài vật nuôi?",
+      "correct_answer": "Cá vàng.",
+      "options": [
+        "Vẹt vàng.",
+        "Thỏ.",
+        "Chó con.",
+        "Cá vàng."
+      ],
+      "explanation": "Goldfish là cá vàng; gold trong từ không biến nó thành tên loài chim."
+    },
+    {
+      "question_id": "TA3_T2_U16_Q06",
+      "type": "mcq",
+      "skill": "grammar",
+      "question": "Hỏi số lượng thỏ bạn nuôi, câu nào đúng?",
+      "correct_answer": "How many rabbits do you have?",
+      "options": [
+        "What colour do you rabbits?",
+        "How many rabbit is you?",
+        "How many rabbits do you have?",
+        "How old rabbits do you have?"
+      ],
+      "explanation": "How many hỏi số lượng, sau đó rabbits số nhiều và do you have."
+    },
+    {
+      "question_id": "TA3_T2_U16_Q07",
+      "type": "mcq",
+      "skill": "writing",
+      "question": "Chọn câu có danh từ số nhiều đúng.",
+      "correct_answer": "I have three cats.",
+      "options": [
+        "I three cats have have.",
+        "I have three cats.",
+        "I have three cat.",
+        "I has three cats."
+      ],
+      "explanation": "Three đi với cats số nhiều, I đi với have; không dùng cat số ít."
+    },
+    {
+      "question_id": "TA3_T2_U16_Q08",
+      "type": "mcq",
+      "skill": "pronunciation",
+      "question": "O trong dog và o trong goldfish được luyện thế nào ở giọng Anh?",
+      "correct_answer": "Dog có /ɒ/, goldfish có /əʊ/ ở phần gold.",
+      "options": [
+        "Dog có /ɒ/, goldfish có /əʊ/ ở phần gold.",
+        "Cả hai o luôn đọc /uː/.",
+        "Cả hai đều không phát âm.",
+        "Goldfish có /ɒ/ ở gold, dog có /əʊ/."
+      ],
+      "explanation": "Cùng chữ o có âm khác trong dog và gold; nghe từng từ để phân biệt."
+    },
+    {
+      "question_id": "TA3_T2_U16_Q09",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Đọc: I have some parrots. I have many goldfish. Dữ kiện nào chưa đủ để biết chính xác?",
+      "correct_answer": "Số cá vàng cụ thể.",
+      "options": [
+        "Có cá vàng.",
+        "Có vẹt.",
+        "Loài được nói là parrots.",
+        "Số cá vàng cụ thể."
+      ],
+      "explanation": "Many nghĩa nhiều, không cho số đếm chính xác; không đặt ngưỡng cố định many là bao nhiêu."
+    },
+    {
+      "question_id": "TA3_T2_U16_Q10",
+      "type": "mcq",
+      "skill": "writing",
+      "question": "Chọn câu tự nhiên nói em có hai cá vàng.",
+      "correct_answer": "I have two goldfish.",
+      "options": [
+        "I has two goldfish.",
+        "I have a two goldfish.",
+        "I have two goldfish.",
+        "I have two goldfishs."
+      ],
+      "explanation": "Goldfish có thể giữ nguyên ở số nhiều trong mẫu này, không thêm s thành goldfishs."
+    },
+    {
+      "question_id": "TA3_T2_U16_Q11",
+      "type": "mcq",
+      "skill": "communication",
+      "question": "Bạn đáp Yes, I do. I have two rabbits sau câu hỏi về vật nuôi. Em đã biết điều gì?",
+      "correct_answer": "Bạn có hai con thỏ.",
+      "options": [
+        "Bạn chỉ có chó.",
+        "Bạn có hai con thỏ.",
+        "Bạn có mọi loại vật nuôi.",
+        "Bạn không có thỏ."
+      ],
+      "explanation": "Câu đáp khẳng định có và nêu loài/số thỏ; không suy thêm về mọi loài khác."
+    },
+    {
+      "question_id": "TA3_T2_U16_Q12",
+      "type": "mcq",
+      "skill": "speaking",
+      "question": "Làm buổi giới thiệu vật nuôi bằng tranh, cách nào phù hợp?",
+      "correct_answer": "Dùng tranh nhân vật, hỏi có loài nào và có bao nhiêu, ghi đúng lời đáp.",
+      "options": [
+        "Dùng tranh nhân vật, hỏi có loài nào và có bao nhiêu, ghi đúng lời đáp.",
+        "Mang bắt buộc động vật thật tới lớp.",
+        "Tự bịa số thay lời bạn.",
+        "Hỏi tuổi người thân thay số vật nuôi."
+      ],
+      "explanation": "Tranh đủ để luyện Do you have any và How many; không cần mang vật nuôi thật."
+    }
+  ],
+  "games": [
+    {
+      "id": "TA3_T2_U16_GAME",
+      "title": "Kho báu tiếng Anh: Unit 16: My pets",
+      "mode": "treasure",
+      "objective": "Chọn từ và lời nói phù hợp để mở kho báu.",
+      "rules": [
+        "Mỗi lượt10 câu thuộc bài, không áp phân mức Toán.",
+        "Chọn đáp án rồi đọc giải thích. Trả lời đúng tiến thêm một bước.",
+        "Kết thúc, ôn câu sai và thử lại."
+      ],
+      "question_ids": [
+        "TA3_T2_U16_Q01",
+        "TA3_T2_U16_Q02",
+        "TA3_T2_U16_Q03",
+        "TA3_T2_U16_Q04",
+        "TA3_T2_U16_Q05",
+        "TA3_T2_U16_Q06",
+        "TA3_T2_U16_Q07",
+        "TA3_T2_U16_Q08",
+        "TA3_T2_U16_Q09",
+        "TA3_T2_U16_Q10",
+        "TA3_T2_U16_Q11",
+        "TA3_T2_U16_Q12"
+      ],
+      "answer_source": "practice.correct_answer",
+      "feedback_source": "practice.explanation",
+      "max_score": 100
+    }
+  ],
+  "assessment": {
+    "session_size": 10,
+    "scoring": "Mỗi câu đúng được tính điểm theo hệ thống; 8–10 câu đúng: nắm tốt, 5–7: đọc lại phần còn nhầm, dưới 5: đọc bài cùng người thân rồi thử lại. Nhiệm vụ nói/viết tự kiểm theo tiêu chí, không chấm bằng một đáp án duy nhất.",
+    "review_advice": "Xem lại câu sai theo nhóm từ, mẫu câu, phát âm; thực hiện cả nhiệm vụ nói và viết. Điểm trắc nghiệm không thay thế nhận xét phát âm."
+  },
+  "feedback": {
+    "correct": "Đúng rồi! Em đọc lại từ hoặc lời nói vừa chọn.",
+    "incorrect": "Đọc lời giải, chú ý tình huống rồi thử dùng mẫu câu.",
+    "teacher_note": "AI_CHECKED_AWAITING_TEACHER; phần nói và phát âm cần người lớn nghe và góp ý."
+  },
+  "verification": {
+    "ai_authored": true,
+    "structure_checked": true,
+    "answer_reviewed": true,
+    "source_reviewed": true,
+    "teacher_approved": false
+  },
+  "status": "AI_CHECKED_AWAITING_TEACHER",
+  "vocabulary": [
+    {
+      "word": "dog",
+      "meaning_vi": "chó",
+      "example": "I have one dog."
+    },
+    {
+      "word": "cat",
+      "meaning_vi": "mèo",
+      "example": "I have two cats."
+    },
+    {
+      "word": "bird",
+      "meaning_vi": "chim",
+      "example": "Do you have any birds?"
+    },
+    {
+      "word": "parrot",
+      "meaning_vi": "vẹt",
+      "example": "I have some parrots."
+    },
+    {
+      "word": "rabbit",
+      "meaning_vi": "thỏ",
+      "example": "I have two rabbits."
+    },
+    {
+      "word": "goldfish",
+      "meaning_vi": "cá vàng",
+      "example": "I have three goldfish."
+    },
+    {
+      "word": "some",
+      "meaning_vi": "một vài/một số",
+      "example": "I have some cats."
+    },
+    {
+      "word": "many",
+      "meaning_vi": "nhiều",
+      "example": "I have many goldfish."
+    },
+    {
+      "word": "pets",
+      "meaning_vi": "vật nuôi",
+      "example": "These are my pets."
+    }
+  ],
+  "patterns": [
+    "Do you have any cats? — Yes, I do. / No, I don't. → Bạn có nuôi mèo không?",
+    "How many rabbits do you have? — I have two/some/many rabbits. → Bạn có bao nhiêu thỏ?",
+    "Số nhiều cats/dogs/rabbits/parrots; goldfish thường giữ nguyên khi nói nhiều con trong mẫu này.",
+    "Some/many không cho số chính xác và không có ngưỡng số cố định; hỏi thêm nếu cần biết số đếm."
+  ],
+  "pronunciation": [
+    "o trong dog có /ɒ/ theo giọng Anh; o trong goldfish có /əʊ/ ở gold.",
+    "Nghe cả từ dogs/goldfish rồi đọc vào câu; chú ý âm cuối dogs, không thêm s vào goldfishs."
+  ],
+  "skills": {
+    "reading": [
+      "Đoạn mới: I have two dogs and one cat. I have some parrots.",
+      "Có mấy mèo? Đáp án: một. Có chính xác mấy vẹt? Chưa biết vì some không nêu số đếm."
+    ],
+    "writing": [
+      "Viết hai câu số lượng vật nuôi theo tranh: I have one cat. I have three goldfish.",
+      "Thêm Do you have any rabbits và How many cats do you have, dùng số nhiều trong câu hỏi."
+    ],
+    "speaking": [
+      "Dùng tranh vật nuôi tưởng tượng, hỏi có loài nào rồi hỏi số lượng; người nghe nhắc lại số và loài.",
+      "Nếu bạn đáp many, có thể hỏi thêm để biết số chính xác, không tự gán many bằng một con số."
+    ],
+    "listening": [
+      "Nghe dog/goldfish từ giọng máy, chỉ thẻ rồi nhắc cả câu I have.",
+      "Bạn đọc câu số lượng trên thẻ, em chọn hoặc xếp đúng số tranh loài đó."
+    ]
+  },
+  "audio": {
+    "type": "speechSynthesis",
+    "label": "Giọng máy tiếng Anh của thiết bị, không phải âm thanh sách. Có thể khác theo thiết bị; nếu không phát, đọc theo mẫu và nhờ người lớn hỗ trợ."
+  }
+}

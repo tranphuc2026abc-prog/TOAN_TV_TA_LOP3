@@ -1,0 +1,375 @@
+{
+  "id": "TA3_T2_R03",
+  "subject": "ta",
+  "grade": 3,
+  "book": "Kết nối tri thức với cuộc sống",
+  "volume": 2,
+  "lesson_no": 3,
+  "title": "Review 3",
+  "topic": "English Global Success",
+  "source": {
+    "pdf": "03-sgk-tieng-anh-3-tap-2-global-success.pdf",
+    "printed_pages": [
+      36,
+      39
+    ],
+    "pdf_pages": [
+      37,
+      40
+    ],
+    "review": "Đã đọc trực quan đầy đủ trang nguồn PDF ảnh quét ngày14/11/2026. Biên soạn tình huống, ví dụ và câu hỏi mới; không đăng toàn văn hay sao chép hệ thống bài tập SGK; không có bản thu âm sách."
+  },
+  "objectives": [
+    "Hiểu và dùng đúng: Ôn Unit11–15: người thân và tuổi, nghề, phòng/vị trí, số lượng/đặc điểm đồ, mời và chọn món.",
+    "Đọc, viết và thực hành nói theo tình huống mới.",
+    "Nhận biết trọng tâm phát âm và luyện nghe bằng giọng máy có ghi nhãn."
+  ],
+  "knowledge": {
+    "introduction": "Ôn Unit11–15: người thân và tuổi, nghề, phòng/vị trí, số lượng/đặc điểm đồ, mời và chọn món.",
+    "rules": [
+      "Who's that? / How old is she? / What's her job? → Hỏi người, tuổi, nghề, không trộn câu đáp.",
+      "Where are the books? — They're on the desk. There are two chairs. → Vị trí và số lượng.",
+      "The window is big. The chairs are small. → Miêu tả đúng từng vật.",
+      "Would you like some water? — No, thanks. What would you like to eat? — I'd like some chicken, please."
+    ],
+    "steps": [
+      "Đọc từ và nghĩa, quan sát tình huống trước khi chọn cách nói.",
+      "Nghe từ bằng giọng máy nếu thiết bị hỗ trợ, đọc lại chậm theo hướng dẫn phát âm.",
+      "Làm câu hỏi, xem giải thích rồi thực hành nói và viết theo nhiệm vụ."
+    ],
+    "common_errors": [
+      "Đáp tính từ màu hoặc mới/cũ khi được hỏi vị trí.",
+      "Trộn he/she với his/her; dùng are cho một đồ, is cho nhiều đồ."
+    ]
+  },
+  "examples": [
+    {
+      "question": "Review3: hỏi người được chỉ là ai, câu nào đúng mục đích?",
+      "steps": [
+        "Nhận diện yêu cầu: communication",
+        "Who hỏi người là ai, khác Where hỏi vị trí.",
+        "Đáp án: Who's that?"
+      ]
+    },
+    {
+      "question": "Bạn hỏi Where are the books? Câu đáp nào cung cấp vị trí?",
+      "steps": [
+        "Nhận diện yêu cầu: communication",
+        "On the desk nói sách ở đâu; new/blue chỉ đặc điểm, chưa trả lời vị trí.",
+        "Đáp án: They're on the desk."
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "title": "Thực hành theo cặp: Review 3",
+      "materials": [
+        "Giấy",
+        "Bút",
+        "Thẻ tự làm"
+      ],
+      "steps": [
+        "Làm bốn phiếu về một gia đình tưởng tượng, một phòng, một nghề và một thực đơn; nối thành cuộc trò chuyện gồm hỏi đáp và lời mời lịch sự.",
+        "Đổi vai và nhờ bạn nhắc lại thông tin đã nghe.",
+        "Sửa một lỗi sau khi đọc phần giải thích trong bài."
+      ],
+      "check": [
+        "Đúng nội dung giao tiếp hoặc chữ/số yêu cầu.",
+        "Phát âm chậm, đủ nghe; nhờ người lớn hỗ trợ chỗ chưa chắc.",
+        "Viết đúng từ, tên riêng, dấu nháy và dấu câu."
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "question_id": "TA3_T2_R03_Q01",
+      "type": "mcq",
+      "skill": "communication",
+      "question": "Review3: hỏi người được chỉ là ai, câu nào đúng mục đích?",
+      "correct_answer": "Who's that?",
+      "options": [
+        "Where are they?",
+        "What colour is it?",
+        "How many rooms?",
+        "Who's that?"
+      ],
+      "explanation": "Who hỏi người là ai, khác Where hỏi vị trí."
+    },
+    {
+      "question_id": "TA3_T2_R03_Q02",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Đọc: My sister is fifteen. She is a pupil. Biết chắc điều gì?",
+      "correct_answer": "Chị/em gái15 tuổi và là học sinh.",
+      "options": [
+        "Người bố15 tuổi.",
+        "Chị/em gái muốn uống sữa.",
+        "Chị/em gái15 tuổi và là học sinh.",
+        "Chị/em gái là giáo viên."
+      ],
+      "explanation": "Hai câu nêu tuổi và vai trò pupil, không nêu đồ uống hay nghề của bố."
+    },
+    {
+      "question_id": "TA3_T2_R03_Q03",
+      "type": "mcq",
+      "skill": "grammar",
+      "question": "Một chiếc đèn ở trong phòng, chọn cách nói đúng.",
+      "correct_answer": "There is a lamp in the room.",
+      "options": [
+        "There lamps is.",
+        "There is a lamp in the room.",
+        "There are a lamp in the room.",
+        "There is two lamps."
+      ],
+      "explanation": "Một lamp số ít dùng There is a; in the room chỉ nơi có đèn."
+    },
+    {
+      "question_id": "TA3_T2_R03_Q04",
+      "type": "mcq",
+      "skill": "vocabulary",
+      "question": "Muốn nói nghề tài xế, em chọn từ nào?",
+      "correct_answer": "driver",
+      "options": [
+        "driver",
+        "doctor",
+        "mother",
+        "bedroom"
+      ],
+      "explanation": "Driver là tài xế; doctor bác sĩ, mother là quan hệ, bedroom là phòng."
+    },
+    {
+      "question_id": "TA3_T2_R03_Q05",
+      "type": "mcq",
+      "skill": "communication",
+      "question": "Bạn hỏi Where are the books? Câu đáp nào cung cấp vị trí?",
+      "correct_answer": "They're on the desk.",
+      "options": [
+        "They're new.",
+        "They're blue.",
+        "They're books.",
+        "They're on the desk."
+      ],
+      "explanation": "On the desk nói sách ở đâu; new/blue chỉ đặc điểm, chưa trả lời vị trí."
+    },
+    {
+      "question_id": "TA3_T2_R03_Q06",
+      "type": "mcq",
+      "skill": "writing",
+      "question": "Chọn câu hỏi phù hợp cho lời đáp She's a cook.",
+      "correct_answer": "What's her job?",
+      "options": [
+        "Where's the kitchen?",
+        "Would you like some rice?",
+        "What's her job?",
+        "How old is she?"
+      ],
+      "explanation": "Cook là tên nghề nên câu hỏi cần hỏi job; không hỏi tuổi, vị trí hoặc lời mời."
+    },
+    {
+      "question_id": "TA3_T2_R03_Q07",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Đọc: The window is big. The chairs are small. Những chiếc ghế có đặc điểm nào?",
+      "correct_answer": "Nhỏ.",
+      "options": [
+        "Cũ.",
+        "Nhỏ.",
+        "To.",
+        "Mới."
+      ],
+      "explanation": "Small gắn chairs; không chuyển big của cửa sổ sang ghế hoặc đoán mới/cũ."
+    },
+    {
+      "question_id": "TA3_T2_R03_Q08",
+      "type": "mcq",
+      "skill": "pronunciation",
+      "question": "Ôn ea trong bread/meat và oo trong room/door, nhận xét nào hữu ích?",
+      "correct_answer": "Nhóm chữ giống nhau có thể có âm khác nhau; luyện theo từng từ.",
+      "options": [
+        "Nhóm chữ giống nhau có thể có âm khác nhau; luyện theo từng từ.",
+        "Cứ cùng chữ là cùng âm trong mọi từ.",
+        "Chỉ cần đếm số chữ.",
+        "Không cần nghe cả từ."
+      ],
+      "explanation": "Các cặp đã học có khác biệt âm, nên không áp một quy tắc máy móc cho mọi từ."
+    },
+    {
+      "question_id": "TA3_T2_R03_Q09",
+      "type": "mcq",
+      "skill": "communication",
+      "question": "Bạn mời nước nhưng em không muốn uống thêm. Lời đáp nào tôn trọng người mời?",
+      "correct_answer": "No, thanks.",
+      "options": [
+        "No, you job.",
+        "Yes, please.",
+        "It's here.",
+        "No, thanks."
+      ],
+      "explanation": "No, thanks là lời từ chối lịch sự; Yes, please sẽ đổi ý thành nhận lời."
+    },
+    {
+      "question_id": "TA3_T2_R03_Q10",
+      "type": "mcq",
+      "skill": "writing",
+      "question": "Điền vị trí đúng: The table is ___ the bedroom, the books are ___ the table.",
+      "correct_answer": "in / on",
+      "options": [
+        "in / in",
+        "on / on",
+        "in / on",
+        "on / in"
+      ],
+      "explanation": "Bàn nằm trong phòng dùng in; sách trên mặt bàn dùng on."
+    },
+    {
+      "question_id": "TA3_T2_R03_Q11",
+      "type": "mcq",
+      "skill": "speaking",
+      "question": "Để ôn Unit11–15, lời giới thiệu nhân vật nào bao quát gia đình, tuổi, nghề và một lời mời?",
+      "correct_answer": "This is my sister. She's nineteen. She's a cook. Would you like some rice?",
+      "options": [
+        "There are two chairs. They're new.",
+        "This is my sister. She's nineteen. She's a cook. Would you like some rice?",
+        "My sister. My sister.",
+        "It's red. It's blue."
+      ],
+      "explanation": "Chuỗi câu đầu cung cấp quan hệ, tuổi, nghề rồi thực hiện mời dùng món; các chuỗi khác thiếu mảng chính."
+    },
+    {
+      "question_id": "TA3_T2_R03_Q12",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Đọc: I'd like some water. My brother would like some chicken. Ai muốn đồ uống?",
+      "correct_answer": "Người nói.",
+      "options": [
+        "Người nói.",
+        "Người anh/em trai.",
+        "Cả hai.",
+        "Không ai."
+      ],
+      "explanation": "Water là đồ uống người nói muốn; chicken là đồ ăn người anh/em trai muốn."
+    }
+  ],
+  "games": [
+    {
+      "id": "TA3_T2_R03_GAME",
+      "title": "Kho báu tiếng Anh: Review 3",
+      "mode": "treasure",
+      "objective": "Chọn từ và lời nói phù hợp để mở kho báu.",
+      "rules": [
+        "Mỗi lượt10 câu thuộc bài, không áp phân mức Toán.",
+        "Chọn đáp án rồi đọc giải thích. Trả lời đúng tiến thêm một bước.",
+        "Kết thúc, ôn câu sai và thử lại."
+      ],
+      "question_ids": [
+        "TA3_T2_R03_Q01",
+        "TA3_T2_R03_Q02",
+        "TA3_T2_R03_Q03",
+        "TA3_T2_R03_Q04",
+        "TA3_T2_R03_Q05",
+        "TA3_T2_R03_Q06",
+        "TA3_T2_R03_Q07",
+        "TA3_T2_R03_Q08",
+        "TA3_T2_R03_Q09",
+        "TA3_T2_R03_Q10",
+        "TA3_T2_R03_Q11",
+        "TA3_T2_R03_Q12"
+      ],
+      "answer_source": "practice.correct_answer",
+      "feedback_source": "practice.explanation",
+      "max_score": 100
+    }
+  ],
+  "assessment": {
+    "session_size": 10,
+    "scoring": "Mỗi câu đúng được tính điểm theo hệ thống; 8–10 câu đúng: nắm tốt, 5–7: đọc lại phần còn nhầm, dưới 5: đọc bài cùng người thân rồi thử lại. Nhiệm vụ nói/viết tự kiểm theo tiêu chí, không chấm bằng một đáp án duy nhất.",
+    "review_advice": "Xem lại câu sai theo nhóm từ, mẫu câu, phát âm; thực hiện cả nhiệm vụ nói và viết. Điểm trắc nghiệm không thay thế nhận xét phát âm."
+  },
+  "feedback": {
+    "correct": "Đúng rồi! Em đọc lại từ hoặc lời nói vừa chọn.",
+    "incorrect": "Đọc lời giải, chú ý tình huống rồi thử dùng mẫu câu.",
+    "teacher_note": "AI_CHECKED_AWAITING_TEACHER; phần nói và phát âm cần người lớn nghe và góp ý."
+  },
+  "verification": {
+    "ai_authored": true,
+    "structure_checked": true,
+    "answer_reviewed": true,
+    "source_reviewed": true,
+    "teacher_approved": false
+  },
+  "status": "AI_CHECKED_AWAITING_TEACHER",
+  "vocabulary": [
+    {
+      "word": "sister",
+      "meaning_vi": "chị/em gái",
+      "example": "My sister is fifteen."
+    },
+    {
+      "word": "pupil",
+      "meaning_vi": "học sinh",
+      "example": "She's a pupil."
+    },
+    {
+      "word": "driver",
+      "meaning_vi": "tài xế",
+      "example": "He's a driver."
+    },
+    {
+      "word": "lamp",
+      "meaning_vi": "đèn",
+      "example": "There is a lamp."
+    },
+    {
+      "word": "bedroom",
+      "meaning_vi": "phòng ngủ",
+      "example": "The desk is in the bedroom."
+    },
+    {
+      "word": "water",
+      "meaning_vi": "nước",
+      "example": "I'd like some water."
+    },
+    {
+      "word": "chicken",
+      "meaning_vi": "thịt gà",
+      "example": "Would you like some chicken?"
+    },
+    {
+      "word": "on",
+      "meaning_vi": "trên bề mặt",
+      "example": "The books are on the desk."
+    }
+  ],
+  "patterns": [
+    "Who's that? / How old is she? / What's her job? → Hỏi người, tuổi, nghề, không trộn câu đáp.",
+    "Where are the books? — They're on the desk. There are two chairs. → Vị trí và số lượng.",
+    "The window is big. The chairs are small. → Miêu tả đúng từng vật.",
+    "Would you like some water? — No, thanks. What would you like to eat? — I'd like some chicken, please."
+  ],
+  "pronunciation": [
+    "Ôn old/sure, đuôi er/or trong mother/doctor, ou/ow trong house/brown.",
+    "Ôn oo của room/door và ea của bread/meat: chữ giống nhau có thể khác âm, nghe từng từ và câu."
+  ],
+  "skills": {
+    "reading": [
+      "Đoạn mới: My sister is fifteen. She is a pupil. The books are on the desk in her bedroom.",
+      "Chị/em gái bao nhiêu tuổi, sách ở đâu? Đáp án:15 tuổi; trên bàn học trong phòng ngủ."
+    ],
+    "writing": [
+      "Viết thẻ gia đình nhân vật có quan hệ, tuổi và nghề/vai trò; thêm hai câu tả phòng và vị trí.",
+      "Viết một lời mời món và câu đáp lịch sự; kiểm có đủ dạng hỏi/đáp khác nhau."
+    ],
+    "speaking": [
+      "Đổi vai phỏng vấn: người thân/tuổi/nghề; chỉ tranh phòng và hỏi vị trí; cuối cùng mời một món.",
+      "Bạn nghe đánh dấu ý đã nghe, nêu chỗ chưa rõ để người nói sửa; dùng nhân vật tưởng tượng nếu muốn."
+    ],
+    "listening": [
+      "Nghe các từ ôn từ nút giọng máy, chọn thẻ chủ đề đúng.",
+      "Người thân đọc các câu hỏi trong mẫu theo thứ tự ngẫu nhiên, em đáp đúng loại thông tin."
+    ]
+  },
+  "audio": {
+    "type": "speechSynthesis",
+    "label": "Giọng máy tiếng Anh của thiết bị, không phải âm thanh sách. Có thể khác theo thiết bị; nếu không phát, đọc theo mẫu và nhờ người lớn hỗ trợ."
+  }
+}

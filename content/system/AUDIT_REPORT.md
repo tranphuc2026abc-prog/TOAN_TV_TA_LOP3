@@ -1,3 +1,11 @@
+# Batch42 — Unit14–15, Review3, Unit16 — 14/11/2026
+
+- Đã đọc trực quan toàn bộ T2 PDF25–46/trang24–45: phòng ngủ There is/are và tính từ(oo room/door), mời và gọi món(ea bread/meat), Review3/Fun time, vật nuôi với any/some/many(o dog/goldfish).48 câu mới,8 ví dụ có lời giải,4 trò chơi. Phân biệt some/many với số đếm chính xác, goldfish không thêm s trong mẫu; câu gọi món nhận/từ chối lịch sự.
+- Tổng AI biên soạn163/168, AI kiểm tra163/168; Toán81/81,TV62/62,TA20/25;4256 câu,163 trò chơi; giáo viên duyệt4,159 chờ duyệt. Còn5 mục TA:U17–20,Review4. Bài mới AI_CHECKED_AWAITING_TEACHER.
+- npm test exit0 trên163 kho: validator, toàn bộ hồi quy trước, test_batch42, DOM mọi môn và mọi TA sẵn có; menu game chỉ1 sau vào/vẽ lại. Không xác minh âm thực hoặc toàn bộ thiết bị di động; kiểm thử Chrome mẫu đã ghi ở batch41.
+- Batch41 commit https://github.com/tranphuc2026abc-prog/TOAN_TV_TA_LOP3/commit/dd262b87a1328bcabd1986695d249a26da3834a0 ; Actions43610471315/43610470195 đều success. Batch42 Actions/Pages chờ đối chiếu sau commit.
+- Tiếp tục đọc U17–20 trước batch43, sau đó Review4 là batch cuối1 mục; chỉ bàn giao và dừng tác vụ sau đủ168, tích hợp, kiểm thử và xác minh Pages. Lịch sử nguồn/duyệt được giữ nguyên.
+
 # Batch41 — Review2 và Unit11–13 — 14/11/2026
 
 - Đã đọc trực quan T1 PDF75–78/trang74–77 và T2 PDF7–24/trang6–23: ôn trường/đồ dùng/màu/ra chơi, gia đình và tuổi11–20(o/ure), nghề nghiệp(er/or), phòng và vị trí in/on(ou/ow).48 câu mới,8 ví dụ có lời giải,4 trò chơi. Mỗi bài có JSON/Markdown, từ/nghĩa/ví dụ, mẫu câu, phát âm, đọc/viết/nói/nghe; học liệu mới giữ AI_CHECKED_AWAITING_TEACHER.

@@ -1,0 +1,383 @@
+{
+  "id": "TA3_T2_U15",
+  "subject": "ta",
+  "grade": 3,
+  "book": "Kết nối tri thức với cuộc sống",
+  "volume": 2,
+  "lesson_no": 15,
+  "title": "Unit 15: At the dining table",
+  "topic": "English Global Success",
+  "source": {
+    "pdf": "03-sgk-tieng-anh-3-tap-2-global-success.pdf",
+    "printed_pages": [
+      30,
+      35
+    ],
+    "pdf_pages": [
+      31,
+      36
+    ],
+    "review": "Đã đọc trực quan đầy đủ trang nguồn PDF ảnh quét ngày14/11/2026. Biên soạn tình huống, ví dụ và câu hỏi mới; không đăng toàn văn hay sao chép hệ thống bài tập SGK; không có bản thu âm sách."
+  },
+  "objectives": [
+    "Hiểu và dùng đúng: Mời đồ ăn/uống, nhận hoặc từ chối lịch sự và nói món muốn dùng bằng I'd like.",
+    "Đọc, viết và thực hành nói theo tình huống mới.",
+    "Nhận biết trọng tâm phát âm và luyện nghe bằng giọng máy có ghi nhãn."
+  ],
+  "knowledge": {
+    "introduction": "Mời đồ ăn/uống, nhận hoặc từ chối lịch sự và nói món muốn dùng bằng I'd like.",
+    "rules": [
+      "Would you like some rice? — Yes, please. / No, thanks. → Bạn dùng ít cơm nhé? — Vâng./Không, cảm ơn.",
+      "What would you like to eat/drink? — I'd like some bread/milk, please. → Bạn muốn ăn/uống gì?",
+      "I'd like = I would like. Tôn trọng lời từ chối và chọn phần vừa nhu cầu."
+    ],
+    "steps": [
+      "Đọc từ và nghĩa, quan sát tình huống trước khi chọn cách nói.",
+      "Nghe từ bằng giọng máy nếu thiết bị hỗ trợ, đọc lại chậm theo hướng dẫn phát âm.",
+      "Làm câu hỏi, xem giải thích rồi thực hành nói và viết theo nhiệm vụ."
+    ],
+    "common_errors": [
+      "Dùng Yes, I do cho lời mời Would you like.",
+      "Nhầm eat và drink; viết I am like thay I'd like trong câu gọi món."
+    ]
+  },
+  "examples": [
+    {
+      "question": "Từ juice chỉ món nào trong nhóm đồ ăn, uống?",
+      "steps": [
+        "Nhận diện yêu cầu: vocabulary",
+        "Juice là nước ép, thuộc đồ uống; rice/meat/beans thuộc nhóm ăn.",
+        "Đáp án: Nước ép."
+      ]
+    },
+    {
+      "question": "I'd like some milk là dạng ngắn của câu nào?",
+      "steps": [
+        "Nhận diện yêu cầu: grammar",
+        "Trong mẫu gọi món, I'd like là I would like, diễn đạt mong muốn lịch sự.",
+        "Đáp án: I would like some milk."
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "title": "Thực hành theo cặp: Unit 15: At the dining table",
+      "materials": [
+        "Giấy",
+        "Bút",
+        "Thẻ tự làm"
+      ],
+      "steps": [
+        "Tạo thực đơn bốn món ăn và ba đồ uống, khảo sát hai bạn bằng lời mời hoặc câu hỏi mong muốn; đọc lại lựa chọn để kiểm chứng.",
+        "Đổi vai và nhờ bạn nhắc lại thông tin đã nghe.",
+        "Sửa một lỗi sau khi đọc phần giải thích trong bài."
+      ],
+      "check": [
+        "Đúng nội dung giao tiếp hoặc chữ/số yêu cầu.",
+        "Phát âm chậm, đủ nghe; nhờ người lớn hỗ trợ chỗ chưa chắc.",
+        "Viết đúng từ, tên riêng, dấu nháy và dấu câu."
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "question_id": "TA3_T2_U15_Q01",
+      "type": "mcq",
+      "skill": "vocabulary",
+      "question": "Từ juice chỉ món nào trong nhóm đồ ăn, uống?",
+      "correct_answer": "Nước ép.",
+      "options": [
+        "Cơm.",
+        "Thịt.",
+        "Đậu.",
+        "Nước ép."
+      ],
+      "explanation": "Juice là nước ép, thuộc đồ uống; rice/meat/beans thuộc nhóm ăn."
+    },
+    {
+      "question_id": "TA3_T2_U15_Q02",
+      "type": "mcq",
+      "skill": "communication",
+      "question": "Mời bạn dùng một ít cơm bằng lời lịch sự, em nói sao?",
+      "correct_answer": "Would you like some rice?",
+      "options": [
+        "I would rice you?",
+        "What rice old?",
+        "Would you like some rice?",
+        "You rice are some?"
+      ],
+      "explanation": "Would you like some + món là mẫu lời mời dùng đồ ăn/uống."
+    },
+    {
+      "question_id": "TA3_T2_U15_Q03",
+      "type": "mcq",
+      "skill": "communication",
+      "question": "Bạn mời món em muốn dùng. Đáp nhận lời nào đúng?",
+      "correct_answer": "Yes, please.",
+      "options": [
+        "Yes, you can.",
+        "Yes, please.",
+        "Yes, I do.",
+        "No, thanks."
+      ],
+      "explanation": "Yes, please nhận lời mời; No, thanks từ chối, các lời đáp kia thuộc dạng khác."
+    },
+    {
+      "question_id": "TA3_T2_U15_Q04",
+      "type": "mcq",
+      "skill": "communication",
+      "question": "Em đã đủ no và muốn từ chối thêm thịt lịch sự. Em đáp gì?",
+      "correct_answer": "No, thanks.",
+      "options": [
+        "No, thanks.",
+        "No, I am meat.",
+        "Yes, please.",
+        "You can meat."
+      ],
+      "explanation": "No, thanks thể hiện không nhận và vẫn cảm ơn; không cần nhận thêm khi không muốn."
+    },
+    {
+      "question_id": "TA3_T2_U15_Q05",
+      "type": "mcq",
+      "skill": "grammar",
+      "question": "I'd like some milk là dạng ngắn của câu nào?",
+      "correct_answer": "I would like some milk.",
+      "options": [
+        "I had like some milk.",
+        "I do like some milk.",
+        "I am like some milk.",
+        "I would like some milk."
+      ],
+      "explanation": "Trong mẫu gọi món, I'd like là I would like, diễn đạt mong muốn lịch sự."
+    },
+    {
+      "question_id": "TA3_T2_U15_Q06",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Đọc: Ha would like some eggs. Tuan would like some water. Ai muốn uống nước?",
+      "correct_answer": "Tuan.",
+      "options": [
+        "Cả hai.",
+        "Không ai.",
+        "Tuan.",
+        "Ha."
+      ],
+      "explanation": "Water là nước, gắn với Tuan; eggs là trứng gắn Ha."
+    },
+    {
+      "question_id": "TA3_T2_U15_Q07",
+      "type": "mcq",
+      "skill": "vocabulary",
+      "question": "Cặp nào gồm toàn đồ uống đã học ở Unit15?",
+      "correct_answer": "milk và water",
+      "options": [
+        "eggs và chicken",
+        "milk và water",
+        "rice và bread",
+        "beans và meat"
+      ],
+      "explanation": "Milk là sữa, water là nước; các cặp còn lại là đồ ăn."
+    },
+    {
+      "question_id": "TA3_T2_U15_Q08",
+      "type": "mcq",
+      "skill": "writing",
+      "question": "Đáp What would you like to eat? khi em muốn bánh mì, chọn câu nào?",
+      "correct_answer": "I'd like some bread, please.",
+      "options": [
+        "I'd like some bread, please.",
+        "I'd like some water, please.",
+        "I bread like am.",
+        "They're bread."
+      ],
+      "explanation": "Eat hỏi đồ ăn; bread là bánh mì. Water là đồ uống nên không đúng yêu cầu này."
+    },
+    {
+      "question_id": "TA3_T2_U15_Q09",
+      "type": "mcq",
+      "skill": "pronunciation",
+      "question": "Ea trong bread khác ea trong meat thế nào?",
+      "correct_answer": "Bread có /e/, meat có /iː/.",
+      "options": [
+        "Cả hai luôn /eɪ/.",
+        "Cả hai câm.",
+        "Bread /iː/, meat /e/.",
+        "Bread có /e/, meat có /iː/."
+      ],
+      "explanation": "Bread và meat có cùng chữ ea nhưng khác âm; nghe cả từ để phân biệt."
+    },
+    {
+      "question_id": "TA3_T2_U15_Q10",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Thẻ mới: Lan: milk; Du: fish. Câu nào nói đúng mong muốn của Lan?",
+      "correct_answer": "She'd like some milk.",
+      "options": [
+        "He'd like some rice.",
+        "She's a milk.",
+        "She'd like some milk.",
+        "She'd like some fish."
+      ],
+      "explanation": "Lan gắn milk; giữ đúng thông tin trên thẻ, không lấy món của Du."
+    },
+    {
+      "question_id": "TA3_T2_U15_Q11",
+      "type": "mcq",
+      "skill": "writing",
+      "question": "Điền từ để lời mời lịch sự hoàn chỉnh: Would you ___ some beans?",
+      "correct_answer": "like",
+      "options": [
+        "are",
+        "like",
+        "likes",
+        "liking"
+      ],
+      "explanation": "Sau would you dùng like trong mẫu này; không thêm s hay ing."
+    },
+    {
+      "question_id": "TA3_T2_U15_Q12",
+      "type": "mcq",
+      "skill": "speaking",
+      "question": "Khảo sát món bạn muốn ăn/uống, em nên làm gì?",
+      "correct_answer": "Hỏi, ghi món bạn đáp và đọc lại để xác nhận.",
+      "options": [
+        "Hỏi, ghi món bạn đáp và đọc lại để xác nhận.",
+        "Ép bạn nhận món mình thích.",
+        "Gán một món cho mọi bạn.",
+        "Chỉ hỏi tên rồi tự đoán đồ uống."
+      ],
+      "explanation": "Mẫu giao tiếp cần nghe mong muốn người khác và tôn trọng lời từ chối."
+    }
+  ],
+  "games": [
+    {
+      "id": "TA3_T2_U15_GAME",
+      "title": "Kho báu tiếng Anh: Unit 15: At the dining table",
+      "mode": "treasure",
+      "objective": "Chọn từ và lời nói phù hợp để mở kho báu.",
+      "rules": [
+        "Mỗi lượt10 câu thuộc bài, không áp phân mức Toán.",
+        "Chọn đáp án rồi đọc giải thích. Trả lời đúng tiến thêm một bước.",
+        "Kết thúc, ôn câu sai và thử lại."
+      ],
+      "question_ids": [
+        "TA3_T2_U15_Q01",
+        "TA3_T2_U15_Q02",
+        "TA3_T2_U15_Q03",
+        "TA3_T2_U15_Q04",
+        "TA3_T2_U15_Q05",
+        "TA3_T2_U15_Q06",
+        "TA3_T2_U15_Q07",
+        "TA3_T2_U15_Q08",
+        "TA3_T2_U15_Q09",
+        "TA3_T2_U15_Q10",
+        "TA3_T2_U15_Q11",
+        "TA3_T2_U15_Q12"
+      ],
+      "answer_source": "practice.correct_answer",
+      "feedback_source": "practice.explanation",
+      "max_score": 100
+    }
+  ],
+  "assessment": {
+    "session_size": 10,
+    "scoring": "Mỗi câu đúng được tính điểm theo hệ thống; 8–10 câu đúng: nắm tốt, 5–7: đọc lại phần còn nhầm, dưới 5: đọc bài cùng người thân rồi thử lại. Nhiệm vụ nói/viết tự kiểm theo tiêu chí, không chấm bằng một đáp án duy nhất.",
+    "review_advice": "Xem lại câu sai theo nhóm từ, mẫu câu, phát âm; thực hiện cả nhiệm vụ nói và viết. Điểm trắc nghiệm không thay thế nhận xét phát âm."
+  },
+  "feedback": {
+    "correct": "Đúng rồi! Em đọc lại từ hoặc lời nói vừa chọn.",
+    "incorrect": "Đọc lời giải, chú ý tình huống rồi thử dùng mẫu câu.",
+    "teacher_note": "AI_CHECKED_AWAITING_TEACHER; phần nói và phát âm cần người lớn nghe và góp ý."
+  },
+  "verification": {
+    "ai_authored": true,
+    "structure_checked": true,
+    "answer_reviewed": true,
+    "source_reviewed": true,
+    "teacher_approved": false
+  },
+  "status": "AI_CHECKED_AWAITING_TEACHER",
+  "vocabulary": [
+    {
+      "word": "rice",
+      "meaning_vi": "cơm",
+      "example": "Would you like some rice?"
+    },
+    {
+      "word": "beans",
+      "meaning_vi": "đậu",
+      "example": "I'd like some beans."
+    },
+    {
+      "word": "fish",
+      "meaning_vi": "cá (món ăn)",
+      "example": "I'd like some fish."
+    },
+    {
+      "word": "meat",
+      "meaning_vi": "thịt",
+      "example": "Would you like some meat?"
+    },
+    {
+      "word": "juice",
+      "meaning_vi": "nước ép",
+      "example": "I'd like some juice."
+    },
+    {
+      "word": "bread",
+      "meaning_vi": "bánh mì",
+      "example": "I'd like some bread."
+    },
+    {
+      "word": "eggs",
+      "meaning_vi": "trứng",
+      "example": "I'd like some eggs."
+    },
+    {
+      "word": "chicken",
+      "meaning_vi": "thịt gà",
+      "example": "I'd like some chicken."
+    },
+    {
+      "word": "water",
+      "meaning_vi": "nước",
+      "example": "I'd like some water."
+    },
+    {
+      "word": "milk",
+      "meaning_vi": "sữa",
+      "example": "I'd like some milk."
+    }
+  ],
+  "patterns": [
+    "Would you like some rice? — Yes, please. / No, thanks. → Bạn dùng ít cơm nhé? — Vâng./Không, cảm ơn.",
+    "What would you like to eat/drink? — I'd like some bread/milk, please. → Bạn muốn ăn/uống gì?",
+    "I'd like = I would like. Tôn trọng lời từ chối và chọn phần vừa nhu cầu."
+  ],
+  "pronunciation": [
+    "ea trong bread đọc /e/, còn ea trong meat đọc /iː/.",
+    "Nghe bread/meat, giữ âm cuối /d/ hoặc /t/; không dựa riêng chữ ea để đoán âm."
+  ],
+  "skills": {
+    "reading": [
+      "Đoạn mới: Ha would like some eggs. Tuan would like some water. I'd like some bread.",
+      "Ai muốn uống nước? Đáp án: Tuan. Eggs và bread là đồ ăn của những người khác."
+    ],
+    "writing": [
+      "Viết lời mời một món và hai cách đáp nhận/từ chối. Mẫu: Would you like some beans? Yes, please. No, thanks.",
+      "Viết một câu gọi món ăn và một câu gọi đồ uống bằng I'd like some, please."
+    ],
+    "speaking": [
+      "Dùng thẻ thực đơn tự viết, đóng vai người mời và người chọn món, đổi vai.",
+      "Ghi món hai bạn muốn dùng theo câu trả lời thật hoặc thẻ vai; không ép người khác nhận món."
+    ],
+    "listening": [
+      "Nghe bread/meat bằng giọng máy, chỉ thẻ món phù hợp rồi đọc lại.",
+      "Một bạn đọc What would you like to eat/drink, người kia chọn đúng nhóm thẻ trước khi đáp."
+    ]
+  },
+  "audio": {
+    "type": "speechSynthesis",
+    "label": "Giọng máy tiếng Anh của thiết bị, không phải âm thanh sách. Có thể khác theo thiết bị; nếu không phát, đọc theo mẫu và nhờ người lớn hỗ trợ."
+  }
+}
