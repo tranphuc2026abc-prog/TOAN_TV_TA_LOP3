@@ -820,6 +820,8 @@ function gameResult(){
       '<button type="button" class="kw-nav-btn '+((page==="games"||page==="minigame")?"active":"")+'" onclick="go({p:\'games\'})">🎮 Trò chơi</button>'+
       '<button type="button" class="kw-nav-btn '+(page==="prof"?"active":"")+'" onclick="go({p:\'prof\'})">👤 Hồ sơ</button>'+
       '</nav>';
+    // Một số màn hình trò chơi không dựng lại hd: thay menu cũ thay vì nối lặp.
+    hd.querySelectorAll(".kw-topnav").forEach(function(node){node.remove();});
     hd.insertAdjacentHTML("beforeend",nav);
   };
   draw();

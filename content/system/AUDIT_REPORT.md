@@ -1,3 +1,13 @@
+# Batch41 — Review2 và Unit11–13 — 14/11/2026
+
+- Đã đọc trực quan T1 PDF75–78/trang74–77 và T2 PDF7–24/trang6–23: ôn trường/đồ dùng/màu/ra chơi, gia đình và tuổi11–20(o/ure), nghề nghiệp(er/or), phòng và vị trí in/on(ou/ow).48 câu mới,8 ví dụ có lời giải,4 trò chơi. Mỗi bài có JSON/Markdown, từ/nghĩa/ví dụ, mẫu câu, phát âm, đọc/viết/nói/nghe; học liệu mới giữ AI_CHECKED_AWAITING_TEACHER.
+- Tổng AI biên soạn159/168, AI kiểm tra159/168; Toán81/81,TV62/62,TA16/25;4208 câu,159 trò chơi. Giáo viên duyệt4,155 chờ duyệt; còn9 mục TA.
+- npm test exit0 trên159 kho, validator, toàn bộ hồi quy và test_batch41 kiểm đúng tập/nguồn/đường dẫn khi chuyển sang T2. DOM tất cả môn và tất cả TA hiện có đều PASS.
+- Kiểm thử trình duyệt trực tiếp trên Pages bằng Chrome qua giao diện: tạo hồ sơ thử riêng, mở Unit9, thấy nhãn chờ thẩm định, từ/mẫu câu/phát âm/các kĩ năng; đã nhìn SVG3 thẻ A xanh dương/B đỏ/C vàng đúng; mở lượt10 câu, chọn đáp án đúng có lời giải và chuyển câu; mở kho báu Unit9, đáp đúng được10 điểm và lời giải đúng. Chưa kiểm âm thực hoặc thiết bị di động. Chromium cục bộ vẫn bị chặn socket()/ptrace.
+- Trình duyệt phát hiện menu điều hướng bị nối lặp khi mở game. Đã sửa wrapper xoá menu cũ trước khi thêm menu mới; thêm hồi quy bắt buộc1 menu sau vào game và vẽ lại, trên mọi kho. Không đổi kho wl3, hồ sơ, XP/sao/huy hiệu hoặc sao lưu. Sửa này chờ kiểm lại trên Pages sau commit.
+- Batch40 commit https://github.com/tranphuc2026abc-prog/TOAN_TV_TA_LOP3/commit/557c31641134c8adf172895fc7bb0884927148f8 ; Actions43609707443/43609706564 đều success;8 JSON/Markdown và SVG Pages HTTP200, SHA-256 trùng. Batch39 tương tự đã đối chiếu8 tệp và danh mục khớp.
+- Điểm nối tiếp batch42: Unit14,Unit15,Review3,Unit16, phải đọc trang nguồn trước. Batch41 Actions/Pages chờ xác minh.
+
 # Batch40 — Tiếng Anh Unit7–10 — 14/11/2026
 
 - Đã đọc trực quan đầy đủ PDF51–74/trang in50–73: hướng dẫn lớp và xin phép May I(sp/st), đồ học tập I have/Do you have(oo/a), màu số ít/số nhiều(bl/br), hoạt động giờ ra chơi(f/v).48 câu mới,8 ví dụ có lời giải,4 trò chơi. Mỗi bài đủ từ vựng/nghĩa/ví dụ, mẫu câu, phát âm, hoạt động đọc/viết/nói/nghe, phản hồi và đánh giá.

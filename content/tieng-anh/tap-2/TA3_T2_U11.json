@@ -1,0 +1,403 @@
+{
+  "id": "TA3_T2_U11",
+  "subject": "ta",
+  "grade": 3,
+  "book": "Kết nối tri thức với cuộc sống",
+  "volume": 2,
+  "lesson_no": 11,
+  "title": "Unit 11: My family",
+  "topic": "English Global Success",
+  "source": {
+    "pdf": "03-sgk-tieng-anh-3-tap-2-global-success.pdf",
+    "printed_pages": [
+      6,
+      11
+    ],
+    "pdf_pages": [
+      7,
+      12
+    ],
+    "review": "Đã đọc trực quan đầy đủ trang nguồn PDF ảnh quét ngày14/11/2026. Biên soạn tình huống, ví dụ và câu hỏi mới; không đăng toàn văn hay sao chép hệ thống bài tập SGK; không có bản thu âm sách."
+  },
+  "objectives": [
+    "Hiểu và dùng đúng: Giới thiệu người thân, hỏi người đó là ai và hỏi đáp tuổi11–20 bằng he/she.",
+    "Đọc, viết và thực hành nói theo tình huống mới.",
+    "Nhận biết trọng tâm phát âm và luyện nghe bằng giọng máy có ghi nhãn."
+  ],
+  "knowledge": {
+    "introduction": "Giới thiệu người thân, hỏi người đó là ai và hỏi đáp tuổi11–20 bằng he/she.",
+    "rules": [
+      "Who's this/that? — It's my sister. → Đây/kia là ai? — Là chị/em gái mình.",
+      "How old is he/she? — He's/She's fourteen years old. → Anh/cô ấy bao nhiêu tuổi?",
+      "How old is your brother? — He's twelve. Are you sure? → Bạn chắc không?"
+    ],
+    "steps": [
+      "Đọc từ và nghĩa, quan sát tình huống trước khi chọn cách nói.",
+      "Nghe từ bằng giọng máy nếu thiết bị hỗ trợ, đọc lại chậm theo hướng dẫn phát âm.",
+      "Làm câu hỏi, xem giải thích rồi thực hành nói và viết theo nhiệm vụ."
+    ],
+    "common_errors": [
+      "Đáp I'm khi câu hỏi nói về he/she; dùng are với she.",
+      "Nhầm số4/14 hoặc8/18; suy brother/sister tự cho biết lớn tuổi hay nhỏ tuổi hơn."
+    ]
+  },
+  "examples": [
+    {
+      "question": "Trong lời giới thiệu gia đình, sister có thể chỉ ai?",
+      "steps": [
+        "Nhận diện yêu cầu: vocabulary",
+        "Tiếng Anh dùng sister cho chị/em gái, không tự cho biết lớn hay nhỏ tuổi hơn người nói.",
+        "Đáp án: Chị hoặc em gái."
+      ]
+    },
+    {
+      "question": "Điền đại từ đúng vào ___ is my father.",
+      "steps": [
+        "Nhận diện yêu cầu: writing",
+        "Father là bố, ở đây dùng he để nói về một người nam; he đi với is.",
+        "Đáp án: He"
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "title": "Thực hành theo cặp: Unit 11: My family",
+      "materials": [
+        "Giấy",
+        "Bút",
+        "Thẻ tự làm"
+      ],
+      "steps": [
+        "Vẽ gia đình nhân vật, ghi quan hệ và tuổi11–20 cho hai người rồi giới thiệu theo cặp. Không cần dùng ảnh hay thông tin riêng của gia đình thật.",
+        "Đổi vai và nhờ bạn nhắc lại thông tin đã nghe.",
+        "Sửa một lỗi sau khi đọc phần giải thích trong bài."
+      ],
+      "check": [
+        "Đúng nội dung giao tiếp hoặc chữ/số yêu cầu.",
+        "Phát âm chậm, đủ nghe; nhờ người lớn hỗ trợ chỗ chưa chắc.",
+        "Viết đúng từ, tên riêng, dấu nháy và dấu câu."
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "question_id": "TA3_T2_U11_Q01",
+      "type": "mcq",
+      "skill": "vocabulary",
+      "question": "Trong lời giới thiệu gia đình, sister có thể chỉ ai?",
+      "correct_answer": "Chị hoặc em gái.",
+      "options": [
+        "Anh hoặc em trai.",
+        "Bố.",
+        "Mẹ.",
+        "Chị hoặc em gái."
+      ],
+      "explanation": "Tiếng Anh dùng sister cho chị/em gái, không tự cho biết lớn hay nhỏ tuổi hơn người nói."
+    },
+    {
+      "question_id": "TA3_T2_U11_Q02",
+      "type": "mcq",
+      "skill": "communication",
+      "question": "Em chỉ ảnh mẹ của mình và bạn hỏi Who's this? Em đáp sao?",
+      "correct_answer": "It's my mother.",
+      "options": [
+        "I'm my mother.",
+        "She colour mother.",
+        "It's my mother.",
+        "It's my brother."
+      ],
+      "explanation": "Who's this hỏi người là ai; đáp mối quan hệ my mother theo thông tin được cho."
+    },
+    {
+      "question_id": "TA3_T2_U11_Q03",
+      "type": "mcq",
+      "skill": "grammar",
+      "question": "Khi hỏi tuổi một người chị, câu nào đúng?",
+      "correct_answer": "How old is she?",
+      "options": [
+        "How she old are?",
+        "How old is she?",
+        "How old are she?",
+        "What old she is?"
+      ],
+      "explanation": "She là một người, dùng is trong How old is she; không dùng are."
+    },
+    {
+      "question_id": "TA3_T2_U11_Q04",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Đọc: This is my brother, Duy. He's fourteen. Duy bao nhiêu tuổi?",
+      "correct_answer": "Mười bốn.",
+      "options": [
+        "Mười bốn.",
+        "Mười hai.",
+        "Bốn.",
+        "Mười chín."
+      ],
+      "explanation": "Fourteen là14; four chỉ4, không bỏ phần teen khi đọc số tuổi."
+    },
+    {
+      "question_id": "TA3_T2_U11_Q05",
+      "type": "mcq",
+      "skill": "writing",
+      "question": "Điền đại từ đúng vào ___ is my father.",
+      "correct_answer": "He",
+      "options": [
+        "She",
+        "They",
+        "I",
+        "He"
+      ],
+      "explanation": "Father là bố, ở đây dùng he để nói về một người nam; he đi với is."
+    },
+    {
+      "question_id": "TA3_T2_U11_Q06",
+      "type": "mcq",
+      "skill": "vocabulary",
+      "question": "Số tuổi eighteen tương ứng số nào?",
+      "correct_answer": "18",
+      "options": [
+        "12",
+        "20",
+        "18",
+        "8"
+      ],
+      "explanation": "Eighteen là18, khác eight là8 và twenty là20."
+    },
+    {
+      "question_id": "TA3_T2_U11_Q07",
+      "type": "mcq",
+      "skill": "communication",
+      "question": "Bạn nói tuổi một người thân khiến em chưa chắc nghe đúng. Câu nào hỏi xác nhận lịch sự?",
+      "correct_answer": "Are you sure?",
+      "options": [
+        "No, you can't old.",
+        "Are you sure?",
+        "Close your sure!",
+        "What colour sure?"
+      ],
+      "explanation": "Are you sure hỏi Bạn có chắc không; dùng để xác nhận thay vì tự đổi số tuổi."
+    },
+    {
+      "question_id": "TA3_T2_U11_Q08",
+      "type": "mcq",
+      "skill": "pronunciation",
+      "question": "Trong từ old, nhóm o được luyện theo cách nào?",
+      "correct_answer": "Nghe và đọc nguyên âm đôi /əʊ/ rồi giữ âm cuối /ld/.",
+      "options": [
+        "Nghe và đọc nguyên âm đôi /əʊ/ rồi giữ âm cuối /ld/.",
+        "Chỉ đọc tên chữ O rồi bỏ ld.",
+        "Đổi thành /ʊ/ của book.",
+        "Đọc thành ba tiếng o-lờ-đờ."
+      ],
+      "explanation": "Old có nguyên âm đôi trong giọng Anh, nối âm cuối liền thay vì thêm tiếng đệm."
+    },
+    {
+      "question_id": "TA3_T2_U11_Q09",
+      "type": "mcq",
+      "skill": "pronunciation",
+      "question": "Khi nghe sure theo giọng Anh khác nhau, cách học phù hợp là gì?",
+      "correct_answer": "Nghe cả từ và bắt chước một mẫu rõ, chấp nhận khác biệt giọng hợp lí.",
+      "options": [
+        "Luôn ép đọc từng chữ s-u-r-e.",
+        "Đọc giống old vì đều nói tuổi.",
+        "Bỏ từ vì các giọng khác nhau.",
+        "Nghe cả từ và bắt chước một mẫu rõ, chấp nhận khác biệt giọng hợp lí."
+      ],
+      "explanation": "Sure có biến thể phát âm theo giọng; trọng tâm là nhận từ trong Are you sure, không đánh vần thay phát âm."
+    },
+    {
+      "question_id": "TA3_T2_U11_Q10",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Thẻ mới ghi sister: twelve; brother: nineteen. Người anh/em trai bao nhiêu tuổi?",
+      "correct_answer": "19 tuổi.",
+      "options": [
+        "2 tuổi.",
+        "9 tuổi.",
+        "19 tuổi.",
+        "12 tuổi."
+      ],
+      "explanation": "Brother gắn nineteen là19; sister gắn twelve là12. Đọc đúng dòng trước khi chọn."
+    },
+    {
+      "question_id": "TA3_T2_U11_Q11",
+      "type": "mcq",
+      "skill": "writing",
+      "question": "Chọn câu đầy đủ đúng ngữ pháp để nói chị/em gái16 tuổi.",
+      "correct_answer": "She's sixteen years old.",
+      "options": [
+        "She's sixteen year olds.",
+        "She's sixteen years old.",
+        "She sixteen years.",
+        "She're sixteen years old."
+      ],
+      "explanation": "She's là she is; sau số tuổi là years old, không đổi old sang olds."
+    },
+    {
+      "question_id": "TA3_T2_U11_Q12",
+      "type": "mcq",
+      "skill": "speaking",
+      "question": "Giới thiệu gia đình bằng tranh vẽ, em nên làm gì?",
+      "correct_answer": "Nêu mối quan hệ và tuổi theo thẻ, dùng he/she phù hợp.",
+      "options": [
+        "Nêu mối quan hệ và tuổi theo thẻ, dùng he/she phù hợp.",
+        "Bắt buộc dùng ảnh thật và công khai tuổi mọi người.",
+        "Chỉ nói màu tranh.",
+        "Tự đoán tuổi như thông tin chắc chắn."
+      ],
+      "explanation": "Có thể dùng gia đình nhân vật tưởng tượng; mục tiêu là hỏi đáp quan hệ và tuổi, không thu thông tin riêng."
+    }
+  ],
+  "games": [
+    {
+      "id": "TA3_T2_U11_GAME",
+      "title": "Kho báu tiếng Anh: Unit 11: My family",
+      "mode": "treasure",
+      "objective": "Chọn từ và lời nói phù hợp để mở kho báu.",
+      "rules": [
+        "Mỗi lượt10 câu thuộc bài, không áp phân mức Toán.",
+        "Chọn đáp án rồi đọc giải thích. Trả lời đúng tiến thêm một bước.",
+        "Kết thúc, ôn câu sai và thử lại."
+      ],
+      "question_ids": [
+        "TA3_T2_U11_Q01",
+        "TA3_T2_U11_Q02",
+        "TA3_T2_U11_Q03",
+        "TA3_T2_U11_Q04",
+        "TA3_T2_U11_Q05",
+        "TA3_T2_U11_Q06",
+        "TA3_T2_U11_Q07",
+        "TA3_T2_U11_Q08",
+        "TA3_T2_U11_Q09",
+        "TA3_T2_U11_Q10",
+        "TA3_T2_U11_Q11",
+        "TA3_T2_U11_Q12"
+      ],
+      "answer_source": "practice.correct_answer",
+      "feedback_source": "practice.explanation",
+      "max_score": 100
+    }
+  ],
+  "assessment": {
+    "session_size": 10,
+    "scoring": "Mỗi câu đúng được tính điểm theo hệ thống; 8–10 câu đúng: nắm tốt, 5–7: đọc lại phần còn nhầm, dưới 5: đọc bài cùng người thân rồi thử lại. Nhiệm vụ nói/viết tự kiểm theo tiêu chí, không chấm bằng một đáp án duy nhất.",
+    "review_advice": "Xem lại câu sai theo nhóm từ, mẫu câu, phát âm; thực hiện cả nhiệm vụ nói và viết. Điểm trắc nghiệm không thay thế nhận xét phát âm."
+  },
+  "feedback": {
+    "correct": "Đúng rồi! Em đọc lại từ hoặc lời nói vừa chọn.",
+    "incorrect": "Đọc lời giải, chú ý tình huống rồi thử dùng mẫu câu.",
+    "teacher_note": "AI_CHECKED_AWAITING_TEACHER; phần nói và phát âm cần người lớn nghe và góp ý."
+  },
+  "verification": {
+    "ai_authored": true,
+    "structure_checked": true,
+    "answer_reviewed": true,
+    "source_reviewed": true,
+    "teacher_approved": false
+  },
+  "status": "AI_CHECKED_AWAITING_TEACHER",
+  "vocabulary": [
+    {
+      "word": "mother",
+      "meaning_vi": "mẹ",
+      "example": "This is my mother."
+    },
+    {
+      "word": "father",
+      "meaning_vi": "bố",
+      "example": "This is my father."
+    },
+    {
+      "word": "brother",
+      "meaning_vi": "anh/em trai",
+      "example": "He's my brother."
+    },
+    {
+      "word": "sister",
+      "meaning_vi": "chị/em gái",
+      "example": "She's my sister."
+    },
+    {
+      "word": "eleven",
+      "meaning_vi": "mười một",
+      "example": "She's eleven."
+    },
+    {
+      "word": "twelve",
+      "meaning_vi": "mười hai",
+      "example": "He's twelve."
+    },
+    {
+      "word": "thirteen",
+      "meaning_vi": "mười ba",
+      "example": "She's thirteen."
+    },
+    {
+      "word": "fourteen",
+      "meaning_vi": "mười bốn",
+      "example": "He's fourteen."
+    },
+    {
+      "word": "fifteen",
+      "meaning_vi": "mười lăm",
+      "example": "She's fifteen."
+    },
+    {
+      "word": "sixteen",
+      "meaning_vi": "mười sáu",
+      "example": "He's sixteen."
+    },
+    {
+      "word": "seventeen",
+      "meaning_vi": "mười bảy",
+      "example": "She's seventeen."
+    },
+    {
+      "word": "eighteen",
+      "meaning_vi": "mười tám",
+      "example": "He's eighteen."
+    },
+    {
+      "word": "nineteen",
+      "meaning_vi": "mười chín",
+      "example": "She's nineteen."
+    },
+    {
+      "word": "twenty",
+      "meaning_vi": "hai mươi",
+      "example": "He's twenty."
+    }
+  ],
+  "patterns": [
+    "Who's this/that? — It's my sister. → Đây/kia là ai? — Là chị/em gái mình.",
+    "How old is he/she? — He's/She's fourteen years old. → Anh/cô ấy bao nhiêu tuổi?",
+    "How old is your brother? — He's twelve. Are you sure? → Bạn chắc không?"
+  ],
+  "pronunciation": [
+    "o trong old có nguyên âm đôi /əʊ/ ở giọng Anh; giữ âm cuối /ld/ liền, không thêm tiếng đệm.",
+    "ure trong sure: nghe cả từ và mẫu Are you sure. Từ có biến thể theo giọng, không đọc từng tên chữ để thay phát âm."
+  ],
+  "skills": {
+    "reading": [
+      "Đoạn mới: This is my brother, Duy. He's fourteen. My sister is twelve.",
+      "Ai14 tuổi? Đáp án: Duy. Chị/em gái12 tuổi; không lấy số của người này gán cho người kia."
+    ],
+    "writing": [
+      "Viết ba câu giới thiệu gia đình nhân vật tưởng tượng: This is my sister. She's sixteen. This is my brother.",
+      "Thêm tuổi người anh/em trai, dùng He's và số11–20; soát years old, không thêm s vào old."
+    ],
+    "speaking": [
+      "Dùng tranh vẽ gia đình tưởng tượng và thẻ tuổi, hỏi Who's this rồi How old is he/she.",
+      "Đổi vai; nếu nghe tuổi chưa rõ, hỏi Are you sure rồi kiểm lại thẻ."
+    ],
+    "listening": [
+      "Nghe từng từ tuổi11–20 bằng giọng máy, phân biệt eight/eighteen và four/fourteen qua thẻ số.",
+      "Nhờ bạn đọc giới thiệu một người trong tranh và tuổi, em chỉ đúng nhân vật theo dữ kiện đã thống nhất."
+    ]
+  },
+  "audio": {
+    "type": "speechSynthesis",
+    "label": "Giọng máy tiếng Anh của thiết bị, không phải âm thanh sách. Có thể khác theo thiết bị; nếu không phát, đọc theo mẫu và nhờ người lớn hỗ trợ."
+  }
+}

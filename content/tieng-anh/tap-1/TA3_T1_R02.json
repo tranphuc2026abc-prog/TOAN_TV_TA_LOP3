@@ -1,0 +1,375 @@
+{
+  "id": "TA3_T1_R02",
+  "subject": "ta",
+  "grade": 3,
+  "book": "Kết nối tri thức với cuộc sống",
+  "volume": 1,
+  "lesson_no": 2,
+  "title": "Review 2",
+  "topic": "English Global Success",
+  "source": {
+    "pdf": "03-sgk-tieng-anh-3-tap-1-global-success.pdf",
+    "printed_pages": [
+      74,
+      77
+    ],
+    "pdf_pages": [
+      75,
+      78
+    ],
+    "review": "Đã đọc trực quan đầy đủ trang nguồn PDF ảnh quét ngày14/11/2026. Biên soạn tình huống, ví dụ và câu hỏi mới; không đăng toàn văn hay sao chép hệ thống bài tập SGK; không có bản thu âm sách."
+  },
+  "objectives": [
+    "Hiểu và dùng đúng: Ôn Unit6–10: nơi ở trường, hướng dẫn và xin phép, đồ dùng, màu sắc, hoạt động ra chơi; kèm Fun time màu.",
+    "Đọc, viết và thực hành nói theo tình huống mới.",
+    "Nhận biết trọng tâm phát âm và luyện nghe bằng giọng máy có ghi nhãn."
+  ],
+  "knowledge": {
+    "introduction": "Ôn Unit6–10: nơi ở trường, hướng dẫn và xin phép, đồ dùng, màu sắc, hoạt động ra chơi; kèm Fun time màu.",
+    "rules": [
+      "May I come in? — Yes, you can. / No, you can't. → Xin phép và đáp.",
+      "Do you have a ruler? — Yes, I do. / No, I don't. → Hỏi đồ dùng.",
+      "What colour is it/are they? — It's orange./They're green. → Hỏi màu theo số lượng.",
+      "Let's go to the library. — OK, let's go. What do you do at break time? — I play chess."
+    ],
+    "steps": [
+      "Đọc từ và nghĩa, quan sát tình huống trước khi chọn cách nói.",
+      "Nghe từ bằng giọng máy nếu thiết bị hỗ trợ, đọc lại chậm theo hướng dẫn phát âm.",
+      "Làm câu hỏi, xem giải thích rồi thực hành nói và viết theo nhiệm vụ."
+    ],
+    "common_errors": [
+      "Trộn Yes, I do với Yes, you can hoặc Yes, it is.",
+      "Dùng is/It's cho nhiều đồ, suy màu của vật này sang vật khác."
+    ]
+  },
+  "examples": [
+    {
+      "question": "Review2: cô đã cho em ngồi xuống sau lời xin phép. Câu đáp nào biểu thị việc cho phép?",
+      "steps": [
+        "Nhận diện yêu cầu: communication",
+        "May I cần lời cho phép you can; các lời đáp khác thuộc dạng câu hỏi khác.",
+        "Đáp án: Yes, you can."
+      ]
+    },
+    {
+      "question": "Bạn rủ em đến thư viện, em muốn đồng ý. Đáp nào đúng tình huống?",
+      "steps": [
+        "Nhận diện yêu cầu: communication",
+        "OK, let's go nhận lời rủ đi, khác các câu giới thiệu màu hoặc tên.",
+        "Đáp án: OK, let's go."
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "title": "Thực hành theo cặp: Review 2",
+      "materials": [
+        "Giấy",
+        "Bút",
+        "Thẻ tự làm"
+      ],
+      "steps": [
+        "Tạo bốn phiếu tình huống ở trường rồi hỏi đáp theo cặp. Sau mỗi lượt, bạn nghe nêu đúng nơi/đồ dùng/màu/hành động để kiểm lại thông tin.",
+        "Đổi vai và nhờ bạn nhắc lại thông tin đã nghe.",
+        "Sửa một lỗi sau khi đọc phần giải thích trong bài."
+      ],
+      "check": [
+        "Đúng nội dung giao tiếp hoặc chữ/số yêu cầu.",
+        "Phát âm chậm, đủ nghe; nhờ người lớn hỗ trợ chỗ chưa chắc.",
+        "Viết đúng từ, tên riêng, dấu nháy và dấu câu."
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "question_id": "TA3_T1_R02_Q01",
+      "type": "mcq",
+      "skill": "communication",
+      "question": "Review2: cô đã cho em ngồi xuống sau lời xin phép. Câu đáp nào biểu thị việc cho phép?",
+      "correct_answer": "Yes, you can.",
+      "options": [
+        "Yes, I do.",
+        "Yes, it is.",
+        "Yes, they are.",
+        "Yes, you can."
+      ],
+      "explanation": "May I cần lời cho phép you can; các lời đáp khác thuộc dạng câu hỏi khác."
+    },
+    {
+      "question_id": "TA3_T1_R02_Q02",
+      "type": "mcq",
+      "skill": "grammar",
+      "question": "Hỏi về màu của ba chiếc bút cùng màu, chọn câu phù hợp.",
+      "correct_answer": "What colour are they?",
+      "options": [
+        "Do you colour have?",
+        "What colour is they?",
+        "What colour are they?",
+        "What colour is it?"
+      ],
+      "explanation": "Nhiều vật dùng are they; câu đáp tương ứng là They're kèm màu."
+    },
+    {
+      "question_id": "TA3_T1_R02_Q03",
+      "type": "mcq",
+      "skill": "vocabulary",
+      "question": "Thẻ gợi ý có sách và chỗ đọc, địa điểm phù hợp là gì?",
+      "correct_answer": "library",
+      "options": [
+        "music room",
+        "library",
+        "gym",
+        "playground"
+      ],
+      "explanation": "Library là thư viện, đúng chủ đề nơi đọc sách; các nơi khác có chức năng khác."
+    },
+    {
+      "question_id": "TA3_T1_R02_Q04",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Đọc: I have a ruler. It's orange. I play chess at break time. Từ orange nói về vật nào?",
+      "correct_answer": "Chiếc thước.",
+      "options": [
+        "Chiếc thước.",
+        "Bàn cờ.",
+        "Giờ ra chơi.",
+        "Một cái cặp không được nêu."
+      ],
+      "explanation": "It nối với ruler vừa nói ở trước; không gán màu sang hoạt động chess."
+    },
+    {
+      "question_id": "TA3_T1_R02_Q05",
+      "type": "mcq",
+      "skill": "communication",
+      "question": "Bạn rủ em đến thư viện, em muốn đồng ý. Đáp nào đúng tình huống?",
+      "correct_answer": "OK, let's go.",
+      "options": [
+        "Fine, my name.",
+        "It's a library colour.",
+        "May you are?",
+        "OK, let's go."
+      ],
+      "explanation": "OK, let's go nhận lời rủ đi, khác các câu giới thiệu màu hoặc tên."
+    },
+    {
+      "question_id": "TA3_T1_R02_Q06",
+      "type": "mcq",
+      "skill": "writing",
+      "question": "Chọn câu diễn đạt em không có hộp bút.",
+      "correct_answer": "I don't have a pencil case.",
+      "options": [
+        "I doesn't have pencil case.",
+        "I am don't pencil.",
+        "I don't have a pencil case.",
+        "I not a pencil case."
+      ],
+      "explanation": "Phủ định I have dùng I don't have; pencil case số ít cần a trong câu này."
+    },
+    {
+      "question_id": "TA3_T1_R02_Q07",
+      "type": "mcq",
+      "skill": "vocabulary",
+      "question": "Màu mới purple trong Fun time có nghĩa gì?",
+      "correct_answer": "Tím.",
+      "options": [
+        "Trắng.",
+        "Tím.",
+        "Nâu.",
+        "Đen."
+      ],
+      "explanation": "Purple là tím; phần Fun time mở rộng từ vựng qua sơ đồ màu."
+    },
+    {
+      "question_id": "TA3_T1_R02_Q08",
+      "type": "mcq",
+      "skill": "pronunciation",
+      "question": "Ôn f/v, cặp từ nào giúp nghe sự khác biệt hai âm đầu đó?",
+      "correct_answer": "football và volleyball",
+      "options": [
+        "football và volleyball",
+        "blue và brown",
+        "stand và speak",
+        "book và eraser"
+      ],
+      "explanation": "Football mở đầu /f/, volleyball mở đầu /v/, cùng vị trí môi-răng nhưng khác rung giọng."
+    },
+    {
+      "question_id": "TA3_T1_R02_Q09",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Thẻ mới ghi school bag: brown; books: green. Câu nào nói đúng màu sách?",
+      "correct_answer": "They're green.",
+      "options": [
+        "It's brown.",
+        "They're brown.",
+        "It's orange.",
+        "They're green."
+      ],
+      "explanation": "Books là nhiều quyển sách, dòng thẻ nêu green; brown chỉ chiếc cặp."
+    },
+    {
+      "question_id": "TA3_T1_R02_Q10",
+      "type": "mcq",
+      "skill": "writing",
+      "question": "Điền động từ vào lời yêu cầu ___ your book, please! để mang nghĩa gấp sách.",
+      "correct_answer": "Close",
+      "options": [
+        "Have",
+        "Chat",
+        "Close",
+        "Play"
+      ],
+      "explanation": "Close là gấp/đóng, đúng yêu cầu với book; các động từ khác không có nghĩa ấy."
+    },
+    {
+      "question_id": "TA3_T1_R02_Q11",
+      "type": "mcq",
+      "skill": "speaking",
+      "question": "Em cần ôn cả sở hữu, màu và hoạt động ra chơi. Chuỗi thực hành nào đủ ba ý?",
+      "correct_answer": "Nói đồ mình có, màu đồ ấy, rồi hoạt động mình làm giờ ra chơi.",
+      "options": [
+        "Chỉ nói một lời xin phép.",
+        "Nói đồ mình có, màu đồ ấy, rồi hoạt động mình làm giờ ra chơi.",
+        "Chỉ đọc tên ba màu.",
+        "Chỉ hỏi tuổi ba lần."
+      ],
+      "explanation": "Ba thông tin là ba mảng giao tiếp khác nhau; nối bằng câu ngắn rõ ràng."
+    },
+    {
+      "question_id": "TA3_T1_R02_Q12",
+      "type": "mcq",
+      "skill": "communication",
+      "question": "Bạn hỏi Do you have a notebook? Câu nào vừa đáp không vừa nêu đồ khác em có?",
+      "correct_answer": "No, I don't. I have a book.",
+      "options": [
+        "No, I don't. I have a book.",
+        "No, it isn't. I'm book.",
+        "Yes, I don't. I have notebook.",
+        "They're blue."
+      ],
+      "explanation": "Do you have cần do/don't; câu sau có thể bổ sung đồ thực sự có mà không đổi nghĩa lời đáp."
+    }
+  ],
+  "games": [
+    {
+      "id": "TA3_T1_R02_GAME",
+      "title": "Kho báu tiếng Anh: Review 2",
+      "mode": "treasure",
+      "objective": "Chọn từ và lời nói phù hợp để mở kho báu.",
+      "rules": [
+        "Mỗi lượt10 câu thuộc bài, không áp phân mức Toán.",
+        "Chọn đáp án rồi đọc giải thích. Trả lời đúng tiến thêm một bước.",
+        "Kết thúc, ôn câu sai và thử lại."
+      ],
+      "question_ids": [
+        "TA3_T1_R02_Q01",
+        "TA3_T1_R02_Q02",
+        "TA3_T1_R02_Q03",
+        "TA3_T1_R02_Q04",
+        "TA3_T1_R02_Q05",
+        "TA3_T1_R02_Q06",
+        "TA3_T1_R02_Q07",
+        "TA3_T1_R02_Q08",
+        "TA3_T1_R02_Q09",
+        "TA3_T1_R02_Q10",
+        "TA3_T1_R02_Q11",
+        "TA3_T1_R02_Q12"
+      ],
+      "answer_source": "practice.correct_answer",
+      "feedback_source": "practice.explanation",
+      "max_score": 100
+    }
+  ],
+  "assessment": {
+    "session_size": 10,
+    "scoring": "Mỗi câu đúng được tính điểm theo hệ thống; 8–10 câu đúng: nắm tốt, 5–7: đọc lại phần còn nhầm, dưới 5: đọc bài cùng người thân rồi thử lại. Nhiệm vụ nói/viết tự kiểm theo tiêu chí, không chấm bằng một đáp án duy nhất.",
+    "review_advice": "Xem lại câu sai theo nhóm từ, mẫu câu, phát âm; thực hiện cả nhiệm vụ nói và viết. Điểm trắc nghiệm không thay thế nhận xét phát âm."
+  },
+  "feedback": {
+    "correct": "Đúng rồi! Em đọc lại từ hoặc lời nói vừa chọn.",
+    "incorrect": "Đọc lời giải, chú ý tình huống rồi thử dùng mẫu câu.",
+    "teacher_note": "AI_CHECKED_AWAITING_TEACHER; phần nói và phát âm cần người lớn nghe và góp ý."
+  },
+  "verification": {
+    "ai_authored": true,
+    "structure_checked": true,
+    "answer_reviewed": true,
+    "source_reviewed": true,
+    "teacher_approved": false
+  },
+  "status": "AI_CHECKED_AWAITING_TEACHER",
+  "vocabulary": [
+    {
+      "word": "library",
+      "meaning_vi": "thư viện",
+      "example": "Let's go to the library."
+    },
+    {
+      "word": "ruler",
+      "meaning_vi": "thước kẻ",
+      "example": "I have a ruler."
+    },
+    {
+      "word": "pencil case",
+      "meaning_vi": "hộp đựng bút",
+      "example": "I have a pencil case."
+    },
+    {
+      "word": "orange",
+      "meaning_vi": "cam",
+      "example": "It's orange."
+    },
+    {
+      "word": "purple",
+      "meaning_vi": "tím",
+      "example": "It's purple."
+    },
+    {
+      "word": "green",
+      "meaning_vi": "xanh lá",
+      "example": "They're green."
+    },
+    {
+      "word": "chess",
+      "meaning_vi": "cờ vua",
+      "example": "I play chess."
+    },
+    {
+      "word": "come in",
+      "meaning_vi": "đi vào",
+      "example": "May I come in?"
+    }
+  ],
+  "patterns": [
+    "May I come in? — Yes, you can. / No, you can't. → Xin phép và đáp.",
+    "Do you have a ruler? — Yes, I do. / No, I don't. → Hỏi đồ dùng.",
+    "What colour is it/are they? — It's orange./They're green. → Hỏi màu theo số lượng.",
+    "Let's go to the library. — OK, let's go. What do you do at break time? — I play chess."
+  ],
+  "pronunciation": [
+    "Ôn pl/cl trong playground/classroom, sp/st trong speak/stand, oo của book và a của eraser.",
+    "Ôn bl/br trong blue/brown và f/v trong football/volleyball; nghe cả từ, không chèn tiếng đệm giữa cụm phụ âm."
+  ],
+  "skills": {
+    "reading": [
+      "Đoạn mới: I have a ruler. It's orange. I play chess at break time. My books are green.",
+      "Vật gì màu cam? Đáp án: ruler, thước. Màu sách là green, không phải orange."
+    ],
+    "writing": [
+      "Viết ba câu về một đồ dùng, màu của nó và một hoạt động ra chơi. Mẫu: I have a pen. It's blue. I play chess.",
+      "Thêm một lời xin phép và câu đáp; soát dùng do/don't cho sở hữu, can/can't cho cho phép."
+    ],
+    "speaking": [
+      "Lập bốn trạm thẻ: nơi ở trường, xin phép, đồ dùng/màu, hoạt động; đổi vai hỏi đáp ở mỗi trạm.",
+      "Trong hoạt động màu vẽ, so tên màu trên thẻ và nói It's/They're; không coi pha màu trên màn hình là pha sơn."
+    ],
+    "listening": [
+      "Nghe từ bằng nút giọng máy rồi chọn thẻ; dùng câu tự soạn để luyện, không giả đáp án track SGK.",
+      "Nhờ người thân đọc câu hỏi sở hữu, xin phép hoặc màu; đáp đúng dạng trước khi nhìn mẫu."
+    ]
+  },
+  "audio": {
+    "type": "speechSynthesis",
+    "label": "Giọng máy tiếng Anh của thiết bị, không phải âm thanh sách. Có thể khác theo thiết bị; nếu không phát, đọc theo mẫu và nhờ người lớn hỗ trợ."
+  }
+}

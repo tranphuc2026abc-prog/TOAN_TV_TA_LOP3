@@ -30,7 +30,7 @@ async function boot(missing){
    assert.equal(w.v.done,1);assert(w.A.textContent.includes(q.explanation));const score=w.v.ok;w.ans(0);assert.equal(w.v.ok,score);w.nextQ();
   }assert.equal(w.P.les[id],3);
   w.startQ(id);assert.equal(w.v.qs.length,10);
-  w.startLessonGame(id);assert(w.G.all.every(q=>q.id===id));
+  w.startLessonGame(id);assert(w.G.all.every(q=>q.id===id));assert.equal(w.document.querySelectorAll('#hd .kw-topnav').length,1,'single navigation after opening lesson game');w.draw();assert.equal(w.document.querySelectorAll('#hd .kw-topnav').length,1,'single navigation after repeated game draw');
   if(w.G.mode==='match'){
    assert.equal(w.G.pairs.length,5);assert.equal(new Set(w.G.pairs.map(q=>q.answer)).size,5);
    for(let j=0;j<5;j++){w.pickPair(0,j);w.pickPair(1,j);}assert.equal(w.G.score,50);assert(w.G.ended);

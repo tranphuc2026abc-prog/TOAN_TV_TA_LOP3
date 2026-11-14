@@ -1,0 +1,380 @@
+{
+  "id": "TA3_T2_U12",
+  "subject": "ta",
+  "grade": 3,
+  "book": "Kết nối tri thức với cuộc sống",
+  "volume": 2,
+  "lesson_no": 12,
+  "title": "Unit 12: Jobs",
+  "topic": "English Global Success",
+  "source": {
+    "pdf": "03-sgk-tieng-anh-3-tap-2-global-success.pdf",
+    "printed_pages": [
+      12,
+      17
+    ],
+    "pdf_pages": [
+      13,
+      18
+    ],
+    "review": "Đã đọc trực quan đầy đủ trang nguồn PDF ảnh quét ngày14/11/2026. Biên soạn tình huống, ví dụ và câu hỏi mới; không đăng toàn văn hay sao chép hệ thống bài tập SGK; không có bản thu âm sách."
+  },
+  "objectives": [
+    "Hiểu và dùng đúng: Hỏi nghề bằng What's his/her job, giới thiệu nghề và hỏi xác nhận Is he/she a.",
+    "Đọc, viết và thực hành nói theo tình huống mới.",
+    "Nhận biết trọng tâm phát âm và luyện nghe bằng giọng máy có ghi nhãn."
+  ],
+  "knowledge": {
+    "introduction": "Hỏi nghề bằng What's his/her job, giới thiệu nghề và hỏi xác nhận Is he/she a.",
+    "rules": [
+      "What's his/her job? — He's/She's a doctor. → Anh/cô ấy làm nghề gì?",
+      "Is she a worker? — Yes, she is. → Cô ấy là công nhân phải không? — Đúng.",
+      "Is he a doctor? — No, he isn't. He's a nurse. → Không. Anh ấy là điều dưỡng.",
+      "His/her đứng trước job; he/she dùng khi làm chủ ngữ. Nghề không giới hạn theo giới."
+    ],
+    "steps": [
+      "Đọc từ và nghĩa, quan sát tình huống trước khi chọn cách nói.",
+      "Nghe từ bằng giọng máy nếu thiết bị hỗ trợ, đọc lại chậm theo hướng dẫn phát âm.",
+      "Làm câu hỏi, xem giải thích rồi thực hành nói và viết theo nhiệm vụ."
+    ],
+    "common_errors": [
+      "Đổi his/her và he/she tuỳ tiện; bỏ a trong She's a doctor.",
+      "Đoán nghề từ giới thay dữ kiện; không đọc phần No nên hiểu sai câu đáp."
+    ]
+  },
+  "examples": [
+    {
+      "question": "Nghề nurse trong Unit12 được hiểu là gì?",
+      "steps": [
+        "Nhận diện yêu cầu: vocabulary",
+        "Nurse là điều dưỡng/y tá, người làm nghề có thể là nam hoặc nữ.",
+        "Đáp án: Điều dưỡng/y tá."
+      ]
+    },
+    {
+      "question": "Người làm công việc nấu món ăn có tên nghề nào trong bài?",
+      "steps": [
+        "Nhận diện yêu cầu: vocabulary",
+        "Cook là đầu bếp/người nấu ăn; khác cooking là hoạt động nấu ăn đã học.",
+        "Đáp án: cook"
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "title": "Thực hành theo cặp: Unit 12: Jobs",
+      "materials": [
+        "Giấy",
+        "Bút",
+        "Thẻ tự làm"
+      ],
+      "steps": [
+        "Tạo bốn thẻ nghề tự vẽ, phân cho các nhân vật nam/nữ khác nhau rồi hỏi đáp. Mỗi lượt phải nêu nghề đúng thẻ và thêm một câu xác nhận.",
+        "Đổi vai và nhờ bạn nhắc lại thông tin đã nghe.",
+        "Sửa một lỗi sau khi đọc phần giải thích trong bài."
+      ],
+      "check": [
+        "Đúng nội dung giao tiếp hoặc chữ/số yêu cầu.",
+        "Phát âm chậm, đủ nghe; nhờ người lớn hỗ trợ chỗ chưa chắc.",
+        "Viết đúng từ, tên riêng, dấu nháy và dấu câu."
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "question_id": "TA3_T2_U12_Q01",
+      "type": "mcq",
+      "skill": "vocabulary",
+      "question": "Nghề nurse trong Unit12 được hiểu là gì?",
+      "correct_answer": "Điều dưỡng/y tá.",
+      "options": [
+        "Tài xế.",
+        "Nông dân.",
+        "Ca sĩ.",
+        "Điều dưỡng/y tá."
+      ],
+      "explanation": "Nurse là điều dưỡng/y tá, người làm nghề có thể là nam hoặc nữ."
+    },
+    {
+      "question_id": "TA3_T2_U12_Q02",
+      "type": "mcq",
+      "skill": "communication",
+      "question": "Muốn hỏi nghề của bố bạn, câu nào đúng mẫu?",
+      "correct_answer": "What's his job?",
+      "options": [
+        "How old is job?",
+        "Who's this age?",
+        "What's his job?",
+        "What's her colour?"
+      ],
+      "explanation": "His dùng cho người nam đang nói tới, job là nghề; cần biết ngữ cảnh người được hỏi."
+    },
+    {
+      "question_id": "TA3_T2_U12_Q03",
+      "type": "mcq",
+      "skill": "grammar",
+      "question": "Người mẹ là một bác sĩ. Chọn câu giới thiệu nghề đúng.",
+      "correct_answer": "She's a doctor.",
+      "options": [
+        "He's a doctor mother she.",
+        "She's a doctor.",
+        "She's doctor a.",
+        "She are a doctor."
+      ],
+      "explanation": "She's là she is; danh từ nghề số ít doctor ở đây dùng a."
+    },
+    {
+      "question_id": "TA3_T2_U12_Q04",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Đọc: My mother is a driver. My father is a nurse. Ai làm điều dưỡng?",
+      "correct_answer": "Người bố.",
+      "options": [
+        "Người bố.",
+        "Người mẹ.",
+        "Cả hai.",
+        "Không ai."
+      ],
+      "explanation": "Father is a nurse nêu nghề bố. Không suy nghề theo giới hoặc dựa nghề thường gặp."
+    },
+    {
+      "question_id": "TA3_T2_U12_Q05",
+      "type": "mcq",
+      "skill": "vocabulary",
+      "question": "Người làm công việc nấu món ăn có tên nghề nào trong bài?",
+      "correct_answer": "cook",
+      "options": [
+        "farmer",
+        "singer",
+        "worker",
+        "cook"
+      ],
+      "explanation": "Cook là đầu bếp/người nấu ăn; khác cooking là hoạt động nấu ăn đã học."
+    },
+    {
+      "question_id": "TA3_T2_U12_Q06",
+      "type": "mcq",
+      "skill": "communication",
+      "question": "Cô Hà là ca sĩ. Bạn hỏi Is she a farmer? Em sửa thế nào?",
+      "correct_answer": "No, she isn't. She's a singer.",
+      "options": [
+        "No, he isn't.",
+        "She can't a singer.",
+        "No, she isn't. She's a singer.",
+        "Yes, she is a farmer."
+      ],
+      "explanation": "Câu hỏi nhận diện nghề sai cần phủ định bằng she isn't rồi nêu nghề đúng."
+    },
+    {
+      "question_id": "TA3_T2_U12_Q07",
+      "type": "mcq",
+      "skill": "writing",
+      "question": "Chọn tên nghề được viết đúng.",
+      "correct_answer": "teacher",
+      "options": [
+        "teatcher",
+        "teacher",
+        "techer",
+        "teachar"
+      ],
+      "explanation": "Teacher có phần teach và er; giữ đủ chữ a trong teach, không thêm t trước ch."
+    },
+    {
+      "question_id": "TA3_T2_U12_Q08",
+      "type": "mcq",
+      "skill": "pronunciation",
+      "question": "Phần cuối er trong mother và or trong doctor được luyện thế nào ở giọng Anh không bật r cuối?",
+      "correct_answer": "Đều có âm nhẹ /ə/, không đọc thành tên chữ er/or.",
+      "options": [
+        "Đều có âm nhẹ /ə/, không đọc thành tên chữ er/or.",
+        "Luôn nhấn rất mạnh âm cuối.",
+        "Đọc /aɪ/ giống my.",
+        "Bỏ cả phần cuối của từ."
+      ],
+      "explanation": "Mother và doctor thường kết thúc âm schwa trong giọng Anh không bật r cuối; nghe cả từ để luyện."
+    },
+    {
+      "question_id": "TA3_T2_U12_Q09",
+      "type": "mcq",
+      "skill": "grammar",
+      "question": "Để đáp đúng câu Is he a worker? khi nghề ấy đúng, em nói gì?",
+      "correct_answer": "Yes, he is.",
+      "options": [
+        "Yes, she is.",
+        "Yes, I do.",
+        "Yes, he are.",
+        "Yes, he is."
+      ],
+      "explanation": "He trong câu hỏi được giữ ở câu đáp; dùng is cùng he, không đổi sang she."
+    },
+    {
+      "question_id": "TA3_T2_U12_Q10",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Thẻ nhân vật mới: Hien — farmer; Son — singer. Sơn làm nghề gì theo thẻ?",
+      "correct_answer": "Ca sĩ.",
+      "options": [
+        "Tài xế.",
+        "Bác sĩ.",
+        "Ca sĩ.",
+        "Nông dân."
+      ],
+      "explanation": "Singer là ca sĩ, gắn với tên Son; farmer thuộc Hien. Không suy thêm nơi làm việc."
+    },
+    {
+      "question_id": "TA3_T2_U12_Q11",
+      "type": "mcq",
+      "skill": "writing",
+      "question": "Câu hỏi nào cần điền her khi đang hỏi về nghề của mẹ?",
+      "correct_answer": "What's ___ job?",
+      "options": [
+        "___ is my mother.",
+        "What's ___ job?",
+        "How old is ___?",
+        "Is ___ a doctor?"
+      ],
+      "explanation": "Trong What's her job, her đứng trước danh từ job; các chỗ còn lại cần she trong ngữ cảnh này."
+    },
+    {
+      "question_id": "TA3_T2_U12_Q12",
+      "type": "mcq",
+      "skill": "speaking",
+      "question": "Khi chơi đoán nghề theo thẻ, điều nào giúp tránh đoán sai theo giới?",
+      "correct_answer": "Hỏi và trả lời dựa nghề ghi trên thẻ, không gán nghề theo nam/nữ.",
+      "options": [
+        "Hỏi và trả lời dựa nghề ghi trên thẻ, không gán nghề theo nam/nữ.",
+        "Mặc định nurse luôn là nữ.",
+        "Mặc định driver luôn là nam.",
+        "Chỉ đoán qua tên, bỏ thẻ nghề."
+      ],
+      "explanation": "Mẫu Is he/she a nói về nhân vật cụ thể; nghề không chỉ dành cho một giới."
+    }
+  ],
+  "games": [
+    {
+      "id": "TA3_T2_U12_GAME",
+      "title": "Kho báu tiếng Anh: Unit 12: Jobs",
+      "mode": "treasure",
+      "objective": "Chọn từ và lời nói phù hợp để mở kho báu.",
+      "rules": [
+        "Mỗi lượt10 câu thuộc bài, không áp phân mức Toán.",
+        "Chọn đáp án rồi đọc giải thích. Trả lời đúng tiến thêm một bước.",
+        "Kết thúc, ôn câu sai và thử lại."
+      ],
+      "question_ids": [
+        "TA3_T2_U12_Q01",
+        "TA3_T2_U12_Q02",
+        "TA3_T2_U12_Q03",
+        "TA3_T2_U12_Q04",
+        "TA3_T2_U12_Q05",
+        "TA3_T2_U12_Q06",
+        "TA3_T2_U12_Q07",
+        "TA3_T2_U12_Q08",
+        "TA3_T2_U12_Q09",
+        "TA3_T2_U12_Q10",
+        "TA3_T2_U12_Q11",
+        "TA3_T2_U12_Q12"
+      ],
+      "answer_source": "practice.correct_answer",
+      "feedback_source": "practice.explanation",
+      "max_score": 100
+    }
+  ],
+  "assessment": {
+    "session_size": 10,
+    "scoring": "Mỗi câu đúng được tính điểm theo hệ thống; 8–10 câu đúng: nắm tốt, 5–7: đọc lại phần còn nhầm, dưới 5: đọc bài cùng người thân rồi thử lại. Nhiệm vụ nói/viết tự kiểm theo tiêu chí, không chấm bằng một đáp án duy nhất.",
+    "review_advice": "Xem lại câu sai theo nhóm từ, mẫu câu, phát âm; thực hiện cả nhiệm vụ nói và viết. Điểm trắc nghiệm không thay thế nhận xét phát âm."
+  },
+  "feedback": {
+    "correct": "Đúng rồi! Em đọc lại từ hoặc lời nói vừa chọn.",
+    "incorrect": "Đọc lời giải, chú ý tình huống rồi thử dùng mẫu câu.",
+    "teacher_note": "AI_CHECKED_AWAITING_TEACHER; phần nói và phát âm cần người lớn nghe và góp ý."
+  },
+  "verification": {
+    "ai_authored": true,
+    "structure_checked": true,
+    "answer_reviewed": true,
+    "source_reviewed": true,
+    "teacher_approved": false
+  },
+  "status": "AI_CHECKED_AWAITING_TEACHER",
+  "vocabulary": [
+    {
+      "word": "doctor",
+      "meaning_vi": "bác sĩ",
+      "example": "She's a doctor."
+    },
+    {
+      "word": "driver",
+      "meaning_vi": "tài xế",
+      "example": "He's a driver."
+    },
+    {
+      "word": "teacher",
+      "meaning_vi": "giáo viên",
+      "example": "She's a teacher."
+    },
+    {
+      "word": "worker",
+      "meaning_vi": "công nhân",
+      "example": "He's a worker."
+    },
+    {
+      "word": "cook",
+      "meaning_vi": "đầu bếp/người nấu ăn",
+      "example": "She's a cook."
+    },
+    {
+      "word": "farmer",
+      "meaning_vi": "nông dân",
+      "example": "He's a farmer."
+    },
+    {
+      "word": "singer",
+      "meaning_vi": "ca sĩ",
+      "example": "She's a singer."
+    },
+    {
+      "word": "nurse",
+      "meaning_vi": "điều dưỡng/y tá",
+      "example": "He's a nurse."
+    },
+    {
+      "word": "job",
+      "meaning_vi": "nghề nghiệp",
+      "example": "What's her job?"
+    }
+  ],
+  "patterns": [
+    "What's his/her job? — He's/She's a doctor. → Anh/cô ấy làm nghề gì?",
+    "Is she a worker? — Yes, she is. → Cô ấy là công nhân phải không? — Đúng.",
+    "Is he a doctor? — No, he isn't. He's a nurse. → Không. Anh ấy là điều dưỡng.",
+    "His/her đứng trước job; he/she dùng khi làm chủ ngữ. Nghề không giới hạn theo giới."
+  ],
+  "pronunciation": [
+    "er trong mother và or trong doctor thường là âm nhẹ /ə/ ở giọng Anh không bật r cuối; không nhấn mạnh phần đuôi.",
+    "Nghe cả mother/doctor rồi đặt vào câu; các giọng có thể bật r khác nhau, không đọc tên chữ er/or thay phần âm."
+  ],
+  "skills": {
+    "reading": [
+      "Đoạn mới: My mother is a driver. My father is a nurse. I am a pupil.",
+      "Ai làm điều dưỡng? Đáp án: người bố. Không suy rằng nurse chỉ có thể là nữ."
+    ],
+    "writing": [
+      "Viết nghề hai người trên thẻ vai: My mother is a teacher. My father is a cook.",
+      "Thêm một câu hỏi nghề và một câu hỏi xác nhận; dùng a trước danh từ nghề số ít trong các mẫu này."
+    ],
+    "speaking": [
+      "Rút thẻ nhân vật có tên, đại từ và nghề, hỏi What's his/her job rồi hỏi Is he/she a với một nghề để bạn xác nhận.",
+      "Đọc thẻ trước khi đáp, không đoán nghề dựa vào giới, tên hoặc quần áo ngoài dữ kiện cho."
+    ],
+    "listening": [
+      "Nghe các tên nghề bằng nút giọng máy, chọn thẻ rồi đọc lại cả cụm a doctor/a driver.",
+      "Nhờ người thân đọc câu hỏi xác nhận và câu đáp, em nêu đúng nghề cuối cùng sau khi sửa nhận diện sai."
+    ]
+  },
+  "audio": {
+    "type": "speechSynthesis",
+    "label": "Giọng máy tiếng Anh của thiết bị, không phải âm thanh sách. Có thể khác theo thiết bị; nếu không phát, đọc theo mẫu và nhờ người lớn hỗ trợ."
+  }
+}
