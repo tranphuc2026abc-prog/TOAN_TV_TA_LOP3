@@ -1,0 +1,331 @@
+{
+  "id": "TV3_T2_B23",
+  "subject": "tv",
+  "grade": 3,
+  "book": "Kết nối tri thức với cuộc sống",
+  "volume": 2,
+  "lesson_no": 23,
+  "title": "Hai Bà Trưng",
+  "topic": "Đất nước ngàn năm",
+  "source": {
+    "pdf": "03-sgk-tieng-viet-3-tap-hai.pdf",
+    "printed_pages": [
+      102,
+      105
+    ],
+    "pdf_pages": [
+      103,
+      106
+    ],
+    "review": "Đã đọc trực quan toàn bộ trang nguồn từ PDF ảnh quét ngày 14/11/2026; học liệu diễn giải và câu hỏi được biên soạn mới, không đăng toàn văn sách."
+  },
+  "objectives": [
+    "Đọc và giải thích chi tiết của bài Hai Bà Trưng.",
+    "Nhận xét nhân vật hoặc công việc dựa trên căn cứ.",
+    "Luyện từ, câu, chính tả và nói/viết theo bài."
+  ],
+  "reading": {
+    "summary": "Dưới sự đô hộ, dân mong đứng lên. Hai chị em giỏi võ, có chí giành lại đất nước, lãnh đạo đoàn quân khởi nghĩa; bài ca ngợi khí thế và công lao của Hai Bà.",
+    "characters_or_images": [
+      "Trưng Trắc",
+      "Trưng Nhị",
+      "Thi Sách",
+      "Nhân dân",
+      "Đoàn quân khởi nghĩa"
+    ],
+    "message": "Kính trọng lòng dũng cảm và công lao vì đất nước."
+  },
+  "knowledge": {
+    "introduction": "Dưới sự đô hộ, dân mong đứng lên. Hai chị em giỏi võ, có chí giành lại đất nước, lãnh đạo đoàn quân khởi nghĩa; bài ca ngợi khí thế và công lao của Hai Bà.",
+    "rules": [
+      "Hiểu bối cảnh dân bị áp bức trước khi kể việc khởi nghĩa; không thu câu chuyện chỉ còn một việc riêng.",
+      "Giới thiệu nhân vật bằng tên, tài năng, chí hướng và hành động được nguồn kể.",
+      "Hình ảnh voi, vũ khí và tiếng trống tạo khí thế; kể rõ, không thêm chi tiết ngoài bài."
+    ],
+    "steps": [
+      "Đọc bài trong sách, đánh dấu chi tiết liên quan câu hỏi.",
+      "Nêu câu trả lời rồi giải thích bằng chi tiết, phân biệt suy luận với lời kể.",
+      "Làm nhiệm vụ nói/viết; kiểm tra đủ ý, xưng hô và dấu câu."
+    ],
+    "common_errors": [
+      "Chỉ nêu trang phục mà quên chí hướng của Hai Bà.",
+      "Thêm sự kiện hoặc phương tiện hiện đại không có trong bài."
+    ]
+  },
+  "language_practice": {
+    "vocabulary": [
+      "Đô hộ trong bối cảnh bài Hai Bà Trưng nghĩa là gì? Đáp án: Thống trị một nước khác. Nghĩa của từ giúp hiểu hoàn cảnh đất nước được nói tới trong bài.",
+      "Lưu danh khi nói về Hai Bà nhấn mạnh điều gì? Đáp án: Tên tuổi và tiếng tốt còn được ghi nhớ. Bài ca ngợi công lao được hậu thế nhớ tới, không chỉ việc viết tên."
+    ],
+    "sentences": [
+      "Câu nào giải thích rõ lòng kính trọng của em đối với Hai Bà? Đáp án: Em kính trọng Hai Bà vì dũng cảm đứng lên vì đất nước. Lí do bám vào chí hướng và việc làm, phù hợp với nội dung lịch sử trong bài đọc.",
+      "Muốn hỏi về tài năng của Trưng Trắc và Trưng Nhị, em chọn câu nào? Đáp án: Hai chị em giỏi môn võ nghệ thế nào? Câu hỏi nhắm vào tài năng, khác quê quán, thời gian hay người kể."
+    ],
+    "spelling": [
+      "Chọn từ đúng: Hai Bà ... quân lên đường. Đáp án: trẩy Trẩy trong trẩy quân viết tr và dấu hỏi, mang nghĩa đoàn quân lên đường.",
+      "Cặp từ nào viết đúng khi nói về việc hỗ trợ và điều hành một hoạt động? Đáp án: Trợ giúp, chủ trì. Trợ dùng tr, chủ dùng ch, trì dùng tr; không chỉ dựa phát âm địa phương để chọn chữ."
+    ],
+    "expression": [
+      "Giới thiệu ngắn Hai Bà sau khi đọc, dàn ý nào đủ ý cốt lõi? Đáp án: Tên hai chị em, tài năng, chí hướng và công lao được kể. Giới thiệu nhân vật cần những nét giúp người nghe biết vì sao họ được nhớ tới.",
+      "Kể lại đoạn ra trận để người nghe cảm được khí thế, em cần làm gì? Đáp án: Chọn hình ảnh voi, đoàn quân và tiếng trống; đọc rõ, có nhấn từ phù hợp. Chi tiết và cách diễn đạt tạo khí thế, không cần thêm tình tiết ngoài nguồn."
+    ]
+  },
+  "examples": [
+    {
+      "question": "Lựa chọn giáp phục đẹp của Trưng Trắc trước khi xuất quân nhằm điều gì theo lời bà?",
+      "steps": [
+        "Trang 103, lời Trưng Trắc.",
+        "Lời giải thích của bà nhấn tinh thần đoàn quân khi bắt đầu ra trận.",
+        "Trả lời: Làm dân thêm phấn khích và khiến đối phương khiếp sợ."
+      ]
+    },
+    {
+      "question": "Câu nào giải thích rõ lòng kính trọng của em đối với Hai Bà?",
+      "steps": [
+        "Xác định yêu cầu câu hỏi.",
+        "Lí do bám vào chí hướng và việc làm, phù hợp với nội dung lịch sử trong bài đọc.",
+        "Trả lời: Em kính trọng Hai Bà vì dũng cảm đứng lên vì đất nước."
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "title": "Nói và viết từ bài đọc",
+      "materials": [
+        "Sách",
+        "Vở",
+        "Bút"
+      ],
+      "steps": [
+        "Kể một đoạn về Hai Bà bằng lời em. Viết nhận xét có một chi tiết làm căn cứ và một câu bày tỏ lòng kính trọng.",
+        "Đọc cho người thân nghe và sửa ít nhất một câu chưa rõ."
+      ],
+      "check": [
+        "Nội dung đúng bài hoặc trải nghiệm được nêu rõ.",
+        "Ý sắp xếp dễ theo dõi, có chi tiết cụ thể.",
+        "Viết hoa, dấu thanh và dấu kết câu phù hợp."
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "question_id": "TV3_T2_B23_Q01",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Chi tiết về đời sống người dân ở đầu Hai Bà Trưng cho biết nguyên nhân khởi nghĩa nào?",
+      "correct_answer": "Người dân bị áp bức, mong thoát khỏi sự đô hộ.",
+      "options": [
+        "Người dân chỉ muốn dự một hội vui.",
+        "Mọi người đã được sống yên ổn từ đầu.",
+        "Đoàn quân đi để xem rạp xiếc.",
+        "Người dân bị áp bức, mong thoát khỏi sự đô hộ."
+      ],
+      "explanation": "Bối cảnh giúp hiểu ý chí giành lại cuộc sống cho dân, không chỉ một việc riêng.",
+      "evidence": "Trang 102, đoạn đầu."
+    },
+    {
+      "question_id": "TV3_T2_B23_Q02",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Những điều nào giới thiệu tài năng và chí hướng hai chị em?",
+      "correct_answer": "Giỏi võ nghệ và nuôi ý chí giành lại non sông.",
+      "options": [
+        "Chỉ muốn giữ ruộng cho riêng nhà.",
+        "Không quan tâm tới việc nước.",
+        "Giỏi võ nghệ và nuôi ý chí giành lại non sông.",
+        "Chỉ thích đi ngắm cảnh."
+      ],
+      "explanation": "Bài nêu sự rèn luyện và chí hướng từ phần giới thiệu nhân vật.",
+      "evidence": "Trang 102, đoạn hai."
+    },
+    {
+      "question_id": "TV3_T2_B23_Q03",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Lựa chọn giáp phục đẹp của Trưng Trắc trước khi xuất quân nhằm điều gì theo lời bà?",
+      "correct_answer": "Làm dân thêm phấn khích và khiến đối phương khiếp sợ.",
+      "options": [
+        "Để đổi vai chỉ huy cho người khác.",
+        "Làm dân thêm phấn khích và khiến đối phương khiếp sợ.",
+        "Để xin tham dự một lễ hội.",
+        "Để che việc không muốn lên đường."
+      ],
+      "explanation": "Lời giải thích của bà nhấn tinh thần đoàn quân khi bắt đầu ra trận.",
+      "evidence": "Trang 103, lời Trưng Trắc."
+    },
+    {
+      "question_id": "TV3_T2_B23_Q04",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Nhóm hình ảnh nào gợi khí thế đoàn quân lên đường?",
+      "correct_answer": "Hai Bà trên voi, vũ khí cuồn cuộn và tiếng trống vang.",
+      "options": [
+        "Hai Bà trên voi, vũ khí cuồn cuộn và tiếng trống vang.",
+        "Mọi người lặng lẽ bỏ về.",
+        "Chỉ có hai người đi không ai theo.",
+        "Dân làng chỉ ngồi trong nhà rông."
+      ],
+      "explanation": "Nhiều hình ảnh và âm thanh kết hợp làm nổi bật sức mạnh, sự hưởng ứng.",
+      "evidence": "Trang 103, đoạn đoàn quân ra trận."
+    },
+    {
+      "question_id": "TV3_T2_B23_Q05",
+      "type": "mcq",
+      "skill": "vocabulary",
+      "question": "Đô hộ trong bối cảnh bài Hai Bà Trưng nghĩa là gì?",
+      "correct_answer": "Thống trị một nước khác.",
+      "options": [
+        "Cùng dựng một ngôi nhà.",
+        "Cùng tham gia lễ hội.",
+        "Chỉ trao đổi sản phẩm.",
+        "Thống trị một nước khác."
+      ],
+      "explanation": "Nghĩa của từ giúp hiểu hoàn cảnh đất nước được nói tới trong bài."
+    },
+    {
+      "question_id": "TV3_T2_B23_Q06",
+      "type": "mcq",
+      "skill": "vocabulary",
+      "question": "Lưu danh khi nói về Hai Bà nhấn mạnh điều gì?",
+      "correct_answer": "Tên tuổi và tiếng tốt còn được ghi nhớ.",
+      "options": [
+        "Giữ kín không ai được biết.",
+        "Quên mọi việc đã làm.",
+        "Tên tuổi và tiếng tốt còn được ghi nhớ.",
+        "Chỉ ghi một tên vào vở hôm nay."
+      ],
+      "explanation": "Bài ca ngợi công lao được hậu thế nhớ tới, không chỉ việc viết tên."
+    },
+    {
+      "question_id": "TV3_T2_B23_Q07",
+      "type": "mcq",
+      "skill": "sentences",
+      "question": "Câu nào giải thích rõ lòng kính trọng của em đối với Hai Bà?",
+      "correct_answer": "Em kính trọng Hai Bà vì dũng cảm đứng lên vì đất nước.",
+      "options": [
+        "Em kính trọng vì muốn được mọi người khen.",
+        "Em kính trọng Hai Bà vì dũng cảm đứng lên vì đất nước.",
+        "Em kính trọng vì chỉ thích màu áo.",
+        "Em kính trọng vì chưa đọc chi tiết nào."
+      ],
+      "explanation": "Lí do bám vào chí hướng và việc làm, phù hợp với nội dung lịch sử trong bài đọc."
+    },
+    {
+      "question_id": "TV3_T2_B23_Q08",
+      "type": "mcq",
+      "skill": "sentences",
+      "question": "Muốn hỏi về tài năng của Trưng Trắc và Trưng Nhị, em chọn câu nào?",
+      "correct_answer": "Hai chị em giỏi môn võ nghệ thế nào?",
+      "options": [
+        "Hai chị em giỏi môn võ nghệ thế nào?",
+        "Hai chị em quê ở đâu?",
+        "Khi nào đoàn quân lên đường?",
+        "Ai đã kể câu chuyện này?"
+      ],
+      "explanation": "Câu hỏi nhắm vào tài năng, khác quê quán, thời gian hay người kể."
+    },
+    {
+      "question_id": "TV3_T2_B23_Q09",
+      "type": "mcq",
+      "skill": "spelling",
+      "question": "Chọn từ đúng: Hai Bà ... quân lên đường.",
+      "correct_answer": "trẩy",
+      "options": [
+        "chẩy",
+        "trảy",
+        "chảy",
+        "trẩy"
+      ],
+      "explanation": "Trẩy trong trẩy quân viết tr và dấu hỏi, mang nghĩa đoàn quân lên đường."
+    },
+    {
+      "question_id": "TV3_T2_B23_Q10",
+      "type": "mcq",
+      "skill": "spelling",
+      "question": "Cặp từ nào viết đúng khi nói về việc hỗ trợ và điều hành một hoạt động?",
+      "correct_answer": "Trợ giúp, chủ trì.",
+      "options": [
+        "Trợ giúp, chủ chì.",
+        "Chợ giúp, chủ trì.",
+        "Trợ giúp, chủ trì.",
+        "Chợ giúp, trủ trì."
+      ],
+      "explanation": "Trợ dùng tr, chủ dùng ch, trì dùng tr; không chỉ dựa phát âm địa phương để chọn chữ."
+    },
+    {
+      "question_id": "TV3_T2_B23_Q11",
+      "type": "mcq",
+      "skill": "expression",
+      "question": "Giới thiệu ngắn Hai Bà sau khi đọc, dàn ý nào đủ ý cốt lõi?",
+      "correct_answer": "Tên hai chị em, tài năng, chí hướng và công lao được kể.",
+      "options": [
+        "Chỉ kể một điều không có trong sách.",
+        "Tên hai chị em, tài năng, chí hướng và công lao được kể.",
+        "Chỉ đọc tên truyện nhiều lần.",
+        "Chỉ liệt kê màu áo nhân vật."
+      ],
+      "explanation": "Giới thiệu nhân vật cần những nét giúp người nghe biết vì sao họ được nhớ tới."
+    },
+    {
+      "question_id": "TV3_T2_B23_Q12",
+      "type": "mcq",
+      "skill": "expression",
+      "question": "Kể lại đoạn ra trận để người nghe cảm được khí thế, em cần làm gì?",
+      "correct_answer": "Chọn hình ảnh voi, đoàn quân và tiếng trống; đọc rõ, có nhấn từ phù hợp.",
+      "options": [
+        "Chọn hình ảnh voi, đoàn quân và tiếng trống; đọc rõ, có nhấn từ phù hợp.",
+        "Đọc thật nhanh bỏ hết âm thanh.",
+        "Thêm mọi vũ khí hiện đại chưa có trong bài.",
+        "Đổi đoàn quân thành một người đi dạo."
+      ],
+      "explanation": "Chi tiết và cách diễn đạt tạo khí thế, không cần thêm tình tiết ngoài nguồn."
+    }
+  ],
+  "games": [
+    {
+      "id": "TV3_T2_B23_GAME",
+      "title": "Kho báu: Hai Bà Trưng",
+      "mode": "treasure",
+      "objective": "Tìm kho báu bằng cách hiểu chi tiết và dùng tiếng Việt đúng theo bài.",
+      "rules": [
+        "Trả lời 10 câu được chọn từ chính bài này.",
+        "Mỗi đáp án đúng được 10 điểm; đọc phản hồi để hiểu và sửa câu sai.",
+        "Chơi lại để gặp một bộ câu khác."
+      ],
+      "question_ids": [
+        "TV3_T2_B23_Q01",
+        "TV3_T2_B23_Q02",
+        "TV3_T2_B23_Q03",
+        "TV3_T2_B23_Q04",
+        "TV3_T2_B23_Q05",
+        "TV3_T2_B23_Q06",
+        "TV3_T2_B23_Q07",
+        "TV3_T2_B23_Q08",
+        "TV3_T2_B23_Q09",
+        "TV3_T2_B23_Q10",
+        "TV3_T2_B23_Q11",
+        "TV3_T2_B23_Q12"
+      ],
+      "answer_source": "practice.correct_answer",
+      "feedback_source": "practice.explanation",
+      "max_score": 100
+    }
+  ],
+  "assessment": {
+    "session_size": 10,
+    "scoring": "Mỗi câu đúng được tính điểm theo hệ thống; 8–10 câu đúng: nắm tốt, 5–7: đọc lại phần còn nhầm, dưới 5: đọc bài cùng người thân rồi thử lại. Nhiệm vụ nói/viết tự kiểm theo tiêu chí, không chấm bằng một đáp án duy nhất.",
+    "review_advice": "Sau lượt luyện, chọn một câu sai để giải thích lại. Với nói/viết: đúng chi tiết hoặc trải nghiệm thật, đủ ý, câu rõ, chính tả đúng; sửa ít nhất một điểm trước khi hoàn tất."
+  },
+  "feedback": {
+    "correct": "Em đã chọn phù hợp. Đọc lời giải để nhắc lại căn cứ.",
+    "incorrect": "Đọc lại câu hỏi và chi tiết liên quan; xem lời giải để biết vì sao."
+  },
+  "verification": {
+    "ai_authored": true,
+    "structure_checked": true,
+    "answer_reviewed": true,
+    "source_reviewed": true,
+    "teacher_approved": false
+  },
+  "status": "AI_CHECKED_AWAITING_TEACHER"
+}

@@ -1,3 +1,14 @@
+# Batch 35 — Tiếng Việt tập 2 bài 21–24 — 14/11/2026
+
+- Nối tiếp commit 433d79ed72df40ce3b050c3841279774d0b1ab88; hoàn thiện Nhà rông, Sự tích ông Đùng bà Đùng, Hai Bà Trưng, Cùng Bác qua suối.
+- Đã đọc trực quan PDF96–112/trang in95–111 ngày14/11. Học liệu batch dùng trang95–109; trang110 mở chủ điểm và trang111 xác nhận B25 bắt đầu. Sửa B24 kết thúc109, B25 bắt đầu111 trong danh mục; chưa biên soạn B25.
+- Thêm4 JSON/4 Markdown,48 câu mới,8 ví dụ có lời giải,4 nhiệm vụ nói/viết,4 game kho báu; lượt10 câu. Nội dung diễn giải và tình huống tự biên soạn, không đăng toàn văn.
+- Tổng AI đã biên soạn/đã kiểm tra137/168: Toán81/81,TV56/62,TA0/25;3944 câu/137 game. Giáo viên duyệt4,133 bài chờ giáo viên; còn31 mục(TV6,TA25).
+- npm test PASS(exit0): hai validator, toàn bộ hồi quy trước+test_batch35.py, DOM137 kho và TV DOM. Có hồi quy nhà chung, truyền thuyết không coi là địa chất, tài năng/chí hướng Hai Bà, đá trơn và đá kênh là hai sự việc khác nhau; toàn bộ TV không trùng nguyên đề.
+- Batch34 verified: Actions43597561758 và43597561452 completed/success;8 tệp JSON/Markdown bài17–20 trên Pages HTTP200 và SHA-256 khớp bản kiểm thử.
+- Bài mới AI_CHECKED_AWAITING_TEACHER. Không thay quyền duyệt. Chromium đã thử14/11, không khởi động được vì socket/ptrace bị môi trường chặn; chưa kiểm thử bố cục Chromium.
+- Batch35 xác minh ref/Actions/Pages sau khi ghi; lưu checkpoint kế tiếp. Điểm nối tiếp TV3_T2_B25–B28; còn B29–B30 sau đó trước khi chuyển TA. Chưa hoàn thành168.
+
 # Batch 34 — Tiếng Việt tập 2 bài 17–20 — 14/11/2026
 
 - Nối tiếp main 4a645d74d1c67812d7db98e5603f6fde376393dc; hoàn thiện Đất nước là gì?, Núi quê tôi, Sông Hương, Tiếng nước mình.

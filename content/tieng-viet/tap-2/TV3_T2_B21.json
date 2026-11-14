@@ -1,0 +1,330 @@
+{
+  "id": "TV3_T2_B21",
+  "subject": "tv",
+  "grade": 3,
+  "book": "Kết nối tri thức với cuộc sống",
+  "volume": 2,
+  "lesson_no": 21,
+  "title": "Nhà rông",
+  "topic": "Đất nước ngàn năm",
+  "source": {
+    "pdf": "03-sgk-tieng-viet-3-tap-hai.pdf",
+    "printed_pages": [
+      95,
+      97
+    ],
+    "pdf_pages": [
+      96,
+      98
+    ],
+    "review": "Đã đọc trực quan toàn bộ trang nguồn từ PDF ảnh quét ngày 14/11/2026; học liệu diễn giải và câu hỏi được biên soạn mới, không đăng toàn văn sách."
+  },
+  "objectives": [
+    "Đọc và giải thích chi tiết của bài Nhà rông.",
+    "Nhận xét nhân vật hoặc công việc dựa trên căn cứ.",
+    "Luyện từ, câu, chính tả và nói/viết theo bài."
+  ],
+  "reading": {
+    "summary": "Bài giới thiệu mái nhà rông cao, không gian rộng và các sinh hoạt chung. Bếp lửa cùng lời kể gắn nhiều thế hệ; dân làng góp sức dựng và yêu quý ngôi nhà.",
+    "characters_or_images": [
+      "Nhà rông",
+      "Dân làng Tây Nguyên",
+      "Các cụ",
+      "Tuổi trẻ"
+    ],
+    "message": "Trân trọng không gian văn hoá cộng đồng và sự chung sức giữ gìn."
+  },
+  "knowledge": {
+    "introduction": "Bài giới thiệu mái nhà rông cao, không gian rộng và các sinh hoạt chung. Bếp lửa cùng lời kể gắn nhiều thế hệ; dân làng góp sức dựng và yêu quý ngôi nhà.",
+    "rules": [
+      "Đọc theo ba phần: hình dáng ngoài, kiến trúc và sinh hoạt bên trong, tình cảm của mọi người.",
+      "Nhà trong bản mô tả có không gian rộng phục vụ việc chung; không tự suy ra đó là chỗ ở riêng của từng gia đình.",
+      "Khi giới thiệu quê, chọn nét thật, nói rõ điều mình biết, có lời mời lịch sự."
+    ],
+    "steps": [
+      "Đọc bài trong sách, đánh dấu chi tiết liên quan câu hỏi.",
+      "Nêu câu trả lời rồi giải thích bằng chi tiết, phân biệt suy luận với lời kể.",
+      "Làm nhiệm vụ nói/viết; kiểm tra đủ ý, xưng hô và dấu câu."
+    ],
+    "common_errors": [
+      "Chỉ nhớ mái cao mà quên sinh hoạt chung.",
+      "Coi ngôi nhà là tài sản chỉ của một người."
+    ]
+  },
+  "language_practice": {
+    "vocabulary": [
+      "Nông cụ được đặt trong nhà rông là nhóm đồ gì? Đáp án: Dụng cụ làm ruộng, làm nương. Cuốc, cày, bừa hoặc liềm là ví dụ về dụng cụ sản xuất nông nghiệp.",
+      "Tuồn tuột trong cách tả nước mưa chảy trên mái gợi điều gì? Đáp án: Chảy thẳng một mạch, khó giữ lại. Từ giúp hình dung nước theo mái dốc chảy nhanh xuống."
+    ],
+    "sentences": [
+      "Câu nào giới thiệu đúng công dụng cộng đồng của nhà rông? Đáp án: Đây là nơi dân làng cùng hội họp và đón khách. Giới thiệu công dụng phải nói được sinh hoạt chung, không chỉ hình dáng đẹp.",
+      "Lời mời nào phù hợp khi em đóng vai hướng dẫn viên giới thiệu quê mình? Đáp án: Mời bạn tới thăm quê mình để tìm hiểu cảnh đẹp và cuộc sống nơi đây. Lời mời lịch sự thể hiện sự chào đón và nêu điều khách có thể tìm hiểu."
+    ],
+    "spelling": [
+      "Cụm từ nào viết đúng để chỉ bước giới thiệu khái quát một sự vật? Đáp án: Sơ lược. Sơ dùng s, lược có âm cuối c; xơ và lượt mang nghĩa khác trong ngữ cảnh này.",
+      "Điền đúng: Bên bếp lửa, những ... chuyện của các cụ làm trẻ nhỏ thích thú. Đáp án: câu Câu có vần âu và thanh ngang; câu chuyện là một đơn vị kể việc."
+    ],
+    "expression": [
+      "Giới thiệu quê với khách, chi tiết nào giúp người nghe hình dung cụ thể? Đáp án: Tên nơi, một nét cảnh hoặc sản phẩm tiêu biểu và điều em yêu thích. Giới thiệu cần có thông tin về nơi chốn và nét riêng, cùng cảm nghĩ chân thành.",
+      "Vẽ một cảnh quê rồi viết lời giới thiệu, cách nào hợp với bức tranh? Đáp án: Nêu cảnh đã vẽ và một nét nổi bật người xem có thể nhận ra. Lời và hình hỗ trợ nhau để người xem hiểu cảnh em muốn giới thiệu."
+    ]
+  },
+  "examples": [
+    {
+      "question": "Kỉ niệm nghe các cụ kể chuyện bên bếp giúp tuổi trẻ cảm nhận nhà rông thế nào?",
+      "steps": [
+        "Trang 95, cuối đoạn hai.",
+        "Bếp lửa và lời kể gắn ngôi nhà với tình cảm, kí ức của cộng đồng.",
+        "Trả lời: Ấm áp, thân thương như một tổ chim."
+      ]
+    },
+    {
+      "question": "Câu nào giới thiệu đúng công dụng cộng đồng của nhà rông?",
+      "steps": [
+        "Xác định yêu cầu câu hỏi.",
+        "Giới thiệu công dụng phải nói được sinh hoạt chung, không chỉ hình dáng đẹp.",
+        "Trả lời: Đây là nơi dân làng cùng hội họp và đón khách."
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "title": "Nói và viết từ bài đọc",
+      "materials": [
+        "Sách",
+        "Vở",
+        "Bút"
+      ],
+      "steps": [
+        "Đóng vai giới thiệu một nét văn hoá hoặc cảnh quê em biết: tên, nét nổi bật và tình cảm. Viết lời mời bạn tới tìm hiểu; nói rõ biết trực tiếp hay qua sách ảnh.",
+        "Đọc cho người thân nghe và sửa ít nhất một câu chưa rõ."
+      ],
+      "check": [
+        "Nội dung đúng bài hoặc trải nghiệm được nêu rõ.",
+        "Ý sắp xếp dễ theo dõi, có chi tiết cụ thể.",
+        "Viết hoa, dấu thanh và dấu kết câu phù hợp."
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "question_id": "TV3_T2_B21_Q01",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Từ xa, đặc điểm nào giúp nhận ra nhà rông trong bài?",
+      "correct_answer": "Mái cao dựng lên, được ví với lưỡi rìu lật ngược.",
+      "options": [
+        "Mái thấp sát mặt đất.",
+        "Toàn bộ nhà nằm dưới nước.",
+        "Nhà chỉ có một bếp nhỏ ngoài sân.",
+        "Mái cao dựng lên, được ví với lưỡi rìu lật ngược."
+      ],
+      "explanation": "Dáng mái cao là nét bên ngoài nổi bật mà đoạn đầu giới thiệu.",
+      "evidence": "Trang 95, đoạn đầu."
+    },
+    {
+      "question_id": "TV3_T2_B21_Q02",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Cách bố trí bên trong nhà rông được bài mô tả ra sao?",
+      "correct_answer": "Rộng, không vướng cột giữa, có bếp lửa và chỗ để chiêng trống, nông cụ.",
+      "options": [
+        "Không có nơi sinh hoạt chung.",
+        "Chỉ cất đồ của một gia đình.",
+        "Rộng, không vướng cột giữa, có bếp lửa và chỗ để chiêng trống, nông cụ.",
+        "Chỉ gồm các phòng ngủ riêng."
+      ],
+      "explanation": "Các chi tiết phục vụ không gian dùng chung của dân làng trong bản mô tả.",
+      "evidence": "Trang 95, đoạn hai."
+    },
+    {
+      "question_id": "TV3_T2_B21_Q03",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Kỉ niệm nghe các cụ kể chuyện bên bếp giúp tuổi trẻ cảm nhận nhà rông thế nào?",
+      "correct_answer": "Ấm áp, thân thương như một tổ chim.",
+      "options": [
+        "Chỉ là nơi cất đồ ít dùng.",
+        "Ấm áp, thân thương như một tổ chim.",
+        "Xa lạ vì không ai được vào.",
+        "Chỉ có ích để tránh nắng."
+      ],
+      "explanation": "Bếp lửa và lời kể gắn ngôi nhà với tình cảm, kí ức của cộng đồng.",
+      "evidence": "Trang 95, cuối đoạn hai."
+    },
+    {
+      "question_id": "TV3_T2_B21_Q04",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Vì sao ngôi nhà được gọi là nhà chung qua các hoạt động nêu trong bài?",
+      "correct_answer": "Dân làng cùng góp xây và cùng họp, tiếp khách, vui chơi ở đó.",
+      "options": [
+        "Dân làng cùng góp xây và cùng họp, tiếp khách, vui chơi ở đó.",
+        "Chỉ một người được quyền sử dụng.",
+        "Ai cũng có phòng ở riêng trong nhà.",
+        "Nhà chỉ dành cho người tới du lịch."
+      ],
+      "explanation": "Đoạn hoạt động và đoạn kết cùng làm rõ sự góp sức, gắn bó của dân làng.",
+      "evidence": "Trang 95–96."
+    },
+    {
+      "question_id": "TV3_T2_B21_Q05",
+      "type": "mcq",
+      "skill": "vocabulary",
+      "question": "Nông cụ được đặt trong nhà rông là nhóm đồ gì?",
+      "correct_answer": "Dụng cụ làm ruộng, làm nương.",
+      "options": [
+        "Các nhạc cụ dùng đánh chiêng.",
+        "Những vật chỉ để trang trí.",
+        "Các đồ dùng nấu ăn riêng.",
+        "Dụng cụ làm ruộng, làm nương."
+      ],
+      "explanation": "Cuốc, cày, bừa hoặc liềm là ví dụ về dụng cụ sản xuất nông nghiệp."
+    },
+    {
+      "question_id": "TV3_T2_B21_Q06",
+      "type": "mcq",
+      "skill": "vocabulary",
+      "question": "Tuồn tuột trong cách tả nước mưa chảy trên mái gợi điều gì?",
+      "correct_answer": "Chảy thẳng một mạch, khó giữ lại.",
+      "options": [
+        "Chỉ nhỏ từng giọt thưa.",
+        "Chạy ngược lên trên mái.",
+        "Chảy thẳng một mạch, khó giữ lại.",
+        "Đọng thành vũng rất lâu."
+      ],
+      "explanation": "Từ giúp hình dung nước theo mái dốc chảy nhanh xuống."
+    },
+    {
+      "question_id": "TV3_T2_B21_Q07",
+      "type": "mcq",
+      "skill": "sentences",
+      "question": "Câu nào giới thiệu đúng công dụng cộng đồng của nhà rông?",
+      "correct_answer": "Đây là nơi dân làng cùng hội họp và đón khách.",
+      "options": [
+        "Đây chỉ là cảnh để ngắm từ xa.",
+        "Đây là nơi dân làng cùng hội họp và đón khách.",
+        "Đây là nhà chỉ của một gia đình.",
+        "Đây chỉ là kho không có người sinh hoạt."
+      ],
+      "explanation": "Giới thiệu công dụng phải nói được sinh hoạt chung, không chỉ hình dáng đẹp."
+    },
+    {
+      "question_id": "TV3_T2_B21_Q08",
+      "type": "mcq",
+      "skill": "sentences",
+      "question": "Lời mời nào phù hợp khi em đóng vai hướng dẫn viên giới thiệu quê mình?",
+      "correct_answer": "Mời bạn tới thăm quê mình để tìm hiểu cảnh đẹp và cuộc sống nơi đây.",
+      "options": [
+        "Mời bạn tới thăm quê mình để tìm hiểu cảnh đẹp và cuộc sống nơi đây.",
+        "Bạn phải đến ngay, không được hỏi.",
+        "Mình không muốn nghe bạn nói.",
+        "Bạn cứ vào mọi ngôi nhà không cần xin phép."
+      ],
+      "explanation": "Lời mời lịch sự thể hiện sự chào đón và nêu điều khách có thể tìm hiểu."
+    },
+    {
+      "question_id": "TV3_T2_B21_Q09",
+      "type": "mcq",
+      "skill": "spelling",
+      "question": "Cụm từ nào viết đúng để chỉ bước giới thiệu khái quát một sự vật?",
+      "correct_answer": "Sơ lược.",
+      "options": [
+        "Xơ lược.",
+        "Sơ lượt.",
+        "Xơ lượt.",
+        "Sơ lược."
+      ],
+      "explanation": "Sơ dùng s, lược có âm cuối c; xơ và lượt mang nghĩa khác trong ngữ cảnh này."
+    },
+    {
+      "question_id": "TV3_T2_B21_Q10",
+      "type": "mcq",
+      "skill": "spelling",
+      "question": "Điền đúng: Bên bếp lửa, những ... chuyện của các cụ làm trẻ nhỏ thích thú.",
+      "correct_answer": "câu",
+      "options": [
+        "cẩu",
+        "cẫu",
+        "câu",
+        "cau"
+      ],
+      "explanation": "Câu có vần âu và thanh ngang; câu chuyện là một đơn vị kể việc."
+    },
+    {
+      "question_id": "TV3_T2_B21_Q11",
+      "type": "mcq",
+      "skill": "expression",
+      "question": "Giới thiệu quê với khách, chi tiết nào giúp người nghe hình dung cụ thể?",
+      "correct_answer": "Tên nơi, một nét cảnh hoặc sản phẩm tiêu biểu và điều em yêu thích.",
+      "options": [
+        "Chỉ đọc một dãy số không giải thích.",
+        "Tên nơi, một nét cảnh hoặc sản phẩm tiêu biểu và điều em yêu thích.",
+        "Chỉ nói quê em rất đẹp nhiều lần.",
+        "Chỉ kể tên người trong lớp."
+      ],
+      "explanation": "Giới thiệu cần có thông tin về nơi chốn và nét riêng, cùng cảm nghĩ chân thành."
+    },
+    {
+      "question_id": "TV3_T2_B21_Q12",
+      "type": "mcq",
+      "skill": "expression",
+      "question": "Vẽ một cảnh quê rồi viết lời giới thiệu, cách nào hợp với bức tranh?",
+      "correct_answer": "Nêu cảnh đã vẽ và một nét nổi bật người xem có thể nhận ra.",
+      "options": [
+        "Nêu cảnh đã vẽ và một nét nổi bật người xem có thể nhận ra.",
+        "Kể một cảnh khác hoàn toàn.",
+        "Khẳng định mình đã thấy mọi cảnh trong nước.",
+        "Chỉ viết tên môn học."
+      ],
+      "explanation": "Lời và hình hỗ trợ nhau để người xem hiểu cảnh em muốn giới thiệu."
+    }
+  ],
+  "games": [
+    {
+      "id": "TV3_T2_B21_GAME",
+      "title": "Kho báu: Nhà rông",
+      "mode": "treasure",
+      "objective": "Tìm kho báu bằng cách hiểu chi tiết và dùng tiếng Việt đúng theo bài.",
+      "rules": [
+        "Trả lời 10 câu được chọn từ chính bài này.",
+        "Mỗi đáp án đúng được 10 điểm; đọc phản hồi để hiểu và sửa câu sai.",
+        "Chơi lại để gặp một bộ câu khác."
+      ],
+      "question_ids": [
+        "TV3_T2_B21_Q01",
+        "TV3_T2_B21_Q02",
+        "TV3_T2_B21_Q03",
+        "TV3_T2_B21_Q04",
+        "TV3_T2_B21_Q05",
+        "TV3_T2_B21_Q06",
+        "TV3_T2_B21_Q07",
+        "TV3_T2_B21_Q08",
+        "TV3_T2_B21_Q09",
+        "TV3_T2_B21_Q10",
+        "TV3_T2_B21_Q11",
+        "TV3_T2_B21_Q12"
+      ],
+      "answer_source": "practice.correct_answer",
+      "feedback_source": "practice.explanation",
+      "max_score": 100
+    }
+  ],
+  "assessment": {
+    "session_size": 10,
+    "scoring": "Mỗi câu đúng được tính điểm theo hệ thống; 8–10 câu đúng: nắm tốt, 5–7: đọc lại phần còn nhầm, dưới 5: đọc bài cùng người thân rồi thử lại. Nhiệm vụ nói/viết tự kiểm theo tiêu chí, không chấm bằng một đáp án duy nhất.",
+    "review_advice": "Sau lượt luyện, chọn một câu sai để giải thích lại. Với nói/viết: đúng chi tiết hoặc trải nghiệm thật, đủ ý, câu rõ, chính tả đúng; sửa ít nhất một điểm trước khi hoàn tất."
+  },
+  "feedback": {
+    "correct": "Em đã chọn phù hợp. Đọc lời giải để nhắc lại căn cứ.",
+    "incorrect": "Đọc lại câu hỏi và chi tiết liên quan; xem lời giải để biết vì sao."
+  },
+  "verification": {
+    "ai_authored": true,
+    "structure_checked": true,
+    "answer_reviewed": true,
+    "source_reviewed": true,
+    "teacher_approved": false
+  },
+  "status": "AI_CHECKED_AWAITING_TEACHER"
+}
