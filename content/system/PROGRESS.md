@@ -1,3 +1,14 @@
+# Checkpoint xác minh Batch36–38 — 14/11/2026
+
+- Đã hoàn thiện và commit riêng10 mục mới:6 bài Tiếng Việt cuối(T2B25–B30) và4 mục Tiếng Anh(Starter,U1–U3);120 câu mới,20 ví dụ có lời giải,10 trò chơi. Nguồn đã đọc trực quan: TV PDF112–133,TA PDF8–28. Lưu nguyên lịch sử bên dưới.
+- Batch36: https://github.com/tranphuc2026abc-prog/TOAN_TV_TA_LOP3/commit/b5db45af76c84ddb2d985ed8f4f3c6d4761ebbb0
+- Batch37: https://github.com/tranphuc2026abc-prog/TOAN_TV_TA_LOP3/commit/8b588008602a083a23c6ca1cfda1eb9c638a7f33
+- Batch38: https://github.com/tranphuc2026abc-prog/TOAN_TV_TA_LOP3/commit/c33a0cfc138c127dfd6eb07e7fe75ef8395ece76
+- Tổng AI biên soạn147/168, AI kiểm tra147/168; giáo viên duyệt4(Toán1–4),143 chờ giáo viên. Toán81/81,TV62/62,TA4/25;4064 câu và147 trò chơi. Còn21 mục Tiếng Anh, không tuyên bố hoàn tất168/168.
+- Main đã xác minh c33a0cfc138c127dfd6eb07e7fe75ef8395ece76. Batch38 Actions43605955711 và43605955528 đều completed/success. Pages trảHTTP200, SHA-256 khớp chính xác toàn bộ20 JSON/Markdown của10 bài mới, INDEX.json, lesson-content.js, danh mục và index.html. Batch37 cả hai workflow success. Lỗi artifact batch36 được giữ đúng trong lịch sử, deployment kế tiếp đã thành công.
+- npm test exit0 trên147 kho: JSON/ID/lựa chọn/đáp án/giải thích/hình/Markdown, toàn bộ hồi quy trước, policy riêng từng môn, jsdom Toán/TV/TA và fallback. Giữ toàn bộ kiểm tra Toán và TV khi mở rộng Tiếng Anh. Test giọng máy dùng mock, không xác minh âm thực phát ra; Chromium có sẵn nhưng exit134 do socket()/ptrace bị chặn, chưa kiểm tra bố cục trình duyệt.
+- Điểm nối tiếp: batch39 gồm Unit4 Our bodies, Unit5 My hobbies, Review1, Unit6 Our school. Đọc nguồn PDF tương ứng trực quan trước; kiểm tra lại head và báo cáo từ main. Mọi bài mới tiếp tục AI_CHECKED_AWAITING_TEACHER, không cần hỏi duyệt giữa batch. Tác vụ tiếp tục vì còn21 mục.
+
 # Batch 38 — Tiếng Anh Starter và Unit1–3 — 14/11/2026
 
 - Đã mở rộng renderer Tiếng Anh: từ vựng có nghĩa Việt/ví dụ, mẫu câu, phát âm, đọc/viết/nói/nghe; nút nghe từng mục gọi speechSynthesis tiếng Anh, ghi rõ giọng máy, có thông báo lỗi/không hỗ trợ. Giữ wl3, hồ sơ, XP, sao, huy hiệu, sao lưu/khôi phục và fallback từng file.
