@@ -1,3 +1,11 @@
+# Batch 36 — Tiếng Việt tập 2 B25–B28 — 14/11/2026
+
+- Đã biên soạn và AI kiểm tra 4 bài, 48 câu riêng, 8 ví dụ có lời giải và 4 trò chơi; giữ AI_CHECKED_AWAITING_TEACHER.
+- Đã đọc trực quan PDF112–126 (trang in111–125): Ngọn lửa Ô-lim-pích; Rô-bốt ở quanh ta; Thư của ông Trái Đất gửi các bạn nhỏ; Những điều nhỏ tớ làm cho Trái Đất. Không đăng toàn văn sách. Phân biệt nhân vật rô-bốt hư cấu năm1920 và rô-bốt thực; nhân hóa Trái Đất; tránh hiểu giữ thức ăn là ép ăn quá no.
+- Tổng AI biên soạn141/168, AI kiểm tra141/168; Toán81/81, Tiếng Việt60/62, Tiếng Anh0/25. 3992 câu,141 trò chơi; giáo viên duyệt4, còn137 chờ duyệt. Còn27 mục.
+- npm test: validator, toàn bộ hồi quy cũ và test_batch36.py, jsdom đều PASS trên141 kho. Chromium có sẵn nhưng khởi chạy exit134 do socket()/ptrace bị môi trường từ chối; chưa xác minh bố cục bằng Chromium. Actions/Pages của commit này chờ đối chiếu sau khi cập nhật main.
+- Nối tiếp: đọc và soạn hai bài Tiếng Việt cuối B29–B30, rồi mở rộng renderer/validator Tiếng Anh trước khi biên soạn Starter và Unit.
+
 # Checkpoint xác minh Batch 34–35 — 14/11/2026
 
 - Đã hoàn thiện8 bài Tiếng Việt tập2 B17–B24,96 câu mới,8 trò chơi,16 ví dụ có lời giải; mỗi batch4 bài commit riêng:
