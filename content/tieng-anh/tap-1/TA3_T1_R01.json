@@ -1,0 +1,380 @@
+{
+  "id": "TA3_T1_R01",
+  "subject": "ta",
+  "grade": 3,
+  "book": "Kết nối tri thức với cuộc sống",
+  "volume": 1,
+  "lesson_no": 1,
+  "title": "Review 1",
+  "topic": "English Global Success",
+  "source": {
+    "pdf": "03-sgk-tieng-anh-3-tap-1-global-success.pdf",
+    "printed_pages": [
+      40,
+      43
+    ],
+    "pdf_pages": [
+      41,
+      44
+    ],
+    "review": "Đã đọc trực quan đầy đủ trang nguồn PDF ảnh quét ngày14/11/2026. Biên soạn tình huống, ví dụ và câu hỏi mới; không đăng toàn văn hay sao chép hệ thống bài tập SGK; không có bản thu âm sách."
+  },
+  "objectives": [
+    "Hiểu và dùng đúng: Ôn Unit1–5: chào, tên, tuổi, bạn bè, bộ phận cơ thể và sở thích; kèm Fun time giác quan.",
+    "Đọc, viết và thực hành nói theo tình huống mới.",
+    "Nhận biết trọng tâm phát âm và luyện nghe bằng giọng máy có ghi nhãn."
+  ],
+  "knowledge": {
+    "introduction": "Ôn Unit1–5: chào, tên, tuổi, bạn bè, bộ phận cơ thể và sở thích; kèm Fun time giác quan.",
+    "rules": [
+      "What's your name? / How old are you? / What's your hobby? → Hỏi tên / tuổi / sở thích.",
+      "How are you? — Fine, thank you. → Hỏi thăm, không hỏi tuổi.",
+      "Is that your teacher? — Yes, it is. / No, it isn't. → Xác nhận người được chỉ.",
+      "What's this? — It's a hand. Touch your ears! → Gọi tên bộ phận và lời yêu cầu."
+    ],
+    "steps": [
+      "Đọc từ và nghĩa, quan sát tình huống trước khi chọn cách nói.",
+      "Nghe từ bằng giọng máy nếu thiết bị hỗ trợ, đọc lại chậm theo hướng dẫn phát âm.",
+      "Làm câu hỏi, xem giải thích rồi thực hành nói và viết theo nhiệm vụ."
+    ],
+    "common_errors": [
+      "Đáp tuổi cho How are you hoặc đáp sức khoẻ cho How old.",
+      "Suy thêm thông tin không có trong thẻ; ghép sai giác quan với bộ phận."
+    ]
+  },
+  "examples": [
+    {
+      "question": "Review1: em muốn hỏi tuổi, câu nào đúng mục đích?",
+      "steps": [
+        "Nhận diện yêu cầu: communication",
+        "How old hỏi tuổi; How are you hỏi thăm sức khoẻ, hai câu không cùng mục đích.",
+        "Đáp án: How old are you?"
+      ]
+    },
+    {
+      "question": "Thẻ mới có câu I'm ___ years old và ghi số7. Em điền từ nào?",
+      "steps": [
+        "Nhận diện yêu cầu: writing",
+        "Khoảng trống cần số tuổi; seven là bảy, không phải sở thích hay tên.",
+        "Đáp án: seven"
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "title": "Thực hành theo cặp: Review 1",
+      "materials": [
+        "Giấy",
+        "Bút",
+        "Thẻ tự làm"
+      ],
+      "steps": [
+        "Vẽ thẻ nhân vật gồm tên, tuổi và sở thích. Tổ chức cuộc gặp theo cặp, vừa hỏi đáp vừa ghi đúng thông tin bạn cho; kiểm lại thẻ sau lượt.",
+        "Đổi vai và nhờ bạn nhắc lại thông tin đã nghe.",
+        "Sửa một lỗi sau khi đọc phần giải thích trong bài."
+      ],
+      "check": [
+        "Đúng nội dung giao tiếp hoặc chữ/số yêu cầu.",
+        "Phát âm chậm, đủ nghe; nhờ người lớn hỗ trợ chỗ chưa chắc.",
+        "Viết đúng từ, tên riêng, dấu nháy và dấu câu."
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "question_id": "TA3_T1_R01_Q01",
+      "type": "mcq",
+      "skill": "communication",
+      "question": "Review1: em muốn hỏi tuổi, câu nào đúng mục đích?",
+      "correct_answer": "How old are you?",
+      "options": [
+        "How are you?",
+        "What's your hobby?",
+        "What's your name?",
+        "How old are you?"
+      ],
+      "explanation": "How old hỏi tuổi; How are you hỏi thăm sức khoẻ, hai câu không cùng mục đích."
+    },
+    {
+      "question_id": "TA3_T1_R01_Q02",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Đọc thẻ mới: Name: Tu. Age: eight. Hobby: drawing. Tu thích hoạt động nào?",
+      "correct_answer": "Drawing.",
+      "options": [
+        "Name.",
+        "Age.",
+        "Drawing.",
+        "Eight."
+      ],
+      "explanation": "Dòng Hobby cung cấp sở thích; eight thuộc dòng tuổi."
+    },
+    {
+      "question_id": "TA3_T1_R01_Q03",
+      "type": "mcq",
+      "skill": "grammar",
+      "question": "Câu nào trả lời phù hợp cho Is that your teacher? khi đúng là giáo viên của em?",
+      "correct_answer": "Yes, it is.",
+      "options": [
+        "No, it is.",
+        "Yes, it is.",
+        "Yes, I am.",
+        "Yes, it are."
+      ],
+      "explanation": "Mẫu xác nhận người được chỉ dùng it is; I am chỉ bản thân người nói."
+    },
+    {
+      "question_id": "TA3_T1_R01_Q04",
+      "type": "mcq",
+      "skill": "vocabulary",
+      "question": "Ghép bộ phận và việc dùng trong phần Fun time, cặp nào phù hợp?",
+      "correct_answer": "nose — smell",
+      "options": [
+        "nose — smell",
+        "eye — hear",
+        "ear — taste",
+        "hand — see"
+      ],
+      "explanation": "Nose là mũi, smell là ngửi; phân biệt eye/see, ear/hear và tongue/taste."
+    },
+    {
+      "question_id": "TA3_T1_R01_Q05",
+      "type": "mcq",
+      "skill": "writing",
+      "question": "Thẻ mới có câu I'm ___ years old và ghi số7. Em điền từ nào?",
+      "correct_answer": "seven",
+      "options": [
+        "singing",
+        "name",
+        "fine",
+        "seven"
+      ],
+      "explanation": "Khoảng trống cần số tuổi; seven là bảy, không phải sở thích hay tên."
+    },
+    {
+      "question_id": "TA3_T1_R01_Q06",
+      "type": "mcq",
+      "skill": "communication",
+      "question": "Một bạn mới chào rồi nói My name's Yen. Em muốn hỏi sở thích tiếp. Câu nào nối đúng?",
+      "correct_answer": "What's your hobby, Yen?",
+      "options": [
+        "What name is old?",
+        "Goodbye is teacher?",
+        "What's your hobby, Yen?",
+        "Open your years!"
+      ],
+      "explanation": "Câu hỏi hướng sang sở thích và gọi đúng tên đã được giới thiệu."
+    },
+    {
+      "question_id": "TA3_T1_R01_Q07",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Đọc: This is Hanh. She says, I like cooking. Từ nào biểu thị hoạt động?",
+      "correct_answer": "cooking",
+      "options": [
+        "She",
+        "cooking",
+        "This",
+        "Hanh"
+      ],
+      "explanation": "Cooking nêu hoạt động nấu ăn; Hanh là tên người, This và She không chỉ hoạt động."
+    },
+    {
+      "question_id": "TA3_T1_R01_Q08",
+      "type": "mcq",
+      "skill": "pronunciation",
+      "question": "Ôn h/b và m/n, nhóm nào có hai từ cùng mở đầu bằng /h/?",
+      "correct_answer": "hi và hello",
+      "options": [
+        "hi và hello",
+        "bye và hello",
+        "Mary và Nam",
+        "name và bye"
+      ],
+      "explanation": "Hi và hello có /h/; bye mở đầu /b/, Mary /m/, Nam/name /n/."
+    },
+    {
+      "question_id": "TA3_T1_R01_Q09",
+      "type": "mcq",
+      "skill": "communication",
+      "question": "Người điều khiển trò chơi nói Touch your ears! Em nên làm gì?",
+      "correct_answer": "Chạm nhẹ tai của mình.",
+      "options": [
+        "Mở sách.",
+        "Chạy ra cửa.",
+        "Đọc tuổi của bạn.",
+        "Chạm nhẹ tai của mình."
+      ],
+      "explanation": "Touch yêu cầu chạm, ears là tai; hành động nhẹ và chỉ trên cơ thể của mình."
+    },
+    {
+      "question_id": "TA3_T1_R01_Q10",
+      "type": "mcq",
+      "skill": "writing",
+      "question": "Chọn đoạn tự giới thiệu ba thông tin tên, tuổi, sở thích đã đủ ý.",
+      "correct_answer": "My name's Kiet. I'm nine. I like painting.",
+      "options": [
+        "I'm nine. Nine years.",
+        "I like painting. I like painting.",
+        "My name's Kiet. I'm nine. I like painting.",
+        "My name's Kiet. Goodbye."
+      ],
+      "explanation": "Đoạn đầu lần lượt có tên, tuổi và sở thích; các đoạn khác thiếu một hoặc nhiều ý."
+    },
+    {
+      "question_id": "TA3_T1_R01_Q11",
+      "type": "mcq",
+      "skill": "speaking",
+      "question": "Bốn thẻ ghi name, age, hobby, greeting. Thẻ nào dùng để bắt đầu một cuộc gặp?",
+      "correct_answer": "greeting",
+      "options": [
+        "name",
+        "greeting",
+        "hobby",
+        "age"
+      ],
+      "explanation": "Greeting là lời chào; chào trước giúp mở cuộc trò chuyện rồi mới hỏi thông tin."
+    },
+    {
+      "question_id": "TA3_T1_R01_Q12",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Đọc: Linh asks, What's this? Nga answers, It's a hand. Nga vừa cung cấp gì?",
+      "correct_answer": "Tên bộ phận cơ thể.",
+      "options": [
+        "Tên bộ phận cơ thể.",
+        "Tên của Linh.",
+        "Tuổi của Nga.",
+        "Tên một sở thích."
+      ],
+      "explanation": "Hand là bàn tay, đáp lại câu hỏi về vật/bộ phận được chỉ; không có dữ kiện tuổi."
+    }
+  ],
+  "games": [
+    {
+      "id": "TA3_T1_R01_GAME",
+      "title": "Kho báu tiếng Anh: Review 1",
+      "mode": "treasure",
+      "objective": "Chọn từ và lời nói phù hợp để mở kho báu.",
+      "rules": [
+        "Mỗi lượt10 câu thuộc bài, không áp phân mức Toán.",
+        "Chọn đáp án rồi đọc giải thích. Trả lời đúng tiến thêm một bước.",
+        "Kết thúc, ôn câu sai và thử lại."
+      ],
+      "question_ids": [
+        "TA3_T1_R01_Q01",
+        "TA3_T1_R01_Q02",
+        "TA3_T1_R01_Q03",
+        "TA3_T1_R01_Q04",
+        "TA3_T1_R01_Q05",
+        "TA3_T1_R01_Q06",
+        "TA3_T1_R01_Q07",
+        "TA3_T1_R01_Q08",
+        "TA3_T1_R01_Q09",
+        "TA3_T1_R01_Q10",
+        "TA3_T1_R01_Q11",
+        "TA3_T1_R01_Q12"
+      ],
+      "answer_source": "practice.correct_answer",
+      "feedback_source": "practice.explanation",
+      "max_score": 100
+    }
+  ],
+  "assessment": {
+    "session_size": 10,
+    "scoring": "Mỗi câu đúng được tính điểm theo hệ thống; 8–10 câu đúng: nắm tốt, 5–7: đọc lại phần còn nhầm, dưới 5: đọc bài cùng người thân rồi thử lại. Nhiệm vụ nói/viết tự kiểm theo tiêu chí, không chấm bằng một đáp án duy nhất.",
+    "review_advice": "Xem lại câu sai theo nhóm từ, mẫu câu, phát âm; thực hiện cả nhiệm vụ nói và viết. Điểm trắc nghiệm không thay thế nhận xét phát âm."
+  },
+  "feedback": {
+    "correct": "Đúng rồi! Em đọc lại từ hoặc lời nói vừa chọn.",
+    "incorrect": "Đọc lời giải, chú ý tình huống rồi thử dùng mẫu câu.",
+    "teacher_note": "AI_CHECKED_AWAITING_TEACHER; phần nói và phát âm cần người lớn nghe và góp ý."
+  },
+  "verification": {
+    "ai_authored": true,
+    "structure_checked": true,
+    "answer_reviewed": true,
+    "source_reviewed": true,
+    "teacher_approved": false
+  },
+  "status": "AI_CHECKED_AWAITING_TEACHER",
+  "vocabulary": [
+    {
+      "word": "greeting",
+      "meaning_vi": "lời chào",
+      "example": "Hello is a greeting."
+    },
+    {
+      "word": "age",
+      "meaning_vi": "tuổi",
+      "example": "My age is nine."
+    },
+    {
+      "word": "name",
+      "meaning_vi": "tên",
+      "example": "My name's Kiet."
+    },
+    {
+      "word": "hobby",
+      "meaning_vi": "sở thích",
+      "example": "My hobby is painting."
+    },
+    {
+      "word": "see",
+      "meaning_vi": "nhìn",
+      "example": "I see with my eyes."
+    },
+    {
+      "word": "hear",
+      "meaning_vi": "nghe",
+      "example": "I hear with my ears."
+    },
+    {
+      "word": "smell",
+      "meaning_vi": "ngửi",
+      "example": "I smell with my nose."
+    },
+    {
+      "word": "taste",
+      "meaning_vi": "nếm",
+      "example": "I taste with my tongue."
+    },
+    {
+      "word": "touch",
+      "meaning_vi": "chạm",
+      "example": "I touch with my hand."
+    }
+  ],
+  "patterns": [
+    "What's your name? / How old are you? / What's your hobby? → Hỏi tên / tuổi / sở thích.",
+    "How are you? — Fine, thank you. → Hỏi thăm, không hỏi tuổi.",
+    "Is that your teacher? — Yes, it is. / No, it isn't. → Xác nhận người được chỉ.",
+    "What's this? — It's a hand. Touch your ears! → Gọi tên bộ phận và lời yêu cầu."
+  ],
+  "pronunciation": [
+    "Ôn /h/ hello, /b/ bye, /m/ Mary, /n/ Nam; phân biệt tên chữ với âm trong từ.",
+    "Ôn th /ð/ that và /θ/ thank, air trong hair, ear trong ears, /p/ painting và /r/ running."
+  ],
+  "skills": {
+    "reading": [
+      "Thẻ mới: Name: Tu. Age: eight. Hobby: drawing.",
+      "Tu bao nhiêu tuổi và thích gì? Đáp án: tám tuổi, vẽ. Dựa dòng Age và Hobby, không đoán từ tên."
+    ],
+    "writing": [
+      "Viết lời giới thiệu nhân vật mới có tên, tuổi, sở thích. Mẫu: My name's Kiet. I'm nine. I like painting.",
+      "Thêm một câu hỏi muốn hỏi bạn; kiểm xem câu trả lời của bạn đúng loại thông tin câu hỏi yêu cầu."
+    ],
+    "speaking": [
+      "Đóng vai gặp bạn: chào, hỏi tên, tuổi, sở thích rồi chia tay; đổi vai để mỗi người đều hỏi và đáp.",
+      "Giới thiệu một bạn bằng This is rồi chơi hỏi tên bộ phận trên thẻ."
+    ],
+    "listening": [
+      "Người lớn đọc ngẫu nhiên một câu trong mẫu, em chỉ thẻ name/age/hobby/greeting phù hợp và đáp.",
+      "Nút nghe chỉ là giọng máy của thiết bị; không suy đáp án các track âm thanh SGK vì chưa có bản thu."
+    ]
+  },
+  "audio": {
+    "type": "speechSynthesis",
+    "label": "Giọng máy tiếng Anh của thiết bị, không phải âm thanh sách. Có thể khác theo thiết bị; nếu không phát, đọc theo mẫu và nhờ người lớn hỗ trợ."
+  }
+}

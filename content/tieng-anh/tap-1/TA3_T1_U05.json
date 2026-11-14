@@ -1,0 +1,378 @@
+{
+  "id": "TA3_T1_U05",
+  "subject": "ta",
+  "grade": 3,
+  "book": "Kết nối tri thức với cuộc sống",
+  "volume": 1,
+  "lesson_no": 5,
+  "title": "Unit 5: My hobbies",
+  "topic": "English Global Success",
+  "source": {
+    "pdf": "03-sgk-tieng-anh-3-tap-1-global-success.pdf",
+    "printed_pages": [
+      34,
+      39
+    ],
+    "pdf_pages": [
+      35,
+      40
+    ],
+    "review": "Đã đọc trực quan đầy đủ trang nguồn PDF ảnh quét ngày14/11/2026. Biên soạn tình huống, ví dụ và câu hỏi mới; không đăng toàn văn hay sao chép hệ thống bài tập SGK; không có bản thu âm sách."
+  },
+  "objectives": [
+    "Hiểu và dùng đúng: Hỏi đáp sở thích bằng It's hoặc I like kèm hoạt động; chia sẻ tranh sở thích.",
+    "Đọc, viết và thực hành nói theo tình huống mới.",
+    "Nhận biết trọng tâm phát âm và luyện nghe bằng giọng máy có ghi nhãn."
+  ],
+  "knowledge": {
+    "introduction": "Hỏi đáp sở thích bằng It's hoặc I like kèm hoạt động; chia sẻ tranh sở thích.",
+    "rules": [
+      "What's your hobby? — It's drawing. → Sở thích của bạn là gì? — Là vẽ.",
+      "What's your hobby? — I like walking. → Mình thích đi bộ.",
+      "Sau I like dùng hoạt động như singing/running. Không thêm am trước like."
+    ],
+    "steps": [
+      "Đọc từ và nghĩa, quan sát tình huống trước khi chọn cách nói.",
+      "Nghe từ bằng giọng máy nếu thiết bị hỗ trợ, đọc lại chậm theo hướng dẫn phát âm.",
+      "Làm câu hỏi, xem giải thích rồi thực hành nói và viết theo nhiệm vụ."
+    ],
+    "common_errors": [
+      "Dùng I am like thay I like.",
+      "Viết sai số chữ n/m trong running/swimming hoặc nhầm drawing và dancing."
+    ]
+  },
+  "examples": [
+    {
+      "question": "Sở thích nào liên quan đến dùng màu và cọ để tạo tranh?",
+      "steps": [
+        "Nhận diện yêu cầu: vocabulary",
+        "Painting là vẽ bằng màu; walking là đi bộ, singing là hát, swimming là bơi.",
+        "Đáp án: painting"
+      ]
+    },
+    {
+      "question": "Chọn cách viết đúng tên hoạt động bơi.",
+      "steps": [
+        "Nhận diện yêu cầu: writing",
+        "Swimming viết hai m trước ing; soát theo từng phần swim-m-ing.",
+        "Đáp án: swimming"
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "title": "Thực hành theo cặp: Unit 5: My hobbies",
+      "materials": [
+        "Giấy",
+        "Bút",
+        "Thẻ tự làm"
+      ],
+      "steps": [
+        "Làm góc trưng bày sở thích bằng hai tranh tự vẽ; nói một câu I like mỗi tranh và hỏi sở thích người xem.",
+        "Đổi vai và nhờ bạn nhắc lại thông tin đã nghe.",
+        "Sửa một lỗi sau khi đọc phần giải thích trong bài."
+      ],
+      "check": [
+        "Đúng nội dung giao tiếp hoặc chữ/số yêu cầu.",
+        "Phát âm chậm, đủ nghe; nhờ người lớn hỗ trợ chỗ chưa chắc.",
+        "Viết đúng từ, tên riêng, dấu nháy và dấu câu."
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "question_id": "TA3_T1_U05_Q01",
+      "type": "mcq",
+      "skill": "vocabulary",
+      "question": "Sở thích nào liên quan đến dùng màu và cọ để tạo tranh?",
+      "correct_answer": "painting",
+      "options": [
+        "walking",
+        "singing",
+        "swimming",
+        "painting"
+      ],
+      "explanation": "Painting là vẽ bằng màu; walking là đi bộ, singing là hát, swimming là bơi."
+    },
+    {
+      "question_id": "TA3_T1_U05_Q02",
+      "type": "mcq",
+      "skill": "communication",
+      "question": "Muốn biết sở thích của bạn, em hỏi gì?",
+      "correct_answer": "What's your hobby?",
+      "options": [
+        "How old is your name?",
+        "Is that a classroom?",
+        "What's your hobby?",
+        "What's this nose?"
+      ],
+      "explanation": "Hobby hỏi điều thích làm; ba câu còn lại không hỏi sở thích."
+    },
+    {
+      "question_id": "TA3_T1_U05_Q03",
+      "type": "mcq",
+      "skill": "grammar",
+      "question": "Em thích chạy bộ. Câu nào đúng mẫu đã học?",
+      "correct_answer": "I like running.",
+      "options": [
+        "I am like running.",
+        "I like running.",
+        "I running like.",
+        "I like runing."
+      ],
+      "explanation": "Sau like dùng tên hoạt động running ở mẫu này; running viết hai n."
+    },
+    {
+      "question_id": "TA3_T1_U05_Q04",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Đọc: I'm Nhi. I like dancing. My friend likes drawing. Người nói thích gì?",
+      "correct_answer": "Nhảy múa.",
+      "options": [
+        "Nhảy múa.",
+        "Vẽ.",
+        "Bơi.",
+        "Nấu ăn."
+      ],
+      "explanation": "Câu I like dancing cho biết sở thích Nhi; đừng lấy thông tin của bạn để trả lời về Nhi."
+    },
+    {
+      "question_id": "TA3_T1_U05_Q05",
+      "type": "mcq",
+      "skill": "writing",
+      "question": "Chọn cách viết đúng tên hoạt động bơi.",
+      "correct_answer": "swimming",
+      "options": [
+        "swiming",
+        "swimning",
+        "swimmming",
+        "swimming"
+      ],
+      "explanation": "Swimming viết hai m trước ing; soát theo từng phần swim-m-ing."
+    },
+    {
+      "question_id": "TA3_T1_U05_Q06",
+      "type": "mcq",
+      "skill": "vocabulary",
+      "question": "Cooking gần nghĩa tiếng Việt nào nhất?",
+      "correct_answer": "Nấu ăn.",
+      "options": [
+        "Chạy.",
+        "Hát.",
+        "Nấu ăn.",
+        "Đi bộ."
+      ],
+      "explanation": "Cooking là nấu ăn, khác walking và running."
+    },
+    {
+      "question_id": "TA3_T1_U05_Q07",
+      "type": "mcq",
+      "skill": "communication",
+      "question": "Bạn hỏi sở thích, em muốn trả lời ngắn rằng em thích hát. Em chọn gì?",
+      "correct_answer": "It's singing.",
+      "options": [
+        "My years singing.",
+        "It's singing.",
+        "It singing is.",
+        "I'm a singing."
+      ],
+      "explanation": "It's singing là mẫu câu đáp về sở thích; I like singing cũng diễn đạt được ý đó."
+    },
+    {
+      "question_id": "TA3_T1_U05_Q08",
+      "type": "mcq",
+      "skill": "pronunciation",
+      "question": "Âm đầu p trong painting được tạo thế nào?",
+      "correct_answer": "Khép hai môi rồi bật hơi, không rung giọng ở âm đầu.",
+      "options": [
+        "Khép hai môi rồi bật hơi, không rung giọng ở âm đầu.",
+        "Đặt lưỡi giữa răng và rung giọng.",
+        "Ngân âm qua mũi như m.",
+        "Đọc tên chữ P thay cả từ."
+      ],
+      "explanation": "/p/ là âm bật hai môi vô thanh, khác /m/ hoặc /ð/."
+    },
+    {
+      "question_id": "TA3_T1_U05_Q09",
+      "type": "mcq",
+      "skill": "pronunciation",
+      "question": "Khi luyện running, điều nào giúp tránh đọc âm đầu thành âm l tiếng Việt?",
+      "correct_answer": "Nghe và bắt chước /r/, không chạm đầu lưỡi vào lợi như /l/.",
+      "options": [
+        "Luôn thêm âm đờ trước r.",
+        "Chỉ khép môi như b.",
+        "Không cần đọc âm đầu.",
+        "Nghe và bắt chước /r/, không chạm đầu lưỡi vào lợi như /l/."
+      ],
+      "explanation": "Âm /r/ tiếng Anh khác /l/; luyện chậm theo giọng máy và nhờ người lớn góp ý."
+    },
+    {
+      "question_id": "TA3_T1_U05_Q10",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Bảng mới ghi Phong: walking; Diep: cooking. Ai thích đi bộ?",
+      "correct_answer": "Phong.",
+      "options": [
+        "Cả hai.",
+        "Không ai.",
+        "Phong.",
+        "Diep."
+      ],
+      "explanation": "Walking là đi bộ; cooking là nấu ăn. Đọc đúng dòng gắn với mỗi tên."
+    },
+    {
+      "question_id": "TA3_T1_U05_Q11",
+      "type": "mcq",
+      "skill": "writing",
+      "question": "Sắp xếp các từ painting, like, I để tạo câu.",
+      "correct_answer": "I like painting.",
+      "options": [
+        "I painting like.",
+        "I like painting.",
+        "Like I painting.",
+        "Painting I like I."
+      ],
+      "explanation": "Trật tự mẫu là người nói I, động từ like, hoạt động painting."
+    },
+    {
+      "question_id": "TA3_T1_U05_Q12",
+      "type": "mcq",
+      "skill": "speaking",
+      "question": "Giới thiệu hai sở thích trong buổi trưng bày, em nên làm gì?",
+      "correct_answer": "Cho xem hai tranh tự vẽ và nói hai câu I like phù hợp.",
+      "options": [
+        "Cho xem hai tranh tự vẽ và nói hai câu I like phù hợp.",
+        "Chỉ đọc một dãy số.",
+        "Nêu sở thích của người khác như của mình.",
+        "Nói Goodbye rồi bỏ qua tranh."
+      ],
+      "explanation": "Tranh giúp làm rõ sở thích; nói đúng thông tin mình muốn giới thiệu, có thể đóng vai nhân vật."
+    }
+  ],
+  "games": [
+    {
+      "id": "TA3_T1_U05_GAME",
+      "title": "Kho báu tiếng Anh: Unit 5: My hobbies",
+      "mode": "treasure",
+      "objective": "Chọn từ và lời nói phù hợp để mở kho báu.",
+      "rules": [
+        "Mỗi lượt10 câu thuộc bài, không áp phân mức Toán.",
+        "Chọn đáp án rồi đọc giải thích. Trả lời đúng tiến thêm một bước.",
+        "Kết thúc, ôn câu sai và thử lại."
+      ],
+      "question_ids": [
+        "TA3_T1_U05_Q01",
+        "TA3_T1_U05_Q02",
+        "TA3_T1_U05_Q03",
+        "TA3_T1_U05_Q04",
+        "TA3_T1_U05_Q05",
+        "TA3_T1_U05_Q06",
+        "TA3_T1_U05_Q07",
+        "TA3_T1_U05_Q08",
+        "TA3_T1_U05_Q09",
+        "TA3_T1_U05_Q10",
+        "TA3_T1_U05_Q11",
+        "TA3_T1_U05_Q12"
+      ],
+      "answer_source": "practice.correct_answer",
+      "feedback_source": "practice.explanation",
+      "max_score": 100
+    }
+  ],
+  "assessment": {
+    "session_size": 10,
+    "scoring": "Mỗi câu đúng được tính điểm theo hệ thống; 8–10 câu đúng: nắm tốt, 5–7: đọc lại phần còn nhầm, dưới 5: đọc bài cùng người thân rồi thử lại. Nhiệm vụ nói/viết tự kiểm theo tiêu chí, không chấm bằng một đáp án duy nhất.",
+    "review_advice": "Xem lại câu sai theo nhóm từ, mẫu câu, phát âm; thực hiện cả nhiệm vụ nói và viết. Điểm trắc nghiệm không thay thế nhận xét phát âm."
+  },
+  "feedback": {
+    "correct": "Đúng rồi! Em đọc lại từ hoặc lời nói vừa chọn.",
+    "incorrect": "Đọc lời giải, chú ý tình huống rồi thử dùng mẫu câu.",
+    "teacher_note": "AI_CHECKED_AWAITING_TEACHER; phần nói và phát âm cần người lớn nghe và góp ý."
+  },
+  "verification": {
+    "ai_authored": true,
+    "structure_checked": true,
+    "answer_reviewed": true,
+    "source_reviewed": true,
+    "teacher_approved": false
+  },
+  "status": "AI_CHECKED_AWAITING_TEACHER",
+  "vocabulary": [
+    {
+      "word": "singing",
+      "meaning_vi": "hát",
+      "example": "I like singing."
+    },
+    {
+      "word": "drawing",
+      "meaning_vi": "vẽ",
+      "example": "I like drawing."
+    },
+    {
+      "word": "dancing",
+      "meaning_vi": "nhảy múa",
+      "example": "I like dancing."
+    },
+    {
+      "word": "swimming",
+      "meaning_vi": "bơi",
+      "example": "I like swimming."
+    },
+    {
+      "word": "running",
+      "meaning_vi": "chạy",
+      "example": "I like running."
+    },
+    {
+      "word": "painting",
+      "meaning_vi": "vẽ bằng màu",
+      "example": "I like painting."
+    },
+    {
+      "word": "walking",
+      "meaning_vi": "đi bộ",
+      "example": "I like walking."
+    },
+    {
+      "word": "cooking",
+      "meaning_vi": "nấu ăn",
+      "example": "I like cooking."
+    },
+    {
+      "word": "hobby",
+      "meaning_vi": "sở thích",
+      "example": "What's your hobby?"
+    }
+  ],
+  "patterns": [
+    "What's your hobby? — It's drawing. → Sở thích của bạn là gì? — Là vẽ.",
+    "What's your hobby? — I like walking. → Mình thích đi bộ.",
+    "Sau I like dùng hoạt động như singing/running. Không thêm am trước like."
+  ],
+  "pronunciation": [
+    "/p/ đầu painting: khép môi bật hơi, không rung giọng ở âm đầu.",
+    "/r/ đầu running: nghe và bắt chước, đầu lưỡi không chạm lợi như /l/; không thêm âm đờ."
+  ],
+  "skills": {
+    "reading": [
+      "Đoạn mới: My name's Nhi. I like dancing. My friend likes drawing.",
+      "Nhi thích gì? Đáp án: dancing. Hoạt động drawing thuộc người bạn, không phải Nhi."
+    ],
+    "writing": [
+      "Viết lời giới thiệu gồm tên và hai hoạt động thích làm; mẫu: I'm Thuy. I like walking. I like painting.",
+      "Soát running có hai n, swimming có hai m; tên người và I viết hoa."
+    ],
+    "speaking": [
+      "Hỏi ba bạn What's your hobby, ghi hoạt động trả lời rồi đọc lại để bạn xác nhận.",
+      "Trưng bày hai tranh tự vẽ và nói I like cho từng tranh; đổi vai người hỏi/người trả lời."
+    ],
+    "listening": [
+      "Nghe painting/running từ nút giọng máy, chỉ thẻ tự viết rồi đọc lại.",
+      "Một người gọi tên hoạt động, người kia chọn tranh; kiểm tra đáp án bằng chữ sau tranh."
+    ]
+  },
+  "audio": {
+    "type": "speechSynthesis",
+    "label": "Giọng máy tiếng Anh của thiết bị, không phải âm thanh sách. Có thể khác theo thiết bị; nếu không phát, đọc theo mẫu và nhờ người lớn hỗ trợ."
+  }
+}

@@ -1,0 +1,378 @@
+{
+  "id": "TA3_T1_U06",
+  "subject": "ta",
+  "grade": 3,
+  "book": "Kết nối tri thức với cuộc sống",
+  "volume": 1,
+  "lesson_no": 6,
+  "title": "Unit 6: Our school",
+  "topic": "English Global Success",
+  "source": {
+    "pdf": "03-sgk-tieng-anh-3-tap-1-global-success.pdf",
+    "printed_pages": [
+      44,
+      49
+    ],
+    "pdf_pages": [
+      45,
+      50
+    ],
+    "review": "Đã đọc trực quan đầy đủ trang nguồn PDF ảnh quét ngày14/11/2026. Biên soạn tình huống, ví dụ và câu hỏi mới; không đăng toàn văn hay sao chép hệ thống bài tập SGK; không có bản thu âm sách."
+  },
+  "objectives": [
+    "Hiểu và dùng đúng: Gọi tên các nơi trong trường, hỏi xác nhận và rủ bạn đến một nơi bằng Let's go.",
+    "Đọc, viết và thực hành nói theo tình huống mới.",
+    "Nhận biết trọng tâm phát âm và luyện nghe bằng giọng máy có ghi nhãn."
+  ],
+  "knowledge": {
+    "introduction": "Gọi tên các nơi trong trường, hỏi xác nhận và rủ bạn đến một nơi bằng Let's go.",
+    "rules": [
+      "Is this/that our school? — Yes, it is. / No, it isn't. → Hỏi và xác nhận trường được chỉ.",
+      "Let's go to the art room. — OK, let's go. → Cùng đến phòng Mĩ thuật nhé. — Được, đi nào.",
+      "My: của tôi; your: của bạn; our: của chúng ta. Chọn theo người đang nói."
+    ],
+    "steps": [
+      "Đọc từ và nghĩa, quan sát tình huống trước khi chọn cách nói.",
+      "Nghe từ bằng giọng máy nếu thiết bị hỗ trợ, đọc lại chậm theo hướng dẫn phát âm.",
+      "Làm câu hỏi, xem giải thích rồi thực hành nói và viết theo nhiệm vụ."
+    ],
+    "common_errors": [
+      "Đổi chỗ từ trong Let's go to the.",
+      "Nhầm library với playground; viết thiếu ss hoặc oo trong classroom."
+    ]
+  },
+  "examples": [
+    {
+      "question": "Phòng nào trong trường có tên library?",
+      "steps": [
+        "Nhận diện yêu cầu: vocabulary",
+        "Library là thư viện, nơi có sách và hoạt động đọc; không nhầm với playground.",
+        "Đáp án: Thư viện."
+      ]
+    },
+    {
+      "question": "Từ our trong our classroom thể hiện điều gì?",
+      "steps": [
+        "Nhận diện yêu cầu: vocabulary",
+        "Our nói về sở hữu chung của người nói và nhóm; khác my và your.",
+        "Đáp án: Lớp học của chúng ta."
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "title": "Thực hành theo cặp: Unit 6: Our school",
+      "materials": [
+        "Giấy",
+        "Bút",
+        "Thẻ tự làm"
+      ],
+      "steps": [
+        "Vẽ áp phích trường tưởng tượng với ba nơi, trình bày This is our cho từng nơi và rủ bạn đi đến một nơi trên áp phích.",
+        "Đổi vai và nhờ bạn nhắc lại thông tin đã nghe.",
+        "Sửa một lỗi sau khi đọc phần giải thích trong bài."
+      ],
+      "check": [
+        "Đúng nội dung giao tiếp hoặc chữ/số yêu cầu.",
+        "Phát âm chậm, đủ nghe; nhờ người lớn hỗ trợ chỗ chưa chắc.",
+        "Viết đúng từ, tên riêng, dấu nháy và dấu câu."
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "question_id": "TA3_T1_U06_Q01",
+      "type": "mcq",
+      "skill": "vocabulary",
+      "question": "Phòng nào trong trường có tên library?",
+      "correct_answer": "Thư viện.",
+      "options": [
+        "Sân chơi.",
+        "Phòng âm nhạc.",
+        "Phòng thể chất.",
+        "Thư viện."
+      ],
+      "explanation": "Library là thư viện, nơi có sách và hoạt động đọc; không nhầm với playground."
+    },
+    {
+      "question_id": "TA3_T1_U06_Q02",
+      "type": "mcq",
+      "skill": "communication",
+      "question": "Em muốn rủ bạn đến phòng Mĩ thuật. Câu nào phù hợp?",
+      "correct_answer": "Let's go to the art room.",
+      "options": [
+        "Let's art to go.",
+        "I'm an art room.",
+        "Let's go to the art room.",
+        "This is art go."
+      ],
+      "explanation": "Let's go to the + nơi chốn là mẫu lời rủ đi đến nơi đó."
+    },
+    {
+      "question_id": "TA3_T1_U06_Q03",
+      "type": "mcq",
+      "skill": "grammar",
+      "question": "Is this our school? Khi đúng là trường chung của hai em, đáp ngắn thế nào?",
+      "correct_answer": "Yes, it is.",
+      "options": [
+        "Yes, it isn't.",
+        "Yes, it is.",
+        "Yes, I are.",
+        "Yes, we is."
+      ],
+      "explanation": "Câu hỏi xác nhận nơi được chỉ dùng Yes, it is; our nêu ý của chúng ta."
+    },
+    {
+      "question_id": "TA3_T1_U06_Q04",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Đọc lời rủ mới: Let's go to the computer room. Điểm đến là đâu?",
+      "correct_answer": "Phòng máy tính.",
+      "options": [
+        "Phòng máy tính.",
+        "Sân chơi.",
+        "Thư viện.",
+        "Phòng âm nhạc."
+      ],
+      "explanation": "Computer room là phòng máy tính; dùng cả cụm từ để xác định nơi."
+    },
+    {
+      "question_id": "TA3_T1_U06_Q05",
+      "type": "mcq",
+      "skill": "vocabulary",
+      "question": "Từ our trong our classroom thể hiện điều gì?",
+      "correct_answer": "Lớp học của chúng ta.",
+      "options": [
+        "Lớp học của riêng người nghe.",
+        "Một loại trò chơi.",
+        "Số tuổi của cô.",
+        "Lớp học của chúng ta."
+      ],
+      "explanation": "Our nói về sở hữu chung của người nói và nhóm; khác my và your."
+    },
+    {
+      "question_id": "TA3_T1_U06_Q06",
+      "type": "mcq",
+      "skill": "communication",
+      "question": "Bạn rủ Let's go to the gym. Em đồng ý. Câu đáp nào tự nhiên theo bài?",
+      "correct_answer": "OK, let's go.",
+      "options": [
+        "No, it yes.",
+        "What's gym age?",
+        "OK, let's go.",
+        "I'm gym old."
+      ],
+      "explanation": "OK, let's go nhận lời rủ. Gym là phòng hoặc nhà thể chất."
+    },
+    {
+      "question_id": "TA3_T1_U06_Q07",
+      "type": "mcq",
+      "skill": "writing",
+      "question": "Chọn câu gọi tên lớp học đã đúng chính tả.",
+      "correct_answer": "This is our classroom.",
+      "options": [
+        "This our classroom is is.",
+        "This is our classroom.",
+        "This is our clasroom.",
+        "This is our classrom."
+      ],
+      "explanation": "Classroom gồm class và room, giữ đủ ss và oo; câu theo trật tự This is our."
+    },
+    {
+      "question_id": "TA3_T1_U06_Q08",
+      "type": "mcq",
+      "skill": "pronunciation",
+      "question": "Cụm pl đầu playground cần đọc thế nào?",
+      "correct_answer": "Nối /p/ sang /l/, không thêm nguyên âm giữa hai âm.",
+      "options": [
+        "Nối /p/ sang /l/, không thêm nguyên âm giữa hai âm.",
+        "Đọc thành pờ-lờ tách thành hai tiếng.",
+        "Bỏ luôn /l/.",
+        "Đổi cả cụm thành /b/."
+      ],
+      "explanation": "Cụm phụ âm được nối trong một tiếng, khác cách thêm tiếng đệm."
+    },
+    {
+      "question_id": "TA3_T1_U06_Q09",
+      "type": "mcq",
+      "skill": "pronunciation",
+      "question": "Âm đầu của classroom luyện theo cụm nào?",
+      "correct_answer": "/kl/",
+      "options": [
+        "/pl/",
+        "/θ/",
+        "/m/",
+        "/kl/"
+      ],
+      "explanation": "Cl trong classroom đọc /kl/, chuyển từ /k/ sang /l/ liền, không đọc tên chữ C và L."
+    },
+    {
+      "question_id": "TA3_T1_U06_Q10",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Đọc: This is our library. We like reading. Nhóm bạn nhắc hoạt động nào?",
+      "correct_answer": "Đọc.",
+      "options": [
+        "Nấu ăn.",
+        "Chạy.",
+        "Đọc.",
+        "Bơi."
+      ],
+      "explanation": "Reading là đọc; library là nơi được giới thiệu, không phải tên hoạt động."
+    },
+    {
+      "question_id": "TA3_T1_U06_Q11",
+      "type": "mcq",
+      "skill": "writing",
+      "question": "Điền nơi còn thiếu: We like music. Let's go to the ___ room.",
+      "correct_answer": "music",
+      "options": [
+        "gym",
+        "music",
+        "playground",
+        "school"
+      ],
+      "explanation": "Music room là phòng âm nhạc, phù hợp ngữ cảnh nói thích âm nhạc."
+    },
+    {
+      "question_id": "TA3_T1_U06_Q12",
+      "type": "mcq",
+      "skill": "speaking",
+      "question": "Làm áp phích về trường, phần trình bày nào bám đúng Unit6?",
+      "correct_answer": "Gọi tên hai nơi và dùng Let's go để rủ bạn đến một nơi.",
+      "options": [
+        "Gọi tên hai nơi và dùng Let's go để rủ bạn đến một nơi.",
+        "Chỉ kể tuổi từng người thân.",
+        "Chỉ đọc tên màu không có nơi.",
+        "Chỉ nói tên một con vật."
+      ],
+      "explanation": "Unit6 luyện nhận diện nơi ở trường và lời rủ đi; dùng tranh trường tưởng tượng nếu cần."
+    }
+  ],
+  "games": [
+    {
+      "id": "TA3_T1_U06_GAME",
+      "title": "Kho báu tiếng Anh: Unit 6: Our school",
+      "mode": "treasure",
+      "objective": "Chọn từ và lời nói phù hợp để mở kho báu.",
+      "rules": [
+        "Mỗi lượt10 câu thuộc bài, không áp phân mức Toán.",
+        "Chọn đáp án rồi đọc giải thích. Trả lời đúng tiến thêm một bước.",
+        "Kết thúc, ôn câu sai và thử lại."
+      ],
+      "question_ids": [
+        "TA3_T1_U06_Q01",
+        "TA3_T1_U06_Q02",
+        "TA3_T1_U06_Q03",
+        "TA3_T1_U06_Q04",
+        "TA3_T1_U06_Q05",
+        "TA3_T1_U06_Q06",
+        "TA3_T1_U06_Q07",
+        "TA3_T1_U06_Q08",
+        "TA3_T1_U06_Q09",
+        "TA3_T1_U06_Q10",
+        "TA3_T1_U06_Q11",
+        "TA3_T1_U06_Q12"
+      ],
+      "answer_source": "practice.correct_answer",
+      "feedback_source": "practice.explanation",
+      "max_score": 100
+    }
+  ],
+  "assessment": {
+    "session_size": 10,
+    "scoring": "Mỗi câu đúng được tính điểm theo hệ thống; 8–10 câu đúng: nắm tốt, 5–7: đọc lại phần còn nhầm, dưới 5: đọc bài cùng người thân rồi thử lại. Nhiệm vụ nói/viết tự kiểm theo tiêu chí, không chấm bằng một đáp án duy nhất.",
+    "review_advice": "Xem lại câu sai theo nhóm từ, mẫu câu, phát âm; thực hiện cả nhiệm vụ nói và viết. Điểm trắc nghiệm không thay thế nhận xét phát âm."
+  },
+  "feedback": {
+    "correct": "Đúng rồi! Em đọc lại từ hoặc lời nói vừa chọn.",
+    "incorrect": "Đọc lời giải, chú ý tình huống rồi thử dùng mẫu câu.",
+    "teacher_note": "AI_CHECKED_AWAITING_TEACHER; phần nói và phát âm cần người lớn nghe và góp ý."
+  },
+  "verification": {
+    "ai_authored": true,
+    "structure_checked": true,
+    "answer_reviewed": true,
+    "source_reviewed": true,
+    "teacher_approved": false
+  },
+  "status": "AI_CHECKED_AWAITING_TEACHER",
+  "vocabulary": [
+    {
+      "word": "school",
+      "meaning_vi": "trường học",
+      "example": "This is our school."
+    },
+    {
+      "word": "classroom",
+      "meaning_vi": "lớp học",
+      "example": "This is our classroom."
+    },
+    {
+      "word": "library",
+      "meaning_vi": "thư viện",
+      "example": "Let's go to the library."
+    },
+    {
+      "word": "playground",
+      "meaning_vi": "sân chơi",
+      "example": "That's our playground."
+    },
+    {
+      "word": "computer room",
+      "meaning_vi": "phòng máy tính",
+      "example": "Let's go to the computer room."
+    },
+    {
+      "word": "art room",
+      "meaning_vi": "phòng Mĩ thuật",
+      "example": "Let's go to the art room."
+    },
+    {
+      "word": "music room",
+      "meaning_vi": "phòng Âm nhạc",
+      "example": "Let's go to the music room."
+    },
+    {
+      "word": "gym",
+      "meaning_vi": "nhà/phòng thể chất",
+      "example": "Let's go to the gym."
+    },
+    {
+      "word": "our",
+      "meaning_vi": "của chúng ta",
+      "example": "Our school is here."
+    }
+  ],
+  "patterns": [
+    "Is this/that our school? — Yes, it is. / No, it isn't. → Hỏi và xác nhận trường được chỉ.",
+    "Let's go to the art room. — OK, let's go. → Cùng đến phòng Mĩ thuật nhé. — Được, đi nào.",
+    "My: của tôi; your: của bạn; our: của chúng ta. Chọn theo người đang nói."
+  ],
+  "pronunciation": [
+    "pl trong playground: nối /p/ và /l/, không thêm tiếng pờ-lờ.",
+    "cl trong classroom: nối /k/ và /l/, giữ cả hai phụ âm rồi đọc phần còn lại."
+  ],
+  "skills": {
+    "reading": [
+      "Hội thoại mới: Dao: This is our library. We like reading. Tuan: Let's go to the library. Dao: OK, let's go.",
+      "Hai bạn định đến đâu? Đáp án: thư viện. Tìm nơi sau go to the."
+    ],
+    "writing": [
+      "Viết ba câu cho tranh trường tưởng tượng: This is our school. This is our library. Let's go to the library.",
+      "Thay library bằng một phòng em muốn giới thiệu; viết đúng từ ghép classroom/computer room."
+    ],
+    "speaking": [
+      "Chỉ hai thẻ nơi trong trường, hỏi Is this/that our và đáp theo thẻ.",
+      "Đổi vai rủ đến phòng Âm nhạc hoặc phòng Mĩ thuật; người nghe nhận lời bằng OK, let's go."
+    ],
+    "listening": [
+      "Nghe classroom/playground bằng nút giọng máy, phân biệt cụm âm đầu cl/pl.",
+      "Người thân đọc lời rủ, em chỉ thẻ nơi đúng rồi nhắc lại tên; không cần ra khỏi chỗ ngồi."
+    ]
+  },
+  "audio": {
+    "type": "speechSynthesis",
+    "label": "Giọng máy tiếng Anh của thiết bị, không phải âm thanh sách. Có thể khác theo thiết bị; nếu không phát, đọc theo mẫu và nhờ người lớn hỗ trợ."
+  }
+}

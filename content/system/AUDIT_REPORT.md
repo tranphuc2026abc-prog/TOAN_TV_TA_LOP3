@@ -1,3 +1,11 @@
+# Batch39 — Tiếng Anh U4–5, Review1, U6 — 14/11/2026
+
+- Đã đọc trực quan đầy đủ PDF29–50/trang in28–49: bộ phận cơ thể và Touch/Open (air/ear), sở thích (p/r), Review1 và Fun time giác quan, các nơi ở trường và Let’s go (pl/cl).48 câu mới,8 ví dụ có lời giải,4 trò chơi; đủ từ-nghĩa-ví dụ, mẫu câu, phát âm, đọc/viết/nói/nghe. Không dùng đáp án track nghe sách vì chưa có bản thu; giọng máy có nhãn rõ.
+- Sửa danh mục theo trang thực: Review1 kết thúc43 (gồm Fun time42–43), Unit6 bắt đầu44 và kết thúc49, Unit7 bắt đầu50. Không dùng mốc OCR46–51 của U6.
+- Tổng AI biên soạn151/168, AI kiểm tra151/168; Toán81/81,TV62/62,TA8/25;4112 câu,151 trò chơi; giáo viên duyệt4,147 chờ duyệt. Còn17 mục TA.
+- npm test exit0: validator, toàn bộ hồi quy cũ và test_batch39, jsdom151 kho. Mở rộng test English DOM sang tất cả kho TA đang có, giữ kiểm tra4 bài cũ và toàn bộ Toán/TV; sửa mock danh mục để kiểm cả Review và Unit sau mẫu ban đầu. Chromium hiện diện nhưng khởi chạy exit134 do socket()/ptrace bị chặn; âm thực và bố cục trình duyệt chưa xác nhận.
+- Điểm nối tiếp batch40: Unit7–10; đọc nguồn và kiểm trang trước khi viết. Trạng thái từng bài mới AI_CHECKED_AWAITING_TEACHER. Actions/Pages của batch39 chờ đối chiếu sau commit.
+
 # Checkpoint xác minh Batch36–38 — 14/11/2026
 
 - Đã hoàn thiện và commit riêng10 mục mới:6 bài Tiếng Việt cuối(T2B25–B30) và4 mục Tiếng Anh(Starter,U1–U3);120 câu mới,20 ví dụ có lời giải,10 trò chơi. Nguồn đã đọc trực quan: TV PDF112–133,TA PDF8–28. Lưu nguyên lịch sử bên dưới.

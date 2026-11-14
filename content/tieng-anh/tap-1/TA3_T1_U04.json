@@ -1,0 +1,378 @@
+{
+  "id": "TA3_T1_U04",
+  "subject": "ta",
+  "grade": 3,
+  "book": "Kết nối tri thức với cuộc sống",
+  "volume": 1,
+  "lesson_no": 4,
+  "title": "Unit 4: Our bodies",
+  "topic": "English Global Success",
+  "source": {
+    "pdf": "03-sgk-tieng-anh-3-tap-1-global-success.pdf",
+    "printed_pages": [
+      28,
+      33
+    ],
+    "pdf_pages": [
+      29,
+      34
+    ],
+    "review": "Đã đọc trực quan đầy đủ trang nguồn PDF ảnh quét ngày14/11/2026. Biên soạn tình huống, ví dụ và câu hỏi mới; không đăng toàn văn hay sao chép hệ thống bài tập SGK; không có bản thu âm sách."
+  },
+  "objectives": [
+    "Hiểu và dùng đúng: Gọi tên bộ phận cơ thể, hỏi What's this/that và hiểu lời yêu cầu Touch/Open.",
+    "Đọc, viết và thực hành nói theo tình huống mới.",
+    "Nhận biết trọng tâm phát âm và luyện nghe bằng giọng máy có ghi nhãn."
+  ],
+  "knowledge": {
+    "introduction": "Gọi tên bộ phận cơ thể, hỏi What's this/that và hiểu lời yêu cầu Touch/Open.",
+    "rules": [
+      "What's this? / What's that? — It's a nose. → Đây/kia là gì? — Là cái mũi.",
+      "Dùng a face, a hand, a nose; an eye, an ear vì âm đầu của eye/ear là nguyên âm.",
+      "Touch your hair! / Open your mouth! → Chạm tóc của em! / Há miệng!"
+    ],
+    "steps": [
+      "Đọc từ và nghĩa, quan sát tình huống trước khi chọn cách nói.",
+      "Nghe từ bằng giọng máy nếu thiết bị hỗ trợ, đọc lại chậm theo hướng dẫn phát âm.",
+      "Làm câu hỏi, xem giải thích rồi thực hành nói và viết theo nhiệm vụ."
+    ],
+    "common_errors": [
+      "Dùng a eye hoặc an hand mà không xét âm đầu.",
+      "Nhầm your với you; quên s khi đang nói ears/eyes số nhiều."
+    ]
+  },
+  "examples": [
+    {
+      "question": "Em cần chọn thẻ chỉ bộ phận dùng để nghe. Thẻ nào đúng?",
+      "steps": [
+        "Nhận diện yêu cầu: vocabulary",
+        "Ear là tai; eye là mắt, hand là tay, nose là mũi.",
+        "Đáp án: ear"
+      ]
+    },
+    {
+      "question": "Một bạn viết Touch you hair! Em sửa phần nào cho đúng mẫu?",
+      "steps": [
+        "Nhận diện yêu cầu: writing",
+        "Your mang nghĩa của bạn, đứng trước hair; you là đại từ người, không phù hợp ở vị trí này.",
+        "Đáp án: Đổi you thành your."
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "title": "Thực hành theo cặp: Unit 4: Our bodies",
+      "materials": [
+        "Giấy",
+        "Bút",
+        "Thẻ tự làm"
+      ],
+      "steps": [
+        "Tự vẽ bốn thẻ bộ phận và bốn thẻ tên, ghép thẻ rồi hỏi đáp. Dùng thẻ thay cho thao tác vào mắt hoặc miệng khi chơi.",
+        "Đổi vai và nhờ bạn nhắc lại thông tin đã nghe.",
+        "Sửa một lỗi sau khi đọc phần giải thích trong bài."
+      ],
+      "check": [
+        "Đúng nội dung giao tiếp hoặc chữ/số yêu cầu.",
+        "Phát âm chậm, đủ nghe; nhờ người lớn hỗ trợ chỗ chưa chắc.",
+        "Viết đúng từ, tên riêng, dấu nháy và dấu câu."
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "question_id": "TA3_T1_U04_Q01",
+      "type": "mcq",
+      "skill": "vocabulary",
+      "question": "Em cần chọn thẻ chỉ bộ phận dùng để nghe. Thẻ nào đúng?",
+      "correct_answer": "ear",
+      "options": [
+        "eye",
+        "hand",
+        "nose",
+        "ear"
+      ],
+      "explanation": "Ear là tai; eye là mắt, hand là tay, nose là mũi."
+    },
+    {
+      "question_id": "TA3_T1_U04_Q02",
+      "type": "mcq",
+      "skill": "grammar",
+      "question": "Giới thiệu một con mắt trên tranh, chọn cụm từ đúng.",
+      "correct_answer": "an eye",
+      "options": [
+        "an hand",
+        "a ears",
+        "an eye",
+        "a eye"
+      ],
+      "explanation": "Eye bắt đầu bằng âm nguyên âm nên dùng an; danh từ đang chỉ một mắt."
+    },
+    {
+      "question_id": "TA3_T1_U04_Q03",
+      "type": "mcq",
+      "skill": "communication",
+      "question": "Trong trò chỉ bộ phận cơ thể, bạn hỏi What's this? và chỉ mũi. Em đáp sao?",
+      "correct_answer": "It's a nose.",
+      "options": [
+        "It's an ear.",
+        "It's a nose.",
+        "I'm a nose.",
+        "This nose are."
+      ],
+      "explanation": "It's a nose trả lời tên bộ phận; không dùng I'm để gọi tên hình được chỉ."
+    },
+    {
+      "question_id": "TA3_T1_U04_Q04",
+      "type": "mcq",
+      "skill": "communication",
+      "question": "Nghe Open your mouth!, em cần hiểu yêu cầu nào?",
+      "correct_answer": "Há miệng.",
+      "options": [
+        "Há miệng.",
+        "Chạm tóc.",
+        "Nhắm mắt.",
+        "Giơ bàn tay."
+      ],
+      "explanation": "Open là mở, mouth là miệng; hiểu lời yêu cầu, chỉ diễn vai nhẹ nhàng khi luyện."
+    },
+    {
+      "question_id": "TA3_T1_U04_Q05",
+      "type": "mcq",
+      "skill": "writing",
+      "question": "Một bạn viết Touch you hair! Em sửa phần nào cho đúng mẫu?",
+      "correct_answer": "Đổi you thành your.",
+      "options": [
+        "Đổi hair thành hare.",
+        "Đổi Touch thành touches.",
+        "Bỏ luôn từ you, không thay.",
+        "Đổi you thành your."
+      ],
+      "explanation": "Your mang nghĩa của bạn, đứng trước hair; you là đại từ người, không phù hợp ở vị trí này."
+    },
+    {
+      "question_id": "TA3_T1_U04_Q06",
+      "type": "mcq",
+      "skill": "vocabulary",
+      "question": "Hai từ nào chỉ tóc và khuôn mặt?",
+      "correct_answer": "hair và face",
+      "options": [
+        "eye và nose",
+        "mouth và hand",
+        "hair và face",
+        "hand và ear"
+      ],
+      "explanation": "Hair là tóc, face là khuôn mặt; các cặp khác chỉ bộ phận khác."
+    },
+    {
+      "question_id": "TA3_T1_U04_Q07",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Đọc ghi chú mới: It's an ear. Touch your ears! Câu thứ hai nói đến bộ phận ở số nào?",
+      "correct_answer": "Số nhiều: ears.",
+      "options": [
+        "Số tuổi của bạn.",
+        "Số nhiều: ears.",
+        "Số ít: ear.",
+        "Tên người tên Ears."
+      ],
+      "explanation": "S cuối ears thể hiện nhiều hơn một tai trong lời yêu cầu, khác an ear."
+    },
+    {
+      "question_id": "TA3_T1_U04_Q08",
+      "type": "mcq",
+      "skill": "pronunciation",
+      "question": "Khi đọc hair và ears theo giọng Anh, nên chú ý điều gì?",
+      "correct_answer": "Hai nhóm chữ air và ear có âm khác nhau.",
+      "options": [
+        "Hai nhóm chữ air và ear có âm khác nhau.",
+        "Chữ h và e có cùng tên.",
+        "Cả hai luôn đọc thành hai tiếng Việt.",
+        "Chỉ nhìn số chữ là đủ phân biệt âm."
+      ],
+      "explanation": "Hair có /eə/, ears có /ɪəz/ trong cách đọc Anh thông dụng; nghe cả từ để phân biệt."
+    },
+    {
+      "question_id": "TA3_T1_U04_Q09",
+      "type": "mcq",
+      "skill": "writing",
+      "question": "Muốn viết tên một bàn tay sau It's, phần nào phù hợp?",
+      "correct_answer": "a hand.",
+      "options": [
+        "an hand.",
+        "a hands.",
+        "hand a.",
+        "a hand."
+      ],
+      "explanation": "Một bàn tay dùng a hand; hand mở đầu bằng phụ âm /h/."
+    },
+    {
+      "question_id": "TA3_T1_U04_Q10",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Thẻ mới ghi: Open your eyes. Từ nào cho biết phải làm hành động mở?",
+      "correct_answer": "Open.",
+      "options": [
+        "eyes.",
+        "Thẻ không có từ chỉ hành động.",
+        "Open.",
+        "your."
+      ],
+      "explanation": "Open đứng đầu lời yêu cầu, eyes nêu bộ phận được nhắc tới."
+    },
+    {
+      "question_id": "TA3_T1_U04_Q11",
+      "type": "mcq",
+      "skill": "speaking",
+      "question": "Hai bạn luyện câu hỏi về một bộ phận trên tranh, cách chia vai nào đúng?",
+      "correct_answer": "Một bạn chỉ và hỏi, bạn kia nói It's cùng tên bộ phận.",
+      "options": [
+        "Chỉ nói yes mà không nhìn tranh.",
+        "Một bạn chỉ và hỏi, bạn kia nói It's cùng tên bộ phận.",
+        "Cả hai chỉ đọc tuổi của mình.",
+        "Một bạn nói Goodbye cho mọi hình."
+      ],
+      "explanation": "Hỏi What's this/that cần câu trả lời tên bộ phận, khác câu hỏi xác nhận yes/no."
+    },
+    {
+      "question_id": "TA3_T1_U04_Q12",
+      "type": "mcq",
+      "skill": "communication",
+      "question": "Câu nào dùng để yêu cầu bạn chạm nhẹ lên tóc của chính bạn ấy?",
+      "correct_answer": "Touch your hair!",
+      "options": [
+        "Touch your hair!",
+        "Open your hand ear!",
+        "I'm hair!",
+        "What's your age?"
+      ],
+      "explanation": "Touch your hair là mẫu hành động và bộ phận; không kéo tóc hay chạm lên người khác khi chơi."
+    }
+  ],
+  "games": [
+    {
+      "id": "TA3_T1_U04_GAME",
+      "title": "Kho báu tiếng Anh: Unit 4: Our bodies",
+      "mode": "treasure",
+      "objective": "Chọn từ và lời nói phù hợp để mở kho báu.",
+      "rules": [
+        "Mỗi lượt10 câu thuộc bài, không áp phân mức Toán.",
+        "Chọn đáp án rồi đọc giải thích. Trả lời đúng tiến thêm một bước.",
+        "Kết thúc, ôn câu sai và thử lại."
+      ],
+      "question_ids": [
+        "TA3_T1_U04_Q01",
+        "TA3_T1_U04_Q02",
+        "TA3_T1_U04_Q03",
+        "TA3_T1_U04_Q04",
+        "TA3_T1_U04_Q05",
+        "TA3_T1_U04_Q06",
+        "TA3_T1_U04_Q07",
+        "TA3_T1_U04_Q08",
+        "TA3_T1_U04_Q09",
+        "TA3_T1_U04_Q10",
+        "TA3_T1_U04_Q11",
+        "TA3_T1_U04_Q12"
+      ],
+      "answer_source": "practice.correct_answer",
+      "feedback_source": "practice.explanation",
+      "max_score": 100
+    }
+  ],
+  "assessment": {
+    "session_size": 10,
+    "scoring": "Mỗi câu đúng được tính điểm theo hệ thống; 8–10 câu đúng: nắm tốt, 5–7: đọc lại phần còn nhầm, dưới 5: đọc bài cùng người thân rồi thử lại. Nhiệm vụ nói/viết tự kiểm theo tiêu chí, không chấm bằng một đáp án duy nhất.",
+    "review_advice": "Xem lại câu sai theo nhóm từ, mẫu câu, phát âm; thực hiện cả nhiệm vụ nói và viết. Điểm trắc nghiệm không thay thế nhận xét phát âm."
+  },
+  "feedback": {
+    "correct": "Đúng rồi! Em đọc lại từ hoặc lời nói vừa chọn.",
+    "incorrect": "Đọc lời giải, chú ý tình huống rồi thử dùng mẫu câu.",
+    "teacher_note": "AI_CHECKED_AWAITING_TEACHER; phần nói và phát âm cần người lớn nghe và góp ý."
+  },
+  "verification": {
+    "ai_authored": true,
+    "structure_checked": true,
+    "answer_reviewed": true,
+    "source_reviewed": true,
+    "teacher_approved": false
+  },
+  "status": "AI_CHECKED_AWAITING_TEACHER",
+  "vocabulary": [
+    {
+      "word": "face",
+      "meaning_vi": "khuôn mặt",
+      "example": "It's a face."
+    },
+    {
+      "word": "eye",
+      "meaning_vi": "mắt",
+      "example": "It's an eye."
+    },
+    {
+      "word": "ear",
+      "meaning_vi": "tai",
+      "example": "It's an ear."
+    },
+    {
+      "word": "nose",
+      "meaning_vi": "mũi",
+      "example": "It's a nose."
+    },
+    {
+      "word": "hand",
+      "meaning_vi": "bàn tay",
+      "example": "It's a hand."
+    },
+    {
+      "word": "hair",
+      "meaning_vi": "tóc",
+      "example": "Touch your hair."
+    },
+    {
+      "word": "mouth",
+      "meaning_vi": "miệng",
+      "example": "Open your mouth."
+    },
+    {
+      "word": "touch",
+      "meaning_vi": "chạm",
+      "example": "Touch your nose."
+    },
+    {
+      "word": "open",
+      "meaning_vi": "mở",
+      "example": "Open your eyes."
+    }
+  ],
+  "patterns": [
+    "What's this? / What's that? — It's a nose. → Đây/kia là gì? — Là cái mũi.",
+    "Dùng a face, a hand, a nose; an eye, an ear vì âm đầu của eye/ear là nguyên âm.",
+    "Touch your hair! / Open your mouth! → Chạm tóc của em! / Há miệng!"
+  ],
+  "pronunciation": [
+    "air trong hair /heə/ khác ear trong ear /ɪə/ theo giọng Anh; ears có âm cuối /z/.",
+    "Nghe cả từ, đọc chậm rồi đặt vào câu; không dùng tên chữ cái thay cho âm trong từ."
+  ],
+  "skills": {
+    "reading": [
+      "Thẻ mới: It's a hand. It's an eye. Open your eyes.",
+      "Câu nào nêu lời yêu cầu? Đáp án: Open your eyes. Hai câu còn lại gọi tên bộ phận."
+    ],
+    "writing": [
+      "Viết hai câu gọi tên bộ phận trên tranh tự vẽ. Mẫu: It's an ear. It's a nose.",
+      "Viết một lời yêu cầu: Touch your hair! Kiểm tra your trước tên bộ phận."
+    ],
+    "speaking": [
+      "Một bạn chỉ tranh và hỏi What's this/that; bạn kia đáp It's kèm a/an và tên.",
+      "Đổi vai đọc lời yêu cầu để bạn chỉ trên tranh hoặc làm động tác nhẹ, không chạm lên người khác."
+    ],
+    "listening": [
+      "Nghe từ ear/eye bằng giọng máy rồi chọn thẻ từ phù hợp.",
+      "Nhờ người lớn đọc một yêu cầu Touch/Open từ phần mẫu, em làm động tác rồi tự kiểm tên bộ phận."
+    ]
+  },
+  "audio": {
+    "type": "speechSynthesis",
+    "label": "Giọng máy tiếng Anh của thiết bị, không phải âm thanh sách. Có thể khác theo thiết bị; nếu không phát, đọc theo mẫu và nhờ người lớn hỗ trợ."
+  }
+}
