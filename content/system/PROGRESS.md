@@ -1,3 +1,15 @@
+# Batch 34 — Tiếng Việt tập 2 bài 17–20 — 14/11/2026
+
+- Nối tiếp main 4a645d74d1c67812d7db98e5603f6fde376393dc; hoàn thiện Đất nước là gì?, Núi quê tôi, Sông Hương, Tiếng nước mình.
+- Đã đọc trực quan nguồn trong chuỗi làm việc; lượt14/11 hoàn tất đối chiếu phần Sông Hương/Tiếng nước mình, PDF90–95. Nguồn toàn batch là PDF81–95/trang in80–94. Không nhận đã đọc lại các trang đã xem trước đó.
+- Sửa danh mục: B19 kết thúc trang90, B20 bắt đầu trang91 theo trang sách. Giữ nguyên ID và toàn bộ dữ liệu wl3.
+- Thêm4 JSON+4 Markdown,48 câu tự biên soạn,8 ví dụ có lời giải,4 hoạt động nói/viết,4 game kho báu, luyện10 câu/lượt. Không đăng toàn văn SGK.
+- AI biên soạn/kiểm tra133/168 (Toán81,TV52,TA0),3896 câu/133 game; giáo viên duyệt4,129 bài chờ giáo viên. Còn35 mục(TV10,TA25).
+- npm test PASS: validate_site.py/validate_content.py; mọi hồi quy cũ+test_batch34.py, DOM133 kho và TV DOM. Kiểm tra hương chè/khói bếp, nguồn kể tên sông, sắc phượng, thanh ngang và dấu võng/cỏ/làng; toàn bộ TV không trùng nguyên đề.
+- Batch33 đã xác minh: Actions42817989934 và42817987985 completed/success,8 tệp JSON/Markdown bài13–16 trên Pages HTTP200 và SHA-256 trùng bản kiểm thử.
+- Thử Chromium ngày14/11: exit134, socket() failed Operation not permitted/ptrace bị từ chối trước render. Có Chromium nhưng chưa xác nhận bố cục; DOM jsdom đã kiểm thử.
+- Tất cả bài mới AI_CHECKED_AWAITING_TEACHER. Batch34 xác minh commit/Actions/Pages sau khi ghi. Điểm nối tiếp TV3_T2_B21–B24; chưa đủ168.
+
 # Batch 33 — Tiếng Việt tập 2 bài 13–16 — 10/11/2026
 
 - Nối tiếp commit a8c4d1d203fc38005ec4b5fee4cabf193b80d988: Mèo đi câu cá, Học nghề, Ngày như thế nào là đẹp?, A lô, tớ đây.

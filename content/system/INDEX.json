@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10",
+  "updated": "2026-11-14",
   "total": 168,
   "counts": {
     "math": 81,
@@ -1562,48 +1562,48 @@
       "subject": "tv",
       "volume": "Tập 2",
       "title": "Đất nước là gì?",
-      "path": null,
-      "markdown": null,
-      "question_count": null,
-      "game_count": null,
-      "status": "BAN_NHAP",
-      "note": "Có bài mẫu hoặc bản nháp tự động; chưa kiểm định từng bài."
+      "path": "content/tieng-viet/tap-2/TV3_T2_B17.json",
+      "markdown": "content/tieng-viet/tap-2/TV3_T2_B17.md",
+      "question_count": 12,
+      "game_count": 1,
+      "status": "CAN_RA_SOAT",
+      "note": "AI đã rà soát nguồn, đáp án; chờ giáo viên thẩm định."
     },
     {
       "id": "TV3_T2_B18",
       "subject": "tv",
       "volume": "Tập 2",
       "title": "Núi quê tôi",
-      "path": null,
-      "markdown": null,
-      "question_count": null,
-      "game_count": null,
-      "status": "BAN_NHAP",
-      "note": "Có bài mẫu hoặc bản nháp tự động; chưa kiểm định từng bài."
+      "path": "content/tieng-viet/tap-2/TV3_T2_B18.json",
+      "markdown": "content/tieng-viet/tap-2/TV3_T2_B18.md",
+      "question_count": 12,
+      "game_count": 1,
+      "status": "CAN_RA_SOAT",
+      "note": "AI đã rà soát nguồn, đáp án; chờ giáo viên thẩm định."
     },
     {
       "id": "TV3_T2_B19",
       "subject": "tv",
       "volume": "Tập 2",
       "title": "Sông Hương",
-      "path": null,
-      "markdown": null,
-      "question_count": null,
-      "game_count": null,
-      "status": "BAN_NHAP",
-      "note": "Có bài mẫu hoặc bản nháp tự động; chưa kiểm định từng bài."
+      "path": "content/tieng-viet/tap-2/TV3_T2_B19.json",
+      "markdown": "content/tieng-viet/tap-2/TV3_T2_B19.md",
+      "question_count": 12,
+      "game_count": 1,
+      "status": "CAN_RA_SOAT",
+      "note": "AI đã rà soát nguồn, đáp án; chờ giáo viên thẩm định."
     },
     {
       "id": "TV3_T2_B20",
       "subject": "tv",
       "volume": "Tập 2",
       "title": "Tiếng nước mình",
-      "path": null,
-      "markdown": null,
-      "question_count": null,
-      "game_count": null,
-      "status": "BAN_NHAP",
-      "note": "Có bài mẫu hoặc bản nháp tự động; chưa kiểm định từng bài."
+      "path": "content/tieng-viet/tap-2/TV3_T2_B20.json",
+      "markdown": "content/tieng-viet/tap-2/TV3_T2_B20.md",
+      "question_count": 12,
+      "game_count": 1,
+      "status": "CAN_RA_SOAT",
+      "note": "AI đã rà soát nguồn, đáp án; chờ giáo viên thẩm định."
     },
     {
       "id": "TV3_T2_B21",

@@ -1,0 +1,330 @@
+{
+  "id": "TV3_T2_B18",
+  "subject": "tv",
+  "grade": 3,
+  "book": "Kết nối tri thức với cuộc sống",
+  "volume": 2,
+  "lesson_no": 18,
+  "title": "Núi quê tôi",
+  "topic": "Đất nước ngàn năm",
+  "source": {
+    "pdf": "03-sgk-tieng-viet-3-tap-hai.pdf",
+    "printed_pages": [
+      83,
+      86
+    ],
+    "pdf_pages": [
+      84,
+      87
+    ],
+    "review": "Đã đọc trực quan các trang nguồn trong chuỗi làm việc, hoàn tất đối chiếu ngày 14/11/2026; học liệu diễn giải và câu hỏi được biên soạn mới, không đăng toàn văn sách."
+  },
+  "objectives": [
+    "Đọc và giải thích chi tiết của bài Núi quê tôi.",
+    "Nhận xét nhân vật hoặc công việc dựa trên căn cứ.",
+    "Luyện từ, câu, chính tả và nói/viết theo bài."
+  ],
+  "reading": {
+    "summary": "Người kể nhận ra ngọn núi quê từ xa, nhớ cảnh mây cuối thu sang đông, núi xanh trong dông hè, cây trồng bên sườn, nước khe, tiếng lá và hương chè, khói bếp.",
+    "characters_or_images": [
+      "Người kể",
+      "Núi quê",
+      "Cây lá",
+      "Khe nước"
+    ],
+    "message": "Tình yêu quê được nuôi từ quan sát và kỉ niệm bằng nhiều giác quan."
+  },
+  "knowledge": {
+    "introduction": "Người kể nhận ra ngọn núi quê từ xa, nhớ cảnh mây cuối thu sang đông, núi xanh trong dông hè, cây trồng bên sườn, nước khe, tiếng lá và hương chè, khói bếp.",
+    "rules": [
+      "Đối chiếu chi tiết theo mùa để không ghép cảnh mây cuối thu với cảnh chớp hè.",
+      "Hình ảnh núi như người bà khiến quê hương gần gũi, không phải miêu tả núi có cơ thể người thật.",
+      "Một đoạn cảm nghĩ cần cảnh cụ thể và cảm xúc của mình; có thể nhớ cả âm thanh, mùi hương."
+    ],
+    "steps": [
+      "Đọc bài trong sách, đánh dấu chi tiết liên quan câu hỏi.",
+      "Nêu câu trả lời rồi giải thích bằng chi tiết, phân biệt suy luận với lời kể.",
+      "Làm nhiệm vụ nói/viết; kiểm tra đủ ý, xưng hô và dấu câu."
+    ],
+    "common_errors": [
+      "Chỉ kể màu xanh mà bỏ tiếng lá, hương chè và khói bếp.",
+      "Hiểu hình ảnh người bà theo nghĩa đen."
+    ]
+  },
+  "language_practice": {
+    "vocabulary": [
+      "Rười rượi trong cách tả màu xanh sườn núi gợi điều gì? Đáp án: Xanh trải rộng, dịu mát và dễ chịu. Từ vừa tả màu lá vừa gợi cảm giác mát lành.",
+      "Cặp từ nào gần nghĩa để tả một khoảng rừng ít tiếng động? Đáp án: Yên tĩnh – tĩnh lặng. Các từ nhóm đầu cùng gợi sự vắng tiếng ồn, phù hợp phần luyện từ của bài."
+    ],
+    "sentences": [
+      "Câu tự viết nào so sánh một nét cảnh quê có điểm giống rõ? Đáp án: Dòng sông uốn mềm như dải lụa. Dòng chảy uốn mềm và dải lụa cùng có nét mềm mại, từ như nối hai hình ảnh.",
+      "Trong câu Hương chè xanh lan ra từ sườn núi, câu hỏi nào tìm nơi xuất phát? Đáp án: Hương chè xanh lan ra từ đâu? Từ đâu hỏi nguồn hoặc địa điểm, khác đặc điểm, người và thời gian."
+    ],
+    "spelling": [
+      "Tên riêng trong phần luyện chữ V, X của Núi quê tôi viết đúng ở đâu? Đáp án: Vạn Xuân. Vạn có âm cuối n; tên riêng viết hoa chữ đầu mỗi tiếng.",
+      "Chọn từ đúng để tả nước khe nhìn thấy tận dưới. Đáp án: Trong vắt. Trong viết tr, vắt có âm cuối t; cụm từ gợi nước rất trong."
+    ],
+    "expression": [
+      "Đoạn cảm nghĩ về ngọn núi quê nên bổ sung gì sau việc nêu tên núi? Đáp án: Một nét em ấn tượng và tình cảm gắn với nét đó. Cảm xúc rõ hơn khi đi cùng chi tiết em nhìn, nghe hoặc nhớ.",
+      "Bạn viết cảnh quê chỉ có màu xanh, góp ý nào giúp đoạn phong phú mà vẫn thật? Đáp án: Bạn có nghe âm thanh hay nhớ mùi hương nào ở đó không? Gợi nhớ các giác quan giúp thêm trải nghiệm có căn cứ, không khuyến khích bịa."
+    ]
+  },
+  "examples": [
+    {
+      "question": "Những mùi hương nào người kể cảm nhận từ xa?",
+      "steps": [
+        "Trang 84, đoạn cuối.",
+        "Hai hương gắn với cây trồng và sinh hoạt quê nhà, làm bức tranh thêm thân thuộc.",
+        "Trả lời: Chè xanh và khói bếp nhà ai."
+      ]
+    },
+    {
+      "question": "Câu tự viết nào so sánh một nét cảnh quê có điểm giống rõ?",
+      "steps": [
+        "Xác định yêu cầu câu hỏi.",
+        "Dòng chảy uốn mềm và dải lụa cùng có nét mềm mại, từ như nối hai hình ảnh.",
+        "Trả lời: Dòng sông uốn mềm như dải lụa."
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "title": "Nói và viết từ bài đọc",
+      "materials": [
+        "Sách",
+        "Vở",
+        "Bút"
+      ],
+      "steps": [
+        "Viết đoạn về một cảnh quê em: nét bao quát, điều nổi bật, một âm thanh hoặc hương em nhớ và tình cảm. Đọc lại, sửa một từ còn chung chung.",
+        "Đọc cho người thân nghe và sửa ít nhất một câu chưa rõ."
+      ],
+      "check": [
+        "Nội dung đúng bài hoặc trải nghiệm được nêu rõ.",
+        "Ý sắp xếp dễ theo dõi, có chi tiết cụ thể.",
+        "Viết hoa, dấu thanh và dấu kết câu phù hợp."
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "question_id": "TV3_T2_B18_Q01",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Dấu hiệu nào phân biệt đỉnh núi lúc cuối thu sang đông với mùa hè trong bài?",
+      "correct_answer": "Cuối thu sang đông có mây trắng như khăn mỏng trên đỉnh.",
+      "options": [
+        "Mùa hè lúc nào cũng có tuyết.",
+        "Cuối thu núi không còn cây.",
+        "Hai mùa được tả hoàn toàn giống nhau.",
+        "Cuối thu sang đông có mây trắng như khăn mỏng trên đỉnh."
+      ],
+      "explanation": "Mùa hè ngọn núi được nhìn trong ánh chớp cơn dông, khác chi tiết mây cuối thu sang đông.",
+      "evidence": "Trang 83, đoạn hai."
+    },
+    {
+      "question_id": "TV3_T2_B18_Q02",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Hình ảnh núi như bà đang hướng về biển khiến cảnh mang nét gì?",
+      "correct_answer": "Gần gũi như người thân đang nhìn xa.",
+      "options": [
+        "Núi không còn cây lá.",
+        "Biển ở ngay trên đỉnh núi.",
+        "Gần gũi như người thân đang nhìn xa.",
+        "Núi thực sự biết đi ra biển."
+      ],
+      "explanation": "So sánh tạo dáng vẻ và cảm xúc, không phải biến cảnh vật thành người thật.",
+      "evidence": "Trang 83, đoạn hai."
+    },
+    {
+      "question_id": "TV3_T2_B18_Q03",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Những mùi hương nào người kể cảm nhận từ xa?",
+      "correct_answer": "Chè xanh và khói bếp nhà ai.",
+      "options": [
+        "Hương của biển mặn.",
+        "Chè xanh và khói bếp nhà ai.",
+        "Chỉ hương hoa phượng.",
+        "Chỉ mùi bùn ở sông."
+      ],
+      "explanation": "Hai hương gắn với cây trồng và sinh hoạt quê nhà, làm bức tranh thêm thân thuộc.",
+      "evidence": "Trang 84, đoạn cuối."
+    },
+    {
+      "question_id": "TV3_T2_B18_Q04",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Vì sao bức tranh núi quê không chỉ được tạo bằng màu xanh?",
+      "correct_answer": "Còn có nước khe, tiếng lá và hương chè, khói bếp.",
+      "options": [
+        "Còn có nước khe, tiếng lá và hương chè, khói bếp.",
+        "Vì bài chỉ tả màu đỏ của lúa.",
+        "Vì tác giả không dùng giác quan.",
+        "Vì mọi âm thanh đều bị bỏ đi."
+      ],
+      "explanation": "Người kể kết hợp nhìn, nghe, ngửi để gợi cảnh và tình cảm với quê.",
+      "evidence": "Trang 83–84, toàn bài."
+    },
+    {
+      "question_id": "TV3_T2_B18_Q05",
+      "type": "mcq",
+      "skill": "vocabulary",
+      "question": "Rười rượi trong cách tả màu xanh sườn núi gợi điều gì?",
+      "correct_answer": "Xanh trải rộng, dịu mát và dễ chịu.",
+      "options": [
+        "Xanh rất khô, làm chói mắt.",
+        "Đỏ rực thành từng vệt.",
+        "Một chấm màu rất nhỏ.",
+        "Xanh trải rộng, dịu mát và dễ chịu."
+      ],
+      "explanation": "Từ vừa tả màu lá vừa gợi cảm giác mát lành."
+    },
+    {
+      "question_id": "TV3_T2_B18_Q06",
+      "type": "mcq",
+      "skill": "vocabulary",
+      "question": "Cặp từ nào gần nghĩa để tả một khoảng rừng ít tiếng động?",
+      "correct_answer": "Yên tĩnh – tĩnh lặng.",
+      "options": [
+        "Im lặng – rộn ràng.",
+        "Tĩnh lặng – ầm ĩ.",
+        "Yên tĩnh – tĩnh lặng.",
+        "Yên tĩnh – náo nhiệt."
+      ],
+      "explanation": "Các từ nhóm đầu cùng gợi sự vắng tiếng ồn, phù hợp phần luyện từ của bài."
+    },
+    {
+      "question_id": "TV3_T2_B18_Q07",
+      "type": "mcq",
+      "skill": "sentences",
+      "question": "Câu tự viết nào so sánh một nét cảnh quê có điểm giống rõ?",
+      "correct_answer": "Dòng sông uốn mềm như dải lụa.",
+      "options": [
+        "Bờ sông có nhiều bụi tre.",
+        "Dòng sông uốn mềm như dải lụa.",
+        "Dòng sông nằm ở quê em.",
+        "Em ngắm dòng sông buổi sáng."
+      ],
+      "explanation": "Dòng chảy uốn mềm và dải lụa cùng có nét mềm mại, từ như nối hai hình ảnh."
+    },
+    {
+      "question_id": "TV3_T2_B18_Q08",
+      "type": "mcq",
+      "skill": "sentences",
+      "question": "Trong câu Hương chè xanh lan ra từ sườn núi, câu hỏi nào tìm nơi xuất phát?",
+      "correct_answer": "Hương chè xanh lan ra từ đâu?",
+      "options": [
+        "Hương chè xanh lan ra từ đâu?",
+        "Hương chè xanh có thơm không?",
+        "Ai đang hái chè?",
+        "Lúc nào chè được hái?"
+      ],
+      "explanation": "Từ đâu hỏi nguồn hoặc địa điểm, khác đặc điểm, người và thời gian."
+    },
+    {
+      "question_id": "TV3_T2_B18_Q09",
+      "type": "mcq",
+      "skill": "spelling",
+      "question": "Tên riêng trong phần luyện chữ V, X của Núi quê tôi viết đúng ở đâu?",
+      "correct_answer": "Vạn Xuân.",
+      "options": [
+        "Vạn xuân.",
+        "vạn Xuân.",
+        "Vạng Xuân.",
+        "Vạn Xuân."
+      ],
+      "explanation": "Vạn có âm cuối n; tên riêng viết hoa chữ đầu mỗi tiếng."
+    },
+    {
+      "question_id": "TV3_T2_B18_Q10",
+      "type": "mcq",
+      "skill": "spelling",
+      "question": "Chọn từ đúng để tả nước khe nhìn thấy tận dưới.",
+      "correct_answer": "Trong vắt.",
+      "options": [
+        "Trong vắc.",
+        "Chong vắc.",
+        "Trong vắt.",
+        "Chong vắt."
+      ],
+      "explanation": "Trong viết tr, vắt có âm cuối t; cụm từ gợi nước rất trong."
+    },
+    {
+      "question_id": "TV3_T2_B18_Q11",
+      "type": "mcq",
+      "skill": "expression",
+      "question": "Đoạn cảm nghĩ về ngọn núi quê nên bổ sung gì sau việc nêu tên núi?",
+      "correct_answer": "Một nét em ấn tượng và tình cảm gắn với nét đó.",
+      "options": [
+        "Chỉ ghi núi đẹp nhiều lần.",
+        "Một nét em ấn tượng và tình cảm gắn với nét đó.",
+        "Chỉ thêm tên các núi khác.",
+        "Đổi sang kể chuyện không liên quan."
+      ],
+      "explanation": "Cảm xúc rõ hơn khi đi cùng chi tiết em nhìn, nghe hoặc nhớ."
+    },
+    {
+      "question_id": "TV3_T2_B18_Q12",
+      "type": "mcq",
+      "skill": "expression",
+      "question": "Bạn viết cảnh quê chỉ có màu xanh, góp ý nào giúp đoạn phong phú mà vẫn thật?",
+      "correct_answer": "Bạn có nghe âm thanh hay nhớ mùi hương nào ở đó không?",
+      "options": [
+        "Bạn có nghe âm thanh hay nhớ mùi hương nào ở đó không?",
+        "Bạn cứ thêm bất kì mùi nào cho đủ.",
+        "Bạn cần chép toàn bài Núi quê tôi.",
+        "Bạn bỏ hết điều mình đã quan sát."
+      ],
+      "explanation": "Gợi nhớ các giác quan giúp thêm trải nghiệm có căn cứ, không khuyến khích bịa."
+    }
+  ],
+  "games": [
+    {
+      "id": "TV3_T2_B18_GAME",
+      "title": "Kho báu: Núi quê tôi",
+      "mode": "treasure",
+      "objective": "Tìm kho báu bằng cách hiểu chi tiết và dùng tiếng Việt đúng theo bài.",
+      "rules": [
+        "Trả lời 10 câu được chọn từ chính bài này.",
+        "Mỗi đáp án đúng được 10 điểm; đọc phản hồi để hiểu và sửa câu sai.",
+        "Chơi lại để gặp một bộ câu khác."
+      ],
+      "question_ids": [
+        "TV3_T2_B18_Q01",
+        "TV3_T2_B18_Q02",
+        "TV3_T2_B18_Q03",
+        "TV3_T2_B18_Q04",
+        "TV3_T2_B18_Q05",
+        "TV3_T2_B18_Q06",
+        "TV3_T2_B18_Q07",
+        "TV3_T2_B18_Q08",
+        "TV3_T2_B18_Q09",
+        "TV3_T2_B18_Q10",
+        "TV3_T2_B18_Q11",
+        "TV3_T2_B18_Q12"
+      ],
+      "answer_source": "practice.correct_answer",
+      "feedback_source": "practice.explanation",
+      "max_score": 100
+    }
+  ],
+  "assessment": {
+    "session_size": 10,
+    "scoring": "Mỗi câu đúng được tính điểm theo hệ thống; 8–10 câu đúng: nắm tốt, 5–7: đọc lại phần còn nhầm, dưới 5: đọc bài cùng người thân rồi thử lại. Nhiệm vụ nói/viết tự kiểm theo tiêu chí, không chấm bằng một đáp án duy nhất.",
+    "review_advice": "Sau lượt luyện, chọn một câu sai để giải thích lại. Với nói/viết: đúng chi tiết hoặc trải nghiệm thật, đủ ý, câu rõ, chính tả đúng; sửa ít nhất một điểm trước khi hoàn tất."
+  },
+  "feedback": {
+    "correct": "Em đã chọn phù hợp. Đọc lời giải để nhắc lại căn cứ.",
+    "incorrect": "Đọc lại câu hỏi và chi tiết liên quan; xem lời giải để biết vì sao."
+  },
+  "verification": {
+    "ai_authored": true,
+    "structure_checked": true,
+    "answer_reviewed": true,
+    "source_reviewed": true,
+    "teacher_approved": false
+  },
+  "status": "AI_CHECKED_AWAITING_TEACHER"
+}
