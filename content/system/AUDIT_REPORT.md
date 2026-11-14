@@ -1,3 +1,14 @@
+# Bàn giao đủ 168/168 — 15/11/2026
+
+- Hoàn tất học liệu và kiểm tra AI: Toán 81/81 (3240 câu), Tiếng Việt 62/62 (776 câu), Tiếng Anh 25/25 (300 câu). Tổng 4316 câu, 168 trò chơi, 168 cặp JSON/Markdown; không còn mục thiếu học liệu.
+- Giáo viên đã duyệt 4 bài Toán 1–4 theo APPROVALS.json; 164 mục còn AI_CHECKED_AWAITING_TEACHER. Không tự duyệt.
+- `npm test` đạt, mã thoát 0: validator, hồi quy và DOM toàn bộ danh mục. Lưu nhật ký FINAL_TEST_RESULTS.txt; báo cáo DELIVERY_REPORT.md nêu phạm vi và giới hạn kiểm thử.
+- Commit nội dung cuối: 6e744e2f6efe997ad774ffc0004a97a5675b8c7d. Workflow 43627754561 và 43627754157 đều completed/success. Pages đã đối chiếu HTTP 200 và SHA-256 khớp 402/402 tệp, gồm toàn bộ JSON/Markdown, hình được tham chiếu và tệp tích hợp; biên nhận PAGES_VERIFICATION.json.
+- Chrome trực tiếp xác nhận tải 168/168 và 4 đã duyệt/164 chờ; bài mẫu cả ba môn hiển thị học liệu, trò chơi Review 4 chấm đúng và hiện giải thích, thanh điều hướng không lặp. Chưa xác minh chất lượng âm thực nghe trên mọi thiết bị; không tuyên bố kiểm thử thủ công mọi bài/mọi điện thoại.
+- Điểm dừng biên soạn: đủ toàn bộ danh mục; không tạo batch mới. Sau xác minh commit bàn giao trên Pages, tạm dừng riêng tác vụ hoàn thiện lớp 3 theo yêu cầu; phần còn lại là giáo viên thẩm định 164 mục.
+
+---
+
 # Batch44 — Review4 và kiểm thử đủ danh mục — 15/11/2026
 
 - Batch cuối1 mục: Review4 T2,12 câu mới,2 ví dụ có lời giải,1 trò chơi; đã đọc trực quan đối chiếu lại PDF71–74/trang70–73 ngày15/11/2026. Nội dung ôn vật nuôi/đồ chơi/việc đang làm/sở thú, Fun time tên con non puppy/kitten/cub/calf; không coi cub/calf chỉ dùng cho duy nhất hổ/voi.

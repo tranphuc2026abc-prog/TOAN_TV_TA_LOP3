@@ -1,0 +1,62 @@
+npm warn Unknown env config "http-proxy". This will stop working in the next major version of npm.
+
+> test
+> npm run validate && npm run test:regressions && npm run test:dom
+
+npm warn Unknown env config "http-proxy". This will stop working in the next major version of npm.
+
+> validate
+> python3 scripts/validate_site.py
+
+PASS: 168 bài, 4316 câu; yêu cầu theo môn; ID, đáp án, lựa chọn, lời giải, Markdown, hình và trạng thái đồng bộ.
+Đã tính lại 2222 đẳng thức số trong lời giải; không thay thế thẩm định ngữ nghĩa của giáo viên.
+Validated 168 curriculum entries: {'toan': 81, 'tv': 62, 'ta': 25}; JavaScript syntax OK.
+npm warn Unknown env config "http-proxy". This will stop working in the next major version of npm.
+
+> test:regressions
+> python3 scripts/test_batch7.py && python3 scripts/test_batch8.py && python3 scripts/test_batch9.py && python3 scripts/test_batch12.py && python3 scripts/test_batch13.py && python3 scripts/test_batch14.py && python3 scripts/test_batch15.py && python3 scripts/test_batch16.py && python3 scripts/test_batch17.py && python3 scripts/test_batch18.py && python3 scripts/test_batch19.py && python3 scripts/test_batch20.py && python3 scripts/test_batch21.py && python3 scripts/test_content_policy.py && python3 scripts/test_batch22.py && python3 scripts/test_batch23.py && python3 scripts/test_batch24.py && python3 scripts/test_batch26.py && python3 scripts/test_batch28.py && python3 scripts/test_batch29.py && python3 scripts/test_batch30.py && python3 scripts/test_batch31.py && python3 scripts/test_batch32.py && python3 scripts/test_batch33.py && python3 scripts/test_batch34.py && python3 scripts/test_batch35.py && python3 scripts/test_batch36.py && python3 scripts/test_batch37.py && python3 scripts/test_batch38.py && python3 scripts/test_batch39.py && python3 scripts/test_batch40.py && python3 scripts/test_batch41.py && python3 scripts/test_batch42.py && python3 scripts/test_batch43.py && python3 scripts/test_complete_catalog.py
+
+PASS Batch 7: số dư/chứa hết, hạ chục dư, giảm số lần, lượng dùng/còn và hai bước.
+PASS Batch 8: 160 câu không trùng, 27 đáp án trọng yếu, hình/đơn vị và tình huống đo lường.
+PASS Batch 9: 160 câu không trùng, 32 đáp án trọng yếu, đọc vạch và số nhớ nhân.
+PASS Batch 12: 160 câu riêng; tập 2, chuyển hàng, La Mã, khoảng biên làm tròn và SVG đồng hồ.
+PASS Batch 13: 160 câu, 75 đáp án neo, đổi đơn vị/cạnh chung/cắt ghép; SVG ô không trùng và diện tích đúng tỉ lệ.
+PASS Batch 14: 160 câu riêng; 28 phép tính trực tiếp, 88 đáp án neo, nhớ cộng/nhân, đổi qua 0 và SVG 19 ô tô.
+PASS Batch 15: 160 câu riêng; 15 phép tính trực tiếp; 117 đáp án neo, thương có 0/số dư, chứa hết, mốc 100000, giới hạn và SVG.
+PASS Batch 16: 160 câu, 26 phép tính trực tiếp, 119 đáp án neo; làm tròn trực tiếp/biên, cấu tạo số, có nhớ/đổi qua 0, bài toán hai bước.
+PASS Batch 17: 11 biểu thức, 160 đáp án neo; datetime, lịch đủ 30 ô, kim giờ/phút, tham chiếu hình, tiền thừa và hai bước.
+PASS Batch 18: 28 biểu thức độc lập; 102 đáp án neo; 160 câu riêng.
+PASS Batch 19: số liệu, khả năng lấy thẻ, cấu tạo số và 3 SVG; 160 câu riêng.
+PASS Batch 20: phép tính độc lập, thời gian, đo lường, tiền và tổ hợp lấy thẻ; 160 câu riêng.
+PASS Batch 21: 40 đáp án độc lập, chuyển giờ, phần dư, tiền, đơn vị và hình học.
+PASS policy: Tiếng Việt không ép 40 câu; thiếu căn cứ/nhóm luyện tập bị từ chối; Toán giữ 10/10/20 và 3/3/4.
+PASS: mọi câu đọc hiểu cần căn cứ; số câu/lượt là số nguyên dương, không chấp nhận bool.
+PASS batch22: TV1–4, 64 câu mới đủ 5 nhóm kỹ năng; căn cứ, nhầm lẫn nhân vật, hoạt động, game và trạng thái.
+PASS batch23: 64 câu TV5–8, trình tự/chi tiết quan trọng và 128 câu TV1–8 không trùng; nói/viết tự đánh giá, không tự duyệt.
+PASS Batch24: 48 câu, các chi tiết dễ nhầm, 5 nhóm kỹ năng, game và trạng thái; toàn bộ câu TV không trùng nguyên văn.
+PASS Batch26: 4 bài, 48 câu; căn cứ đọc hiểu, từ ba, câu hỏi tuổi thơ, 4 trò chơi và không trùng đề TV.
+PASS Batch28:48 câu,4 game,5 nhóm kỹ năng,4 chi tiết neo và toàn bộ TV không trùng đề.
+PASS Batch29:48 câu,4 game,5 nhóm kỹ năng,4 chi tiết neo và toàn bộ TV không trùng đề.
+PASS Batch30: tập2 đúng ID/nguồn/đường dẫn,48 câu,4 game,5 nhóm kỹ năng; nguồn và không trùng đề TV.
+PASS Batch31:48 câu/4 game, vai trò ngày hội/cây gạo/lá cọ/voi, sửa tên OCR đồng bộ và không trùng đề TV.
+PASS Batch32: 48 câu/4 game, suy luận không thêm kết truyện, hợp tác/tay thuận, trang11–12 đúng nguồn; TV không trùng đề.
+PASS Batch33:48 câu/4 game, trách nhiệm hai mèo/học nền tảng/góc nhìn kiến/hai âm lượng; nguồn bài16 dừng trước ôn tập.
+PASS Batch34:48 câu/4 game; mùi hương/giác quan/sắc phượng/thanh ngang, nguồn19–20 và toàn bộ TV không trùng đề.
+PASS Batch35:48 câu/4 game, nhà chung/truyền thuyết/Hai Bà/hai sự việc qua suối, nguồn24–25 và TV không trùng đề.
+PASS Batch36: 48 câu/4 game; ngọn lửa, nhân vật kịch, thư nhân hoá và ba việc nhỏ; TV không trùng đề.
+PASS batch37: 62 Vietnamese banks; source anchors, 24 new questions, evidence, language groups and games.
+PASS batch38: 4 English banks, 48 distinct questions; schema rejects missing translation, speaking, source, machine label and Math distribution.
+PASS batch39: 48 new questions, source boundaries, English schema, 4 games and all-English prompt uniqueness.
+PASS batch40: 4 banks/48 distinct new questions, correct source ranges, game scope, teacher status and new SVG answer B.
+PASS batch41: 4 banks/48 new questions, correct volume/source/path/page mapping and no repeated English prompts.
+PASS batch42: 48 new questions, correct sources, scopes and pets quantifier/non-count precision checks.
+PASS batch43: four source-specific banks,48 new questions,game scopes,has/have and story/observation distinction.
+PASS complete catalog:168 JSON+168 Markdown,4316 questions,168 games;4 teacher-approved and164 awaiting teacher;correct last Review4 source.
+npm warn Unknown env config "http-proxy". This will stop working in the next major version of npm.
+
+> test:dom
+> node scripts/test_content_dom.cjs && node scripts/test_vietnamese_dom.cjs && node scripts/test_english_dom.cjs
+
+PASS DOM: 168 bài, 168 kho học liệu, lượt Toán 10 câu 3/3/4, môn ngôn ngữ theo cấu hình và nút làm lại, 8 lượt thay đổi, lời giải, chống chấm lặp, 4 loại trò chơi đúng phạm vi bài, hình minh họa, trạng thái thẩm định, lưu/nạp tiến độ, fallback 404. Chưa kiểm tra bố cục trình duyệt.
+PASS TV DOM: 6/12 câu không phân mức Toán; đủ nhóm ngôn ngữ, escape HTML và phản hồi.
+PASS English DOM: all ready English banks, skill sections, 10-question sessions, games, machine audio label/English voice/error/unsupported, escaping. Actual sound not verified.
