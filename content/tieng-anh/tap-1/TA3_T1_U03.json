@@ -1,0 +1,375 @@
+{
+  "id": "TA3_T1_U03",
+  "subject": "ta",
+  "grade": 3,
+  "book": "Kết nối tri thức với cuộc sống",
+  "volume": 1,
+  "lesson_no": 3,
+  "title": "Unit 3: Our friends",
+  "topic": "English Global Success",
+  "source": {
+    "pdf": "03-sgk-tieng-anh-3-tap-1-global-success.pdf",
+    "printed_pages": [
+      22,
+      27
+    ],
+    "pdf_pages": [
+      23,
+      28
+    ],
+    "review": "Đã đọc trực quan đầy đủ trang nguồn PDF ảnh quét ngày14/11/2026. Biên soạn tình huống, ví dụ và câu hỏi mới; không đăng toàn văn hay sao chép hệ thống bài tập SGK; không có bản thu âm sách."
+  },
+  "objectives": [
+    "Hiểu và dùng đúng: Giới thiệu bạn và giáo viên; dùng this/that theo khoảng cách, hỏi và xác nhận người được giới thiệu.",
+    "Đọc, viết và thực hành nói theo tình huống mới.",
+    "Nhận biết trọng tâm phát âm và luyện nghe bằng giọng máy có ghi nhãn."
+  ],
+  "knowledge": {
+    "introduction": "Giới thiệu bạn và giáo viên; dùng this/that theo khoảng cách, hỏi và xác nhận người được giới thiệu.",
+    "rules": [
+      "This is Thu. / That's Duc. → Đây là Thu. / Kia là Đức. That's = That is.",
+      "Is this Binh? — Yes, it is. → Đây là Bình phải không? — Đúng rồi.",
+      "Is that Nga? — No, it isn't. It's Ha. → Kia là Nga phải không? — Không. Đó là Hà.",
+      "This is my friend, Nam. / That's my teacher, Ms Thuy. → Giới thiệu bạn / cô giáo."
+    ],
+    "steps": [
+      "Đọc từ và nghĩa, quan sát tình huống trước khi chọn cách nói.",
+      "Nghe từ bằng giọng máy nếu thiết bị hỗ trợ, đọc lại chậm theo hướng dẫn phát âm.",
+      "Làm câu hỏi, xem giải thích rồi thực hành nói và viết theo nhiệm vụ."
+    ],
+    "common_errors": [
+      "Dùng I'm để giới thiệu người khác.",
+      "Dùng This are hoặc That am; trả lời Yes, I am cho câu hỏi về người được chỉ."
+    ]
+  },
+  "examples": [
+    {
+      "question": "Bạn đứng ngay cạnh em. Em giới thiệu bạn ấy tên Thu thế nào?",
+      "steps": [
+        "Nhận diện yêu cầu: communication",
+        "This is dùng giới thiệu người ở gần; is cần đứng trước tên.",
+        "Đáp án: This is Thu."
+      ]
+    },
+    {
+      "question": "Người ở xa là Hà, bạn lại hỏi Is that Nga? Em sửa lịch sự thế nào?",
+      "steps": [
+        "Nhận diện yêu cầu: communication",
+        "Phủ định nhận diện sai rồi cung cấp tên đúng của người được chỉ.",
+        "Đáp án: No, it isn't. It's Ha."
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "title": "Thực hành theo cặp: Unit 3: Our friends",
+      "materials": [
+        "Giấy",
+        "Bút",
+        "Thẻ tự làm"
+      ],
+      "steps": [
+        "Vẽ hai người bạn tưởng tượng, đặt thẻ gần/xa, viết một câu giới thiệu mỗi người rồi hỏi bạn nhận diện. Có thể dùng tranh tự vẽ, không cần ảnh cá nhân.",
+        "Đổi vai và nhờ bạn nhắc lại thông tin đã nghe.",
+        "Sửa một lỗi sau khi đọc phần giải thích trong bài."
+      ],
+      "check": [
+        "Đúng nội dung giao tiếp hoặc chữ/số yêu cầu.",
+        "Phát âm chậm, đủ nghe; nhờ người lớn hỗ trợ chỗ chưa chắc.",
+        "Viết đúng từ, tên riêng, dấu nháy và dấu câu."
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "question_id": "TA3_T1_U03_Q01",
+      "type": "mcq",
+      "skill": "communication",
+      "question": "Bạn đứng ngay cạnh em. Em giới thiệu bạn ấy tên Thu thế nào?",
+      "correct_answer": "This is Thu.",
+      "options": [
+        "That are Thu.",
+        "This Thu am.",
+        "How Thu is?",
+        "This is Thu."
+      ],
+      "explanation": "This is dùng giới thiệu người ở gần; is cần đứng trước tên."
+    },
+    {
+      "question_id": "TA3_T1_U03_Q02",
+      "type": "mcq",
+      "skill": "communication",
+      "question": "Cô Mai đứng ở phía xa. Em muốn chỉ và giới thiệu cô. Câu nào phù hợp?",
+      "correct_answer": "That's Ms Mai.",
+      "options": [
+        "I'm Ms Mai.",
+        "My name teacher.",
+        "That's Ms Mai.",
+        "This are Mai."
+      ],
+      "explanation": "That's là That is, dùng người ở xa người nói trong tình huống này."
+    },
+    {
+      "question_id": "TA3_T1_U03_Q03",
+      "type": "mcq",
+      "skill": "grammar",
+      "question": "Cụm That's viết đầy đủ là gì?",
+      "correct_answer": "That is.",
+      "options": [
+        "That has name.",
+        "That is.",
+        "That am.",
+        "That are."
+      ],
+      "explanation": "Trong mẫu giới thiệu của Unit3, dấu nháy thay i của is."
+    },
+    {
+      "question_id": "TA3_T1_U03_Q04",
+      "type": "mcq",
+      "skill": "communication",
+      "question": "Bạn chỉ đúng vào Binh và hỏi Is this Binh? Em đáp ngắn thế nào?",
+      "correct_answer": "Yes, it is.",
+      "options": [
+        "Yes, it is.",
+        "Yes, I am.",
+        "No, it is.",
+        "Yes, this are."
+      ],
+      "explanation": "Mẫu xác nhận người được chỉ là Yes, it is; không dùng I am để nói về người khác."
+    },
+    {
+      "question_id": "TA3_T1_U03_Q05",
+      "type": "mcq",
+      "skill": "communication",
+      "question": "Người ở xa là Hà, bạn lại hỏi Is that Nga? Em sửa lịch sự thế nào?",
+      "correct_answer": "No, it isn't. It's Ha.",
+      "options": [
+        "Yes, it is. It's Nga.",
+        "No, I'm Ha.",
+        "That are not.",
+        "No, it isn't. It's Ha."
+      ],
+      "explanation": "Phủ định nhận diện sai rồi cung cấp tên đúng của người được chỉ."
+    },
+    {
+      "question_id": "TA3_T1_U03_Q06",
+      "type": "mcq",
+      "skill": "vocabulary",
+      "question": "Trong câu This is my friend, friend có nghĩa là gì?",
+      "correct_answer": "Bạn.",
+      "options": [
+        "Màu sắc.",
+        "Chín.",
+        "Bạn.",
+        "Cái bàn."
+      ],
+      "explanation": "Friend là bạn; teacher mới chỉ giáo viên."
+    },
+    {
+      "question_id": "TA3_T1_U03_Q07",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Đọc: This is my teacher, Ms Thuy. Ms Thuy là ai của người nói?",
+      "correct_answer": "Cô giáo.",
+      "options": [
+        "Người nói.",
+        "Cô giáo.",
+        "Bạn cùng tuổi.",
+        "Em gái."
+      ],
+      "explanation": "My teacher cho biết quan hệ; Ms là cách gọi phụ nữ, không tự suy đoán tình trạng hôn nhân."
+    },
+    {
+      "question_id": "TA3_T1_U03_Q08",
+      "type": "mcq",
+      "skill": "writing",
+      "question": "Chọn câu đã đủ thành phần để giới thiệu bạn Nam.",
+      "correct_answer": "This is my friend, Nam.",
+      "options": [
+        "This is my friend, Nam.",
+        "This my friend Nam.",
+        "This are friend Nam.",
+        "Is my Nam this."
+      ],
+      "explanation": "Mẫu cần This is, rồi my friend và tên người được giới thiệu."
+    },
+    {
+      "question_id": "TA3_T1_U03_Q09",
+      "type": "mcq",
+      "skill": "pronunciation",
+      "question": "Âm th trong that khác th trong thank ở điểm nào?",
+      "correct_answer": "That có rung giọng, thank không rung giọng ở âm đầu.",
+      "options": [
+        "Cả hai đều đọc /t/.",
+        "Chỉ that cần lưỡi giữa răng, thank không.",
+        "Cả hai đều đọc tên chữ T.",
+        "That có rung giọng, thank không rung giọng ở âm đầu."
+      ],
+      "explanation": "/ð/ trong that và /θ/ trong thank đều để đầu lưỡi nhẹ giữa răng, khác độ rung giọng."
+    },
+    {
+      "question_id": "TA3_T1_U03_Q10",
+      "type": "mcq",
+      "skill": "pronunciation",
+      "question": "Để luyện /θ/ trong thank, cách nào gần đúng nhất?",
+      "correct_answer": "Đầu lưỡi nhẹ giữa răng và thổi khí, không bật thành /t/.",
+      "options": [
+        "Đọc thành sờ thật mạnh.",
+        "Chỉ đọc tên chữ H.",
+        "Đầu lưỡi nhẹ giữa răng và thổi khí, không bật thành /t/.",
+        "Khép môi bật âm /b/."
+      ],
+      "explanation": "Luyện luồng hơi qua đầu lưỡi; không thêm âm tắc /t/ hoặc đổi thành /s/."
+    },
+    {
+      "question_id": "TA3_T1_U03_Q11",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Đọc: That's Duc. Duc is my friend. Người ở xa được giới thiệu tên gì?",
+      "correct_answer": "Duc.",
+      "options": [
+        "That.",
+        "Duc.",
+        "My.",
+        "Friend."
+      ],
+      "explanation": "That's giới thiệu Duc; câu sau cho biết quan hệ bạn bè, không phải tên mới."
+    },
+    {
+      "question_id": "TA3_T1_U03_Q12",
+      "type": "mcq",
+      "skill": "speaking",
+      "question": "Làm tấm giới thiệu bạn thân, cách dùng lời nào đúng bài?",
+      "correct_answer": "Nói This is my friend rồi tên, cùng bạn luyện câu hỏi nhận diện.",
+      "options": [
+        "Nói This is my friend rồi tên, cùng bạn luyện câu hỏi nhận diện.",
+        "Đọc tuổi mà không giới thiệu ai.",
+        "Dùng I'm để gọi mọi người.",
+        "Chỉ nói Yes cho mọi câu hỏi."
+      ],
+      "explanation": "Hoạt động cần giới thiệu bạn và luyện Is this/that, trả lời theo đúng người được nêu."
+    }
+  ],
+  "games": [
+    {
+      "id": "TA3_T1_U03_GAME",
+      "title": "Kho báu tiếng Anh: Unit 3: Our friends",
+      "mode": "treasure",
+      "objective": "Chọn từ và lời nói phù hợp để mở kho báu.",
+      "rules": [
+        "Mỗi lượt10 câu thuộc bài, không áp phân mức Toán.",
+        "Chọn đáp án rồi đọc giải thích. Trả lời đúng tiến thêm một bước.",
+        "Kết thúc, ôn câu sai và thử lại."
+      ],
+      "question_ids": [
+        "TA3_T1_U03_Q01",
+        "TA3_T1_U03_Q02",
+        "TA3_T1_U03_Q03",
+        "TA3_T1_U03_Q04",
+        "TA3_T1_U03_Q05",
+        "TA3_T1_U03_Q06",
+        "TA3_T1_U03_Q07",
+        "TA3_T1_U03_Q08",
+        "TA3_T1_U03_Q09",
+        "TA3_T1_U03_Q10",
+        "TA3_T1_U03_Q11",
+        "TA3_T1_U03_Q12"
+      ],
+      "answer_source": "practice.correct_answer",
+      "feedback_source": "practice.explanation",
+      "max_score": 100
+    }
+  ],
+  "assessment": {
+    "session_size": 10,
+    "scoring": "Mỗi câu đúng được tính điểm theo hệ thống; 8–10 câu đúng: nắm tốt, 5–7: đọc lại phần còn nhầm, dưới 5: đọc bài cùng người thân rồi thử lại. Nhiệm vụ nói/viết tự kiểm theo tiêu chí, không chấm bằng một đáp án duy nhất.",
+    "review_advice": "Xem lại câu sai theo nhóm từ, mẫu câu, phát âm; thực hiện cả nhiệm vụ nói và viết. Điểm trắc nghiệm không thay thế nhận xét phát âm."
+  },
+  "feedback": {
+    "correct": "Đúng rồi! Em đọc lại từ hoặc lời nói vừa chọn.",
+    "incorrect": "Đọc lời giải, chú ý tình huống rồi thử dùng mẫu câu.",
+    "teacher_note": "AI_CHECKED_AWAITING_TEACHER; phần nói và phát âm cần người lớn nghe và góp ý."
+  },
+  "verification": {
+    "ai_authored": true,
+    "structure_checked": true,
+    "answer_reviewed": true,
+    "source_reviewed": true,
+    "teacher_approved": false
+  },
+  "status": "AI_CHECKED_AWAITING_TEACHER",
+  "vocabulary": [
+    {
+      "word": "this",
+      "meaning_vi": "đây, người ở gần",
+      "example": "This is Thu."
+    },
+    {
+      "word": "that",
+      "meaning_vi": "kia, người ở xa",
+      "example": "That is Duc."
+    },
+    {
+      "word": "friend",
+      "meaning_vi": "bạn",
+      "example": "This is my friend, An."
+    },
+    {
+      "word": "teacher",
+      "meaning_vi": "giáo viên",
+      "example": "That's my teacher."
+    },
+    {
+      "word": "yes",
+      "meaning_vi": "vâng, đúng",
+      "example": "Yes, it is."
+    },
+    {
+      "word": "no",
+      "meaning_vi": "không",
+      "example": "No, it isn't."
+    },
+    {
+      "word": "Mr",
+      "meaning_vi": "cách gọi ông/thầy kèm tên",
+      "example": "That's Mr Hai."
+    },
+    {
+      "word": "Ms",
+      "meaning_vi": "cách gọi cô/bà kèm tên",
+      "example": "This is Ms Thuy."
+    }
+  ],
+  "patterns": [
+    "This is Thu. / That's Duc. → Đây là Thu. / Kia là Đức. That's = That is.",
+    "Is this Binh? — Yes, it is. → Đây là Bình phải không? — Đúng rồi.",
+    "Is that Nga? — No, it isn't. It's Ha. → Kia là Nga phải không? — Không. Đó là Hà.",
+    "This is my friend, Nam. / That's my teacher, Ms Thuy. → Giới thiệu bạn / cô giáo."
+  ],
+  "pronunciation": [
+    "/ð/ trong that: đầu lưỡi nhẹ giữa răng, thổi khí có rung giọng.",
+    "/θ/ trong thank: vị trí lưỡi tương tự nhưng không rung giọng; không bật thành /t/ hay đổi thành /s/."
+  ],
+  "skills": {
+    "reading": [
+      "Đoạn mới: This is my friend, Thu. That's my teacher, Mr Hai.",
+      "Ai là giáo viên? Đáp án: Mr Hai. Ai ở gần người nói theo câu giới thiệu? Thu, vì dùng This is."
+    ],
+    "writing": [
+      "Viết hai câu giới thiệu nhân vật trên hai thẻ: This is my friend, An. That's my teacher, Ms Yen.",
+      "Thêm câu nhận diện sai và sửa: Is that Nga? No, it isn't. It's Ha. Nhớ dấu nháy trong isn't và It's."
+    ],
+    "speaking": [
+      "Đặt một thẻ gần, một thẻ xa; giới thiệu lần lượt bằng This is/That's, bạn hỏi lại Is this/that.",
+      "Khi tên bị hỏi sai, nói No, it isn't rồi cung cấp tên đúng; đổi vị trí thẻ và đổi vai."
+    ],
+    "listening": [
+      "Nghe this/that từ nút giọng máy và chỉ thẻ gần/xa theo ngữ cảnh em đặt.",
+      "Đọc chậm thank và that theo hướng dẫn, đặt tay nhẹ lên cổ để nhận độ rung, không dùng vật chạm miệng."
+    ]
+  },
+  "audio": {
+    "type": "speechSynthesis",
+    "label": "Giọng máy tiếng Anh của thiết bị, không phải âm thanh sách. Có thể khác theo thiết bị; nếu không phát, đọc theo mẫu và nhờ người lớn hỗ trợ."
+  }
+}

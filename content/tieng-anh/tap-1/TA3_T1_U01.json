@@ -1,0 +1,363 @@
+{
+  "id": "TA3_T1_U01",
+  "subject": "ta",
+  "grade": 3,
+  "book": "Kết nối tri thức với cuộc sống",
+  "volume": 1,
+  "lesson_no": 1,
+  "title": "Unit 1: Hello",
+  "topic": "English Global Success",
+  "source": {
+    "pdf": "03-sgk-tieng-anh-3-tap-1-global-success.pdf",
+    "printed_pages": [
+      10,
+      15
+    ],
+    "pdf_pages": [
+      11,
+      16
+    ],
+    "review": "Đã đọc trực quan đầy đủ trang nguồn PDF ảnh quét ngày14/11/2026. Biên soạn tình huống, ví dụ và câu hỏi mới; không đăng toàn văn hay sao chép hệ thống bài tập SGK; không có bản thu âm sách."
+  },
+  "objectives": [
+    "Hiểu và dùng đúng: Chào gặp, tự giới thiệu tên, hỏi thăm tình trạng và tạm biệt đúng lúc.",
+    "Đọc, viết và thực hành nói theo tình huống mới.",
+    "Nhận biết trọng tâm phát âm và luyện nghe bằng giọng máy có ghi nhãn."
+  ],
+  "knowledge": {
+    "introduction": "Chào gặp, tự giới thiệu tên, hỏi thăm tình trạng và tạm biệt đúng lúc.",
+    "rules": [
+      "Hello. / Hi. I'm Hoa. → Xin chào. Mình là Hoa. I'm = I am.",
+      "How are you? — Fine, thank you. → Bạn có khoẻ không? — Mình khoẻ, cảm ơn.",
+      "Goodbye. / Bye. → Tạm biệt."
+    ],
+    "steps": [
+      "Đọc từ và nghĩa, quan sát tình huống trước khi chọn cách nói.",
+      "Nghe từ bằng giọng máy nếu thiết bị hỗ trợ, đọc lại chậm theo hướng dẫn phát âm.",
+      "Làm câu hỏi, xem giải thích rồi thực hành nói và viết theo nhiệm vụ."
+    ],
+    "common_errors": [
+      "Dùng Goodbye lúc mới gặp theo yêu cầu chào hỏi.",
+      "Viết I m thiếu dấu nháy hoặc dùng I is thay I am."
+    ]
+  },
+  "examples": [
+    {
+      "question": "Gặp bạn An lần đầu, em muốn chào và giới thiệu mình là Hoa. Câu nào phù hợp?",
+      "steps": [
+        "Nhận diện yêu cầu: communication",
+        "Hello dùng lúc chào gặp; I am hoặc I'm đứng trước tên người nói.",
+        "Đáp án: Hello, An. I'm Hoa."
+      ]
+    },
+    {
+      "question": "Đọc: Hello. I'm Lan. Hi, Lan. I'm Phuc. Người thứ hai tên gì?",
+      "steps": [
+        "Nhận diện yêu cầu: reading",
+        "Sau lời chào Lan, người thứ hai tự giới thiệu bằng I'm Phuc. Đây là hội thoại biên soạn mới.",
+        "Đáp án: Phuc."
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "title": "Thực hành theo cặp: Unit 1: Hello",
+      "materials": [
+        "Giấy",
+        "Bút",
+        "Thẻ tự làm"
+      ],
+      "steps": [
+        "Tạo thẻ học sinh tưởng tượng có tên và lớp, rồi đóng vai chào bạn bằng tên trên thẻ; không cần đưa thông tin riêng lên mạng.",
+        "Đổi vai và nhờ bạn nhắc lại thông tin đã nghe.",
+        "Sửa một lỗi sau khi đọc phần giải thích trong bài."
+      ],
+      "check": [
+        "Đúng nội dung giao tiếp hoặc chữ/số yêu cầu.",
+        "Phát âm chậm, đủ nghe; nhờ người lớn hỗ trợ chỗ chưa chắc.",
+        "Viết đúng từ, tên riêng, dấu nháy và dấu câu."
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "question_id": "TA3_T1_U01_Q01",
+      "type": "mcq",
+      "skill": "communication",
+      "question": "Gặp bạn An lần đầu, em muốn chào và giới thiệu mình là Hoa. Câu nào phù hợp?",
+      "correct_answer": "Hello, An. I'm Hoa.",
+      "options": [
+        "Goodbye, An.",
+        "I Hoa am.",
+        "Bye, Hoa.",
+        "Hello, An. I'm Hoa."
+      ],
+      "explanation": "Hello dùng lúc chào gặp; I am hoặc I'm đứng trước tên người nói."
+    },
+    {
+      "question_id": "TA3_T1_U01_Q02",
+      "type": "mcq",
+      "skill": "grammar",
+      "question": "Trong lời tự giới thiệu, I'm là dạng ngắn của cụm nào?",
+      "correct_answer": "I am.",
+      "options": [
+        "I are.",
+        "I name.",
+        "I am.",
+        "I is."
+      ],
+      "explanation": "Dấu nháy thay chữ a của am; không đổi sang is hoặc are."
+    },
+    {
+      "question_id": "TA3_T1_U01_Q03",
+      "type": "mcq",
+      "skill": "communication",
+      "question": "Bạn hỏi How are you? Em đang khoẻ và muốn cảm ơn. Em đáp thế nào?",
+      "correct_answer": "Fine, thank you.",
+      "options": [
+        "Hello is fine.",
+        "Fine, thank you.",
+        "Goodbye, teacher.",
+        "My friend."
+      ],
+      "explanation": "Câu hỏi thăm tình trạng, câu đáp cho biết khoẻ và cảm ơn người hỏi."
+    },
+    {
+      "question_id": "TA3_T1_U01_Q04",
+      "type": "mcq",
+      "skill": "vocabulary",
+      "question": "Cặp từ nào đều dùng để chào khi gặp nhau?",
+      "correct_answer": "Hello và Hi.",
+      "options": [
+        "Hello và Hi.",
+        "Bye và ten.",
+        "Goodbye và eight.",
+        "Fine và nine."
+      ],
+      "explanation": "Hello và Hi cùng dùng để chào gặp; Goodbye hoặc Bye dùng khi tạm biệt."
+    },
+    {
+      "question_id": "TA3_T1_U01_Q05",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Đọc: Hello. I'm Lan. Hi, Lan. I'm Phuc. Người thứ hai tên gì?",
+      "correct_answer": "Phuc.",
+      "options": [
+        "Lan.",
+        "Hello.",
+        "Hi.",
+        "Phuc."
+      ],
+      "explanation": "Sau lời chào Lan, người thứ hai tự giới thiệu bằng I'm Phuc. Đây là hội thoại biên soạn mới."
+    },
+    {
+      "question_id": "TA3_T1_U01_Q06",
+      "type": "mcq",
+      "skill": "writing",
+      "question": "Chọn câu tự giới thiệu đã viết hoa và có dấu kết câu.",
+      "correct_answer": "I'm Huy.",
+      "options": [
+        "I m Huy",
+        "Huy I'm",
+        "I'm Huy.",
+        "i'm huy"
+      ],
+      "explanation": "I và tên riêng viết hoa; I'm có dấu nháy và cuối câu dùng dấu chấm."
+    },
+    {
+      "question_id": "TA3_T1_U01_Q07",
+      "type": "mcq",
+      "skill": "communication",
+      "question": "Cuối buổi học, bạn vẫy tay ra về. Em nên nói gì?",
+      "correct_answer": "Goodbye!",
+      "options": [
+        "How goodbye?",
+        "Goodbye!",
+        "I'm here hello.",
+        "Fine name."
+      ],
+      "explanation": "Goodbye là lời tạm biệt phù hợp lúc chia tay; có thể dùng Bye."
+    },
+    {
+      "question_id": "TA3_T1_U01_Q08",
+      "type": "mcq",
+      "skill": "pronunciation",
+      "question": "Âm đầu trong hello được luyện ở Unit1 là âm nào?",
+      "correct_answer": "/h/",
+      "options": [
+        "/h/",
+        "/b/",
+        "/m/",
+        "/n/"
+      ],
+      "explanation": "Hello mở đầu bằng /h/: thở nhẹ qua miệng, không khép hai môi như /b/."
+    },
+    {
+      "question_id": "TA3_T1_U01_Q09",
+      "type": "mcq",
+      "skill": "pronunciation",
+      "question": "Muốn luyện âm đầu bye, động tác nào phù hợp?",
+      "correct_answer": "Khép hai môi rồi bật nhẹ, có rung giọng.",
+      "options": [
+        "Cắn môi dưới và thổi.",
+        "Đặt đầu lưỡi giữa răng.",
+        "Chỉ kéo dài nguyên âm.",
+        "Khép hai môi rồi bật nhẹ, có rung giọng."
+      ],
+      "explanation": "Âm /b/ là âm bật hai môi có rung; không đọc tên chữ bee thay toàn từ bye."
+    },
+    {
+      "question_id": "TA3_T1_U01_Q10",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Phiếu có lời Hi, I'm Nga. Thông tin chắc chắn biết từ phiếu là gì?",
+      "correct_answer": "Tên người nói là Nga.",
+      "options": [
+        "Nga học lớp 3B.",
+        "Nga đang tạm biệt.",
+        "Tên người nói là Nga.",
+        "Nga chín tuổi."
+      ],
+      "explanation": "Phiếu chỉ cho biết tên và lời chào; không suy thêm tuổi hay lớp."
+    },
+    {
+      "question_id": "TA3_T1_U01_Q11",
+      "type": "mcq",
+      "skill": "writing",
+      "question": "Đáp lại Hello, Nam! bằng lời chào gặp, em chọn câu nào?",
+      "correct_answer": "Hi!",
+      "options": [
+        "Ten!",
+        "Hi!",
+        "Bye!",
+        "Goodbye!"
+      ],
+      "explanation": "Hi đáp lời chào gặp. Bye và Goodbye chuyển sang tạm biệt nên không phù hợp yêu cầu."
+    },
+    {
+      "question_id": "TA3_T1_U01_Q12",
+      "type": "mcq",
+      "skill": "speaking",
+      "question": "Đóng vai gặp rồi chia tay bạn, trình tự nào hợp lí?",
+      "correct_answer": "Chào, tự giới thiệu, hỏi thăm, tạm biệt.",
+      "options": [
+        "Chào, tự giới thiệu, hỏi thăm, tạm biệt.",
+        "Tạm biệt rồi hỏi tên trong im lặng.",
+        "Chỉ lặp số đếm.",
+        "Nói tên người khác như tên mình."
+      ],
+      "explanation": "Tình huống cần dùng lời chào, tên người nói, hỏi thăm rồi lời chia tay đúng lúc."
+    }
+  ],
+  "games": [
+    {
+      "id": "TA3_T1_U01_GAME",
+      "title": "Kho báu tiếng Anh: Unit 1: Hello",
+      "mode": "treasure",
+      "objective": "Chọn từ và lời nói phù hợp để mở kho báu.",
+      "rules": [
+        "Mỗi lượt10 câu thuộc bài, không áp phân mức Toán.",
+        "Chọn đáp án rồi đọc giải thích. Trả lời đúng tiến thêm một bước.",
+        "Kết thúc, ôn câu sai và thử lại."
+      ],
+      "question_ids": [
+        "TA3_T1_U01_Q01",
+        "TA3_T1_U01_Q02",
+        "TA3_T1_U01_Q03",
+        "TA3_T1_U01_Q04",
+        "TA3_T1_U01_Q05",
+        "TA3_T1_U01_Q06",
+        "TA3_T1_U01_Q07",
+        "TA3_T1_U01_Q08",
+        "TA3_T1_U01_Q09",
+        "TA3_T1_U01_Q10",
+        "TA3_T1_U01_Q11",
+        "TA3_T1_U01_Q12"
+      ],
+      "answer_source": "practice.correct_answer",
+      "feedback_source": "practice.explanation",
+      "max_score": 100
+    }
+  ],
+  "assessment": {
+    "session_size": 10,
+    "scoring": "Mỗi câu đúng được tính điểm theo hệ thống; 8–10 câu đúng: nắm tốt, 5–7: đọc lại phần còn nhầm, dưới 5: đọc bài cùng người thân rồi thử lại. Nhiệm vụ nói/viết tự kiểm theo tiêu chí, không chấm bằng một đáp án duy nhất.",
+    "review_advice": "Xem lại câu sai theo nhóm từ, mẫu câu, phát âm; thực hiện cả nhiệm vụ nói và viết. Điểm trắc nghiệm không thay thế nhận xét phát âm."
+  },
+  "feedback": {
+    "correct": "Đúng rồi! Em đọc lại từ hoặc lời nói vừa chọn.",
+    "incorrect": "Đọc lời giải, chú ý tình huống rồi thử dùng mẫu câu.",
+    "teacher_note": "AI_CHECKED_AWAITING_TEACHER; phần nói và phát âm cần người lớn nghe và góp ý."
+  },
+  "verification": {
+    "ai_authored": true,
+    "structure_checked": true,
+    "answer_reviewed": true,
+    "source_reviewed": true,
+    "teacher_approved": false
+  },
+  "status": "AI_CHECKED_AWAITING_TEACHER",
+  "vocabulary": [
+    {
+      "word": "hello",
+      "meaning_vi": "xin chào",
+      "example": "Hello, Lan."
+    },
+    {
+      "word": "hi",
+      "meaning_vi": "chào",
+      "example": "Hi, Khoa."
+    },
+    {
+      "word": "goodbye",
+      "meaning_vi": "tạm biệt",
+      "example": "Goodbye, An."
+    },
+    {
+      "word": "bye",
+      "meaning_vi": "tạm biệt",
+      "example": "Bye, Nam."
+    },
+    {
+      "word": "fine",
+      "meaning_vi": "khoẻ, ổn",
+      "example": "I'm fine."
+    },
+    {
+      "word": "thank you",
+      "meaning_vi": "cảm ơn",
+      "example": "Fine, thank you."
+    }
+  ],
+  "patterns": [
+    "Hello. / Hi. I'm Hoa. → Xin chào. Mình là Hoa. I'm = I am.",
+    "How are you? — Fine, thank you. → Bạn có khoẻ không? — Mình khoẻ, cảm ơn.",
+    "Goodbye. / Bye. → Tạm biệt."
+  ],
+  "pronunciation": [
+    "/h/ trong hello: mở miệng, thở nhẹ rồi đọc cả hello; không thêm âm khờ.",
+    "/b/ trong bye: khép hai môi rồi bật nhẹ có rung giọng; đừng đọc tên chữ bee thay cho từ."
+  ],
+  "skills": {
+    "reading": [
+      "Hội thoại mới: Lan: Hi. I'm Lan. Phuc: Hello, Lan. I'm Phuc. Lan: How are you? Phuc: Fine, thank you.",
+      "Ai trả lời lời hỏi thăm? Đáp án: Phuc. Tìm lượt nói sau câu How are you."
+    ],
+    "writing": [
+      "Viết ba lời của em khi gặp bạn: Hello. I'm Hoa. How are you?",
+      "Thêm lời chia tay: Goodbye. Thay tên Hoa bằng tên em hoặc tên nhân vật đóng vai, viết hoa tên và I."
+    ],
+    "speaking": [
+      "Đóng vai gặp nhau ở sân trường, chào và giới thiệu; đổi vai hỏi thăm rồi chia tay.",
+      "Tự kiểm: mỗi người có một lời chào, một thông tin tên và lời đáp hỏi thăm phù hợp."
+    ],
+    "listening": [
+      "Bấm nghe hello và bye; chỉ thẻ gặp nhau hoặc chia tay phù hợp.",
+      "Nghe fine rồi đọc cả câu Fine, thank you; đây là giọng máy, không phải bản thu của sách."
+    ]
+  },
+  "audio": {
+    "type": "speechSynthesis",
+    "label": "Giọng máy tiếng Anh của thiết bị, không phải âm thanh sách. Có thể khác theo thiết bị; nếu không phát, đọc theo mẫu và nhờ người lớn hỗ trợ."
+  }
+}

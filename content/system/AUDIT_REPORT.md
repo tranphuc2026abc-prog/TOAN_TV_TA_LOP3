@@ -1,3 +1,13 @@
+# Batch 38 — Tiếng Anh Starter và Unit1–3 — 14/11/2026
+
+- Đã mở rộng renderer Tiếng Anh: từ vựng có nghĩa Việt/ví dụ, mẫu câu, phát âm, đọc/viết/nói/nghe; nút nghe từng mục gọi speechSynthesis tiếng Anh, ghi rõ giọng máy, có thông báo lỗi/không hỗ trợ. Giữ wl3, hồ sơ, XP, sao, huy hiệu, sao lưu/khôi phục và fallback từng file.
+- Đã đọc trực quan đầy đủ PDF8–28/trang in7–27: Starter số1–10/bảng chữ cái/Bingo; U1 chào/hỏi thăm/tạm biệt, h/b; U2 tên/tuổi, m/n; U3 giới thiệu gần/xa và xác nhận, th hữu thanh/vô thanh. Học liệu có4 JSON+4 Markdown riêng,48 câu/tình huống mới,8 ví dụ có giải,4 trò chơi, nhiệm vụ nói/viết và đáp án đọc. Không có âm thanh sách; chưa kiểm chứng chất lượng âm thực tế của thiết bị.
+- Tổng AI biên soạn147/168, AI kiểm tra147/168; Toán81/81,TV62/62,TA4/25. 4064 câu,147 trò chơi. Giáo viên duyệt4(Toán1–4),143 chờ duyệt; còn21 mục Tiếng Anh.
+- npm test exit0 trên147 kho, validator và toàn bộ hồi quy trước, test_batch38 và jsdom riêng tiếng Anh. Validator chặn thiếu nghĩa, thiếu nói, thiếu căn cứ nguồn, nhãn mạo nhận âm sách, phiên luyện vượt kho và phân mức Toán trong Tiếng Anh. Test DOM bổ sung nhánh Tiếng Anh, giữ nguyên kiểm tra toàn bộ Toán/TV, thử giọng Anh, lỗi, thiết bị không hỗ trợ và escapeHTML.
+- Batch37 commit https://github.com/tranphuc2026abc-prog/TOAN_TV_TA_LOP3/commit/8b588008602a083a23c6ca1cfda1eb9c638a7f33 ; Actions43605193220/43605192658 đều success. Pages HTTP200 và SHA-256 khớp JSON B25–B30. Lỗi artifact tạm thời batch36 đã được deployment kế tiếp vượt qua.
+- Chromium có sẵn nhưng khởi chạy exit134: socket()/ptrace bị chặn; jsdom không thay kiểm chứng bố cục/âm thanh thực. Batch38 Actions/Pages chờ kiểm tra sau commit.
+- Checkpoint tiếp: batch39 đọc trực quan và soạn Unit4,Unit5,Review1,Unit6 theo danh mục; xác minh trang nguồn trước khi dùng. Không tự duyệt học liệu. Chưa hoàn thành168/168.
+
 # Batch 37 — hai bài cuối Tiếng Việt — 14/11/2026
 
 - Batch cuối môn gồm2 bài B29 Bác sĩ Y-éc-xanh và B30 Một mái nhà chung;24 câu mới,4 ví dụ có lời giải,2 trò chơi. Đã đọc trực quan toàn bộ PDF127–133/trang in126–132. Nhấn mạnh lòng yêu Tổ quốc cùng tinh thần giúp người của bác sĩ; mái nhà chung là bầu trời xanh trong bài thơ. Giữ trạng thái chờ giáo viên.

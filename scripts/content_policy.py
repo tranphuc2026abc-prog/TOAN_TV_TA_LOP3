@@ -27,5 +27,13 @@ def validate_subject(obj):
     else:
         assert obj['vocabulary'] and obj['patterns'] and obj['pronunciation']
         for v in obj['vocabulary']:assert v['word'] and v['meaning_vi'] and v['example']
-        assert obj['skills']['reading'] and obj['skills']['writing'] and obj['skills']['speaking']
-        assert qs
+        assert obj['source']['printed_pages'] and obj['source']['review']
+        assert all(isinstance(p,str) and p.strip() for p in obj['patterns'])
+        assert isinstance(obj['pronunciation'],list) and all(obj['pronunciation'])
+        for skill in ('reading','writing','speaking','listening'):
+            assert isinstance(obj['skills'][skill],list) and obj['skills'][skill] and all(obj['skills'][skill])
+        assert obj['audio']['type']=='speechSynthesis' and 'Giọng máy' in obj['audio']['label']
+        assert qs and all(q.get('skill') for q in qs)
+        assert type(obj['assessment']['session_size']) is int
+        assert 1<=obj['assessment']['session_size']<=len(qs)
+        assert 'distribution' not in obj['assessment']

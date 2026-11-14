@@ -16,7 +16,9 @@ async function boot(missing){
  const {w,errors}=await boot();w.load('KiemThu');w.go({p:'home'});assert.equal(w.L.length,168);
  for(const entry of activeEntries){
   const id=entry.id,n=Number(id.slice(-2)),isMath=entry.subject==='toan';w.go({p:'lesson',id});assert(w.A.textContent.includes(entry.question_count+' câu'));
-  if(!isMath){assert(!w.A.textContent.includes('3 nhận biết'));for(const label of ['Cùng hiểu bài đọc','Từ ngữ','Luyện câu','Chính tả','Diễn đạt'])assert(w.A.textContent.includes(label));}
+  if(!isMath)assert(!w.A.textContent.includes('3 nhận biết'));
+  if(entry.subject==='tv')for(const label of ['Cùng hiểu bài đọc','Từ ngữ','Luyện câu','Chính tả','Diễn đạt'])assert(w.A.textContent.includes(label));
+  if(entry.subject==='ta')for(const label of ['Từ vựng','Mẫu câu','Phát âm','Giọng máy','Đọc','Viết','Nói'])assert(w.A.textContent.includes(label));
   const sets=new Set();
   for(let k=0;k<8;k++){
    w.startQ(id,'all');assert.equal(w.v.qs.length,10);assert.equal(new Set(w.v.qs.map(q=>q.question_id)).size,10);

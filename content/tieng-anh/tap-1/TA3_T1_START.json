@@ -1,0 +1,381 @@
+{
+  "id": "TA3_T1_START",
+  "subject": "ta",
+  "grade": 3,
+  "book": "Kết nối tri thức với cuộc sống",
+  "volume": 1,
+  "lesson_no": 0,
+  "title": "Starter",
+  "topic": "English Global Success",
+  "source": {
+    "pdf": "03-sgk-tieng-anh-3-tap-1-global-success.pdf",
+    "printed_pages": [
+      7,
+      9
+    ],
+    "pdf_pages": [
+      8,
+      10
+    ],
+    "review": "Đã đọc trực quan đầy đủ trang nguồn PDF ảnh quét ngày14/11/2026. Biên soạn tình huống, ví dụ và câu hỏi mới; không đăng toàn văn hay sao chép hệ thống bài tập SGK; không có bản thu âm sách."
+  },
+  "objectives": [
+    "Hiểu và dùng đúng: Làm quen các số từ1 đến10, tên chữ cái A–Z, ghép chữ hoa với chữ thường và chơi Bingo.",
+    "Đọc, viết và thực hành nói theo tình huống mới.",
+    "Nhận biết trọng tâm phát âm và luyện nghe bằng giọng máy có ghi nhãn."
+  ],
+  "knowledge": {
+    "introduction": "Làm quen các số từ1 đến10, tên chữ cái A–Z, ghép chữ hoa với chữ thường và chơi Bingo.",
+    "rules": [
+      "Đọc số: one, two, three, four, five, six, seven, eight, nine, ten.",
+      "Đọc tên chữ A–Z theo thứ tự; dùng để đánh vần từng chữ của tên."
+    ],
+    "steps": [
+      "Đọc từ và nghĩa, quan sát tình huống trước khi chọn cách nói.",
+      "Nghe từ bằng giọng máy nếu thiết bị hỗ trợ, đọc lại chậm theo hướng dẫn phát âm.",
+      "Làm câu hỏi, xem giải thích rồi thực hành nói và viết theo nhiệm vụ."
+    ],
+    "common_errors": [
+      "Đọc tên chữ như âm tiếng Việt hoặc nhầm tên chữ với âm trong từ.",
+      "Đảo vị trí chữ trong four/nine hoặc đọc số mà không chỉ từng vật."
+    ]
+  },
+  "examples": [
+    {
+      "question": "Thẻ có chữ eight. Em cần đặt thẻ cạnh số nào?",
+      "steps": [
+        "Nhận diện yêu cầu: vocabulary",
+        "Eight là số tám; không nhầm với cách viết three hoặc ten.",
+        "Đáp án: 8"
+      ]
+    },
+    {
+      "question": "Trong dãy chữ cái L, M, N, chữ đứng ngay sau M là gì?",
+      "steps": [
+        "Nhận diện yêu cầu: alphabet",
+        "M đứng trước N. Khi đọc bảng chữ cái, theo thứ tự thay vì đoán theo hình dáng.",
+        "Đáp án: N"
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "title": "Thực hành theo cặp: Starter",
+      "materials": [
+        "Giấy",
+        "Bút",
+        "Thẻ tự làm"
+      ],
+      "steps": [
+        "Làm bảng Bingo3×3 với9 số tự chọn từ1–10. Người thân gọi số ngẫu nhiên, em đánh dấu và đọc lại các số tạo hàng thắng.",
+        "Đổi vai và nhờ bạn nhắc lại thông tin đã nghe.",
+        "Sửa một lỗi sau khi đọc phần giải thích trong bài."
+      ],
+      "check": [
+        "Đúng nội dung giao tiếp hoặc chữ/số yêu cầu.",
+        "Phát âm chậm, đủ nghe; nhờ người lớn hỗ trợ chỗ chưa chắc.",
+        "Viết đúng từ, tên riêng, dấu nháy và dấu câu."
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "question_id": "TA3_T1_START_Q01",
+      "type": "mcq",
+      "skill": "vocabulary",
+      "question": "Thẻ có chữ eight. Em cần đặt thẻ cạnh số nào?",
+      "correct_answer": "8",
+      "options": [
+        "3",
+        "5",
+        "10",
+        "8"
+      ],
+      "explanation": "Eight là số tám; không nhầm với cách viết three hoặc ten."
+    },
+    {
+      "question_id": "TA3_T1_START_Q02",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Đọc thẻ: A — B — C. Thẻ này đang luyện nội dung nào?",
+      "correct_answer": "Các chữ cái tiếng Anh.",
+      "options": [
+        "Ba lời chào.",
+        "Tên ba màu.",
+        "Các chữ cái tiếng Anh.",
+        "Tên ba ngày."
+      ],
+      "explanation": "A, B, C là ba chữ đầu bảng chữ cái, không phải các từ chỉ màu hay ngày."
+    },
+    {
+      "question_id": "TA3_T1_START_Q03",
+      "type": "mcq",
+      "skill": "writing",
+      "question": "Một bạn viết số chín là nien. Cách sửa đúng là gì?",
+      "correct_answer": "nine",
+      "options": [
+        "nineh",
+        "nine",
+        "nien",
+        "nein"
+      ],
+      "explanation": "Nine gồm n-i-n-e. Quan sát vị trí i và n trước khi chép."
+    },
+    {
+      "question_id": "TA3_T1_START_Q04",
+      "type": "mcq",
+      "skill": "vocabulary",
+      "question": "Trong trò gọi số, bạn nói ten. Em hiểu là bao nhiêu?",
+      "correct_answer": "Mười.",
+      "options": [
+        "Mười.",
+        "Một.",
+        "Bốn.",
+        "Bảy."
+      ],
+      "explanation": "Ten là mười, điểm cuối dãy số từ một đến mười của Starter."
+    },
+    {
+      "question_id": "TA3_T1_START_Q05",
+      "type": "mcq",
+      "skill": "alphabet",
+      "question": "Trong dãy chữ cái L, M, N, chữ đứng ngay sau M là gì?",
+      "correct_answer": "N",
+      "options": [
+        "L",
+        "W",
+        "H",
+        "N"
+      ],
+      "explanation": "M đứng trước N. Khi đọc bảng chữ cái, theo thứ tự thay vì đoán theo hình dáng."
+    },
+    {
+      "question_id": "TA3_T1_START_Q06",
+      "type": "mcq",
+      "skill": "writing",
+      "question": "Chọn cách viết đúng số bốn bằng tiếng Anh.",
+      "correct_answer": "four",
+      "options": [
+        "fuor",
+        "frou",
+        "four",
+        "forr"
+      ],
+      "explanation": "Four có thứ tự f-o-u-r; từ for không phải số bốn."
+    },
+    {
+      "question_id": "TA3_T1_START_Q07",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Trên bảng Bingo của em đã đánh dấu seven. Ô nào tương ứng với từ ấy?",
+      "correct_answer": "Ô số 7.",
+      "options": [
+        "Ô chữ V.",
+        "Ô số 7.",
+        "Ô chữ S.",
+        "Ô số 6."
+      ],
+      "explanation": "Bảng đang chơi là bảng số; seven tương ứng với 7, không phải chỉ chữ đầu của từ."
+    },
+    {
+      "question_id": "TA3_T1_START_Q08",
+      "type": "mcq",
+      "skill": "alphabet",
+      "question": "Chữ hoa Q ghép với chữ thường nào?",
+      "correct_answer": "q",
+      "options": [
+        "q",
+        "p",
+        "g",
+        "o"
+      ],
+      "explanation": "Q và q là hai kiểu viết của cùng một chữ; phân biệt đuôi của q với o."
+    },
+    {
+      "question_id": "TA3_T1_START_Q09",
+      "type": "mcq",
+      "skill": "pronunciation",
+      "question": "Khi luyện chữ B và từ bắt đầu bằng b, cần nhớ điều gì?",
+      "correct_answer": "Tên chữ B khác với âm b trong từ.",
+      "options": [
+        "Tên chữ và âm luôn giống hệt.",
+        "Mọi chữ đều đọc như tiếng Việt.",
+        "Chỉ nhìn hình mà không cần đọc.",
+        "Tên chữ B khác với âm b trong từ."
+      ],
+      "explanation": "Tên chữ dùng khi đánh vần; âm trong từ dùng khi phát âm từ. Starter luyện tên chữ cái."
+    },
+    {
+      "question_id": "TA3_T1_START_Q10",
+      "type": "mcq",
+      "skill": "speaking",
+      "question": "Bạn mới bắt đầu tập đếm. Cách luyện nào giúp em tự kiểm tra tốt?",
+      "correct_answer": "Chỉ từng đồ vật, đọc một số cho mỗi vật rồi kiểm tra lại.",
+      "options": [
+        "Bỏ vật khó nhìn khỏi nhóm.",
+        "Đọc cùng một số cho mọi vật.",
+        "Chỉ từng đồ vật, đọc một số cho mỗi vật rồi kiểm tra lại.",
+        "Đọc số thật nhanh mà không đếm."
+      ],
+      "explanation": "Ghép mỗi vật với một số giúp kiểm tra đọc và đếm; có thể dùng một đến mười vật."
+    },
+    {
+      "question_id": "TA3_T1_START_Q11",
+      "type": "mcq",
+      "skill": "writing",
+      "question": "Tên LAN có bao nhiêu chữ cái để em đọc lần lượt?",
+      "correct_answer": "Ba chữ cái: L, A, N.",
+      "options": [
+        "Một chữ cái: LAN.",
+        "Ba chữ cái: L, A, N.",
+        "Hai chữ cái: L, N.",
+        "Bốn chữ cái: L, A, A, N."
+      ],
+      "explanation": "Tên này gồm ba kí tự riêng; không coi cả tên là một chữ cái."
+    },
+    {
+      "question_id": "TA3_T1_START_Q12",
+      "type": "mcq",
+      "skill": "alphabet",
+      "question": "Khi thẻ chữ bị lẫn, nhóm nào đã đúng thứ tự gần cuối bảng chữ cái?",
+      "correct_answer": "W, X, Y, Z.",
+      "options": [
+        "W, X, Y, Z.",
+        "Z, Y, X, W.",
+        "W, Y, X, Z.",
+        "X, W, Z, Y."
+      ],
+      "explanation": "Cuối bảng chữ cái lần lượt là W rồi X, Y, Z. Đọc chậm để nhận thứ tự."
+    }
+  ],
+  "games": [
+    {
+      "id": "TA3_T1_START_GAME",
+      "title": "Kho báu tiếng Anh: Starter",
+      "mode": "treasure",
+      "objective": "Chọn từ và lời nói phù hợp để mở kho báu.",
+      "rules": [
+        "Mỗi lượt10 câu thuộc bài, không áp phân mức Toán.",
+        "Chọn đáp án rồi đọc giải thích. Trả lời đúng tiến thêm một bước.",
+        "Kết thúc, ôn câu sai và thử lại."
+      ],
+      "question_ids": [
+        "TA3_T1_START_Q01",
+        "TA3_T1_START_Q02",
+        "TA3_T1_START_Q03",
+        "TA3_T1_START_Q04",
+        "TA3_T1_START_Q05",
+        "TA3_T1_START_Q06",
+        "TA3_T1_START_Q07",
+        "TA3_T1_START_Q08",
+        "TA3_T1_START_Q09",
+        "TA3_T1_START_Q10",
+        "TA3_T1_START_Q11",
+        "TA3_T1_START_Q12"
+      ],
+      "answer_source": "practice.correct_answer",
+      "feedback_source": "practice.explanation",
+      "max_score": 100
+    }
+  ],
+  "assessment": {
+    "session_size": 10,
+    "scoring": "Mỗi câu đúng được tính điểm theo hệ thống; 8–10 câu đúng: nắm tốt, 5–7: đọc lại phần còn nhầm, dưới 5: đọc bài cùng người thân rồi thử lại. Nhiệm vụ nói/viết tự kiểm theo tiêu chí, không chấm bằng một đáp án duy nhất.",
+    "review_advice": "Xem lại câu sai theo nhóm từ, mẫu câu, phát âm; thực hiện cả nhiệm vụ nói và viết. Điểm trắc nghiệm không thay thế nhận xét phát âm."
+  },
+  "feedback": {
+    "correct": "Đúng rồi! Em đọc lại từ hoặc lời nói vừa chọn.",
+    "incorrect": "Đọc lời giải, chú ý tình huống rồi thử dùng mẫu câu.",
+    "teacher_note": "AI_CHECKED_AWAITING_TEACHER; phần nói và phát âm cần người lớn nghe và góp ý."
+  },
+  "verification": {
+    "ai_authored": true,
+    "structure_checked": true,
+    "answer_reviewed": true,
+    "source_reviewed": true,
+    "teacher_approved": false
+  },
+  "status": "AI_CHECKED_AWAITING_TEACHER",
+  "vocabulary": [
+    {
+      "word": "one",
+      "meaning_vi": "một",
+      "example": "One card."
+    },
+    {
+      "word": "two",
+      "meaning_vi": "hai",
+      "example": "Two cards."
+    },
+    {
+      "word": "three",
+      "meaning_vi": "ba",
+      "example": "Three cards."
+    },
+    {
+      "word": "four",
+      "meaning_vi": "bốn",
+      "example": "Four cards."
+    },
+    {
+      "word": "five",
+      "meaning_vi": "năm",
+      "example": "Five cards."
+    },
+    {
+      "word": "six",
+      "meaning_vi": "sáu",
+      "example": "Six cards."
+    },
+    {
+      "word": "seven",
+      "meaning_vi": "bảy",
+      "example": "Seven cards."
+    },
+    {
+      "word": "eight",
+      "meaning_vi": "tám",
+      "example": "Eight cards."
+    },
+    {
+      "word": "nine",
+      "meaning_vi": "chín",
+      "example": "Nine cards."
+    },
+    {
+      "word": "ten",
+      "meaning_vi": "mười",
+      "example": "Ten cards."
+    }
+  ],
+  "patterns": [
+    "Đọc số: one, two, three, four, five, six, seven, eight, nine, ten.",
+    "Đọc tên chữ A–Z theo thứ tự; dùng để đánh vần từng chữ của tên."
+  ],
+  "pronunciation": [
+    "Tên chữ cái khác âm của chữ trong từ. Đọc A /eɪ/, B /biː/, C /siː/ khi đánh vần.",
+    "Nghe four /fɔː/ và five /faɪv/; four kết thúc bằng âm nguyên âm dài trong giọng Anh, five có /v/."
+  ],
+  "skills": {
+    "reading": [
+      "Đọc các thẻ biên soạn mới: six — 6; ten — 10; LAN — L, A, N.",
+      "Nhiệm vụ: từ ten ghép với6 hay10? Đáp án10 vì ten là mười."
+    ],
+    "writing": [
+      "Viết số2,4,9 bằng tiếng Anh rồi tự soát: two, four, nine.",
+      "Viết tên nhân vật do em chọn, tách từng chữ và đếm số chữ. Mẫu: AN có2 chữ A, N."
+    ],
+    "speaking": [
+      "Đọc các số một đến mười khi chỉ từng thẻ tự làm.",
+      "Đánh vần tên LAN theo từng chữ L, A, N; nhờ bạn chỉ đúng thẻ em đọc."
+    ],
+    "listening": [
+      "Đảo hai thẻ four và five, nghe giọng máy rồi chỉ đúng thẻ; kiểm tra bằng chữ trên thẻ.",
+      "Giọng máy chỉ hỗ trợ luyện; em đọc lại chậm và nhờ người lớn nghe nếu chưa chắc."
+    ]
+  },
+  "audio": {
+    "type": "speechSynthesis",
+    "label": "Giọng máy tiếng Anh của thiết bị, không phải âm thanh sách. Có thể khác theo thiết bị; nếu không phát, đọc theo mẫu và nhờ người lớn hỗ trợ."
+  }
+}

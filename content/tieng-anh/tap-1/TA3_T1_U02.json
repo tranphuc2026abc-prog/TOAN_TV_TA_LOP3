@@ -1,0 +1,373 @@
+{
+  "id": "TA3_T1_U02",
+  "subject": "ta",
+  "grade": 3,
+  "book": "Kết nối tri thức với cuộc sống",
+  "volume": 1,
+  "lesson_no": 2,
+  "title": "Unit 2: Our names",
+  "topic": "English Global Success",
+  "source": {
+    "pdf": "03-sgk-tieng-anh-3-tap-1-global-success.pdf",
+    "printed_pages": [
+      16,
+      21
+    ],
+    "pdf_pages": [
+      17,
+      22
+    ],
+    "review": "Đã đọc trực quan đầy đủ trang nguồn PDF ảnh quét ngày14/11/2026. Biên soạn tình huống, ví dụ và câu hỏi mới; không đăng toàn văn hay sao chép hệ thống bài tập SGK; không có bản thu âm sách."
+  },
+  "objectives": [
+    "Hiểu và dùng đúng: Hỏi đáp tên và tuổi, phân biệt câu hỏi tên với câu hỏi tuổi, luyện âm m và n.",
+    "Đọc, viết và thực hành nói theo tình huống mới.",
+    "Nhận biết trọng tâm phát âm và luyện nghe bằng giọng máy có ghi nhãn."
+  ],
+  "knowledge": {
+    "introduction": "Hỏi đáp tên và tuổi, phân biệt câu hỏi tên với câu hỏi tuổi, luyện âm m và n.",
+    "rules": [
+      "What's your name? — My name's Bao. → Bạn tên gì? — Mình tên Bảo.",
+      "How old are you? — I'm eight years old. → Bạn bao nhiêu tuổi? — Mình tám tuổi.",
+      "What's = What is; name's = name is. Dùng my khi nói tên mình, your khi hỏi bạn."
+    ],
+    "steps": [
+      "Đọc từ và nghĩa, quan sát tình huống trước khi chọn cách nói.",
+      "Nghe từ bằng giọng máy nếu thiết bị hỗ trợ, đọc lại chậm theo hướng dẫn phát âm.",
+      "Làm câu hỏi, xem giải thích rồi thực hành nói và viết theo nhiệm vụ."
+    ],
+    "common_errors": [
+      "Trả lời tên khi được hỏi How old.",
+      "Dùng your name để nói tên mình; quên is trong name is hoặc dấu nháy trong name's."
+    ]
+  },
+  "examples": [
+    {
+      "question": "Em chưa biết tên bạn mới. Nên hỏi câu nào?",
+      "steps": [
+        "Nhận diện yêu cầu: communication",
+        "What's your name hỏi tên; không nhầm với câu hỏi tuổi hoặc hỏi thăm.",
+        "Đáp án: What's your name?"
+      ]
+    },
+    {
+      "question": "Đọc: My name's Bao. I'm seven years old. Bao bao nhiêu tuổi?",
+      "steps": [
+        "Nhận diện yêu cầu: reading",
+        "Seven chỉ bảy, là số tuổi Bao tự giới thiệu trong đoạn mới này.",
+        "Đáp án: Bảy tuổi."
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "title": "Thực hành theo cặp: Unit 2: Our names",
+      "materials": [
+        "Giấy",
+        "Bút",
+        "Thẻ tự làm"
+      ],
+      "steps": [
+        "Làm thẻ bánh sinh nhật cho nhân vật tự đặt tên, ghi số tuổi7–10; dùng thẻ để hỏi đáp tên và tuổi theo cặp.",
+        "Đổi vai và nhờ bạn nhắc lại thông tin đã nghe.",
+        "Sửa một lỗi sau khi đọc phần giải thích trong bài."
+      ],
+      "check": [
+        "Đúng nội dung giao tiếp hoặc chữ/số yêu cầu.",
+        "Phát âm chậm, đủ nghe; nhờ người lớn hỗ trợ chỗ chưa chắc.",
+        "Viết đúng từ, tên riêng, dấu nháy và dấu câu."
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "question_id": "TA3_T1_U02_Q01",
+      "type": "mcq",
+      "skill": "communication",
+      "question": "Em chưa biết tên bạn mới. Nên hỏi câu nào?",
+      "correct_answer": "What's your name?",
+      "options": [
+        "How old are you?",
+        "How are you?",
+        "Goodbye, name.",
+        "What's your name?"
+      ],
+      "explanation": "What's your name hỏi tên; không nhầm với câu hỏi tuổi hoặc hỏi thăm."
+    },
+    {
+      "question_id": "TA3_T1_U02_Q02",
+      "type": "mcq",
+      "skill": "grammar",
+      "question": "Bạn hỏi tên em. Em tên Thao. Câu trả lời nào đúng mẫu?",
+      "correct_answer": "My name's Thao.",
+      "options": [
+        "My Thao name.",
+        "Name my Thao.",
+        "My name's Thao.",
+        "Your name's Thao."
+      ],
+      "explanation": "My name's dùng để giới thiệu tên của chính người nói; your chỉ người nghe."
+    },
+    {
+      "question_id": "TA3_T1_U02_Q03",
+      "type": "mcq",
+      "skill": "communication",
+      "question": "Một bạn hỏi How old are you? Em cần cung cấp thông tin gì?",
+      "correct_answer": "Tuổi của mình.",
+      "options": [
+        "Tên bạn thân.",
+        "Tuổi của mình.",
+        "Tên trường.",
+        "Màu áo."
+      ],
+      "explanation": "How old hỏi tuổi, khác What's your name hỏi tên."
+    },
+    {
+      "question_id": "TA3_T1_U02_Q04",
+      "type": "mcq",
+      "skill": "writing",
+      "question": "Em 9 tuổi. Chọn câu viết đầy đủ theo mẫu Unit2.",
+      "correct_answer": "I'm nine years old.",
+      "options": [
+        "I'm nine years old.",
+        "I nine years.",
+        "I'm nine name.",
+        "My age name nine."
+      ],
+      "explanation": "Sau I'm là số tuổi; years old làm rõ ý tuổi trong câu đầy đủ."
+    },
+    {
+      "question_id": "TA3_T1_U02_Q05",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Đọc: My name's Bao. I'm seven years old. Bao bao nhiêu tuổi?",
+      "correct_answer": "Bảy tuổi.",
+      "options": [
+        "Tám tuổi.",
+        "Chín tuổi.",
+        "Mười tuổi.",
+        "Bảy tuổi."
+      ],
+      "explanation": "Seven chỉ bảy, là số tuổi Bao tự giới thiệu trong đoạn mới này."
+    },
+    {
+      "question_id": "TA3_T1_U02_Q06",
+      "type": "mcq",
+      "skill": "vocabulary",
+      "question": "Trong câu My name's Vy, name có nghĩa là gì?",
+      "correct_answer": "Tên.",
+      "options": [
+        "Lớp học.",
+        "Lời tạm biệt.",
+        "Tên.",
+        "Tuổi."
+      ],
+      "explanation": "Name chỉ tên gọi; không dùng nó thay cho số tuổi."
+    },
+    {
+      "question_id": "TA3_T1_U02_Q07",
+      "type": "mcq",
+      "skill": "grammar",
+      "question": "Đổi My name is Quynh sang dạng ngắn đúng.",
+      "correct_answer": "My name's Quynh.",
+      "options": [
+        "My name Quynh's.",
+        "My name's Quynh.",
+        "My names Quynh.",
+        "My name' Quynh."
+      ],
+      "explanation": "Name's là name is; dấu nháy đứng trước s."
+    },
+    {
+      "question_id": "TA3_T1_U02_Q08",
+      "type": "mcq",
+      "skill": "pronunciation",
+      "question": "Khi luyện âm m ở đầu Mary, môi em nên thế nào?",
+      "correct_answer": "Khép hai môi, cho tiếng vang qua mũi.",
+      "options": [
+        "Khép hai môi, cho tiếng vang qua mũi.",
+        "Mở to miệng và thổi mạnh.",
+        "Đặt răng lên môi dưới.",
+        "Bật âm như t."
+      ],
+      "explanation": "/m/ là âm mũi hai môi; luyện âm đầu rồi đọc cả tên."
+    },
+    {
+      "question_id": "TA3_T1_U02_Q09",
+      "type": "mcq",
+      "skill": "pronunciation",
+      "question": "Âm đầu /n/ trong Nam khác /m/ ở điểm nào?",
+      "correct_answer": "Đầu lưỡi chạm vùng lợi trên thay vì khép hai môi.",
+      "options": [
+        "Luôn cần cắn môi dưới.",
+        "Không dùng giọng.",
+        "Chỉ có trong tiếng Việt.",
+        "Đầu lưỡi chạm vùng lợi trên thay vì khép hai môi."
+      ],
+      "explanation": "/n/ dùng đầu lưỡi, /m/ dùng hai môi; cả hai có tiếng vang qua mũi."
+    },
+    {
+      "question_id": "TA3_T1_U02_Q10",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Hai thẻ ghi Yen: eight; Khoa: ten. Ai ghi tuổi mười?",
+      "correct_answer": "Khoa.",
+      "options": [
+        "Cả hai.",
+        "Không ai.",
+        "Khoa.",
+        "Yen."
+      ],
+      "explanation": "Ten là mười, eight là tám; đọc đúng mỗi dòng của thẻ biên soạn mới."
+    },
+    {
+      "question_id": "TA3_T1_U02_Q11",
+      "type": "mcq",
+      "skill": "writing",
+      "question": "Điền câu hỏi phù hợp trước lời đáp My name's Long.",
+      "correct_answer": "What's your name?",
+      "options": [
+        "Is this a number?",
+        "What's your name?",
+        "How old are you?",
+        "How are you?"
+      ],
+      "explanation": "Lời đáp cho biết tên nên cần câu hỏi tên, không hỏi tuổi hay sức khoẻ."
+    },
+    {
+      "question_id": "TA3_T1_U02_Q12",
+      "type": "mcq",
+      "skill": "speaking",
+      "question": "Làm thẻ sinh nhật để giới thiệu, em nên chuẩn bị điều gì?",
+      "correct_answer": "Tên và số tuổi muốn giới thiệu, rồi tập hỏi đáp theo cặp.",
+      "options": [
+        "Tên và số tuổi muốn giới thiệu, rồi tập hỏi đáp theo cặp.",
+        "Chỉ màu bánh, không nói tên tuổi.",
+        "Ghi tuổi người khác thành của mình.",
+        "Chép một lời tạm biệt duy nhất."
+      ],
+      "explanation": "Hoạt động giúp nói tên và tuổi; có thể đóng vai và nói rõ thông tin nhân vật khi không dùng tuổi thật."
+    }
+  ],
+  "games": [
+    {
+      "id": "TA3_T1_U02_GAME",
+      "title": "Kho báu tiếng Anh: Unit 2: Our names",
+      "mode": "treasure",
+      "objective": "Chọn từ và lời nói phù hợp để mở kho báu.",
+      "rules": [
+        "Mỗi lượt10 câu thuộc bài, không áp phân mức Toán.",
+        "Chọn đáp án rồi đọc giải thích. Trả lời đúng tiến thêm một bước.",
+        "Kết thúc, ôn câu sai và thử lại."
+      ],
+      "question_ids": [
+        "TA3_T1_U02_Q01",
+        "TA3_T1_U02_Q02",
+        "TA3_T1_U02_Q03",
+        "TA3_T1_U02_Q04",
+        "TA3_T1_U02_Q05",
+        "TA3_T1_U02_Q06",
+        "TA3_T1_U02_Q07",
+        "TA3_T1_U02_Q08",
+        "TA3_T1_U02_Q09",
+        "TA3_T1_U02_Q10",
+        "TA3_T1_U02_Q11",
+        "TA3_T1_U02_Q12"
+      ],
+      "answer_source": "practice.correct_answer",
+      "feedback_source": "practice.explanation",
+      "max_score": 100
+    }
+  ],
+  "assessment": {
+    "session_size": 10,
+    "scoring": "Mỗi câu đúng được tính điểm theo hệ thống; 8–10 câu đúng: nắm tốt, 5–7: đọc lại phần còn nhầm, dưới 5: đọc bài cùng người thân rồi thử lại. Nhiệm vụ nói/viết tự kiểm theo tiêu chí, không chấm bằng một đáp án duy nhất.",
+    "review_advice": "Xem lại câu sai theo nhóm từ, mẫu câu, phát âm; thực hiện cả nhiệm vụ nói và viết. Điểm trắc nghiệm không thay thế nhận xét phát âm."
+  },
+  "feedback": {
+    "correct": "Đúng rồi! Em đọc lại từ hoặc lời nói vừa chọn.",
+    "incorrect": "Đọc lời giải, chú ý tình huống rồi thử dùng mẫu câu.",
+    "teacher_note": "AI_CHECKED_AWAITING_TEACHER; phần nói và phát âm cần người lớn nghe và góp ý."
+  },
+  "verification": {
+    "ai_authored": true,
+    "structure_checked": true,
+    "answer_reviewed": true,
+    "source_reviewed": true,
+    "teacher_approved": false
+  },
+  "status": "AI_CHECKED_AWAITING_TEACHER",
+  "vocabulary": [
+    {
+      "word": "name",
+      "meaning_vi": "tên",
+      "example": "My name's Bao."
+    },
+    {
+      "word": "my",
+      "meaning_vi": "của tôi",
+      "example": "My name's Thao."
+    },
+    {
+      "word": "your",
+      "meaning_vi": "của bạn",
+      "example": "What's your name?"
+    },
+    {
+      "word": "old",
+      "meaning_vi": "tuổi (trong years old)",
+      "example": "I'm eight years old."
+    },
+    {
+      "word": "seven",
+      "meaning_vi": "bảy",
+      "example": "I'm seven."
+    },
+    {
+      "word": "eight",
+      "meaning_vi": "tám",
+      "example": "I'm eight."
+    },
+    {
+      "word": "nine",
+      "meaning_vi": "chín",
+      "example": "I'm nine."
+    },
+    {
+      "word": "ten",
+      "meaning_vi": "mười",
+      "example": "I'm ten."
+    }
+  ],
+  "patterns": [
+    "What's your name? — My name's Bao. → Bạn tên gì? — Mình tên Bảo.",
+    "How old are you? — I'm eight years old. → Bạn bao nhiêu tuổi? — Mình tám tuổi.",
+    "What's = What is; name's = name is. Dùng my khi nói tên mình, your khi hỏi bạn."
+  ],
+  "pronunciation": [
+    "/m/ trong Mary: hai môi khép, có tiếng vang qua mũi.",
+    "/n/ trong Nam: đầu lưỡi chạm vùng lợi trên, môi không cần khép; so sánh /m/ và /n/."
+  ],
+  "skills": {
+    "reading": [
+      "Đoạn mới: My name's Bao. I'm seven years old. My friend is Khoa.",
+      "Bảo bao nhiêu tuổi? Đáp án: seven, bảy tuổi. Không suy rằng Khoa cùng tuổi vì đoạn không nêu."
+    ],
+    "writing": [
+      "Viết một lượt hỏi tên và một lượt trả lời; mẫu mới: What's your name? My name's Thao.",
+      "Thêm câu tuổi nhân vật: I'm nine years old. Giữ dấu nháy, viết hoa và dấu kết câu."
+    ],
+    "speaking": [
+      "Vẽ bánh sinh nhật có số tuổi nhân vật7–10, hỏi bạn How old are you và đáp theo thẻ.",
+      "Đổi vai hỏi tên trước hỏi tuổi; người nghe nhắc lại xem đã hiểu đúng tên và số chưa."
+    ],
+    "listening": [
+      "Nghe các từ seven/eight/nine/ten từ nút giọng máy, chỉ số trên thẻ bánh.",
+      "Luyện Mary và Nam bằng hướng dẫn âm trong bài; giọng máy hỗ trợ, không thay phản hồi phát âm của người lớn."
+    ]
+  },
+  "audio": {
+    "type": "speechSynthesis",
+    "label": "Giọng máy tiếng Anh của thiết bị, không phải âm thanh sách. Có thể khác theo thiết bị; nếu không phát, đọc theo mẫu và nhờ người lớn hỗ trợ."
+  }
+}

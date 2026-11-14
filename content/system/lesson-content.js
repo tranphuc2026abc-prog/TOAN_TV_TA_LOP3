@@ -87,7 +87,23 @@
     }else drawing.feedback='Đã chọn '+pts.length+'/'+task.points+' điểm. '+task.steps;
     renderDrawing();var focus=document.getElementById('geo-'+x+'-'+y);if(focus)focus.focus({preventScroll:true});
   };
-  function activitiesHTML(items,subject){return '<h3>🧰 '+(subject==='tv'?'Thực hành nói và viết':'Thực hành với dụng cụ')+'</h3>'+items.map(function(a){return '<section><h4>'+esc(a.title)+'</h4><p>Dụng cụ: '+esc(a.materials.join(', '))+'.</p><ol>'+a.steps.map(function(s){return '<li>'+esc(s)+'</li>';}).join('')+'</ol><p>Tự kiểm tra:</p>'+list(a.check)+'</section>';}).join('');}
+  function activitiesHTML(items,subject){return '<h3>🧰 '+(subject==='tv'?'Thực hành nói và viết':subject==='ta'?'Thực hành tiếng Anh':'Thực hành với dụng cụ')+'</h3>'+items.map(function(a){return '<section><h4>'+esc(a.title)+'</h4><p>Dụng cụ: '+esc(a.materials.join(', '))+'.</p><ol>'+a.steps.map(function(s){return '<li>'+esc(s)+'</li>';}).join('')+'</ol><p>Tự kiểm tra:</p>'+list(a.check)+'</section>';}).join('');}
+  function englishHTML(c){
+    return '<section class="kw-english"><h3>🔤 Từ vựng</h3>'+c.vocabulary.map(function(v,i){return '<p><strong lang="en">'+esc(v.word)+'</strong> — '+esc(v.meaning_vi)+'<br><span lang="en">'+esc(v.example)+'</span> <button type="button" data-english-audio="'+i+'">Nghe giọng máy</button></p>';}).join('')+
+      '<h3>💬 Mẫu câu</h3>'+list(c.patterns)+'<h3>👄 Phát âm</h3>'+list(c.pronunciation)+
+      '<p>'+esc(c.audio.label)+'</p><p role="status" id="englishAudioStatus"></p>'+['reading','writing','speaking','listening'].map(function(k){return '<h3>'+esc({reading:'📖 Đọc',writing:'✍️ Viết',speaking:'🗣️ Nói',listening:'🎧 Nghe và luyện lại'}[k])+'</h3>'+list(c.skills[k]);}).join('')+'</section>';
+  }
+  window.playLessonEnglish=function(index){
+    var c=content[v.id],status=document.getElementById('englishAudioStatus');
+    if(!c||c.subject!=='ta'||!Number.isInteger(index)||!c.vocabulary[index])return;
+    if(!window.speechSynthesis||!window.SpeechSynthesisUtterance){if(status)status.textContent='Thiết bị chưa hỗ trợ giọng máy. Em có thể đọc theo mẫu hoặc nhờ người lớn đọc.';return;}
+    var speech=new window.SpeechSynthesisUtterance(c.vocabulary[index].word+'. '+c.vocabulary[index].example);
+    speech.lang='en-GB';speech.rate=0.8;
+    var voice=window.speechSynthesis.getVoices().find(function(x){return /^en[-_]/i.test(x.lang);});if(voice)speech.voice=voice;
+    speech.onerror=function(){if(status)status.textContent='Chưa phát được giọng máy. Kiểm tra âm lượng và giọng tiếng Anh trên thiết bị, rồi thử lại.';};
+    speech.onend=function(){if(status)status.textContent='Đã đọc xong bằng giọng máy.';};
+    try{window.speechSynthesis.cancel();if(status)status.textContent='Đang đọc bằng giọng máy tiếng Anh.';window.speechSynthesis.speak(speech);}catch(e){speech.onerror();}
+  };
   function figureHTML(f){return '<figure><img style="width:100%;max-width:560px;height:auto" src="'+esc(f.path)+'" alt="'+esc(f.caption)+'"><figcaption>'+esc(f.caption)+'</figcaption></figure>';}
   function referenceTable(t){
     return '<div style="overflow-x:auto"><table style="border-collapse:collapse;text-align:center;width:100%"><caption>'+esc(t.caption)+'</caption><thead><tr><th scope="col">×</th>'+t.columns.map(function(n){return '<th scope="col" style="padding:8px;border:1px solid #ccd5e5">'+n+'</th>';}).join('')+'</tr></thead><tbody>'+t.rows.map(function(row){return '<tr><th scope="row" style="padding:8px;border:1px solid #ccd5e5">'+row.factor+'</th>'+row.values.map(function(n){return '<td style="padding:8px;border:1px solid #ccd5e5">'+n+'</td>';}).join('')+'</tr>';}).join('')+'</tbody></table></div>';
@@ -110,6 +126,7 @@
       (c.reference_table?'<h3>🔢 Tra bảng</h3>'+referenceTable(c.reference_table):'')+
       (c.activities?activitiesHTML(c.activities,c.subject):'')+(c.drawing_practice?'<section id="geometryDraw"></section>':'')+
       (c.subject==='tv'?'<h3>📖 Cùng hiểu bài đọc</h3><p>'+esc(c.reading.summary)+'</p>'+list(c.reading.characters_or_images)+'<p>'+esc(c.reading.message)+'</p>'+Object.keys(c.language_practice).map(function(k){return '<h4>'+esc({vocabulary:'Từ ngữ',sentences:'Luyện câu',spelling:'Chính tả',expression:'Diễn đạt'}[k]||k)+'</h4>'+list(c.language_practice[k]);}).join(''):'')+
+      (c.subject==='ta'?englishHTML(c):'')+
       '<h3>🎯 Luyện tập</h3><p>'+ (c.subject==='toan'?'Mỗi lượt 10 câu: 3 nhận biết, 3 thông hiểu, 4 vận dụng.':'Mỗi lượt '+c.assessment.session_size+' câu luyện theo bài học.')+' Xem lời giải sau khi trả lời.</p>'+
       '<button class="big" onclick="startQ(\''+c.id+'\',\'all\')">Luyện tập '+c.assessment.session_size+' câu</button> '+
       '<button onclick="startQ(\''+c.id+'\',\'mcq\')">Trắc nghiệm</button> '+
@@ -117,6 +134,7 @@
       '<h3>🎮 '+esc(c.games[0].title)+'</h3><p>'+esc(c.games[0].objective)+'</p>'+list(c.games[0].rules)+
       '<button class="big" onclick="startLessonGame(\''+c.id+'\')">Bắt đầu trò chơi</button>'+
       '<h3>⭐ Tự đánh giá</h3><p>'+esc(c.assessment.scoring)+'</p><p>'+esc(c.assessment.review_advice)+'</p>';
+    card.querySelectorAll('[data-english-audio]').forEach(function(button){button.addEventListener('click',function(){window.playLessonEnglish(Number(button.dataset.englishAudio));});});
     if(c.drawing_practice)window.setGeometryMode('rectangle');
   };
   gameQuestions=function(){
