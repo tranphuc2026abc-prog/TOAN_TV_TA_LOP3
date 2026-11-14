@@ -204,6 +204,7 @@
   }).catch(function(e){console.warn('Giữ danh mục và bài học cũ:',e.message);}).then(function(){var ids=Object.keys(content),app=document.getElementById('app');
     var status=document.getElementById('contentLoadStatus');
     if(!status&&app){status=document.createElement('p');status.id='contentLoadStatus';status.setAttribute('role','status');status.style.cssText='margin:12px auto;padding:12px 18px;max-width:1100px;background:#eef5ff;border-radius:12px;color:#26345b';app.parentNode.insertBefore(status,app);}
-    if(status)status.textContent='Học liệu riêng đã tải: '+ids.length+'/168 bài. Các mục còn lại đang được biên soạn; câu nguồn soạn dở chưa được tính là bài hoàn chỉnh.';
+    var approved=ids.filter(function(id){return content[id].verification.teacher_approved;}).length;
+    if(status)status.textContent='Học liệu riêng đã tải: '+ids.length+'/168 bài. '+(ids.length===168?'Đã có học liệu riêng cho toàn bộ danh mục; '+approved+' bài đã được giáo viên duyệt, '+(ids.length-approved)+' bài chờ thẩm định.':'Các mục còn lại đang được biên soạn hoặc chưa tải được; chưa được tính là bài hoàn chỉnh.');
     if(P)draw();return ids;});
 })();

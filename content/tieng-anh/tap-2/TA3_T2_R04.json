@@ -1,0 +1,387 @@
+{
+  "id": "TA3_T2_R04",
+  "subject": "ta",
+  "grade": 3,
+  "book": "Kết nối tri thức với cuộc sống",
+  "volume": 2,
+  "lesson_no": 4,
+  "title": "Review 4",
+  "topic": "English Global Success",
+  "source": {
+    "pdf": "03-sgk-tieng-anh-3-tap-2-global-success.pdf",
+    "printed_pages": [
+      70,
+      73
+    ],
+    "pdf_pages": [
+      71,
+      74
+    ],
+    "review": "Đã đọc trực quan đầy đủ trang nguồn PDF ảnh quét ngày15/11/2026. Biên soạn tình huống, ví dụ và câu hỏi mới; không đăng toàn văn hay sao chép hệ thống bài tập SGK; không có bản thu âm sách."
+  },
+  "objectives": [
+    "Hiểu và dùng đúng: Ôn Unit16–20: vật nuôi, đồ chơi, hành động bản thân/người khác, quan sát sở thú; mở rộng tên con non trong Fun time.",
+    "Đọc, viết và thực hành nói theo tình huống mới.",
+    "Nhận biết trọng tâm phát âm và luyện nghe bằng giọng máy có ghi nhãn."
+  ],
+  "knowledge": {
+    "introduction": "Ôn Unit16–20: vật nuôi, đồ chơi, hành động bản thân/người khác, quan sát sở thú; mở rộng tên con non trong Fun time.",
+    "rules": [
+      "Do you have any cats? — Yes, I do./No, I don't. How many trains do you have? — I have two.",
+      "He/She has a kite. They have two cars. → Giới thiệu đồ chơi theo người sở hữu.",
+      "What are you doing? — I'm reading. What's she doing? — She's cycling. → Bản thân và người khác đang làm.",
+      "What can you see? — I can see a monkey. What's it doing? — It's climbing. → Tên con vật rồi hành động.",
+      "Fun time ghép puppy/dog, kitten/cat, cub/tiger, calf/elephant trong tranh. Cub/calf không chỉ dùng cho duy nhất hai loài này."
+    ],
+    "steps": [
+      "Đọc từ và nghĩa, quan sát tình huống trước khi chọn cách nói.",
+      "Nghe từ bằng giọng máy nếu thiết bị hỗ trợ, đọc lại chậm theo hướng dẫn phát âm.",
+      "Làm câu hỏi, xem giải thích rồi thực hành nói và viết theo nhiệm vụ."
+    ],
+    "common_errors": [
+      "Dùng has với they hoặc have với he/she; trả lời sở hữu khi được hỏi đang làm gì.",
+      "Gán hoạt động của người này cho người kia; coi mọi con vật minh hoạ đều làm được mọi hành động ngoài đời."
+    ]
+  },
+  "examples": [
+    {
+      "question": "Review4: Minh và Thu có hai tàu hoả đồ chơi. Câu nào giới thiệu đúng nhóm hai bạn?",
+      "steps": [
+        "Nhận diện yêu cầu: grammar",
+        "Hai người dùng they have; two trains cần danh từ số nhiều.",
+        "Đáp án: They have two trains."
+      ]
+    },
+    {
+      "question": "Cặp từ nào ghép đúng con non và con trưởng thành?",
+      "steps": [
+        "Nhận diện yêu cầu: vocabulary",
+        "Kitten là mèo con; trong hoạt động nguồn cub ghép với hổ và calf ghép với voi.",
+        "Đáp án: kitten — cat"
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "title": "Thực hành theo cặp: Review 4",
+      "materials": [
+        "Giấy",
+        "Bút",
+        "Thẻ tự làm"
+      ],
+      "steps": [
+        "Tạo bảng phỏng vấn cho hai nhân vật gồm vật nuôi, số đồ chơi, hoạt động hiện tại. Đổi vai hỏi đáp, kiểm lại từng dữ kiện rồi giới thiệu một cảnh có con vật.",
+        "Đổi vai và nhờ bạn nhắc lại thông tin đã nghe.",
+        "Sửa một lỗi sau khi đọc phần giải thích trong bài."
+      ],
+      "check": [
+        "Đúng nội dung giao tiếp hoặc chữ/số yêu cầu.",
+        "Phát âm chậm, đủ nghe; nhờ người lớn hỗ trợ chỗ chưa chắc.",
+        "Viết đúng từ, tên riêng, dấu nháy và dấu câu."
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "question_id": "TA3_T2_R04_Q01",
+      "type": "mcq",
+      "skill": "grammar",
+      "question": "Review4: Minh và Thu có hai tàu hoả đồ chơi. Câu nào giới thiệu đúng nhóm hai bạn?",
+      "correct_answer": "They have two trains.",
+      "options": [
+        "They has two trains.",
+        "He have two trains.",
+        "They have two train.",
+        "They have two trains."
+      ],
+      "explanation": "Hai người dùng they have; two trains cần danh từ số nhiều."
+    },
+    {
+      "question_id": "TA3_T2_R04_Q02",
+      "type": "mcq",
+      "skill": "communication",
+      "question": "Bạn hỏi What are you doing? Em đang đọc sách, em đáp gì?",
+      "correct_answer": "I'm reading a book.",
+      "options": [
+        "I like books.",
+        "It's my book.",
+        "I'm reading a book.",
+        "I have a book."
+      ],
+      "explanation": "Câu hỏi cần hành động hiện tại, I'm reading trả lời đang đọc; sở hữu/sở thích không thay câu đáp ấy."
+    },
+    {
+      "question_id": "TA3_T2_R04_Q03",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Đọc tin nhắn mới: Mum is cooking. Dad is reading. I'm drawing in the garden. Ai đang vẽ?",
+      "correct_answer": "Người viết tin nhắn.",
+      "options": [
+        "Cả ba người.",
+        "Người viết tin nhắn.",
+        "Người mẹ.",
+        "Người bố."
+      ],
+      "explanation": "I'm drawing nêu hoạt động người viết; không chuyển việc của bố mẹ sang người kể."
+    },
+    {
+      "question_id": "TA3_T2_R04_Q04",
+      "type": "mcq",
+      "skill": "vocabulary",
+      "question": "Từ puppy dùng để gọi con non của loài nào?",
+      "correct_answer": "Chó.",
+      "options": [
+        "Chó.",
+        "Mèo.",
+        "Hổ.",
+        "Voi."
+      ],
+      "explanation": "Puppy là chó con; kitten là mèo con. Phần Fun time mở rộng tên con non."
+    },
+    {
+      "question_id": "TA3_T2_R04_Q05",
+      "type": "mcq",
+      "skill": "vocabulary",
+      "question": "Cặp từ nào ghép đúng con non và con trưởng thành?",
+      "correct_answer": "kitten — cat",
+      "options": [
+        "puppy — tiger",
+        "cub — dog",
+        "kitten — elephant",
+        "kitten — cat"
+      ],
+      "explanation": "Kitten là mèo con; trong hoạt động nguồn cub ghép với hổ và calf ghép với voi."
+    },
+    {
+      "question_id": "TA3_T2_R04_Q06",
+      "type": "mcq",
+      "skill": "grammar",
+      "question": "Đáp What's the monkey doing? khi con khỉ đang đu đưa theo cảnh cho trước, chọn câu nào?",
+      "correct_answer": "It's swinging.",
+      "options": [
+        "They're swing.",
+        "It's a monkey.",
+        "It's swinging.",
+        "I'm swinging."
+      ],
+      "explanation": "Câu hỏi về hành động của một con khỉ cần it is + ing, không chỉ nhắc lại tên loài."
+    },
+    {
+      "question_id": "TA3_T2_R04_Q07",
+      "type": "mcq",
+      "skill": "writing",
+      "question": "Hoàn thành câu theo dữ kiện đang đạp xe: She is ___.",
+      "correct_answer": "cycling",
+      "options": [
+        "cycled",
+        "cycling",
+        "cycle",
+        "cycles"
+      ],
+      "explanation": "Sau she is dùng cycling để diễn tả đang làm; cycle bỏ e rồi thêm ing."
+    },
+    {
+      "question_id": "TA3_T2_R04_Q08",
+      "type": "mcq",
+      "skill": "communication",
+      "question": "Câu hỏi nào cần câu trả lời về số lượng đồ chơi, thay vì có hay không?",
+      "correct_answer": "How many teddy bears do you have?",
+      "options": [
+        "How many teddy bears do you have?",
+        "Do you have any teddy bears?",
+        "What are you doing?",
+        "What can you see?"
+      ],
+      "explanation": "How many yêu cầu số lượng; Do you have any hỏi có hay không."
+    },
+    {
+      "question_id": "TA3_T2_R04_Q09",
+      "type": "mcq",
+      "skill": "pronunciation",
+      "question": "Ôn n/ng, cặp nào giúp luyện hai âm cuối khác nhau đã học?",
+      "correct_answer": "listen và singing",
+      "options": [
+        "kite và toy",
+        "play và fly",
+        "parrot và dancing",
+        "listen và singing"
+      ],
+      "explanation": "Listen kết /n/, singing kết /ŋ/. Các cặp khác luyện những điểm âm khác."
+    },
+    {
+      "question_id": "TA3_T2_R04_Q10",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Thẻ mới: Tam has three cars. Vy has a kite. They have two ships together. Hai bạn cùng có mấy tàu thuỷ?",
+      "correct_answer": "Hai.",
+      "options": [
+        "Một.",
+        "Sáu.",
+        "Hai.",
+        "Ba."
+      ],
+      "explanation": "Two ships together cho biết số tàu chung; không cộng xe hay diều vào số tàu."
+    },
+    {
+      "question_id": "TA3_T2_R04_Q11",
+      "type": "mcq",
+      "skill": "writing",
+      "question": "Chọn đoạn đủ thông tin nơi, con vật nhìn thấy và hoạt động trong cảnh tưởng tượng.",
+      "correct_answer": "I'm at the zoo. I can see a monkey. It's climbing.",
+      "options": [
+        "I'm reading. I like books.",
+        "I'm at the zoo. I can see a monkey. It's climbing.",
+        "I'm at the zoo. I'm at the zoo.",
+        "I have three cars. They're red."
+      ],
+      "explanation": "Đoạn đầu gồm địa điểm, tên loài và hành động, đúng nhiệm vụ; các đoạn khác thiếu ý hoặc đổi chủ đề."
+    },
+    {
+      "question_id": "TA3_T2_R04_Q12",
+      "type": "mcq",
+      "skill": "speaking",
+      "question": "Phỏng vấn bạn về vật nuôi và đồ chơi, cách ghi nhận nào đáng tin?",
+      "correct_answer": "Ghi đúng câu bạn đáp, hỏi lại khi thiếu số lượng hoặc nghe chưa rõ.",
+      "options": [
+        "Ghi đúng câu bạn đáp, hỏi lại khi thiếu số lượng hoặc nghe chưa rõ.",
+        "Đoán số lượng theo sở thích của mình.",
+        "Ghi mọi bạn có cùng đồ.",
+        "Đổi câu không có thành có cho đẹp bảng."
+      ],
+      "explanation": "Phỏng vấn cần nghe và kiểm lại thông tin, không tự thêm; có thể dùng thẻ nhân vật nếu không muốn nói việc riêng."
+    }
+  ],
+  "games": [
+    {
+      "id": "TA3_T2_R04_GAME",
+      "title": "Kho báu tiếng Anh: Review 4",
+      "mode": "treasure",
+      "objective": "Chọn từ và lời nói phù hợp để mở kho báu.",
+      "rules": [
+        "Mỗi lượt10 câu thuộc bài, không áp phân mức Toán.",
+        "Chọn đáp án rồi đọc giải thích. Trả lời đúng tiến thêm một bước.",
+        "Kết thúc, ôn câu sai và thử lại."
+      ],
+      "question_ids": [
+        "TA3_T2_R04_Q01",
+        "TA3_T2_R04_Q02",
+        "TA3_T2_R04_Q03",
+        "TA3_T2_R04_Q04",
+        "TA3_T2_R04_Q05",
+        "TA3_T2_R04_Q06",
+        "TA3_T2_R04_Q07",
+        "TA3_T2_R04_Q08",
+        "TA3_T2_R04_Q09",
+        "TA3_T2_R04_Q10",
+        "TA3_T2_R04_Q11",
+        "TA3_T2_R04_Q12"
+      ],
+      "answer_source": "practice.correct_answer",
+      "feedback_source": "practice.explanation",
+      "max_score": 100
+    }
+  ],
+  "assessment": {
+    "session_size": 10,
+    "scoring": "Mỗi câu đúng được tính điểm theo hệ thống; 8–10 câu đúng: nắm tốt, 5–7: đọc lại phần còn nhầm, dưới 5: đọc bài cùng người thân rồi thử lại. Nhiệm vụ nói/viết tự kiểm theo tiêu chí, không chấm bằng một đáp án duy nhất.",
+    "review_advice": "Xem lại câu sai theo nhóm từ, mẫu câu, phát âm; thực hiện cả nhiệm vụ nói và viết. Điểm trắc nghiệm không thay thế nhận xét phát âm."
+  },
+  "feedback": {
+    "correct": "Đúng rồi! Em đọc lại từ hoặc lời nói vừa chọn.",
+    "incorrect": "Đọc lời giải, chú ý tình huống rồi thử dùng mẫu câu.",
+    "teacher_note": "AI_CHECKED_AWAITING_TEACHER; phần nói và phát âm cần người lớn nghe và góp ý."
+  },
+  "verification": {
+    "ai_authored": true,
+    "structure_checked": true,
+    "answer_reviewed": true,
+    "source_reviewed": true,
+    "teacher_approved": false
+  },
+  "status": "AI_CHECKED_AWAITING_TEACHER",
+  "vocabulary": [
+    {
+      "word": "pets",
+      "meaning_vi": "vật nuôi",
+      "example": "These are my pets."
+    },
+    {
+      "word": "toys",
+      "meaning_vi": "đồ chơi",
+      "example": "They have many toys."
+    },
+    {
+      "word": "trains",
+      "meaning_vi": "tàu hoả đồ chơi số nhiều",
+      "example": "They have two trains."
+    },
+    {
+      "word": "reading",
+      "meaning_vi": "đang đọc",
+      "example": "I'm reading."
+    },
+    {
+      "word": "drawing",
+      "meaning_vi": "đang vẽ",
+      "example": "She's drawing."
+    },
+    {
+      "word": "swinging",
+      "meaning_vi": "đang đu đưa",
+      "example": "The monkey is swinging."
+    },
+    {
+      "word": "puppy",
+      "meaning_vi": "chó con",
+      "example": "A puppy is a baby dog."
+    },
+    {
+      "word": "kitten",
+      "meaning_vi": "mèo con",
+      "example": "A kitten is a baby cat."
+    },
+    {
+      "word": "cub",
+      "meaning_vi": "con non của một số thú; trong bài là hổ con",
+      "example": "This tiger cub is small."
+    },
+    {
+      "word": "calf",
+      "meaning_vi": "con non của một số thú; trong bài là voi con",
+      "example": "This elephant calf is small."
+    }
+  ],
+  "patterns": [
+    "Do you have any cats? — Yes, I do./No, I don't. How many trains do you have? — I have two.",
+    "He/She has a kite. They have two cars. → Giới thiệu đồ chơi theo người sở hữu.",
+    "What are you doing? — I'm reading. What's she doing? — She's cycling. → Bản thân và người khác đang làm.",
+    "What can you see? — I can see a monkey. What's it doing? — It's climbing. → Tên con vật rồi hành động.",
+    "Fun time ghép puppy/dog, kitten/cat, cub/tiger, calf/elephant trong tranh. Cub/calf không chỉ dùng cho duy nhất hai loài này."
+  ],
+  "pronunciation": [
+    "Ôn o trong dog/goldfish, i/oy trong kite/toy, n/ng trong listen/singing.",
+    "Ôn pl/fl trong play/fly, a trong parrot/dancing; nghe từ và cả câu, chấp nhận biến thể giọng hợp lí."
+  ],
+  "skills": {
+    "reading": [
+      "Tin nhắn mới: Mum is cooking. Dad is reading. I'm drawing in the garden.",
+      "Ai đang vẽ và ở đâu? Đáp án: người viết đang vẽ trong vườn. Chưa có dữ kiện vị trí bố mẹ nên không tự thêm."
+    ],
+    "writing": [
+      "Viết ba câu cho tranh gia đình tưởng tượng: This is my sister. She has a kite. She's flying it.",
+      "Thêm một đoạn cảnh sở thú gồm nơi, tên con vật và hoạt động có trong tranh; phân biệt hiện tại đang làm với sở hữu."
+    ],
+    "speaking": [
+      "Phỏng vấn theo thẻ vai về có vật nuôi nào, có mấy đồ chơi, đang làm gì; ghi đúng từng câu trả lời và đọc lại xác nhận.",
+      "Chơi ghép thẻ con non và loài theo Fun time; nói a baby dog/a baby cat để giải thích, không suy cub/calf chỉ dùng được với một loài."
+    ],
+    "listening": [
+      "Nghe từ trong mục từ vựng bằng nút giọng máy, chọn thẻ rồi đặt vào câu.",
+      "Nhờ bạn đọc một câu hỏi How many/Do you have/What are you doing, đáp đúng loại thông tin trước khi nhìn mẫu."
+    ]
+  },
+  "audio": {
+    "type": "speechSynthesis",
+    "label": "Giọng máy tiếng Anh của thiết bị, không phải âm thanh sách. Có thể khác theo thiết bị; nếu không phát, đọc theo mẫu và nhờ người lớn hỗ trợ."
+  }
+}

@@ -1,3 +1,12 @@
+# Batch44 — Review4 và kiểm thử đủ danh mục — 15/11/2026
+
+- Batch cuối1 mục: Review4 T2,12 câu mới,2 ví dụ có lời giải,1 trò chơi; đã đọc trực quan đối chiếu lại PDF71–74/trang70–73 ngày15/11/2026. Nội dung ôn vật nuôi/đồ chơi/việc đang làm/sở thú, Fun time tên con non puppy/kitten/cub/calf; không coi cub/calf chỉ dùng cho duy nhất hổ/voi.
+- AI biên soạn168/168, AI kiểm tra168/168; Toán81/81 với3240 câu,TV62/62 với776 câu,TA25/25 với300 câu. Tổng4316 câu,168 trò chơi và168 cặp JSON/Markdown riêng. Giáo viên duyệt4(Toán1–4),164 chờ thẩm định; không tự cấp duyệt. Không còn mục thiếu kho học liệu.
+- Đồng bộ content_status của danh mục theo trạng thái JSON, bỏ nhãn needs_lesson_content đã lỗi thời khi có học liệu. INDEX thêm progress tách AI biên soạn/AI kiểm tra/giáo viên duyệt/chờ duyệt/còn thiếu. Bộ tải hiển thị trạng thái168/168 và số giáo viên duyệt thực tế khi tải đủ, vẫn báo thiếu/tải lỗi đúng khi fallback.
+- npm test exit0 trên168 kho: validate_site/validate_content, toàn bộ hồi quy batch trước, test_complete_catalog, jsdom đầy đủ mọi môn. Test nghiệm thu kiểm đủ168JSON+168Markdown,4316 câu,168game, đúng4 xác nhận giáo viên, trạng thái từng mục và nguồn Review4. Test Toán10 câu3/3/4, ngôn ngữ10 câu theo bài,8 lượt thay đổi, giải thích, chống chấm lặp,4 chế độ game, lưu/nạp và fallback vẫn PASS.
+- Chưa tuyên bố bàn giao cuối cho đến khi commit, Actions, Pages được xác minh. Giọng máy chưa kiểm âm thực trên thiết bị; lịch sử kiểm thử Chrome mẫu và giới hạn Chromium cục bộ đã ghi ở Batch41.
+- Batch43 commit https://github.com/tranphuc2026abc-prog/TOAN_TV_TA_LOP3/commit/0f2b0ed3ab522e599068a6dea139d0fe7bd8bd02 ; Actions43611734944/43611734509 đều success. Batch42 đã đối chiếu8 tệp Pages HTTP200 và SHA-256 trùng.
+
 # Batch43 — Unit17–20 — 14/11/2026
 
 - Đã đọc trực quan đầy đủ T2 PDF47–70/trang46–69: đồ chơi he/she has và they have(i/oy), hành động của bản thân(n/ng), hoạt động ngoài trời he/she is(pl/fl), sở thú và hành động con vật(a parrot/dancing).48 câu mới,8 ví dụ có lời giải,4 trò chơi. Phân biệt hành động hiện tại với thói quen, đồ của từng người với nhóm; câu sở thú phân biệt tranh/chuyện với quan sát thật.

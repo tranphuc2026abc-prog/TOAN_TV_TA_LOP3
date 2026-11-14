@@ -20,7 +20,7 @@
       "source_pdf": "03-sgk-toan-3-tap-mot.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "TEACHER_APPROVED"
     },
     {
       "id": "TOAN3_T1_B02",
@@ -32,7 +32,7 @@
       "source_pdf": "03-sgk-toan-3-tap-mot.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "TEACHER_APPROVED"
     },
     {
       "id": "TOAN3_T1_B03",
@@ -44,7 +44,7 @@
       "source_pdf": "03-sgk-toan-3-tap-mot.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "TEACHER_APPROVED"
     },
     {
       "id": "TOAN3_T1_B04",
@@ -56,7 +56,7 @@
       "source_pdf": "03-sgk-toan-3-tap-mot.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "TEACHER_APPROVED"
     },
     {
       "id": "TOAN3_T1_B05",
@@ -68,7 +68,7 @@
       "source_pdf": "03-sgk-toan-3-tap-mot.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TOAN3_T1_B06",
@@ -80,7 +80,7 @@
       "source_pdf": "03-sgk-toan-3-tap-mot.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TOAN3_T1_B07",
@@ -92,7 +92,7 @@
       "source_pdf": "03-sgk-toan-3-tap-mot.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TOAN3_T1_B08",
@@ -104,7 +104,7 @@
       "source_pdf": "03-sgk-toan-3-tap-mot.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TOAN3_T1_B09",
@@ -116,7 +116,7 @@
       "source_pdf": "03-sgk-toan-3-tap-mot.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TOAN3_T1_B10",
@@ -128,7 +128,7 @@
       "source_pdf": "03-sgk-toan-3-tap-mot.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TOAN3_T1_B11",
@@ -140,7 +140,7 @@
       "source_pdf": "03-sgk-toan-3-tap-mot.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TOAN3_T1_B12",
@@ -152,7 +152,7 @@
       "source_pdf": "03-sgk-toan-3-tap-mot.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TOAN3_T1_B13",
@@ -164,7 +164,7 @@
       "source_pdf": "03-sgk-toan-3-tap-mot.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TOAN3_T1_B14",
@@ -176,7 +176,7 @@
       "source_pdf": "03-sgk-toan-3-tap-mot.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TOAN3_T1_B15",
@@ -188,7 +188,7 @@
       "source_pdf": "03-sgk-toan-3-tap-mot.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TOAN3_T1_B16",
@@ -200,7 +200,7 @@
       "source_pdf": "03-sgk-toan-3-tap-mot.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TOAN3_T1_B17",
@@ -212,7 +212,7 @@
       "source_pdf": "03-sgk-toan-3-tap-mot.pdf",
       "kind": "lesson",
       "source_status": "title_and_pages_visually_verified_against_pdf",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TOAN3_T1_B18",
@@ -224,7 +224,7 @@
       "source_pdf": "03-sgk-toan-3-tap-mot.pdf",
       "kind": "lesson",
       "source_status": "title_and_pages_visually_verified_against_pdf",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TOAN3_T1_B19",
@@ -236,7 +236,7 @@
       "source_pdf": "03-sgk-toan-3-tap-mot.pdf",
       "kind": "lesson",
       "source_status": "title_and_pages_visually_verified_against_pdf",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TOAN3_T1_B20",
@@ -248,7 +248,7 @@
       "source_pdf": "03-sgk-toan-3-tap-mot.pdf",
       "kind": "lesson",
       "source_status": "title_and_pages_visually_verified_against_pdf",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TOAN3_T1_B21",
@@ -260,7 +260,7 @@
       "source_pdf": "03-sgk-toan-3-tap-mot.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TOAN3_T1_B22",
@@ -272,7 +272,7 @@
       "source_pdf": "03-sgk-toan-3-tap-mot.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TOAN3_T1_B23",
@@ -284,7 +284,7 @@
       "source_pdf": "03-sgk-toan-3-tap-mot.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TOAN3_T1_B24",
@@ -296,7 +296,7 @@
       "source_pdf": "03-sgk-toan-3-tap-mot.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TOAN3_T1_B25",
@@ -308,7 +308,7 @@
       "source_pdf": "03-sgk-toan-3-tap-mot.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TOAN3_T1_B26",
@@ -320,7 +320,7 @@
       "source_pdf": "03-sgk-toan-3-tap-mot.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TOAN3_T1_B27",
@@ -332,7 +332,7 @@
       "source_pdf": "03-sgk-toan-3-tap-mot.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TOAN3_T1_B28",
@@ -344,7 +344,7 @@
       "source_pdf": "03-sgk-toan-3-tap-mot.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TOAN3_T1_B29",
@@ -356,7 +356,7 @@
       "source_pdf": "03-sgk-toan-3-tap-mot.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TOAN3_T1_B30",
@@ -368,7 +368,7 @@
       "source_pdf": "03-sgk-toan-3-tap-mot.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TOAN3_T1_B31",
@@ -380,7 +380,7 @@
       "source_pdf": "03-sgk-toan-3-tap-mot.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TOAN3_T1_B32",
@@ -392,7 +392,7 @@
       "source_pdf": "03-sgk-toan-3-tap-mot.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TOAN3_T1_B33",
@@ -404,7 +404,7 @@
       "source_pdf": "03-sgk-toan-3-tap-mot.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TOAN3_T1_B34",
@@ -416,7 +416,7 @@
       "source_pdf": "03-sgk-toan-3-tap-mot.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TOAN3_T1_B35",
@@ -428,7 +428,7 @@
       "source_pdf": "03-sgk-toan-3-tap-mot.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TOAN3_T1_B36",
@@ -440,7 +440,7 @@
       "source_pdf": "03-sgk-toan-3-tap-mot.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TOAN3_T1_B37",
@@ -452,7 +452,7 @@
       "source_pdf": "03-sgk-toan-3-tap-mot.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TOAN3_T1_B38",
@@ -464,7 +464,7 @@
       "source_pdf": "03-sgk-toan-3-tap-mot.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TOAN3_T1_B39",
@@ -476,7 +476,7 @@
       "source_pdf": "03-sgk-toan-3-tap-mot.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TOAN3_T1_B40",
@@ -488,7 +488,7 @@
       "source_pdf": "03-sgk-toan-3-tap-mot.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TOAN3_T1_B41",
@@ -500,7 +500,7 @@
       "source_pdf": "03-sgk-toan-3-tap-mot.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TOAN3_T1_B42",
@@ -512,7 +512,7 @@
       "source_pdf": "03-sgk-toan-3-tap-mot.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TOAN3_T1_B43",
@@ -524,7 +524,7 @@
       "source_pdf": "03-sgk-toan-3-tap-mot.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TOAN3_T1_B44",
@@ -536,7 +536,7 @@
       "source_pdf": "03-sgk-toan-3-tap-mot.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TOAN3_T2_B45",
@@ -548,7 +548,7 @@
       "source_pdf": "03-sgk-toan-3-tap-hai.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TOAN3_T2_B46",
@@ -560,7 +560,7 @@
       "source_pdf": "03-sgk-toan-3-tap-hai.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TOAN3_T2_B47",
@@ -572,7 +572,7 @@
       "source_pdf": "03-sgk-toan-3-tap-hai.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TOAN3_T2_B48",
@@ -584,7 +584,7 @@
       "source_pdf": "03-sgk-toan-3-tap-hai.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TOAN3_T2_B49",
@@ -596,7 +596,7 @@
       "source_pdf": "03-sgk-toan-3-tap-hai.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TOAN3_T2_B50",
@@ -608,7 +608,7 @@
       "source_pdf": "03-sgk-toan-3-tap-hai.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TOAN3_T2_B51",
@@ -620,7 +620,7 @@
       "source_pdf": "03-sgk-toan-3-tap-hai.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TOAN3_T2_B52",
@@ -632,7 +632,7 @@
       "source_pdf": "03-sgk-toan-3-tap-hai.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TOAN3_T2_B53",
@@ -644,7 +644,7 @@
       "source_pdf": "03-sgk-toan-3-tap-hai.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TOAN3_T2_B54",
@@ -656,7 +656,7 @@
       "source_pdf": "03-sgk-toan-3-tap-hai.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TOAN3_T2_B55",
@@ -668,7 +668,7 @@
       "source_pdf": "03-sgk-toan-3-tap-hai.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TOAN3_T2_B56",
@@ -680,7 +680,7 @@
       "source_pdf": "03-sgk-toan-3-tap-hai.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TOAN3_T2_B57",
@@ -692,7 +692,7 @@
       "source_pdf": "03-sgk-toan-3-tap-hai.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TOAN3_T2_B58",
@@ -704,7 +704,7 @@
       "source_pdf": "03-sgk-toan-3-tap-hai.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TOAN3_T2_B59",
@@ -716,7 +716,7 @@
       "source_pdf": "03-sgk-toan-3-tap-hai.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TOAN3_T2_B60",
@@ -728,7 +728,7 @@
       "source_pdf": "03-sgk-toan-3-tap-hai.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TOAN3_T2_B61",
@@ -740,7 +740,7 @@
       "source_pdf": "03-sgk-toan-3-tap-hai.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TOAN3_T2_B62",
@@ -752,7 +752,7 @@
       "source_pdf": "03-sgk-toan-3-tap-hai.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TOAN3_T2_B63",
@@ -764,7 +764,7 @@
       "source_pdf": "03-sgk-toan-3-tap-hai.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TOAN3_T2_B64",
@@ -776,7 +776,7 @@
       "source_pdf": "03-sgk-toan-3-tap-hai.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TOAN3_T2_B65",
@@ -788,7 +788,7 @@
       "source_pdf": "03-sgk-toan-3-tap-hai.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TOAN3_T2_B66",
@@ -800,7 +800,7 @@
       "source_pdf": "03-sgk-toan-3-tap-hai.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TOAN3_T2_B67",
@@ -812,7 +812,7 @@
       "source_pdf": "03-sgk-toan-3-tap-hai.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TOAN3_T2_B68",
@@ -824,7 +824,7 @@
       "source_pdf": "03-sgk-toan-3-tap-hai.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TOAN3_T2_B69",
@@ -836,7 +836,7 @@
       "source_pdf": "03-sgk-toan-3-tap-hai.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TOAN3_T2_B70",
@@ -848,7 +848,7 @@
       "source_pdf": "03-sgk-toan-3-tap-hai.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TOAN3_T2_B71",
@@ -860,7 +860,7 @@
       "source_pdf": "03-sgk-toan-3-tap-hai.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TOAN3_T2_B72",
@@ -872,7 +872,7 @@
       "source_pdf": "03-sgk-toan-3-tap-hai.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TOAN3_T2_B73",
@@ -884,7 +884,7 @@
       "source_pdf": "03-sgk-toan-3-tap-hai.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TOAN3_T2_B74",
@@ -896,7 +896,7 @@
       "source_pdf": "03-sgk-toan-3-tap-hai.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TOAN3_T2_B75",
@@ -908,7 +908,7 @@
       "source_pdf": "03-sgk-toan-3-tap-hai.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TOAN3_T2_B76",
@@ -920,7 +920,7 @@
       "source_pdf": "03-sgk-toan-3-tap-hai.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TOAN3_T2_B77",
@@ -932,7 +932,7 @@
       "source_pdf": "03-sgk-toan-3-tap-hai.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TOAN3_T2_B78",
@@ -944,7 +944,7 @@
       "source_pdf": "03-sgk-toan-3-tap-hai.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TOAN3_T2_B79",
@@ -956,7 +956,7 @@
       "source_pdf": "03-sgk-toan-3-tap-hai.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TOAN3_T2_B80",
@@ -968,7 +968,7 @@
       "source_pdf": "03-sgk-toan-3-tap-hai.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TOAN3_T2_B81",
@@ -980,7 +980,7 @@
       "source_pdf": "03-sgk-toan-3-tap-hai.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TV3_T1_B01",
@@ -992,7 +992,7 @@
       "source_pdf": "03-sgk-tieng-viet-3-tap-mot.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TV3_T1_B02",
@@ -1004,7 +1004,7 @@
       "source_pdf": "03-sgk-tieng-viet-3-tap-mot.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TV3_T1_B03",
@@ -1016,7 +1016,7 @@
       "source_pdf": "03-sgk-tieng-viet-3-tap-mot.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TV3_T1_B04",
@@ -1028,7 +1028,7 @@
       "source_pdf": "03-sgk-tieng-viet-3-tap-mot.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TV3_T1_B05",
@@ -1040,7 +1040,7 @@
       "source_pdf": "03-sgk-tieng-viet-3-tap-mot.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TV3_T1_B06",
@@ -1052,7 +1052,7 @@
       "source_pdf": "03-sgk-tieng-viet-3-tap-mot.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TV3_T1_B07",
@@ -1064,7 +1064,7 @@
       "source_pdf": "03-sgk-tieng-viet-3-tap-mot.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TV3_T1_B08",
@@ -1076,7 +1076,7 @@
       "source_pdf": "03-sgk-tieng-viet-3-tap-mot.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TV3_T1_B09",
@@ -1088,7 +1088,7 @@
       "source_pdf": "03-sgk-tieng-viet-3-tap-mot.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TV3_T1_B10",
@@ -1100,7 +1100,7 @@
       "source_pdf": "03-sgk-tieng-viet-3-tap-mot.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TV3_T1_B11",
@@ -1112,7 +1112,7 @@
       "source_pdf": "03-sgk-tieng-viet-3-tap-mot.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TV3_T1_B12",
@@ -1124,7 +1124,7 @@
       "source_pdf": "03-sgk-tieng-viet-3-tap-mot.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TV3_T1_B13",
@@ -1136,7 +1136,7 @@
       "source_pdf": "03-sgk-tieng-viet-3-tap-mot.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TV3_T1_B14",
@@ -1148,7 +1148,7 @@
       "source_pdf": "03-sgk-tieng-viet-3-tap-mot.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TV3_T1_B15",
@@ -1160,7 +1160,7 @@
       "source_pdf": "03-sgk-tieng-viet-3-tap-mot.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TV3_T1_B16",
@@ -1172,7 +1172,7 @@
       "source_pdf": "03-sgk-tieng-viet-3-tap-mot.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TV3_T1_B17",
@@ -1184,7 +1184,7 @@
       "source_pdf": "03-sgk-tieng-viet-3-tap-mot.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TV3_T1_B18",
@@ -1196,7 +1196,7 @@
       "source_pdf": "03-sgk-tieng-viet-3-tap-mot.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TV3_T1_B19",
@@ -1208,7 +1208,7 @@
       "source_pdf": "03-sgk-tieng-viet-3-tap-mot.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TV3_T1_B20",
@@ -1220,7 +1220,7 @@
       "source_pdf": "03-sgk-tieng-viet-3-tap-mot.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TV3_T1_B21",
@@ -1232,7 +1232,7 @@
       "source_pdf": "03-sgk-tieng-viet-3-tap-mot.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TV3_T1_B22",
@@ -1244,7 +1244,7 @@
       "source_pdf": "03-sgk-tieng-viet-3-tap-mot.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TV3_T1_B23",
@@ -1256,7 +1256,7 @@
       "source_pdf": "03-sgk-tieng-viet-3-tap-mot.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TV3_T1_B24",
@@ -1268,7 +1268,7 @@
       "source_pdf": "03-sgk-tieng-viet-3-tap-mot.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TV3_T1_B25",
@@ -1280,7 +1280,7 @@
       "source_pdf": "03-sgk-tieng-viet-3-tap-mot.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TV3_T1_B26",
@@ -1292,7 +1292,7 @@
       "source_pdf": "03-sgk-tieng-viet-3-tap-mot.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TV3_T1_B27",
@@ -1304,7 +1304,7 @@
       "source_pdf": "03-sgk-tieng-viet-3-tap-mot.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TV3_T1_B28",
@@ -1316,7 +1316,7 @@
       "source_pdf": "03-sgk-tieng-viet-3-tap-mot.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TV3_T1_B29",
@@ -1328,7 +1328,7 @@
       "source_pdf": "03-sgk-tieng-viet-3-tap-mot.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TV3_T1_B30",
@@ -1340,7 +1340,7 @@
       "source_pdf": "03-sgk-tieng-viet-3-tap-mot.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TV3_T1_B31",
@@ -1352,7 +1352,7 @@
       "source_pdf": "03-sgk-tieng-viet-3-tap-mot.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TV3_T1_B32",
@@ -1364,7 +1364,7 @@
       "source_pdf": "03-sgk-tieng-viet-3-tap-mot.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TV3_T2_B01",
@@ -1376,7 +1376,7 @@
       "source_pdf": "03-sgk-tieng-viet-3-tap-hai.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TV3_T2_B02",
@@ -1388,7 +1388,7 @@
       "source_pdf": "03-sgk-tieng-viet-3-tap-hai.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TV3_T2_B03",
@@ -1400,7 +1400,7 @@
       "source_pdf": "03-sgk-tieng-viet-3-tap-hai.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TV3_T2_B04",
@@ -1412,7 +1412,7 @@
       "source_pdf": "03-sgk-tieng-viet-3-tap-hai.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TV3_T2_B05",
@@ -1424,7 +1424,7 @@
       "source_pdf": "03-sgk-tieng-viet-3-tap-hai.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TV3_T2_B06",
@@ -1436,7 +1436,7 @@
       "source_pdf": "03-sgk-tieng-viet-3-tap-hai.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TV3_T2_B07",
@@ -1448,7 +1448,7 @@
       "source_pdf": "03-sgk-tieng-viet-3-tap-hai.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TV3_T2_B08",
@@ -1460,7 +1460,7 @@
       "source_pdf": "03-sgk-tieng-viet-3-tap-hai.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TV3_T2_B09",
@@ -1472,7 +1472,7 @@
       "source_pdf": "03-sgk-tieng-viet-3-tap-hai.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TV3_T2_B10",
@@ -1484,7 +1484,7 @@
       "source_pdf": "03-sgk-tieng-viet-3-tap-hai.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TV3_T2_B11",
@@ -1496,7 +1496,7 @@
       "source_pdf": "03-sgk-tieng-viet-3-tap-hai.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TV3_T2_B12",
@@ -1508,7 +1508,7 @@
       "source_pdf": "03-sgk-tieng-viet-3-tap-hai.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TV3_T2_B13",
@@ -1520,7 +1520,7 @@
       "source_pdf": "03-sgk-tieng-viet-3-tap-hai.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TV3_T2_B14",
@@ -1532,7 +1532,7 @@
       "source_pdf": "03-sgk-tieng-viet-3-tap-hai.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TV3_T2_B15",
@@ -1544,7 +1544,7 @@
       "source_pdf": "03-sgk-tieng-viet-3-tap-hai.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TV3_T2_B16",
@@ -1556,7 +1556,7 @@
       "source_pdf": "03-sgk-tieng-viet-3-tap-hai.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TV3_T2_B17",
@@ -1568,7 +1568,7 @@
       "source_pdf": "03-sgk-tieng-viet-3-tap-hai.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TV3_T2_B18",
@@ -1580,7 +1580,7 @@
       "source_pdf": "03-sgk-tieng-viet-3-tap-hai.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TV3_T2_B19",
@@ -1592,7 +1592,7 @@
       "source_pdf": "03-sgk-tieng-viet-3-tap-hai.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TV3_T2_B20",
@@ -1604,7 +1604,7 @@
       "source_pdf": "03-sgk-tieng-viet-3-tap-hai.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TV3_T2_B21",
@@ -1616,7 +1616,7 @@
       "source_pdf": "03-sgk-tieng-viet-3-tap-hai.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TV3_T2_B22",
@@ -1628,7 +1628,7 @@
       "source_pdf": "03-sgk-tieng-viet-3-tap-hai.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TV3_T2_B23",
@@ -1640,7 +1640,7 @@
       "source_pdf": "03-sgk-tieng-viet-3-tap-hai.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TV3_T2_B24",
@@ -1652,7 +1652,7 @@
       "source_pdf": "03-sgk-tieng-viet-3-tap-hai.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TV3_T2_B25",
@@ -1664,7 +1664,7 @@
       "source_pdf": "03-sgk-tieng-viet-3-tap-hai.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TV3_T2_B26",
@@ -1676,7 +1676,7 @@
       "source_pdf": "03-sgk-tieng-viet-3-tap-hai.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TV3_T2_B27",
@@ -1688,7 +1688,7 @@
       "source_pdf": "03-sgk-tieng-viet-3-tap-hai.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TV3_T2_B28",
@@ -1700,7 +1700,7 @@
       "source_pdf": "03-sgk-tieng-viet-3-tap-hai.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TV3_T2_B29",
@@ -1712,7 +1712,7 @@
       "source_pdf": "03-sgk-tieng-viet-3-tap-hai.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TV3_T2_B30",
@@ -1724,7 +1724,7 @@
       "source_pdf": "03-sgk-tieng-viet-3-tap-hai.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TA3_T1_START",
@@ -1736,7 +1736,7 @@
       "source_pdf": "03-sgk-tieng-anh-3-tap-1-global-success.pdf",
       "kind": "resource",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TA3_T1_U01",
@@ -1748,7 +1748,7 @@
       "source_pdf": "03-sgk-tieng-anh-3-tap-1-global-success.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TA3_T1_U02",
@@ -1760,7 +1760,7 @@
       "source_pdf": "03-sgk-tieng-anh-3-tap-1-global-success.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TA3_T1_U03",
@@ -1772,7 +1772,7 @@
       "source_pdf": "03-sgk-tieng-anh-3-tap-1-global-success.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TA3_T1_U04",
@@ -1784,7 +1784,7 @@
       "source_pdf": "03-sgk-tieng-anh-3-tap-1-global-success.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TA3_T1_U05",
@@ -1796,7 +1796,7 @@
       "source_pdf": "03-sgk-tieng-anh-3-tap-1-global-success.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TA3_T1_R01",
@@ -1808,7 +1808,7 @@
       "source_pdf": "03-sgk-tieng-anh-3-tap-1-global-success.pdf",
       "kind": "review",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TA3_T1_U06",
@@ -1820,7 +1820,7 @@
       "source_pdf": "03-sgk-tieng-anh-3-tap-1-global-success.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TA3_T1_U07",
@@ -1832,7 +1832,7 @@
       "source_pdf": "03-sgk-tieng-anh-3-tap-1-global-success.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TA3_T1_U08",
@@ -1844,7 +1844,7 @@
       "source_pdf": "03-sgk-tieng-anh-3-tap-1-global-success.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TA3_T1_U09",
@@ -1856,7 +1856,7 @@
       "source_pdf": "03-sgk-tieng-anh-3-tap-1-global-success.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TA3_T1_U10",
@@ -1868,7 +1868,7 @@
       "source_pdf": "03-sgk-tieng-anh-3-tap-1-global-success.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TA3_T1_R02",
@@ -1880,7 +1880,7 @@
       "source_pdf": "03-sgk-tieng-anh-3-tap-1-global-success.pdf",
       "kind": "review",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TA3_T2_U11",
@@ -1892,7 +1892,7 @@
       "source_pdf": "03-sgk-tieng-anh-3-tap-2-global-success.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TA3_T2_U12",
@@ -1904,7 +1904,7 @@
       "source_pdf": "03-sgk-tieng-anh-3-tap-2-global-success.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TA3_T2_U13",
@@ -1916,7 +1916,7 @@
       "source_pdf": "03-sgk-tieng-anh-3-tap-2-global-success.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TA3_T2_U14",
@@ -1928,7 +1928,7 @@
       "source_pdf": "03-sgk-tieng-anh-3-tap-2-global-success.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TA3_T2_U15",
@@ -1940,7 +1940,7 @@
       "source_pdf": "03-sgk-tieng-anh-3-tap-2-global-success.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TA3_T2_R03",
@@ -1952,7 +1952,7 @@
       "source_pdf": "03-sgk-tieng-anh-3-tap-2-global-success.pdf",
       "kind": "review",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TA3_T2_U16",
@@ -1964,7 +1964,7 @@
       "source_pdf": "03-sgk-tieng-anh-3-tap-2-global-success.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TA3_T2_U17",
@@ -1976,7 +1976,7 @@
       "source_pdf": "03-sgk-tieng-anh-3-tap-2-global-success.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TA3_T2_U18",
@@ -1988,7 +1988,7 @@
       "source_pdf": "03-sgk-tieng-anh-3-tap-2-global-success.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TA3_T2_U19",
@@ -2000,7 +2000,7 @@
       "source_pdf": "03-sgk-tieng-anh-3-tap-2-global-success.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TA3_T2_U20",
@@ -2012,7 +2012,7 @@
       "source_pdf": "03-sgk-tieng-anh-3-tap-2-global-success.pdf",
       "kind": "lesson",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     },
     {
       "id": "TA3_T2_R04",
@@ -2024,7 +2024,7 @@
       "source_pdf": "03-sgk-tieng-anh-3-tap-2-global-success.pdf",
       "kind": "review",
       "source_status": "title_and_page_indexed_from_ocr",
-      "content_status": "needs_lesson_content"
+      "content_status": "AI_CHECKED_AWAITING_TEACHER"
     }
   ]
 }

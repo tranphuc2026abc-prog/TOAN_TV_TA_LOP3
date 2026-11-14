@@ -2018,12 +2018,19 @@
       "subject": "ta",
       "volume": "Tập 2",
       "title": "Review 4",
-      "path": null,
-      "markdown": null,
-      "question_count": null,
-      "game_count": null,
-      "status": "BAN_NHAP",
-      "note": "Có bài mẫu hoặc bản nháp tự động; chưa kiểm định từng bài."
+      "path": "content/tieng-anh/tap-2/TA3_T2_R04.json",
+      "markdown": "content/tieng-anh/tap-2/TA3_T2_R04.md",
+      "question_count": 12,
+      "game_count": 1,
+      "status": "CAN_RA_SOAT",
+      "note": "AI đã rà soát nguồn, đáp án; chờ giáo viên thẩm định."
     }
-  ]
+  ],
+  "progress": {
+    "ai_authored": 168,
+    "ai_checked": 168,
+    "teacher_approved": 4,
+    "awaiting_teacher": 164,
+    "remaining": 0
+  }
 }

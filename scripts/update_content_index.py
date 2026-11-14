@@ -21,12 +21,15 @@ for meta in catalog['lessons']:
         md=candidates[0].with_suffix('.md')
         if is_approved:
             md.write_text(md.read_text().replace('Trạng thái: AI biên soạn và rà soát; chưa có xác nhận của giáo viên.', 'Trạng thái: Giáo viên Nguyễn Thế Khanh đã xem và thẩm định Batch 1 (07/11/2026).'))
+    meta['content_status']=obj['status'] if obj else 'needs_lesson_content'
     entries.append(dict(id=meta['id'],subject=meta['subject'],volume=meta['volume'],title=meta['title'],
         path=str(candidates[0].relative_to(ROOT)) if obj else None,
         markdown=str(candidates[0].with_suffix('.md').relative_to(ROOT)) if obj else None,
         question_count=len(obj['practice']) if obj else None,game_count=len(obj['games']) if obj else None,
         status='DA_HOAN_THIEN' if is_approved else 'CAN_RA_SOAT' if obj else 'BAN_NHAP',
         note='Giáo viên đã thẩm định.' if is_approved else 'AI đã rà soát nguồn, đáp án; chờ giáo viên thẩm định.' if obj else 'Có bài mẫu hoặc bản nháp tự động; chưa kiểm định từng bài.'))
+(ROOT/'data/CHUONG_TRINH_LOP_3_FULL.json').write_text(json.dumps(catalog,ensure_ascii=False,indent=2)+'\n')
 out=dict(updated=datetime.now(timezone.utc).date().isoformat(),total=len(entries),counts=catalog['counts'],lessons=entries)
+out['progress']=dict(ai_authored=sum(bool(e['path']) for e in entries),ai_checked=sum(e['status'] in ('CAN_RA_SOAT','DA_HOAN_THIEN') for e in entries),teacher_approved=len(approved),awaiting_teacher=sum(e['status']=='CAN_RA_SOAT' for e in entries),remaining=sum(not e['path'] for e in entries))
 (ROOT/'content/system/INDEX.json').write_text(json.dumps(out,ensure_ascii=False,indent=2)+'\n')
 print('Chỉ mục:',len(entries),'mục;',sum(e['path'] is not None for e in entries),'có học liệu riêng;',len(approved),'đã thẩm định.')

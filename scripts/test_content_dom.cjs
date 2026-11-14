@@ -14,6 +14,7 @@ async function boot(missing){
 }
 (async()=>{
  const {w,errors}=await boot();w.load('KiemThu');w.go({p:'home'});assert.equal(w.L.length,168);
+ const loadedStatus=w.document.getElementById('contentLoadStatus').textContent;assert(loadedStatus.includes('168/168'));assert(loadedStatus.includes('4 bài đã được giáo viên duyệt'));assert(loadedStatus.includes('164 bài chờ thẩm định'));assert(!loadedStatus.includes('đang được biên soạn'));
  for(const entry of activeEntries){
   const id=entry.id,n=Number(id.slice(-2)),isMath=entry.subject==='toan';w.go({p:'lesson',id});assert(w.A.textContent.includes(entry.question_count+' câu'));
   if(!isMath)assert(!w.A.textContent.includes('3 nhận biết'));
