@@ -1,0 +1,373 @@
+{
+  "id": "TA3_T1_U08",
+  "subject": "ta",
+  "grade": 3,
+  "book": "Kết nối tri thức với cuộc sống",
+  "volume": 1,
+  "lesson_no": 8,
+  "title": "Unit 8: My school things",
+  "topic": "English Global Success",
+  "source": {
+    "pdf": "03-sgk-tieng-anh-3-tap-1-global-success.pdf",
+    "printed_pages": [
+      56,
+      61
+    ],
+    "pdf_pages": [
+      57,
+      62
+    ],
+    "review": "Đã đọc trực quan đầy đủ trang nguồn PDF ảnh quét ngày14/11/2026. Biên soạn tình huống, ví dụ và câu hỏi mới; không đăng toàn văn hay sao chép hệ thống bài tập SGK; không có bản thu âm sách."
+  },
+  "objectives": [
+    "Hiểu và dùng đúng: Giới thiệu đồ học tập bằng I have và hỏi sở hữu bằng Do you have.",
+    "Đọc, viết và thực hành nói theo tình huống mới.",
+    "Nhận biết trọng tâm phát âm và luyện nghe bằng giọng máy có ghi nhãn."
+  ],
+  "knowledge": {
+    "introduction": "Giới thiệu đồ học tập bằng I have và hỏi sở hữu bằng Do you have.",
+    "rules": [
+      "I have a ruler. → Tôi có một chiếc thước. I have an eraser. → Tôi có một cục tẩy.",
+      "Do you have a pencil? — Yes, I do. / No, I don't. → Bạn có bút chì không? — Có./Không.",
+      "Dùng a với pen/book, an với eraser theo âm đầu; don't = do not."
+    ],
+    "steps": [
+      "Đọc từ và nghĩa, quan sát tình huống trước khi chọn cách nói.",
+      "Nghe từ bằng giọng máy nếu thiết bị hỗ trợ, đọc lại chậm theo hướng dẫn phát âm.",
+      "Làm câu hỏi, xem giải thích rồi thực hành nói và viết theo nhiệm vụ."
+    ],
+    "common_errors": [
+      "Dùng I has thay I have; dùng Yes, it is để trả lời Do you have.",
+      "Bỏ a/an ở đồ dùng số ít hoặc viết nhầm pen/pencil."
+    ]
+  },
+  "examples": [
+    {
+      "question": "Đồ dùng nào mang tên ruler?",
+      "steps": [
+        "Nhận diện yêu cầu: vocabulary",
+        "Ruler dùng để đo hoặc kẻ; không nhầm với pen, notebook, pencil case.",
+        "Đáp án: Thước kẻ."
+      ]
+    },
+    {
+      "question": "Tên đồ đựng bút viết đúng thế nào?",
+      "steps": [
+        "Nhận diện yêu cầu: writing",
+        "Pencil case gồm hai từ; pencil chỉ bút chì, cả cụm là hộp đựng bút.",
+        "Đáp án: pencil case"
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "title": "Thực hành theo cặp: Unit 8: My school things",
+      "materials": [
+        "Giấy",
+        "Bút",
+        "Thẻ tự làm"
+      ],
+      "steps": [
+        "Tự vẽ bốn thẻ đồ dùng và bốn thẻ tên; lật ghép cặp rồi nói I have. Hỏi bạn về một thẻ chưa lật, đáp theo bộ thẻ mỗi người.",
+        "Đổi vai và nhờ bạn nhắc lại thông tin đã nghe.",
+        "Sửa một lỗi sau khi đọc phần giải thích trong bài."
+      ],
+      "check": [
+        "Đúng nội dung giao tiếp hoặc chữ/số yêu cầu.",
+        "Phát âm chậm, đủ nghe; nhờ người lớn hỗ trợ chỗ chưa chắc.",
+        "Viết đúng từ, tên riêng, dấu nháy và dấu câu."
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "question_id": "TA3_T1_U08_Q01",
+      "type": "mcq",
+      "skill": "vocabulary",
+      "question": "Đồ dùng nào mang tên ruler?",
+      "correct_answer": "Thước kẻ.",
+      "options": [
+        "Bút mực.",
+        "Quyển vở.",
+        "Hộp bút.",
+        "Thước kẻ."
+      ],
+      "explanation": "Ruler dùng để đo hoặc kẻ; không nhầm với pen, notebook, pencil case."
+    },
+    {
+      "question_id": "TA3_T1_U08_Q02",
+      "type": "mcq",
+      "skill": "grammar",
+      "question": "Em có một cục tẩy. Câu nào dùng a/an đúng?",
+      "correct_answer": "I have an eraser.",
+      "options": [
+        "I have an ruler.",
+        "I has an eraser.",
+        "I have an eraser.",
+        "I have a eraser."
+      ],
+      "explanation": "Eraser bắt đầu bằng âm nguyên âm nên dùng an; chủ ngữ I đi với have."
+    },
+    {
+      "question_id": "TA3_T1_U08_Q03",
+      "type": "mcq",
+      "skill": "communication",
+      "question": "Bạn hỏi Do you have a pencil? Em có bút chì. Đáp ngắn theo bài thế nào?",
+      "correct_answer": "Yes, I do.",
+      "options": [
+        "Yes, I don't.",
+        "Yes, I do.",
+        "Yes, it is.",
+        "Yes, you can."
+      ],
+      "explanation": "Câu hỏi Do you have dùng Yes, I do/No, I don't, khác câu hỏi Is this hoặc May I."
+    },
+    {
+      "question_id": "TA3_T1_U08_Q04",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Đọc: I have a notebook and a ruler. I don't have a pen. Vật nào người nói chưa có?",
+      "correct_answer": "Bút mực.",
+      "options": [
+        "Bút mực.",
+        "Thước.",
+        "Quyển vở.",
+        "Cả thước và vở."
+      ],
+      "explanation": "Don't have phủ định sở hữu bút mực; hai vật đầu được nêu là có."
+    },
+    {
+      "question_id": "TA3_T1_U08_Q05",
+      "type": "mcq",
+      "skill": "writing",
+      "question": "Tên đồ đựng bút viết đúng thế nào?",
+      "correct_answer": "pencil case",
+      "options": [
+        "pencill case",
+        "pencil cace",
+        "pensil case",
+        "pencil case"
+      ],
+      "explanation": "Pencil case gồm hai từ; pencil chỉ bút chì, cả cụm là hộp đựng bút."
+    },
+    {
+      "question_id": "TA3_T1_U08_Q06",
+      "type": "mcq",
+      "skill": "vocabulary",
+      "question": "Book và notebook khác nhau ở nghĩa nào trong bài?",
+      "correct_answer": "Book là sách; notebook là vở.",
+      "options": [
+        "Book là tẩy, notebook là thước.",
+        "Notebook là tên người.",
+        "Book là sách; notebook là vở.",
+        "Cả hai đều là cặp sách."
+      ],
+      "explanation": "Hai đồ dùng có cách gọi và công dụng khác nhau, không bỏ phần note của notebook."
+    },
+    {
+      "question_id": "TA3_T1_U08_Q07",
+      "type": "mcq",
+      "skill": "communication",
+      "question": "Em không có cặp sách khi bạn hỏi Do you have a school bag? Em đáp sao?",
+      "correct_answer": "No, I don't.",
+      "options": [
+        "No, you can't.",
+        "No, I don't.",
+        "No, it isn't.",
+        "Yes, I don't."
+      ],
+      "explanation": "I don't rút gọn ý I do not have; dùng đúng người nói I và ý phủ định."
+    },
+    {
+      "question_id": "TA3_T1_U08_Q08",
+      "type": "mcq",
+      "skill": "pronunciation",
+      "question": "Nhóm oo trong book có âm nào theo cách luyện Unit8?",
+      "correct_answer": "/ʊ/ ngắn.",
+      "options": [
+        "/ʊ/ ngắn.",
+        "/uː/ kéo dài.",
+        "Tên hai chữ O đọc tách.",
+        "/aɪ/."
+      ],
+      "explanation": "Book dùng nguyên âm /ʊ/, môi hơi tròn, không kéo dài thành âm /uː/."
+    },
+    {
+      "question_id": "TA3_T1_U08_Q09",
+      "type": "mcq",
+      "skill": "pronunciation",
+      "question": "Khi đọc eraser, âm a ở phần nhấn được luyện như thế nào?",
+      "correct_answer": "/eɪ/, như trong phần raser.",
+      "options": [
+        "/ʊ/ như book.",
+        "Luôn bỏ âm này.",
+        "Đọc nguyên từ thành chữ A.",
+        "/eɪ/, như trong phần raser."
+      ],
+      "explanation": "Eraser /ɪˈreɪzə/ có phần nhấn /reɪ/; không dùng âm /ʊ/ của book cho từ này."
+    },
+    {
+      "question_id": "TA3_T1_U08_Q10",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Trên thẻ mới, My school things: a pen, a ruler, an eraser. Có mấy loại đồ dùng được kể?",
+      "correct_answer": "Ba loại.",
+      "options": [
+        "Bốn loại.",
+        "Một loại.",
+        "Ba loại.",
+        "Hai loại."
+      ],
+      "explanation": "Danh sách tách ba tên đồ dùng bằng dấu phẩy; a/an không phải tên đồ vật thêm."
+    },
+    {
+      "question_id": "TA3_T1_U08_Q11",
+      "type": "mcq",
+      "skill": "writing",
+      "question": "Chọn câu thể hiện em có sách và bút chì.",
+      "correct_answer": "I have a book and a pencil.",
+      "options": [
+        "I have an book and pencil.",
+        "I have a book and a pencil.",
+        "I book and pencil have a a.",
+        "I has a book and a pencil."
+      ],
+      "explanation": "Mẫu I have + đồ dùng; hai danh từ số ít ở đây đều mở đầu bằng phụ âm nên dùng a."
+    },
+    {
+      "question_id": "TA3_T1_U08_Q12",
+      "type": "mcq",
+      "skill": "speaking",
+      "question": "Giới thiệu hai đồ học tập thật, cách thực hành nào đúng?",
+      "correct_answer": "Chỉ từng đồ và nói I have, rồi hỏi bạn Do you have.",
+      "options": [
+        "Chỉ từng đồ và nói I have, rồi hỏi bạn Do you have.",
+        "Chỉ đọc tên tuổi, bỏ đồ vật.",
+        "Nói I'm thay I have cho mọi vật.",
+        "Luôn đáp yes dù không có đồ."
+      ],
+      "explanation": "Luyện sở hữu và hỏi đáp, trả lời phù hợp đồ đang có; có thể dùng thẻ tưởng tượng khi không mang đồ."
+    }
+  ],
+  "games": [
+    {
+      "id": "TA3_T1_U08_GAME",
+      "title": "Kho báu tiếng Anh: Unit 8: My school things",
+      "mode": "treasure",
+      "objective": "Chọn từ và lời nói phù hợp để mở kho báu.",
+      "rules": [
+        "Mỗi lượt10 câu thuộc bài, không áp phân mức Toán.",
+        "Chọn đáp án rồi đọc giải thích. Trả lời đúng tiến thêm một bước.",
+        "Kết thúc, ôn câu sai và thử lại."
+      ],
+      "question_ids": [
+        "TA3_T1_U08_Q01",
+        "TA3_T1_U08_Q02",
+        "TA3_T1_U08_Q03",
+        "TA3_T1_U08_Q04",
+        "TA3_T1_U08_Q05",
+        "TA3_T1_U08_Q06",
+        "TA3_T1_U08_Q07",
+        "TA3_T1_U08_Q08",
+        "TA3_T1_U08_Q09",
+        "TA3_T1_U08_Q10",
+        "TA3_T1_U08_Q11",
+        "TA3_T1_U08_Q12"
+      ],
+      "answer_source": "practice.correct_answer",
+      "feedback_source": "practice.explanation",
+      "max_score": 100
+    }
+  ],
+  "assessment": {
+    "session_size": 10,
+    "scoring": "Mỗi câu đúng được tính điểm theo hệ thống; 8–10 câu đúng: nắm tốt, 5–7: đọc lại phần còn nhầm, dưới 5: đọc bài cùng người thân rồi thử lại. Nhiệm vụ nói/viết tự kiểm theo tiêu chí, không chấm bằng một đáp án duy nhất.",
+    "review_advice": "Xem lại câu sai theo nhóm từ, mẫu câu, phát âm; thực hiện cả nhiệm vụ nói và viết. Điểm trắc nghiệm không thay thế nhận xét phát âm."
+  },
+  "feedback": {
+    "correct": "Đúng rồi! Em đọc lại từ hoặc lời nói vừa chọn.",
+    "incorrect": "Đọc lời giải, chú ý tình huống rồi thử dùng mẫu câu.",
+    "teacher_note": "AI_CHECKED_AWAITING_TEACHER; phần nói và phát âm cần người lớn nghe và góp ý."
+  },
+  "verification": {
+    "ai_authored": true,
+    "structure_checked": true,
+    "answer_reviewed": true,
+    "source_reviewed": true,
+    "teacher_approved": false
+  },
+  "status": "AI_CHECKED_AWAITING_TEACHER",
+  "vocabulary": [
+    {
+      "word": "pen",
+      "meaning_vi": "bút mực",
+      "example": "I have a pen."
+    },
+    {
+      "word": "pencil",
+      "meaning_vi": "bút chì",
+      "example": "I have a pencil."
+    },
+    {
+      "word": "ruler",
+      "meaning_vi": "thước kẻ",
+      "example": "I have a ruler."
+    },
+    {
+      "word": "book",
+      "meaning_vi": "sách",
+      "example": "I have a book."
+    },
+    {
+      "word": "notebook",
+      "meaning_vi": "vở",
+      "example": "I have a notebook."
+    },
+    {
+      "word": "school bag",
+      "meaning_vi": "cặp sách",
+      "example": "I have a school bag."
+    },
+    {
+      "word": "pencil case",
+      "meaning_vi": "hộp/túi đựng bút",
+      "example": "I have a pencil case."
+    },
+    {
+      "word": "eraser",
+      "meaning_vi": "cục tẩy",
+      "example": "I have an eraser."
+    }
+  ],
+  "patterns": [
+    "I have a ruler. → Tôi có một chiếc thước. I have an eraser. → Tôi có một cục tẩy.",
+    "Do you have a pencil? — Yes, I do. / No, I don't. → Bạn có bút chì không? — Có./Không.",
+    "Dùng a với pen/book, an với eraser theo âm đầu; don't = do not."
+  ],
+  "pronunciation": [
+    "oo trong book đọc /ʊ/ ngắn, không kéo dài thành /uː/.",
+    "a trong phần nhấn của eraser đọc /eɪ/: /ɪˈreɪzə/; nghe cả từ rồi đọc vào câu."
+  ],
+  "skills": {
+    "reading": [
+      "Đoạn mới: I have a notebook and a ruler. I don't have a pen.",
+      "Người nói có gì và thiếu gì? Đáp án: có vở, thước; chưa có bút mực."
+    ],
+    "writing": [
+      "Viết lời giới thiệu hai đồ dùng em có hoặc thẻ nhân vật có; mẫu: I have a book and a pencil.",
+      "Thêm một câu hỏi Do you have an eraser và hai câu đáp có/không để luyện đúng do/don't."
+    ],
+    "speaking": [
+      "Chỉ hai đồ dùng và nói I have; bạn hỏi Do you have về một đồ khác, em đáp theo thực tế hoặc thẻ vai.",
+      "Người nghe nhắc lại tên đồ dùng để kiểm tra đã hiểu đúng pen hay pencil."
+    ],
+    "listening": [
+      "Nghe book/eraser từ giọng máy, chỉ thẻ rồi đọc lại, chú ý oo và a.",
+      "Nhờ người lớn đọc một câu I have trong mẫu; em chọn đúng thẻ, đối chiếu chữ sau khi nghe."
+    ]
+  },
+  "audio": {
+    "type": "speechSynthesis",
+    "label": "Giọng máy tiếng Anh của thiết bị, không phải âm thanh sách. Có thể khác theo thiết bị; nếu không phát, đọc theo mẫu và nhờ người lớn hỗ trợ."
+  }
+}

@@ -1,0 +1,373 @@
+{
+  "id": "TA3_T1_U07",
+  "subject": "ta",
+  "grade": 3,
+  "book": "Kết nối tri thức với cuộc sống",
+  "volume": 1,
+  "lesson_no": 7,
+  "title": "Unit 7: Classroom instructions",
+  "topic": "English Global Success",
+  "source": {
+    "pdf": "03-sgk-tieng-anh-3-tap-1-global-success.pdf",
+    "printed_pages": [
+      50,
+      55
+    ],
+    "pdf_pages": [
+      51,
+      56
+    ],
+    "review": "Đã đọc trực quan đầy đủ trang nguồn PDF ảnh quét ngày14/11/2026. Biên soạn tình huống, ví dụ và câu hỏi mới; không đăng toàn văn hay sao chép hệ thống bài tập SGK; không có bản thu âm sách."
+  },
+  "objectives": [
+    "Hiểu và dùng đúng: Hiểu lời hướng dẫn lớp học và hỏi xin phép bằng May I; nghe câu trả lời trước khi hành động.",
+    "Đọc, viết và thực hành nói theo tình huống mới.",
+    "Nhận biết trọng tâm phát âm và luyện nghe bằng giọng máy có ghi nhãn."
+  ],
+  "knowledge": {
+    "introduction": "Hiểu lời hướng dẫn lớp học và hỏi xin phép bằng May I; nghe câu trả lời trước khi hành động.",
+    "rules": [
+      "Open/Close your book, please! Stand up/Sit down, please! → Lời yêu cầu trong lớp.",
+      "May I come in? — Yes, you can. → Em được vào không ạ? — Được.",
+      "May I go out? — No, you can't. → Em được ra ngoài không ạ? — Chưa được. Can't = cannot."
+    ],
+    "steps": [
+      "Đọc từ và nghĩa, quan sát tình huống trước khi chọn cách nói.",
+      "Nghe từ bằng giọng máy nếu thiết bị hỗ trợ, đọc lại chậm theo hướng dẫn phát âm.",
+      "Làm câu hỏi, xem giải thích rồi thực hành nói và viết theo nhiệm vụ."
+    ],
+    "common_errors": [
+      "Dùng Yes, I do để trả lời May I.",
+      "Bỏ not/can't làm đổi nghĩa câu; nhầm open với close."
+    ]
+  },
+  "examples": [
+    {
+      "question": "Đứng ngoài cửa lớp, em muốn xin phép vào. Em nên nói câu nào?",
+      "steps": [
+        "Nhận diện yêu cầu: communication",
+        "May I + hành động là lời xin phép; come in là đi vào.",
+        "Đáp án: May I come in?"
+      ]
+    },
+    {
+      "question": "Đọc hội thoại mới: An: May I stand up? Teacher: No, you can't. An đã được phép đứng chưa?",
+      "steps": [
+        "Nhận diện yêu cầu: reading",
+        "Can't là cannot, nêu ý không cho phép; cần đọc cả câu trả lời.",
+        "Đáp án: Chưa, giáo viên chưa cho phép."
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "title": "Thực hành theo cặp: Unit 7: Classroom instructions",
+      "materials": [
+        "Giấy",
+        "Bút",
+        "Thẻ tự làm"
+      ],
+      "steps": [
+        "Viết bốn phiếu yêu cầu lớp học, lần lượt rút phiếu và đọc cho bạn; bạn làm động tác nhẹ hoặc chỉ thẻ. Thêm một lượt xin phép và đáp rồi đổi vai.",
+        "Đổi vai và nhờ bạn nhắc lại thông tin đã nghe.",
+        "Sửa một lỗi sau khi đọc phần giải thích trong bài."
+      ],
+      "check": [
+        "Đúng nội dung giao tiếp hoặc chữ/số yêu cầu.",
+        "Phát âm chậm, đủ nghe; nhờ người lớn hỗ trợ chỗ chưa chắc.",
+        "Viết đúng từ, tên riêng, dấu nháy và dấu câu."
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "question_id": "TA3_T1_U07_Q01",
+      "type": "mcq",
+      "skill": "communication",
+      "question": "Đứng ngoài cửa lớp, em muốn xin phép vào. Em nên nói câu nào?",
+      "correct_answer": "May I come in?",
+      "options": [
+        "Come I may in?",
+        "I may in come.",
+        "Goodbye, in.",
+        "May I come in?"
+      ],
+      "explanation": "May I + hành động là lời xin phép; come in là đi vào."
+    },
+    {
+      "question_id": "TA3_T1_U07_Q02",
+      "type": "mcq",
+      "skill": "vocabulary",
+      "question": "Giáo viên nói Close your book, please! Em cần làm gì?",
+      "correct_answer": "Gấp sách lại.",
+      "options": [
+        "Đứng dậy.",
+        "Ra ngoài.",
+        "Gấp sách lại.",
+        "Mở sách."
+      ],
+      "explanation": "Close đối lập với open; book là sách, please làm lời yêu cầu lịch sự."
+    },
+    {
+      "question_id": "TA3_T1_U07_Q03",
+      "type": "mcq",
+      "skill": "grammar",
+      "question": "Khi đồng ý cho bạn ra ngoài sau câu May I go out?, lời đáp đúng là gì?",
+      "correct_answer": "Yes, you can.",
+      "options": [
+        "Yes, you can't.",
+        "Yes, you can.",
+        "Yes, I do.",
+        "Yes, it is."
+      ],
+      "explanation": "Lời cho phép dùng you can; người đáp nói về người vừa xin phép."
+    },
+    {
+      "question_id": "TA3_T1_U07_Q04",
+      "type": "mcq",
+      "skill": "communication",
+      "question": "Em muốn dùng tiếng Việt để nói một ý khó. Chọn câu xin phép.",
+      "correct_answer": "May I speak Vietnamese?",
+      "options": [
+        "May I speak Vietnamese?",
+        "I Vietnamese open?",
+        "Speak I may Vietnamese can?",
+        "Is that Vietnamese old?"
+      ],
+      "explanation": "May I speak Vietnamese là xin phép nói tiếng Việt; khác lời ra lệnh Speak English."
+    },
+    {
+      "question_id": "TA3_T1_U07_Q05",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Đọc hội thoại mới: An: May I stand up? Teacher: No, you can't. An đã được phép đứng chưa?",
+      "correct_answer": "Chưa, giáo viên chưa cho phép.",
+      "options": [
+        "Rồi, vì có từ can.",
+        "Rồi, vì An đã hỏi.",
+        "Không biết giáo viên trả lời gì.",
+        "Chưa, giáo viên chưa cho phép."
+      ],
+      "explanation": "Can't là cannot, nêu ý không cho phép; cần đọc cả câu trả lời."
+    },
+    {
+      "question_id": "TA3_T1_U07_Q06",
+      "type": "mcq",
+      "skill": "writing",
+      "question": "Chọn câu yêu cầu đứng dậy đúng trật tự và chính tả.",
+      "correct_answer": "Stand up, please!",
+      "options": [
+        "Stant up please!",
+        "Stand down, book!",
+        "Stand up, please!",
+        "Up stand please?"
+      ],
+      "explanation": "Stand up là đứng dậy; giữ cụm từ theo đúng thứ tự và thêm please."
+    },
+    {
+      "question_id": "TA3_T1_U07_Q07",
+      "type": "mcq",
+      "skill": "vocabulary",
+      "question": "Hai cụm từ nào là hai hành động ngược nhau?",
+      "correct_answer": "stand up và sit down",
+      "options": [
+        "please và English",
+        "stand up và sit down",
+        "go out và speak",
+        "open và book"
+      ],
+      "explanation": "Stand up là đứng dậy, sit down là ngồi xuống; các cặp khác không phải hai hành động ngược nhau."
+    },
+    {
+      "question_id": "TA3_T1_U07_Q08",
+      "type": "mcq",
+      "skill": "pronunciation",
+      "question": "Âm đầu sp trong speak nên được luyện thế nào?",
+      "correct_answer": "Nối /s/ sang /p/, không thêm nguyên âm trước /s/.",
+      "options": [
+        "Nối /s/ sang /p/, không thêm nguyên âm trước /s/.",
+        "Đọc e-sờ-pờ thành ba tiếng.",
+        "Bỏ /s/ chỉ đọc /p/.",
+        "Đổi thành /st/."
+      ],
+      "explanation": "Cụm /sp/ gồm hai phụ âm liền nhau; không thêm tiếng đệm khi đọc speak."
+    },
+    {
+      "question_id": "TA3_T1_U07_Q09",
+      "type": "mcq",
+      "skill": "pronunciation",
+      "question": "Trong stand, cụm st bắt đầu bằng hai âm nào?",
+      "correct_answer": "/s/ rồi /t/",
+      "options": [
+        "/s/ rồi /p/",
+        "/p/ rồi /l/",
+        "/k/ rồi /l/",
+        "/s/ rồi /t/"
+      ],
+      "explanation": "St trong stand là /st/, khác sp trong speak; nối liền rồi đọc phần còn lại."
+    },
+    {
+      "question_id": "TA3_T1_U07_Q10",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Tờ nhắc mới ghi Open your book. Read. Close your book. Việc cuối là gì?",
+      "correct_answer": "Gấp sách.",
+      "options": [
+        "Mở sách.",
+        "Xin ra ngoài.",
+        "Gấp sách.",
+        "Đọc."
+      ],
+      "explanation": "Đọc theo trình tự, close your book là yêu cầu cuối cùng, không lấy hành động mở đầu."
+    },
+    {
+      "question_id": "TA3_T1_U07_Q11",
+      "type": "mcq",
+      "skill": "writing",
+      "question": "Hoàn thành lời từ chối: No, you ___.",
+      "correct_answer": "can't",
+      "options": [
+        "do",
+        "can't",
+        "can",
+        "is"
+      ],
+      "explanation": "No cần đi với you can't trong mẫu xin phép này, không dùng can mang ý cho phép."
+    },
+    {
+      "question_id": "TA3_T1_U07_Q12",
+      "type": "mcq",
+      "skill": "speaking",
+      "question": "Hai bạn đóng vai thầy cô và học sinh, lượt nào luyện đúng xin phép?",
+      "correct_answer": "Một bạn hỏi May I sit down, bạn kia đáp Yes, you can.",
+      "options": [
+        "Một bạn hỏi May I sit down, bạn kia đáp Yes, you can.",
+        "Cả hai chỉ đọc tên mình.",
+        "Một bạn hỏi tuổi, bạn kia mở sách.",
+        "Cả hai nói đồng thời không nghe đáp."
+      ],
+      "explanation": "Mục tiêu là hỏi xin phép và đáp rõ cho phép hoặc không, rồi đổi vai."
+    }
+  ],
+  "games": [
+    {
+      "id": "TA3_T1_U07_GAME",
+      "title": "Kho báu tiếng Anh: Unit 7: Classroom instructions",
+      "mode": "treasure",
+      "objective": "Chọn từ và lời nói phù hợp để mở kho báu.",
+      "rules": [
+        "Mỗi lượt10 câu thuộc bài, không áp phân mức Toán.",
+        "Chọn đáp án rồi đọc giải thích. Trả lời đúng tiến thêm một bước.",
+        "Kết thúc, ôn câu sai và thử lại."
+      ],
+      "question_ids": [
+        "TA3_T1_U07_Q01",
+        "TA3_T1_U07_Q02",
+        "TA3_T1_U07_Q03",
+        "TA3_T1_U07_Q04",
+        "TA3_T1_U07_Q05",
+        "TA3_T1_U07_Q06",
+        "TA3_T1_U07_Q07",
+        "TA3_T1_U07_Q08",
+        "TA3_T1_U07_Q09",
+        "TA3_T1_U07_Q10",
+        "TA3_T1_U07_Q11",
+        "TA3_T1_U07_Q12"
+      ],
+      "answer_source": "practice.correct_answer",
+      "feedback_source": "practice.explanation",
+      "max_score": 100
+    }
+  ],
+  "assessment": {
+    "session_size": 10,
+    "scoring": "Mỗi câu đúng được tính điểm theo hệ thống; 8–10 câu đúng: nắm tốt, 5–7: đọc lại phần còn nhầm, dưới 5: đọc bài cùng người thân rồi thử lại. Nhiệm vụ nói/viết tự kiểm theo tiêu chí, không chấm bằng một đáp án duy nhất.",
+    "review_advice": "Xem lại câu sai theo nhóm từ, mẫu câu, phát âm; thực hiện cả nhiệm vụ nói và viết. Điểm trắc nghiệm không thay thế nhận xét phát âm."
+  },
+  "feedback": {
+    "correct": "Đúng rồi! Em đọc lại từ hoặc lời nói vừa chọn.",
+    "incorrect": "Đọc lời giải, chú ý tình huống rồi thử dùng mẫu câu.",
+    "teacher_note": "AI_CHECKED_AWAITING_TEACHER; phần nói và phát âm cần người lớn nghe và góp ý."
+  },
+  "verification": {
+    "ai_authored": true,
+    "structure_checked": true,
+    "answer_reviewed": true,
+    "source_reviewed": true,
+    "teacher_approved": false
+  },
+  "status": "AI_CHECKED_AWAITING_TEACHER",
+  "vocabulary": [
+    {
+      "word": "open",
+      "meaning_vi": "mở",
+      "example": "Open your book, please."
+    },
+    {
+      "word": "close",
+      "meaning_vi": "đóng, gấp",
+      "example": "Close your book, please."
+    },
+    {
+      "word": "stand up",
+      "meaning_vi": "đứng dậy",
+      "example": "Stand up, please."
+    },
+    {
+      "word": "sit down",
+      "meaning_vi": "ngồi xuống",
+      "example": "Sit down, please."
+    },
+    {
+      "word": "come in",
+      "meaning_vi": "đi vào",
+      "example": "May I come in?"
+    },
+    {
+      "word": "go out",
+      "meaning_vi": "đi ra",
+      "example": "May I go out?"
+    },
+    {
+      "word": "speak",
+      "meaning_vi": "nói",
+      "example": "May I speak Vietnamese?"
+    },
+    {
+      "word": "please",
+      "meaning_vi": "xin/vui lòng, làm lời nói lịch sự",
+      "example": "Sit down, please."
+    }
+  ],
+  "patterns": [
+    "Open/Close your book, please! Stand up/Sit down, please! → Lời yêu cầu trong lớp.",
+    "May I come in? — Yes, you can. → Em được vào không ạ? — Được.",
+    "May I go out? — No, you can't. → Em được ra ngoài không ạ? — Chưa được. Can't = cannot."
+  ],
+  "pronunciation": [
+    "sp trong speak là /sp/: nối /s/ sang /p/, không thêm âm e hoặc pờ.",
+    "st trong stand là /st/: giữ /s/ rồi bật /t/, không nhầm với sp."
+  ],
+  "skills": {
+    "reading": [
+      "Hội thoại mới: Vi: May I stand up? Teacher: No, you can't. Vi: OK.",
+      "Vi đã được cho phép đứng chưa? Đáp án: chưa. Từ can't thể hiện không cho phép."
+    ],
+    "writing": [
+      "Viết hai lời yêu cầu lịch sự và một câu xin phép. Mẫu: Close your book, please! May I come in?",
+      "Thêm lời đáp Yes, you can hoặc No, you can't theo thẻ đóng vai; giữ dấu nháy trong can't."
+    ],
+    "speaking": [
+      "Hai người đóng vai giáo viên và học sinh; người học xin phép trước, đợi câu đáp rồi mới làm động tác.",
+      "Đổi vai và đổi lời yêu cầu; không yêu cầu chạy, xô đẩy hoặc ra khỏi chỗ chơi."
+    ],
+    "listening": [
+      "Nghe stand up và sit down bằng giọng máy; dùng hai thẻ hình mũi tên thay cho đứng ngồi nếu muốn.",
+      "Người thân đọc lời xin phép và câu đáp, em nói lại ý cho phép hay chưa cho phép."
+    ]
+  },
+  "audio": {
+    "type": "speechSynthesis",
+    "label": "Giọng máy tiếng Anh của thiết bị, không phải âm thanh sách. Có thể khác theo thiết bị; nếu không phát, đọc theo mẫu và nhờ người lớn hỗ trợ."
+  }
+}

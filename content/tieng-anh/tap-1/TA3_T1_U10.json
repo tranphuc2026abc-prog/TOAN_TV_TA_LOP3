@@ -1,0 +1,378 @@
+{
+  "id": "TA3_T1_U10",
+  "subject": "ta",
+  "grade": 3,
+  "book": "Kết nối tri thức với cuộc sống",
+  "volume": 1,
+  "lesson_no": 10,
+  "title": "Unit 10: Break time activities",
+  "topic": "English Global Success",
+  "source": {
+    "pdf": "03-sgk-tieng-anh-3-tap-1-global-success.pdf",
+    "printed_pages": [
+      68,
+      73
+    ],
+    "pdf_pages": [
+      69,
+      74
+    ],
+    "review": "Đã đọc trực quan đầy đủ trang nguồn PDF ảnh quét ngày14/11/2026. Biên soạn tình huống, ví dụ và câu hỏi mới; không đăng toàn văn hay sao chép hệ thống bài tập SGK; không có bản thu âm sách."
+  },
+  "objectives": [
+    "Hiểu và dùng đúng: Hỏi đáp hoạt động giờ ra chơi, dùng play/do/chat phù hợp và khảo sát hoạt động bạn.",
+    "Đọc, viết và thực hành nói theo tình huống mới.",
+    "Nhận biết trọng tâm phát âm và luyện nghe bằng giọng máy có ghi nhãn."
+  ],
+  "knowledge": {
+    "introduction": "Hỏi đáp hoạt động giờ ra chơi, dùng play/do/chat phù hợp và khảo sát hoạt động bạn.",
+    "rules": [
+      "What do you do at break time? — I play chess. → Bạn làm gì giờ ra chơi? — Mình chơi cờ vua.",
+      "I play badminton at break time. / I do word puzzles. / I chat with my friends.",
+      "What about you? → Còn bạn thì sao? Dùng để mời bạn chia sẻ hoạt động."
+    ],
+    "steps": [
+      "Đọc từ và nghĩa, quan sát tình huống trước khi chọn cách nói.",
+      "Nghe từ bằng giọng máy nếu thiết bị hỗ trợ, đọc lại chậm theo hướng dẫn phát âm.",
+      "Làm câu hỏi, xem giải thích rồi thực hành nói và viết theo nhiệm vụ."
+    ],
+    "common_errors": [
+      "Dùng do chess hoặc play word puzzles trong mẫu đã học.",
+      "Nhầm basketball với volleyball; quên at trước break time."
+    ]
+  },
+  "examples": [
+    {
+      "question": "Hoạt động nào là chơi cầu lông?",
+      "steps": [
+        "Nhận diện yêu cầu: vocabulary",
+        "Badminton là cầu lông; basketball bóng rổ, volleyball bóng chuyền, chess cờ vua.",
+        "Đáp án: play badminton"
+      ]
+    },
+    {
+      "question": "Chat with my friends diễn tả hoạt động nào?",
+      "steps": [
+        "Nhận diện yêu cầu: vocabulary",
+        "Chat là trò chuyện, with my friends là với các bạn của tôi.",
+        "Đáp án: Trò chuyện với bạn bè."
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "title": "Thực hành theo cặp: Unit 10: Break time activities",
+      "materials": [
+        "Giấy",
+        "Bút",
+        "Thẻ tự làm"
+      ],
+      "steps": [
+        "Lập bảng hai cột tên và hoạt động cho ba nhân vật hoặc người tham gia. Hỏi đáp rồi ghi đúng câu trả lời; trình bày bằng lời I play/I do/I chat.",
+        "Đổi vai và nhờ bạn nhắc lại thông tin đã nghe.",
+        "Sửa một lỗi sau khi đọc phần giải thích trong bài."
+      ],
+      "check": [
+        "Đúng nội dung giao tiếp hoặc chữ/số yêu cầu.",
+        "Phát âm chậm, đủ nghe; nhờ người lớn hỗ trợ chỗ chưa chắc.",
+        "Viết đúng từ, tên riêng, dấu nháy và dấu câu."
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "question_id": "TA3_T1_U10_Q01",
+      "type": "mcq",
+      "skill": "vocabulary",
+      "question": "Hoạt động nào là chơi cầu lông?",
+      "correct_answer": "play badminton",
+      "options": [
+        "play basketball",
+        "play volleyball",
+        "play chess",
+        "play badminton"
+      ],
+      "explanation": "Badminton là cầu lông; basketball bóng rổ, volleyball bóng chuyền, chess cờ vua."
+    },
+    {
+      "question_id": "TA3_T1_U10_Q02",
+      "type": "mcq",
+      "skill": "communication",
+      "question": "Muốn hỏi bạn làm gì giờ ra chơi, em nói gì?",
+      "correct_answer": "What do you do at break time?",
+      "options": [
+        "How old do you chess?",
+        "Is your name football?",
+        "What do you do at break time?",
+        "What colour is break time?"
+      ],
+      "explanation": "Câu hỏi bắt đầu What do you do và có at break time nêu thời điểm."
+    },
+    {
+      "question_id": "TA3_T1_U10_Q03",
+      "type": "mcq",
+      "skill": "grammar",
+      "question": "Câu nào nói em chơi cờ vua trong giờ ra chơi?",
+      "correct_answer": "I play chess at break time.",
+      "options": [
+        "I am play chess time.",
+        "I play chess at break time.",
+        "I do chess at break time.",
+        "I chess play in break."
+      ],
+      "explanation": "Play đi với chess; at break time là cụm nói giờ ra chơi."
+    },
+    {
+      "question_id": "TA3_T1_U10_Q04",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Đọc: Bao plays football. Ngan does word puzzles. Ai làm câu đố chữ?",
+      "correct_answer": "Ngan.",
+      "options": [
+        "Ngan.",
+        "Bao.",
+        "Cả hai.",
+        "Không ai."
+      ],
+      "explanation": "Word puzzles là câu đố chữ; tìm tên gắn với hoạt động trong đoạn mới."
+    },
+    {
+      "question_id": "TA3_T1_U10_Q05",
+      "type": "mcq",
+      "skill": "vocabulary",
+      "question": "Chat with my friends diễn tả hoạt động nào?",
+      "correct_answer": "Trò chuyện với bạn bè.",
+      "options": [
+        "Đọc màu của đồ vật.",
+        "Chơi bóng bàn.",
+        "Xin phép vào lớp.",
+        "Trò chuyện với bạn bè."
+      ],
+      "explanation": "Chat là trò chuyện, with my friends là với các bạn của tôi."
+    },
+    {
+      "question_id": "TA3_T1_U10_Q06",
+      "type": "mcq",
+      "skill": "writing",
+      "question": "Chọn cách kết hợp từ đúng khi nói làm câu đố chữ.",
+      "correct_answer": "I do word puzzles.",
+      "options": [
+        "I word do puzzle.",
+        "I have word puzzles play.",
+        "I do word puzzles.",
+        "I play word puzzles do."
+      ],
+      "explanation": "Mẫu hoạt động dùng do word puzzles; giữ số nhiều puzzles trong cụm học."
+    },
+    {
+      "question_id": "TA3_T1_U10_Q07",
+      "type": "mcq",
+      "skill": "communication",
+      "question": "Bạn nói I play volleyball. What about you? Em thích chơi bóng bàn giờ ra chơi. Em đáp sao?",
+      "correct_answer": "I play table tennis.",
+      "options": [
+        "Yes, you can.",
+        "I play table tennis.",
+        "It's a table.",
+        "I'm eight table."
+      ],
+      "explanation": "What about you mời người nghe nói hoạt động của mình; table tennis là bóng bàn."
+    },
+    {
+      "question_id": "TA3_T1_U10_Q08",
+      "type": "mcq",
+      "skill": "pronunciation",
+      "question": "Âm f đầu football và v đầu volleyball có điểm chung nào?",
+      "correct_answer": "Đều đưa răng trên nhẹ sát môi dưới và thổi khí.",
+      "options": [
+        "Đều đưa răng trên nhẹ sát môi dưới và thổi khí.",
+        "Đều khép hai môi bật hơi.",
+        "Đều để lưỡi giữa răng.",
+        "Đều đọc thành /b/."
+      ],
+      "explanation": "/f/ và /v/ cùng vị trí môi-răng; khác ở /v/ có rung giọng, /f/ không rung."
+    },
+    {
+      "question_id": "TA3_T1_U10_Q09",
+      "type": "mcq",
+      "skill": "pronunciation",
+      "question": "Đặt tay nhẹ lên cổ khi đọc v của volleyball và f của football, nhận xét nào đúng?",
+      "correct_answer": "/v/ có rung giọng, /f/ không rung giọng.",
+      "options": [
+        "Cả hai luôn bật thành /p/.",
+        "Chỉ /f/ có rung giọng.",
+        "Cả hai là âm mũi.",
+        "/v/ có rung giọng, /f/ không rung giọng."
+      ],
+      "explanation": "Dùng cảm giác rung để phân biệt âm hữu thanh /v/ và vô thanh /f/."
+    },
+    {
+      "question_id": "TA3_T1_U10_Q10",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Đọc: At break time, I chat with my friends. I don't play basketball. Người nói không làm gì?",
+      "correct_answer": "Chơi bóng rổ.",
+      "options": [
+        "Gặp bạn.",
+        "Ở giờ ra chơi.",
+        "Chơi bóng rổ.",
+        "Trò chuyện."
+      ],
+      "explanation": "Don't phủ định play basketball; câu đầu khẳng định trò chuyện với bạn."
+    },
+    {
+      "question_id": "TA3_T1_U10_Q11",
+      "type": "mcq",
+      "skill": "writing",
+      "question": "Muốn thêm thời điểm vào câu I play badminton, em chọn phần nào?",
+      "correct_answer": "at break time.",
+      "options": [
+        "years old.",
+        "at break time.",
+        "to my name.",
+        "a school colour."
+      ],
+      "explanation": "At break time chỉ lúc hoạt động diễn ra; các cụm khác không có nghĩa thời điểm phù hợp."
+    },
+    {
+      "question_id": "TA3_T1_U10_Q12",
+      "type": "mcq",
+      "skill": "speaking",
+      "question": "Khảo sát hoạt động ra chơi của nhóm, em cần ghi gì?",
+      "correct_answer": "Tên bạn và hoạt động bạn thực sự trả lời.",
+      "options": [
+        "Tên bạn và hoạt động bạn thực sự trả lời.",
+        "Chỉ hoạt động em thích rồi gán mọi bạn.",
+        "Chỉ màu áo và tuổi.",
+        "Dự đoán thay bạn để làm nhanh."
+      ],
+      "explanation": "Cần hỏi từng người bằng What do you do at break time, nghe và ghi đúng, rồi kiểm lại với bạn."
+    }
+  ],
+  "games": [
+    {
+      "id": "TA3_T1_U10_GAME",
+      "title": "Kho báu tiếng Anh: Unit 10: Break time activities",
+      "mode": "treasure",
+      "objective": "Chọn từ và lời nói phù hợp để mở kho báu.",
+      "rules": [
+        "Mỗi lượt10 câu thuộc bài, không áp phân mức Toán.",
+        "Chọn đáp án rồi đọc giải thích. Trả lời đúng tiến thêm một bước.",
+        "Kết thúc, ôn câu sai và thử lại."
+      ],
+      "question_ids": [
+        "TA3_T1_U10_Q01",
+        "TA3_T1_U10_Q02",
+        "TA3_T1_U10_Q03",
+        "TA3_T1_U10_Q04",
+        "TA3_T1_U10_Q05",
+        "TA3_T1_U10_Q06",
+        "TA3_T1_U10_Q07",
+        "TA3_T1_U10_Q08",
+        "TA3_T1_U10_Q09",
+        "TA3_T1_U10_Q10",
+        "TA3_T1_U10_Q11",
+        "TA3_T1_U10_Q12"
+      ],
+      "answer_source": "practice.correct_answer",
+      "feedback_source": "practice.explanation",
+      "max_score": 100
+    }
+  ],
+  "assessment": {
+    "session_size": 10,
+    "scoring": "Mỗi câu đúng được tính điểm theo hệ thống; 8–10 câu đúng: nắm tốt, 5–7: đọc lại phần còn nhầm, dưới 5: đọc bài cùng người thân rồi thử lại. Nhiệm vụ nói/viết tự kiểm theo tiêu chí, không chấm bằng một đáp án duy nhất.",
+    "review_advice": "Xem lại câu sai theo nhóm từ, mẫu câu, phát âm; thực hiện cả nhiệm vụ nói và viết. Điểm trắc nghiệm không thay thế nhận xét phát âm."
+  },
+  "feedback": {
+    "correct": "Đúng rồi! Em đọc lại từ hoặc lời nói vừa chọn.",
+    "incorrect": "Đọc lời giải, chú ý tình huống rồi thử dùng mẫu câu.",
+    "teacher_note": "AI_CHECKED_AWAITING_TEACHER; phần nói và phát âm cần người lớn nghe và góp ý."
+  },
+  "verification": {
+    "ai_authored": true,
+    "structure_checked": true,
+    "answer_reviewed": true,
+    "source_reviewed": true,
+    "teacher_approved": false
+  },
+  "status": "AI_CHECKED_AWAITING_TEACHER",
+  "vocabulary": [
+    {
+      "word": "play chess",
+      "meaning_vi": "chơi cờ vua",
+      "example": "I play chess at break time."
+    },
+    {
+      "word": "play volleyball",
+      "meaning_vi": "chơi bóng chuyền",
+      "example": "I play volleyball."
+    },
+    {
+      "word": "play basketball",
+      "meaning_vi": "chơi bóng rổ",
+      "example": "I play basketball."
+    },
+    {
+      "word": "play badminton",
+      "meaning_vi": "chơi cầu lông",
+      "example": "I play badminton."
+    },
+    {
+      "word": "play football",
+      "meaning_vi": "chơi bóng đá",
+      "example": "I play football."
+    },
+    {
+      "word": "play table tennis",
+      "meaning_vi": "chơi bóng bàn",
+      "example": "I play table tennis."
+    },
+    {
+      "word": "do word puzzles",
+      "meaning_vi": "làm câu đố chữ",
+      "example": "I do word puzzles."
+    },
+    {
+      "word": "chat with my friends",
+      "meaning_vi": "trò chuyện với bạn bè",
+      "example": "I chat with my friends."
+    },
+    {
+      "word": "break time",
+      "meaning_vi": "giờ ra chơi",
+      "example": "It's break time."
+    }
+  ],
+  "patterns": [
+    "What do you do at break time? — I play chess. → Bạn làm gì giờ ra chơi? — Mình chơi cờ vua.",
+    "I play badminton at break time. / I do word puzzles. / I chat with my friends.",
+    "What about you? → Còn bạn thì sao? Dùng để mời bạn chia sẻ hoạt động."
+  ],
+  "pronunciation": [
+    "/f/ trong football: răng trên nhẹ sát môi dưới, thổi hơi không rung giọng.",
+    "/v/ trong volleyball: vị trí tương tự /f/ nhưng có rung giọng; không bật thành /b/."
+  ],
+  "skills": {
+    "reading": [
+      "Đoạn mới: Bao plays football. Ngan does word puzzles. At break time, I chat with my friends.",
+      "Ai làm câu đố chữ? Đáp án: Ngan. Người kể nói chuyện với bạn, không nhất thiết cùng hoạt động Bao."
+    ],
+    "writing": [
+      "Viết hai câu về hoạt động em hoặc nhân vật làm giờ ra chơi. Mẫu: I play table tennis. I do word puzzles at break time.",
+      "Viết câu hỏi What do you do at break time và ghi câu bạn đáp; giữ play/do đúng cụm."
+    ],
+    "speaking": [
+      "Khảo sát hai bạn bằng cùng một câu hỏi, nghe câu đáp và ghi tên cùng hoạt động.",
+      "Đọc lại kết quả cho bạn xác nhận; không tự gán sở thích hoặc hoạt động cho người chưa trả lời."
+    ],
+    "listening": [
+      "Nghe football/volleyball bằng giọng máy, đọc lại với tay đặt nhẹ trên cổ để nhận độ rung.",
+      "Một bạn nói hoạt động trong mẫu, người kia đoán bằng thẻ hoặc động tác tại chỗ, không ném bóng trong phòng."
+    ]
+  },
+  "audio": {
+    "type": "speechSynthesis",
+    "label": "Giọng máy tiếng Anh của thiết bị, không phải âm thanh sách. Có thể khác theo thiết bị; nếu không phát, đọc theo mẫu và nhờ người lớn hỗ trợ."
+  }
+}

@@ -1,3 +1,12 @@
+# Batch40 — Tiếng Anh Unit7–10 — 14/11/2026
+
+- Đã đọc trực quan đầy đủ PDF51–74/trang in50–73: hướng dẫn lớp và xin phép May I(sp/st), đồ học tập I have/Do you have(oo/a), màu số ít/số nhiều(bl/br), hoạt động giờ ra chơi(f/v).48 câu mới,8 ví dụ có lời giải,4 trò chơi. Mỗi bài đủ từ vựng/nghĩa/ví dụ, mẫu câu, phát âm, hoạt động đọc/viết/nói/nghe, phản hồi và đánh giá.
+- SVG mới TA3_T1_U09_colour_cards.svg có3 thẻ màu A/B/C, gắn trực tiếp Q05 hỏi red, đáp án B; không lấy hình scan. XML/SVG và đáp án đã kiểm bằng test, renderer hiện hình trong câu hỏi.
+- Tổng AI biên soạn155/168, AI kiểm tra155/168; Toán81/81,TV62/62,TA12/25;4160 câu,155 trò chơi. Giáo viên duyệt4,151 chờ duyệt; còn13 mục TA. Mọi bài mới AI_CHECKED_AWAITING_TEACHER.
+- npm test exit0 trên155 kho: validator, toàn bộ hồi quy trước, test_batch40 và DOM Toán/TV/tất cả TA đang có. Giọng máy dùng mock trong test; chưa xác minh âm thực, Chromium vẫn bị chặn socket()/ptrace nên chưa kiểm bố cục trình duyệt.
+- Batch39 commit https://github.com/tranphuc2026abc-prog/TOAN_TV_TA_LOP3/commit/467c51fd5703be5e84b93b6156bb8cfc60f31065 ; Actions43609071068/43609070494 đều success. Pages sẽ được đối chiếu riêng; không dùng trạng thái Actions thay cho kiểm tệp website.
+- Batch41 tiếp theo: Review2(tập1),Unit11–13(tập2). Đọc trang quét thực tế trước khi viết; giữ lịch sử duyệt Toán1–4 và hồi quy mọi môn. Batch40 Actions/Pages chờ xác minh sau commit.
+
 # Batch39 — Tiếng Anh U4–5, Review1, U6 — 14/11/2026
 
 - Đã đọc trực quan đầy đủ PDF29–50/trang in28–49: bộ phận cơ thể và Touch/Open (air/ear), sở thích (p/r), Review1 và Fun time giác quan, các nơi ở trường và Let’s go (pl/cl).48 câu mới,8 ví dụ có lời giải,4 trò chơi; đủ từ-nghĩa-ví dụ, mẫu câu, phát âm, đọc/viết/nói/nghe. Không dùng đáp án track nghe sách vì chưa có bản thu; giọng máy có nhãn rõ.

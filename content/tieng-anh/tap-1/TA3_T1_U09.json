@@ -1,0 +1,383 @@
+{
+  "id": "TA3_T1_U09",
+  "subject": "ta",
+  "grade": 3,
+  "book": "Kết nối tri thức với cuộc sống",
+  "volume": 1,
+  "lesson_no": 9,
+  "title": "Unit 9: Colours",
+  "topic": "English Global Success",
+  "source": {
+    "pdf": "03-sgk-tieng-anh-3-tap-1-global-success.pdf",
+    "printed_pages": [
+      62,
+      67
+    ],
+    "pdf_pages": [
+      63,
+      68
+    ],
+    "review": "Đã đọc trực quan đầy đủ trang nguồn PDF ảnh quét ngày14/11/2026. Biên soạn tình huống, ví dụ và câu hỏi mới; không đăng toàn văn hay sao chép hệ thống bài tập SGK; không có bản thu âm sách."
+  },
+  "objectives": [
+    "Hiểu và dùng đúng: Gọi màu đồ dùng, hỏi đáp màu một vật và nhiều vật, luyện bl/br.",
+    "Đọc, viết và thực hành nói theo tình huống mới.",
+    "Nhận biết trọng tâm phát âm và luyện nghe bằng giọng máy có ghi nhãn."
+  ],
+  "knowledge": {
+    "introduction": "Gọi màu đồ dùng, hỏi đáp màu một vật và nhiều vật, luyện bl/br.",
+    "rules": [
+      "What colour is it? — It's blue. → Nó màu gì? — Xanh dương.",
+      "What colour are they? — They're green. → Chúng màu gì? — Xanh lá.",
+      "It's = It is; They're = They are. My pen is blue; My pens are blue."
+    ],
+    "steps": [
+      "Đọc từ và nghĩa, quan sát tình huống trước khi chọn cách nói.",
+      "Nghe từ bằng giọng máy nếu thiết bị hỗ trợ, đọc lại chậm theo hướng dẫn phát âm.",
+      "Làm câu hỏi, xem giải thích rồi thực hành nói và viết theo nhiệm vụ."
+    ],
+    "common_errors": [
+      "Dùng It's với nhiều đồ vật; dùng They is thay They are.",
+      "Nhầm brown và blue hoặc thiếu dấu nháy trong They're."
+    ]
+  },
+  "examples": [
+    {
+      "question": "Màu brown có nghĩa tiếng Việt là gì?",
+      "steps": [
+        "Nhận diện yêu cầu: vocabulary",
+        "Brown là nâu; không lẫn blue là xanh dương hay green là xanh lá.",
+        "Đáp án: Nâu."
+      ]
+    },
+    {
+      "question": "Quan sát ba thẻ A, B, C bên dưới. Thẻ nào có màu red?",
+      "steps": [
+        "Nhận diện yêu cầu: visual",
+        "Red là đỏ. Trong hình mới, A xanh dương, B đỏ, C vàng.",
+        "Đáp án: B."
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "title": "Thực hành theo cặp: Unit 9: Colours",
+      "materials": [
+        "Giấy",
+        "Bút",
+        "Thẻ tự làm"
+      ],
+      "steps": [
+        "Tự làm áp phích ba đồ dùng, một đồ số ít và một nhóm số nhiều. Tô màu, giới thiệu tên và màu rồi hỏi bạn What colour is it/are they.",
+        "Đổi vai và nhờ bạn nhắc lại thông tin đã nghe.",
+        "Sửa một lỗi sau khi đọc phần giải thích trong bài."
+      ],
+      "check": [
+        "Đúng nội dung giao tiếp hoặc chữ/số yêu cầu.",
+        "Phát âm chậm, đủ nghe; nhờ người lớn hỗ trợ chỗ chưa chắc.",
+        "Viết đúng từ, tên riêng, dấu nháy và dấu câu."
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "question_id": "TA3_T1_U09_Q01",
+      "type": "mcq",
+      "skill": "vocabulary",
+      "question": "Màu brown có nghĩa tiếng Việt là gì?",
+      "correct_answer": "Nâu.",
+      "options": [
+        "Xanh lá.",
+        "Đỏ.",
+        "Trắng.",
+        "Nâu."
+      ],
+      "explanation": "Brown là nâu; không lẫn blue là xanh dương hay green là xanh lá."
+    },
+    {
+      "question_id": "TA3_T1_U09_Q02",
+      "type": "mcq",
+      "skill": "grammar",
+      "question": "Hỏi màu một chiếc thước, chọn câu đúng.",
+      "correct_answer": "What colour is it?",
+      "options": [
+        "What name is ruler?",
+        "How old is colour?",
+        "What colour is it?",
+        "What colour are they?"
+      ],
+      "explanation": "Một vật dùng is it; nhiều vật dùng are they."
+    },
+    {
+      "question_id": "TA3_T1_U09_Q03",
+      "type": "mcq",
+      "skill": "communication",
+      "question": "Hai quyển vở đều màu xanh lá. Trả lời What colour are they? thế nào?",
+      "correct_answer": "They're green.",
+      "options": [
+        "They is green.",
+        "They're green.",
+        "It's green.",
+        "They're a green."
+      ],
+      "explanation": "They're là they are, dùng cho nhiều vật; green là tính từ màu không cần a."
+    },
+    {
+      "question_id": "TA3_T1_U09_Q04",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Đọc: My bag is yellow. My pens are black. Những chiếc bút màu gì?",
+      "correct_answer": "Đen.",
+      "options": [
+        "Đen.",
+        "Vàng.",
+        "Xanh dương.",
+        "Cam."
+      ],
+      "explanation": "Pens are black nêu màu bút; yellow thuộc chiếc cặp, không gán sang bút."
+    },
+    {
+      "question_id": "TA3_T1_U09_Q05",
+      "type": "mcq",
+      "skill": "visual",
+      "question": "Quan sát ba thẻ A, B, C bên dưới. Thẻ nào có màu red?",
+      "correct_answer": "B.",
+      "options": [
+        "A.",
+        "C.",
+        "Không thẻ nào.",
+        "B."
+      ],
+      "explanation": "Red là đỏ. Trong hình mới, A xanh dương, B đỏ, C vàng.",
+      "figure": {
+        "path": "content/assets/TA3_T1_U09_colour_cards.svg",
+        "caption": "Ba thẻ A, B, C; hình SVG do dự án tự dựng."
+      }
+    },
+    {
+      "question_id": "TA3_T1_U09_Q06",
+      "type": "mcq",
+      "skill": "vocabulary",
+      "question": "Cặp từ nào chỉ màu trắng và màu cam?",
+      "correct_answer": "white và orange",
+      "options": [
+        "blue và brown",
+        "red và yellow",
+        "white và orange",
+        "black và green"
+      ],
+      "explanation": "White là trắng, orange là cam; các cặp khác chỉ màu khác."
+    },
+    {
+      "question_id": "TA3_T1_U09_Q07",
+      "type": "mcq",
+      "skill": "writing",
+      "question": "Dạng viết ngắn đúng của They are blue là gì?",
+      "correct_answer": "They're blue.",
+      "options": [
+        "They's blue.",
+        "They're blue.",
+        "There blue.",
+        "Theyre' blue."
+      ],
+      "explanation": "They're thay cho they are; giữ dấu nháy giữa y và r, không viết thành there."
+    },
+    {
+      "question_id": "TA3_T1_U09_Q08",
+      "type": "mcq",
+      "skill": "pronunciation",
+      "question": "Cụm bl trong blue khác br trong brown ở âm thứ hai nào?",
+      "correct_answer": "Blue có /l/, brown có /r/.",
+      "options": [
+        "Blue có /l/, brown có /r/.",
+        "Blue có /p/, brown có /t/.",
+        "Cả hai đều có /m/.",
+        "Chữ r luôn câm trong brown."
+      ],
+      "explanation": "/bl/ và /br/ cùng bắt đầu bằng /b/ nhưng kết nối sang /l/ hoặc /r/."
+    },
+    {
+      "question_id": "TA3_T1_U09_Q09",
+      "type": "mcq",
+      "skill": "pronunciation",
+      "question": "Khi đọc blue theo cụm âm đầu, em nên tránh điều gì?",
+      "correct_answer": "Thêm tiếng bờ trước l thành hai tiếng rời.",
+      "options": [
+        "Giữ âm /b/ rồi nối /l/.",
+        "Nghe cả từ rồi lặp lại.",
+        "Đọc chậm trước khi đọc câu.",
+        "Thêm tiếng bờ trước l thành hai tiếng rời."
+      ],
+      "explanation": "Cụm /bl/ cần liền nhau, không thêm nguyên âm giữa b và l."
+    },
+    {
+      "question_id": "TA3_T1_U09_Q10",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Thẻ mới ghi: eraser — white; rulers — orange. Câu nào mô tả đúng các thước?",
+      "correct_answer": "They're orange.",
+      "options": [
+        "They're white.",
+        "It's black.",
+        "They're orange.",
+        "It's white."
+      ],
+      "explanation": "Rulers là nhiều thước, màu orange trong thẻ; dùng they're cho nhóm vật."
+    },
+    {
+      "question_id": "TA3_T1_U09_Q11",
+      "type": "mcq",
+      "skill": "writing",
+      "question": "Chọn câu mô tả một chiếc bút xanh dương đúng.",
+      "correct_answer": "My pen is blue.",
+      "options": [
+        "My pen blue are.",
+        "My pen is blue.",
+        "My pen are blue.",
+        "My pen is a blue."
+      ],
+      "explanation": "Pen số ít dùng is; màu blue đứng sau is không thêm a."
+    },
+    {
+      "question_id": "TA3_T1_U09_Q12",
+      "type": "mcq",
+      "skill": "speaking",
+      "question": "Hai bạn chơi hỏi màu với thẻ một vật và nhiều vật, điều nào cần đổi theo thẻ?",
+      "correct_answer": "is it/It's đổi thành are they/They're khi có nhiều vật.",
+      "options": [
+        "is it/It's đổi thành are they/They're khi có nhiều vật.",
+        "Tên người nói luôn phải đổi.",
+        "Mọi màu đều đổi thành red.",
+        "Cứ dùng I'm cho mọi thẻ."
+      ],
+      "explanation": "Số lượng vật quyết định cấu trúc hỏi đáp, màu vẫn mô tả đúng hình hoặc đồ vật."
+    }
+  ],
+  "games": [
+    {
+      "id": "TA3_T1_U09_GAME",
+      "title": "Kho báu tiếng Anh: Unit 9: Colours",
+      "mode": "treasure",
+      "objective": "Chọn từ và lời nói phù hợp để mở kho báu.",
+      "rules": [
+        "Mỗi lượt10 câu thuộc bài, không áp phân mức Toán.",
+        "Chọn đáp án rồi đọc giải thích. Trả lời đúng tiến thêm một bước.",
+        "Kết thúc, ôn câu sai và thử lại."
+      ],
+      "question_ids": [
+        "TA3_T1_U09_Q01",
+        "TA3_T1_U09_Q02",
+        "TA3_T1_U09_Q03",
+        "TA3_T1_U09_Q04",
+        "TA3_T1_U09_Q05",
+        "TA3_T1_U09_Q06",
+        "TA3_T1_U09_Q07",
+        "TA3_T1_U09_Q08",
+        "TA3_T1_U09_Q09",
+        "TA3_T1_U09_Q10",
+        "TA3_T1_U09_Q11",
+        "TA3_T1_U09_Q12"
+      ],
+      "answer_source": "practice.correct_answer",
+      "feedback_source": "practice.explanation",
+      "max_score": 100
+    }
+  ],
+  "assessment": {
+    "session_size": 10,
+    "scoring": "Mỗi câu đúng được tính điểm theo hệ thống; 8–10 câu đúng: nắm tốt, 5–7: đọc lại phần còn nhầm, dưới 5: đọc bài cùng người thân rồi thử lại. Nhiệm vụ nói/viết tự kiểm theo tiêu chí, không chấm bằng một đáp án duy nhất.",
+    "review_advice": "Xem lại câu sai theo nhóm từ, mẫu câu, phát âm; thực hiện cả nhiệm vụ nói và viết. Điểm trắc nghiệm không thay thế nhận xét phát âm."
+  },
+  "feedback": {
+    "correct": "Đúng rồi! Em đọc lại từ hoặc lời nói vừa chọn.",
+    "incorrect": "Đọc lời giải, chú ý tình huống rồi thử dùng mẫu câu.",
+    "teacher_note": "AI_CHECKED_AWAITING_TEACHER; phần nói và phát âm cần người lớn nghe và góp ý."
+  },
+  "verification": {
+    "ai_authored": true,
+    "structure_checked": true,
+    "answer_reviewed": true,
+    "source_reviewed": true,
+    "teacher_approved": false
+  },
+  "status": "AI_CHECKED_AWAITING_TEACHER",
+  "vocabulary": [
+    {
+      "word": "blue",
+      "meaning_vi": "xanh dương",
+      "example": "My pen is blue."
+    },
+    {
+      "word": "brown",
+      "meaning_vi": "nâu",
+      "example": "My bag is brown."
+    },
+    {
+      "word": "red",
+      "meaning_vi": "đỏ",
+      "example": "It's red."
+    },
+    {
+      "word": "yellow",
+      "meaning_vi": "vàng",
+      "example": "It's yellow."
+    },
+    {
+      "word": "orange",
+      "meaning_vi": "cam",
+      "example": "They're orange."
+    },
+    {
+      "word": "green",
+      "meaning_vi": "xanh lá",
+      "example": "They're green."
+    },
+    {
+      "word": "white",
+      "meaning_vi": "trắng",
+      "example": "My eraser is white."
+    },
+    {
+      "word": "black",
+      "meaning_vi": "đen",
+      "example": "My pencils are black."
+    }
+  ],
+  "patterns": [
+    "What colour is it? — It's blue. → Nó màu gì? — Xanh dương.",
+    "What colour are they? — They're green. → Chúng màu gì? — Xanh lá.",
+    "It's = It is; They're = They are. My pen is blue; My pens are blue."
+  ],
+  "pronunciation": [
+    "bl trong blue nối /b/ và /l/, không chèn nguyên âm.",
+    "br trong brown nối /b/ và /r/; phân biệt âm thứ hai với /l/ của blue."
+  ],
+  "skills": {
+    "reading": [
+      "Đoạn mới: My bag is yellow. My pens are black. My eraser is white.",
+      "Những chiếc bút màu gì? Đáp án: black, đen. Không nhầm với yellow của chiếc cặp."
+    ],
+    "writing": [
+      "Viết ba câu mô tả thẻ đồ dùng tự vẽ: My pen is red. My books are blue. My eraser is white.",
+      "Thêm một câu hỏi màu một vật, một câu hỏi màu nhiều vật; tự soát is/are và It's/They're."
+    ],
+    "speaking": [
+      "Đặt một thẻ đồ vật rồi một cặp thẻ cùng màu, hỏi đáp màu theo số lượng.",
+      "Nếu màu trên màn hình khó nhìn, nói rõ tên màu của thẻ tự làm hoặc nhờ người lớn chỉ; vẫn luyện cấu trúc câu."
+    ],
+    "listening": [
+      "Nghe blue và brown bằng giọng máy, phân biệt bl/br rồi chọn thẻ ghi từ.",
+      "Nhờ bạn nói một câu màu đồ vật, em chỉ đúng đồ hoặc thẻ đã thống nhất trước."
+    ]
+  },
+  "audio": {
+    "type": "speechSynthesis",
+    "label": "Giọng máy tiếng Anh của thiết bị, không phải âm thanh sách. Có thể khác theo thiết bị; nếu không phát, đọc theo mẫu và nhờ người lớn hỗ trợ."
+  },
+  "figures": [
+    {
+      "path": "content/assets/TA3_T1_U09_colour_cards.svg",
+      "caption": "Ba thẻ A, B, C; hình SVG do dự án tự dựng."
+    }
+  ]
+}
