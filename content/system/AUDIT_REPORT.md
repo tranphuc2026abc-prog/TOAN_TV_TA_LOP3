@@ -1,3 +1,11 @@
+# Batch43 — Unit17–20 — 14/11/2026
+
+- Đã đọc trực quan đầy đủ T2 PDF47–70/trang46–69: đồ chơi he/she has và they have(i/oy), hành động của bản thân(n/ng), hoạt động ngoài trời he/she is(pl/fl), sở thú và hành động con vật(a parrot/dancing).48 câu mới,8 ví dụ có lời giải,4 trò chơi. Phân biệt hành động hiện tại với thói quen, đồ của từng người với nhóm; câu sở thú phân biệt tranh/chuyện với quan sát thật.
+- Tổng AI biên soạn167/168, AI kiểm tra167/168; Toán81/81,TV62/62,TA24/25;4304 câu,167 trò chơi; giáo viên duyệt4,163 chờ duyệt. CònReview4. Bài mới AI_CHECKED_AWAITING_TEACHER.
+- npm test exit0 trên167 kho: validator, toàn bộ hồi quy, test_batch43, DOM mọi môn/tất cả TA, game và1 menu điều hướng sau vào/vẽ lại. Giọng máy chưa được xác minh âm thực.
+- Batch42 commit https://github.com/tranphuc2026abc-prog/TOAN_TV_TA_LOP3/commit/2b478314c26bf3947d5caad6bf8d97bcba420986 ; Actions43611056011/43611055574 đều success. Các tệp Pages đang đối chiếu. Batch43 Actions/Pages chờ kiểm sau commit.
+- Đã đọc trực quan Review4 PDF71–74/trang70–73 để tiếp tục batch44 cuối1 mục. Chưa tuyên bố hoàn thành khi mục này chưa biên soạn và kiểm thử/triển khai chưa xác minh.
+
 # Batch42 — Unit14–15, Review3, Unit16 — 14/11/2026
 
 - Đã đọc trực quan toàn bộ T2 PDF25–46/trang24–45: phòng ngủ There is/are và tính từ(oo room/door), mời và gọi món(ea bread/meat), Review3/Fun time, vật nuôi với any/some/many(o dog/goldfish).48 câu mới,8 ví dụ có lời giải,4 trò chơi. Phân biệt some/many với số đếm chính xác, goldfish không thêm s trong mẫu; câu gọi món nhận/từ chối lịch sự.

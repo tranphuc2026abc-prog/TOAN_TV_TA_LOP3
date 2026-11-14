@@ -1,0 +1,378 @@
+{
+  "id": "TA3_T2_U19",
+  "subject": "ta",
+  "grade": 3,
+  "book": "Kết nối tri thức với cuộc sống",
+  "volume": 2,
+  "lesson_no": 19,
+  "title": "Unit 19: Outdoor activities",
+  "topic": "English Global Success",
+  "source": {
+    "pdf": "03-sgk-tieng-anh-3-tap-2-global-success.pdf",
+    "printed_pages": [
+      58,
+      63
+    ],
+    "pdf_pages": [
+      59,
+      64
+    ],
+    "review": "Đã đọc trực quan đầy đủ trang nguồn PDF ảnh quét ngày14/11/2026. Biên soạn tình huống, ví dụ và câu hỏi mới; không đăng toàn văn hay sao chép hệ thống bài tập SGK; không có bản thu âm sách."
+  },
+  "objectives": [
+    "Hiểu và dùng đúng: Nói hành động của người khác bằng he/she is và hỏi What's he/she doing trong bối cảnh ngoài trời.",
+    "Đọc, viết và thực hành nói theo tình huống mới.",
+    "Nhận biết trọng tâm phát âm và luyện nghe bằng giọng máy có ghi nhãn."
+  ],
+  "knowledge": {
+    "introduction": "Nói hành động của người khác bằng he/she is và hỏi What's he/she doing trong bối cảnh ngoài trời.",
+    "rules": [
+      "What's he/she doing? — He's/She's running. → Anh/cô ấy đang làm gì?",
+      "Where's Huy? — He's in the park. → Huy ở đâu? — Trong công viên.",
+      "He's = He is; She's = She is. Phân biệt câu hỏi vị trí với câu hỏi hành động."
+    ],
+    "steps": [
+      "Đọc từ và nghĩa, quan sát tình huống trước khi chọn cách nói.",
+      "Nghe từ bằng giọng máy nếu thiết bị hỗ trợ, đọc lại chậm theo hướng dẫn phát âm.",
+      "Làm câu hỏi, xem giải thích rồi thực hành nói và viết theo nhiệm vụ."
+    ],
+    "common_errors": [
+      "Đổi he/she sai nhân vật; bỏ is trong He running.",
+      "Suy đang thả diều chỉ vì đang cầm diều; nhầm nơi với hành động."
+    ]
+  },
+  "examples": [
+    {
+      "question": "Cycling là hoạt động nào trong nhóm ngoài trời?",
+      "steps": [
+        "Nhận diện yêu cầu: vocabulary",
+        "Cycling là đạp xe; skating, skipping, flying a kite là các hoạt động khác.",
+        "Đáp án: Đạp xe."
+      ]
+    },
+    {
+      "question": "Dạng ing đúng của fly trong flying a kite là gì?",
+      "steps": [
+        "Nhận diện yêu cầu: writing",
+        "Fly giữ y rồi thêm ing thành flying, không bỏ hoặc nhân đôi y.",
+        "Đáp án: flying"
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "title": "Thực hành theo cặp: Unit 19: Outdoor activities",
+      "materials": [
+        "Giấy",
+        "Bút",
+        "Thẻ tự làm"
+      ],
+      "steps": [
+        "Vẽ áp phích công viên với ba nhân vật có hành động rõ, viết tên từng người rồi hỏi đáp vị trí và hoạt động; chỉ diễn nhẹ tại chỗ nếu chơi trong phòng.",
+        "Đổi vai và nhờ bạn nhắc lại thông tin đã nghe.",
+        "Sửa một lỗi sau khi đọc phần giải thích trong bài."
+      ],
+      "check": [
+        "Đúng nội dung giao tiếp hoặc chữ/số yêu cầu.",
+        "Phát âm chậm, đủ nghe; nhờ người lớn hỗ trợ chỗ chưa chắc.",
+        "Viết đúng từ, tên riêng, dấu nháy và dấu câu."
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "question_id": "TA3_T2_U19_Q01",
+      "type": "mcq",
+      "skill": "vocabulary",
+      "question": "Cycling là hoạt động nào trong nhóm ngoài trời?",
+      "correct_answer": "Đạp xe.",
+      "options": [
+        "Trượt patin.",
+        "Nhảy dây.",
+        "Thả diều.",
+        "Đạp xe."
+      ],
+      "explanation": "Cycling là đạp xe; skating, skipping, flying a kite là các hoạt động khác."
+    },
+    {
+      "question_id": "TA3_T2_U19_Q02",
+      "type": "mcq",
+      "skill": "grammar",
+      "question": "Cô ấy đang đi bộ. Câu nào dùng đúng chủ ngữ và dạng hoạt động?",
+      "correct_answer": "She's walking.",
+      "options": [
+        "She're walking.",
+        "She's walk.",
+        "She's walking.",
+        "She walking."
+      ],
+      "explanation": "She's là she is, đi với walking để nói đang làm."
+    },
+    {
+      "question_id": "TA3_T2_U19_Q03",
+      "type": "mcq",
+      "skill": "communication",
+      "question": "Muốn hỏi một bạn trai đang làm gì ở công viên, em nói gì?",
+      "correct_answer": "What's he doing?",
+      "options": [
+        "How old doing?",
+        "What's he doing?",
+        "Where is his age?",
+        "What's her colour?"
+      ],
+      "explanation": "What's he doing là What is he doing, hỏi hành động của người nam đang nói tới."
+    },
+    {
+      "question_id": "TA3_T2_U19_Q04",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Đọc: My friends are in the park. Nhi is skipping. Huy is skating. Ai đang nhảy dây?",
+      "correct_answer": "Nhi.",
+      "options": [
+        "Nhi.",
+        "Huy.",
+        "Cả hai.",
+        "Chưa ai làm gì."
+      ],
+      "explanation": "Skipping là nhảy dây, gắn Nhi; skating thuộc Huy."
+    },
+    {
+      "question_id": "TA3_T2_U19_Q05",
+      "type": "mcq",
+      "skill": "writing",
+      "question": "Dạng ing đúng của fly trong flying a kite là gì?",
+      "correct_answer": "flying",
+      "options": [
+        "fling",
+        "flyying",
+        "flyeing",
+        "flying"
+      ],
+      "explanation": "Fly giữ y rồi thêm ing thành flying, không bỏ hoặc nhân đôi y."
+    },
+    {
+      "question_id": "TA3_T2_U19_Q06",
+      "type": "mcq",
+      "skill": "vocabulary",
+      "question": "Cặp nào mô tả đi bộ và chạy?",
+      "correct_answer": "walking và running",
+      "options": [
+        "skating và cycling",
+        "flying và skipping",
+        "walking và running",
+        "painting và singing"
+      ],
+      "explanation": "Walking là đi bộ, running là chạy; hai từ chỉ cách di chuyển khác nhau."
+    },
+    {
+      "question_id": "TA3_T2_U19_Q07",
+      "type": "mcq",
+      "skill": "grammar",
+      "question": "Trả lời What's she doing? khi người đó đang tô/vẽ màu, em chọn gì?",
+      "correct_answer": "She's painting.",
+      "options": [
+        "She has painting.",
+        "She's painting.",
+        "I'm painting.",
+        "He's painting."
+      ],
+      "explanation": "Câu hỏi dùng she nên đáp she is; không đổi sang I hoặc he."
+    },
+    {
+      "question_id": "TA3_T2_U19_Q08",
+      "type": "mcq",
+      "skill": "pronunciation",
+      "question": "Pl trong play và fl trong fly khác âm đầu nào?",
+      "correct_answer": "/p/ của play và /f/ của fly.",
+      "options": [
+        "/p/ của play và /f/ của fly.",
+        "/b/ và /v/.",
+        "Cả hai đều /t/.",
+        "Chỉ khác tên chữ L."
+      ],
+      "explanation": "/pl/ bắt đầu âm bật /p/, /fl/ bắt đầu âm môi-răng /f/; cả hai nối sang /l/."
+    },
+    {
+      "question_id": "TA3_T2_U19_Q09",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Đọc: Huy is in the park. He's flying a kite. Huy ở đâu?",
+      "correct_answer": "Trong công viên.",
+      "options": [
+        "Trong bếp.",
+        "Trong thư viện.",
+        "Trên máy bay.",
+        "Trong công viên."
+      ],
+      "explanation": "In the park trả lời vị trí; flying a kite là hoạt động, không có nghĩa Huy ở trên máy bay."
+    },
+    {
+      "question_id": "TA3_T2_U19_Q10",
+      "type": "mcq",
+      "skill": "writing",
+      "question": "Sửa He is runing cho đúng chính tả hoạt động đang diễn ra.",
+      "correct_answer": "He is running.",
+      "options": [
+        "He are running.",
+        "He is run.",
+        "He is running.",
+        "He is runeing."
+      ],
+      "explanation": "Running viết hai n; giữ he is để đúng ngữ pháp."
+    },
+    {
+      "question_id": "TA3_T2_U19_Q11",
+      "type": "mcq",
+      "skill": "communication",
+      "question": "Em chỉ thấy Mai cầm chiếc diều, chưa thấy bạn làm gì. Cách mô tả nào có căn cứ?",
+      "correct_answer": "Nói điều đang thấy và hỏi thêm trước khi khẳng định Mai đang thả diều.",
+      "options": [
+        "Gán hoạt động của người khác cho Mai.",
+        "Nói điều đang thấy và hỏi thêm trước khi khẳng định Mai đang thả diều.",
+        "Khẳng định có diều là luôn đang thả diều.",
+        "Khẳng định Mai đang trượt patin."
+      ],
+      "explanation": "Sở hữu/cầm đồ vật không tự chứng minh hoạt động đang diễn ra; dùng tranh có hành động rõ khi luyện."
+    },
+    {
+      "question_id": "TA3_T2_U19_Q12",
+      "type": "mcq",
+      "skill": "speaking",
+      "question": "Làm áp phích hoạt động ngoài trời, phần trình bày nào phù hợp?",
+      "correct_answer": "Nêu nơi và hành động của hai nhân vật bằng he/she is + ing.",
+      "options": [
+        "Nêu nơi và hành động của hai nhân vật bằng he/she is + ing.",
+        "Chỉ liệt kê đồ dùng không có người.",
+        "Chỉ đọc tên tuổi.",
+        "Chỉ đếm số trang giấy."
+      ],
+      "explanation": "Unit19 nối thông tin vị trí với việc một người khác đang làm, khác tự kể I'm của Unit18."
+    }
+  ],
+  "games": [
+    {
+      "id": "TA3_T2_U19_GAME",
+      "title": "Kho báu tiếng Anh: Unit 19: Outdoor activities",
+      "mode": "treasure",
+      "objective": "Chọn từ và lời nói phù hợp để mở kho báu.",
+      "rules": [
+        "Mỗi lượt10 câu thuộc bài, không áp phân mức Toán.",
+        "Chọn đáp án rồi đọc giải thích. Trả lời đúng tiến thêm một bước.",
+        "Kết thúc, ôn câu sai và thử lại."
+      ],
+      "question_ids": [
+        "TA3_T2_U19_Q01",
+        "TA3_T2_U19_Q02",
+        "TA3_T2_U19_Q03",
+        "TA3_T2_U19_Q04",
+        "TA3_T2_U19_Q05",
+        "TA3_T2_U19_Q06",
+        "TA3_T2_U19_Q07",
+        "TA3_T2_U19_Q08",
+        "TA3_T2_U19_Q09",
+        "TA3_T2_U19_Q10",
+        "TA3_T2_U19_Q11",
+        "TA3_T2_U19_Q12"
+      ],
+      "answer_source": "practice.correct_answer",
+      "feedback_source": "practice.explanation",
+      "max_score": 100
+    }
+  ],
+  "assessment": {
+    "session_size": 10,
+    "scoring": "Mỗi câu đúng được tính điểm theo hệ thống; 8–10 câu đúng: nắm tốt, 5–7: đọc lại phần còn nhầm, dưới 5: đọc bài cùng người thân rồi thử lại. Nhiệm vụ nói/viết tự kiểm theo tiêu chí, không chấm bằng một đáp án duy nhất.",
+    "review_advice": "Xem lại câu sai theo nhóm từ, mẫu câu, phát âm; thực hiện cả nhiệm vụ nói và viết. Điểm trắc nghiệm không thay thế nhận xét phát âm."
+  },
+  "feedback": {
+    "correct": "Đúng rồi! Em đọc lại từ hoặc lời nói vừa chọn.",
+    "incorrect": "Đọc lời giải, chú ý tình huống rồi thử dùng mẫu câu.",
+    "teacher_note": "AI_CHECKED_AWAITING_TEACHER; phần nói và phát âm cần người lớn nghe và góp ý."
+  },
+  "verification": {
+    "ai_authored": true,
+    "structure_checked": true,
+    "answer_reviewed": true,
+    "source_reviewed": true,
+    "teacher_approved": false
+  },
+  "status": "AI_CHECKED_AWAITING_TEACHER",
+  "vocabulary": [
+    {
+      "word": "playing badminton",
+      "meaning_vi": "đang chơi cầu lông",
+      "example": "She's playing badminton."
+    },
+    {
+      "word": "running",
+      "meaning_vi": "đang chạy",
+      "example": "He's running."
+    },
+    {
+      "word": "painting",
+      "meaning_vi": "đang vẽ bằng màu",
+      "example": "She's painting."
+    },
+    {
+      "word": "walking",
+      "meaning_vi": "đang đi bộ",
+      "example": "He's walking."
+    },
+    {
+      "word": "skating",
+      "meaning_vi": "đang trượt patin",
+      "example": "He's skating."
+    },
+    {
+      "word": "cycling",
+      "meaning_vi": "đang đạp xe",
+      "example": "She's cycling."
+    },
+    {
+      "word": "flying a kite",
+      "meaning_vi": "đang thả diều",
+      "example": "He's flying a kite."
+    },
+    {
+      "word": "skipping",
+      "meaning_vi": "đang nhảy dây",
+      "example": "She's skipping."
+    },
+    {
+      "word": "park",
+      "meaning_vi": "công viên",
+      "example": "He's in the park."
+    }
+  ],
+  "patterns": [
+    "What's he/she doing? — He's/She's running. → Anh/cô ấy đang làm gì?",
+    "Where's Huy? — He's in the park. → Huy ở đâu? — Trong công viên.",
+    "He's = He is; She's = She is. Phân biệt câu hỏi vị trí với câu hỏi hành động."
+  ],
+  "pronunciation": [
+    "pl trong play là /pl/, fl trong fly là /fl/; âm đầu /p/ bật hai môi, /f/ môi-răng thổi khí.",
+    "Nối cả cụm với /l/, không thêm tiếng pờ-lờ hoặc phờ-lờ khi nói tiếng Anh."
+  ],
+  "skills": {
+    "reading": [
+      "Đoạn mới: My friends are in the park. Nhi is skipping. Huy is skating. Lan is flying a kite.",
+      "Ai nhảy dây và ai trượt patin? Đáp án: Nhi nhảy dây, Huy trượt patin; tìm đúng tên và hoạt động."
+    ],
+    "writing": [
+      "Viết ba câu cho tranh hoạt động tự vẽ, gồm một nơi và hai hành động. Mẫu: He's in the park. He's running. She's cycling.",
+      "Soát running có hai n, skipping có hai p, flying giữ y; skating/cycling bỏ e trước ing."
+    ],
+    "speaking": [
+      "Một bạn chỉ nhân vật rõ hành động trong tranh, bạn kia hỏi What's he/she doing rồi đổi vai đáp.",
+      "Thêm câu hỏi Where's nhân vật và đáp nơi; đừng suy hoạt động chỉ từ đồ vật đang cầm."
+    ],
+    "listening": [
+      "Nghe play/fly và các cụm hành động bằng giọng máy; đọc lại trong câu He's/She's.",
+      "Bạn đọc nơi và hoạt động, em chọn thẻ nhân vật đúng theo tranh đã thống nhất."
+    ]
+  },
+  "audio": {
+    "type": "speechSynthesis",
+    "label": "Giọng máy tiếng Anh của thiết bị, không phải âm thanh sách. Có thể khác theo thiết bị; nếu không phát, đọc theo mẫu và nhờ người lớn hỗ trợ."
+  }
+}

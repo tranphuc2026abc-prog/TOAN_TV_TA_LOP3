@@ -1,0 +1,383 @@
+{
+  "id": "TA3_T2_U17",
+  "subject": "ta",
+  "grade": 3,
+  "book": "Kết nối tri thức với cuộc sống",
+  "volume": 2,
+  "lesson_no": 17,
+  "title": "Unit 17: Our toys",
+  "topic": "English Global Success",
+  "source": {
+    "pdf": "03-sgk-tieng-anh-3-tap-2-global-success.pdf",
+    "printed_pages": [
+      46,
+      51
+    ],
+    "pdf_pages": [
+      47,
+      52
+    ],
+    "review": "Đã đọc trực quan đầy đủ trang nguồn PDF ảnh quét ngày14/11/2026. Biên soạn tình huống, ví dụ và câu hỏi mới; không đăng toàn văn hay sao chép hệ thống bài tập SGK; không có bản thu âm sách."
+  },
+  "objectives": [
+    "Hiểu và dùng đúng: Giới thiệu đồ chơi người khác có; phân biệt he/she has với they have và tên đồ chơi số nhiều.",
+    "Đọc, viết và thực hành nói theo tình huống mới.",
+    "Nhận biết trọng tâm phát âm và luyện nghe bằng giọng máy có ghi nhãn."
+  ],
+  "knowledge": {
+    "introduction": "Giới thiệu đồ chơi người khác có; phân biệt he/she has với they have và tên đồ chơi số nhiều.",
+    "rules": [
+      "He/She has a kite. → Anh/cô ấy có một chiếc diều.",
+      "They have two dolls. → Họ có hai búp bê. Tên hai người nối and cũng dùng have.",
+      "Một đồ dùng a car/a plane; nhiều đồ: cars/planes/trains/ships, buses; gấu bông: teddy bears."
+    ],
+    "steps": [
+      "Đọc từ và nghĩa, quan sát tình huống trước khi chọn cách nói.",
+      "Nghe từ bằng giọng máy nếu thiết bị hỗ trợ, đọc lại chậm theo hướng dẫn phát âm.",
+      "Làm câu hỏi, xem giải thích rồi thực hành nói và viết theo nhiệm vụ."
+    ],
+    "common_errors": [
+      "Dùng she have hoặc they has.",
+      "Bỏ s trong two planes, viết buss thay buses; nhầm đồ của một người thành đồ của mọi người."
+    ]
+  },
+  "examples": [
+    {
+      "question": "Đồ chơi kite là gì?",
+      "steps": [
+        "Nhận diện yêu cầu: vocabulary",
+        "Kite là diều; train, truck, doll là các đồ chơi khác.",
+        "Đáp án: Diều."
+      ]
+    },
+    {
+      "question": "Tên teddy bear chỉ đồ chơi nào?",
+      "steps": [
+        "Nhận diện yêu cầu: vocabulary",
+        "Teddy bear là gấu bông, gồm hai từ; không phải bear thật cần mang đến lớp.",
+        "Đáp án: Gấu bông."
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "title": "Thực hành theo cặp: Unit 17: Our toys",
+      "materials": [
+        "Giấy",
+        "Bút",
+        "Thẻ tự làm"
+      ],
+      "steps": [
+        "Gấp hoặc vẽ ba món đồ chơi cho hai nhân vật, ghi đồ mỗi người rồi thuyết trình một người và nhóm; không cần đồ chơi mua sẵn.",
+        "Đổi vai và nhờ bạn nhắc lại thông tin đã nghe.",
+        "Sửa một lỗi sau khi đọc phần giải thích trong bài."
+      ],
+      "check": [
+        "Đúng nội dung giao tiếp hoặc chữ/số yêu cầu.",
+        "Phát âm chậm, đủ nghe; nhờ người lớn hỗ trợ chỗ chưa chắc.",
+        "Viết đúng từ, tên riêng, dấu nháy và dấu câu."
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "question_id": "TA3_T2_U17_Q01",
+      "type": "mcq",
+      "skill": "vocabulary",
+      "question": "Đồ chơi kite là gì?",
+      "correct_answer": "Diều.",
+      "options": [
+        "Tàu hoả.",
+        "Xe tải.",
+        "Búp bê.",
+        "Diều."
+      ],
+      "explanation": "Kite là diều; train, truck, doll là các đồ chơi khác."
+    },
+    {
+      "question_id": "TA3_T2_U17_Q02",
+      "type": "mcq",
+      "skill": "grammar",
+      "question": "Một bạn gái có một máy bay đồ chơi. Câu nào đúng?",
+      "correct_answer": "She has a plane.",
+      "options": [
+        "She has an plane.",
+        "She plane is a.",
+        "She has a plane.",
+        "She have a plane."
+      ],
+      "explanation": "He/she đi với has; plane bắt đầu phụ âm nên dùng a."
+    },
+    {
+      "question_id": "TA3_T2_U17_Q03",
+      "type": "mcq",
+      "skill": "grammar",
+      "question": "Hai bạn cùng có ba xe buýt đồ chơi, chọn câu đúng.",
+      "correct_answer": "They have three buses.",
+      "options": [
+        "They three buses has.",
+        "They have three buses.",
+        "They has three buses.",
+        "They have three bus."
+      ],
+      "explanation": "They dùng have, bus ở số nhiều thành buses."
+    },
+    {
+      "question_id": "TA3_T2_U17_Q04",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Đọc: Binh has a kite. Yen has two dolls. They have a train, too. Ai có hai búp bê?",
+      "correct_answer": "Yen.",
+      "options": [
+        "Yen.",
+        "Binh.",
+        "Cả Binh và Yen mỗi người hai búp bê.",
+        "Chưa ai có đồ chơi."
+      ],
+      "explanation": "Yen has two dolls nêu rõ người và số đồ, không gán riêng đồ của Yen cho Binh."
+    },
+    {
+      "question_id": "TA3_T2_U17_Q05",
+      "type": "mcq",
+      "skill": "vocabulary",
+      "question": "Tên teddy bear chỉ đồ chơi nào?",
+      "correct_answer": "Gấu bông.",
+      "options": [
+        "Thuyền.",
+        "Xe hơi.",
+        "Diều.",
+        "Gấu bông."
+      ],
+      "explanation": "Teddy bear là gấu bông, gồm hai từ; không phải bear thật cần mang đến lớp."
+    },
+    {
+      "question_id": "TA3_T2_U17_Q06",
+      "type": "mcq",
+      "skill": "writing",
+      "question": "Chọn câu có số nhiều đúng khi nói hai tàu thuỷ đồ chơi.",
+      "correct_answer": "They have two ships.",
+      "options": [
+        "They has two ships.",
+        "They have a two ships.",
+        "They have two ships.",
+        "They have two ship."
+      ],
+      "explanation": "Two ships cần s, They đi với have; không đặt a trước two."
+    },
+    {
+      "question_id": "TA3_T2_U17_Q07",
+      "type": "mcq",
+      "skill": "communication",
+      "question": "Em giới thiệu đồ chơi của một bạn trai, không nói đồ của mình. Mẫu nào đúng?",
+      "correct_answer": "He has a car.",
+      "options": [
+        "He are car.",
+        "He has a car.",
+        "I have a car.",
+        "I'm a car."
+      ],
+      "explanation": "He has nói một bạn trai có; I have nói chính người kể có, không đúng ngôi yêu cầu."
+    },
+    {
+      "question_id": "TA3_T2_U17_Q08",
+      "type": "mcq",
+      "skill": "pronunciation",
+      "question": "I trong kite và oy trong toy có âm khác nhau ra sao?",
+      "correct_answer": "Kite có /aɪ/, toy có /ɔɪ/.",
+      "options": [
+        "Kite có /aɪ/, toy có /ɔɪ/.",
+        "Cả hai đều /iː/.",
+        "Kite có /ɔɪ/, toy có /aɪ/.",
+        "Cả hai i/oy đều câm."
+      ],
+      "explanation": "Kite và toy có hai nguyên âm đôi khác nhau; nghe cả từ rồi đọc vào câu."
+    },
+    {
+      "question_id": "TA3_T2_U17_Q09",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Đọc: They have one truck and two planes. Nhóm có bao nhiêu máy bay đồ chơi?",
+      "correct_answer": "Hai.",
+      "options": [
+        "Một.",
+        "Ba.",
+        "Chưa nêu số máy bay.",
+        "Hai."
+      ],
+      "explanation": "Two planes cho biết hai máy bay; one truck là một xe tải, không cộng vào số máy bay."
+    },
+    {
+      "question_id": "TA3_T2_U17_Q10",
+      "type": "mcq",
+      "skill": "writing",
+      "question": "Tên số nhiều đúng của bus trong chủ đề đồ chơi là gì?",
+      "correct_answer": "buses",
+      "options": [
+        "busies",
+        "buseses",
+        "buses",
+        "buss"
+      ],
+      "explanation": "Bus thêm es thành buses; không thêm y hay lặp es."
+    },
+    {
+      "question_id": "TA3_T2_U17_Q11",
+      "type": "mcq",
+      "skill": "speaking",
+      "question": "Giới thiệu đồ chơi hai nhân vật trên thẻ, cách nào thể hiện đổi từ một sang nhiều người?",
+      "correct_answer": "Một người dùng He/She has, hai người dùng They have.",
+      "options": [
+        "Bỏ mọi từ have/has.",
+        "Một người dùng He/She has, hai người dùng They have.",
+        "Luôn dùng I has.",
+        "Luôn dùng They has."
+      ],
+      "explanation": "Dạng chủ ngữ quyết định have/has; số lượng đồ còn quyết định danh từ số ít/số nhiều."
+    },
+    {
+      "question_id": "TA3_T2_U17_Q12",
+      "type": "mcq",
+      "skill": "communication",
+      "question": "Bạn không có đồ chơi thật để trưng bày. Cách tham gia phù hợp là gì?",
+      "correct_answer": "Vẽ hoặc gấp đồ chơi giấy rồi giới thiệu theo thẻ vai.",
+      "options": [
+        "Vẽ hoặc gấp đồ chơi giấy rồi giới thiệu theo thẻ vai.",
+        "Bỏ bạn ra khỏi hoạt động.",
+        "Tự nói bạn có đồ đắt tiền.",
+        "Chỉ so giá đồ chơi của các bạn."
+      ],
+      "explanation": "Nhiệm vụ luyện câu sở hữu, có thể dùng hình tự vẽ và thông tin nhân vật tưởng tượng."
+    }
+  ],
+  "games": [
+    {
+      "id": "TA3_T2_U17_GAME",
+      "title": "Kho báu tiếng Anh: Unit 17: Our toys",
+      "mode": "treasure",
+      "objective": "Chọn từ và lời nói phù hợp để mở kho báu.",
+      "rules": [
+        "Mỗi lượt10 câu thuộc bài, không áp phân mức Toán.",
+        "Chọn đáp án rồi đọc giải thích. Trả lời đúng tiến thêm một bước.",
+        "Kết thúc, ôn câu sai và thử lại."
+      ],
+      "question_ids": [
+        "TA3_T2_U17_Q01",
+        "TA3_T2_U17_Q02",
+        "TA3_T2_U17_Q03",
+        "TA3_T2_U17_Q04",
+        "TA3_T2_U17_Q05",
+        "TA3_T2_U17_Q06",
+        "TA3_T2_U17_Q07",
+        "TA3_T2_U17_Q08",
+        "TA3_T2_U17_Q09",
+        "TA3_T2_U17_Q10",
+        "TA3_T2_U17_Q11",
+        "TA3_T2_U17_Q12"
+      ],
+      "answer_source": "practice.correct_answer",
+      "feedback_source": "practice.explanation",
+      "max_score": 100
+    }
+  ],
+  "assessment": {
+    "session_size": 10,
+    "scoring": "Mỗi câu đúng được tính điểm theo hệ thống; 8–10 câu đúng: nắm tốt, 5–7: đọc lại phần còn nhầm, dưới 5: đọc bài cùng người thân rồi thử lại. Nhiệm vụ nói/viết tự kiểm theo tiêu chí, không chấm bằng một đáp án duy nhất.",
+    "review_advice": "Xem lại câu sai theo nhóm từ, mẫu câu, phát âm; thực hiện cả nhiệm vụ nói và viết. Điểm trắc nghiệm không thay thế nhận xét phát âm."
+  },
+  "feedback": {
+    "correct": "Đúng rồi! Em đọc lại từ hoặc lời nói vừa chọn.",
+    "incorrect": "Đọc lời giải, chú ý tình huống rồi thử dùng mẫu câu.",
+    "teacher_note": "AI_CHECKED_AWAITING_TEACHER; phần nói và phát âm cần người lớn nghe và góp ý."
+  },
+  "verification": {
+    "ai_authored": true,
+    "structure_checked": true,
+    "answer_reviewed": true,
+    "source_reviewed": true,
+    "teacher_approved": false
+  },
+  "status": "AI_CHECKED_AWAITING_TEACHER",
+  "vocabulary": [
+    {
+      "word": "car",
+      "meaning_vi": "xe hơi đồ chơi",
+      "example": "He has a car."
+    },
+    {
+      "word": "kite",
+      "meaning_vi": "diều",
+      "example": "She has a kite."
+    },
+    {
+      "word": "train",
+      "meaning_vi": "tàu hoả đồ chơi",
+      "example": "He has two trains."
+    },
+    {
+      "word": "plane",
+      "meaning_vi": "máy bay đồ chơi",
+      "example": "She has a plane."
+    },
+    {
+      "word": "truck",
+      "meaning_vi": "xe tải đồ chơi",
+      "example": "They have trucks."
+    },
+    {
+      "word": "bus",
+      "meaning_vi": "xe buýt đồ chơi",
+      "example": "They have two buses."
+    },
+    {
+      "word": "ship",
+      "meaning_vi": "tàu thuỷ đồ chơi",
+      "example": "They have three ships."
+    },
+    {
+      "word": "teddy bear",
+      "meaning_vi": "gấu bông",
+      "example": "She has a teddy bear."
+    },
+    {
+      "word": "doll",
+      "meaning_vi": "búp bê",
+      "example": "He has two dolls."
+    },
+    {
+      "word": "toy",
+      "meaning_vi": "đồ chơi",
+      "example": "This is my toy."
+    }
+  ],
+  "patterns": [
+    "He/She has a kite. → Anh/cô ấy có một chiếc diều.",
+    "They have two dolls. → Họ có hai búp bê. Tên hai người nối and cũng dùng have.",
+    "Một đồ dùng a car/a plane; nhiều đồ: cars/planes/trains/ships, buses; gấu bông: teddy bears."
+  ],
+  "pronunciation": [
+    "i trong kite là /aɪ/, oy trong toy là /ɔɪ/, đều là nguyên âm đôi nhưng khác nhau.",
+    "Nghe kite/toy rồi đọc cả cụm a kite/a toy; không đọc tên chữ thay âm trong từ."
+  ],
+  "skills": {
+    "reading": [
+      "Đoạn mới: Binh has a kite. Yen has two dolls. They have a train, too.",
+      "Ai có hai búp bê? Đáp án: Yen. Đoạn không nói riêng Binh có hai búp bê."
+    ],
+    "writing": [
+      "Viết câu theo ba thẻ: He has a plane. She has a kite. They have two ships.",
+      "Soát have/has theo người, a/an theo âm đầu và số nhiều buses/teddy bears."
+    ],
+    "speaking": [
+      "Hai người rút thẻ nhân vật và đồ chơi, lần lượt giới thiệu bằng He/She has; ghép hai thẻ rồi dùng They have.",
+      "Bạn nghe nêu tên và số đồ để đối chiếu, đổi vai; dùng đồ tự vẽ hoặc gấp giấy."
+    ],
+    "listening": [
+      "Nghe kite/toy bằng giọng máy, chỉ thẻ và đọc lại trong câu.",
+      "Người thân đọc He/She has hoặc They have cùng số lượng, em chọn nhóm thẻ tương ứng."
+    ]
+  },
+  "audio": {
+    "type": "speechSynthesis",
+    "label": "Giọng máy tiếng Anh của thiết bị, không phải âm thanh sách. Có thể khác theo thiết bị; nếu không phát, đọc theo mẫu và nhờ người lớn hỗ trợ."
+  }
+}

@@ -1,0 +1,390 @@
+{
+  "id": "TA3_T2_U20",
+  "subject": "ta",
+  "grade": 3,
+  "book": "Kết nối tri thức với cuộc sống",
+  "volume": 2,
+  "lesson_no": 20,
+  "title": "Unit 20: At the zoo",
+  "topic": "English Global Success",
+  "source": {
+    "pdf": "03-sgk-tieng-anh-3-tap-2-global-success.pdf",
+    "printed_pages": [
+      64,
+      69
+    ],
+    "pdf_pages": [
+      65,
+      70
+    ],
+    "review": "Đã đọc trực quan đầy đủ trang nguồn PDF ảnh quét ngày14/11/2026. Biên soạn tình huống, ví dụ và câu hỏi mới; không đăng toàn văn hay sao chép hệ thống bài tập SGK; không có bản thu âm sách."
+  },
+  "objectives": [
+    "Hiểu và dùng đúng: Gọi tên con vật nhìn thấy và mô tả hành động của nó trong cảnh hoặc tranh sở thú.",
+    "Đọc, viết và thực hành nói theo tình huống mới.",
+    "Nhận biết trọng tâm phát âm và luyện nghe bằng giọng máy có ghi nhãn."
+  ],
+  "knowledge": {
+    "introduction": "Gọi tên con vật nhìn thấy và mô tả hành động của nó trong cảnh hoặc tranh sở thú.",
+    "rules": [
+      "What can you see? — I can see a monkey/an elephant. → Bạn nhìn thấy gì?",
+      "What's the monkey doing? — It's climbing. → Con khỉ đang làm gì?",
+      "Sau can dùng see, không thêm s; một elephant dùng an. Con vật số ít trong mẫu dùng It is/It's.",
+      "Một số hành động trong tranh/chuyện là cách minh hoạ; chỉ nói điều có dữ kiện, không khẳng định mọi loài đều biết đếm hoặc vẽ."
+    ],
+    "steps": [
+      "Đọc từ và nghĩa, quan sát tình huống trước khi chọn cách nói.",
+      "Nghe từ bằng giọng máy nếu thiết bị hỗ trợ, đọc lại chậm theo hướng dẫn phát âm.",
+      "Làm câu hỏi, xem giải thích rồi thực hành nói và viết theo nhiệm vụ."
+    ],
+    "common_errors": [
+      "Dùng can sees hoặc a elephant.",
+      "Đáp hành động khi câu hỏi yêu cầu tên loài; coi tranh minh hoạ như sự thật về mọi con vật."
+    ]
+  },
+  "examples": [
+    {
+      "question": "Peacock là loài nào trong nhóm ở sở thú?",
+      "steps": [
+        "Nhận diện yêu cầu: vocabulary",
+        "Peacock là công; monkey, horse, tiger là các loài khác.",
+        "Đáp án: Công."
+      ]
+    },
+    {
+      "question": "Swinging trong cảnh con khỉ chỉ hoạt động nào?",
+      "steps": [
+        "Nhận diện yêu cầu: vocabulary",
+        "Swinging là đu đưa; phân biệt với climbing là leo, counting là đếm.",
+        "Đáp án: Đu đưa."
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "title": "Thực hành theo cặp: Unit 20: At the zoo",
+      "materials": [
+        "Giấy",
+        "Bút",
+        "Thẻ tự làm"
+      ],
+      "steps": [
+        "Làm tranh hai con vật yêu thích với hành động rõ, giới thiệu bằng I can see và It's + ing, rồi hỏi đáp cùng bạn; ghi rõ nếu đó là câu chuyện tưởng tượng.",
+        "Đổi vai và nhờ bạn nhắc lại thông tin đã nghe.",
+        "Sửa một lỗi sau khi đọc phần giải thích trong bài."
+      ],
+      "check": [
+        "Đúng nội dung giao tiếp hoặc chữ/số yêu cầu.",
+        "Phát âm chậm, đủ nghe; nhờ người lớn hỗ trợ chỗ chưa chắc.",
+        "Viết đúng từ, tên riêng, dấu nháy và dấu câu."
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "question_id": "TA3_T2_U20_Q01",
+      "type": "mcq",
+      "skill": "vocabulary",
+      "question": "Peacock là loài nào trong nhóm ở sở thú?",
+      "correct_answer": "Công.",
+      "options": [
+        "Khỉ.",
+        "Ngựa.",
+        "Hổ.",
+        "Công."
+      ],
+      "explanation": "Peacock là công; monkey, horse, tiger là các loài khác."
+    },
+    {
+      "question_id": "TA3_T2_U20_Q02",
+      "type": "mcq",
+      "skill": "communication",
+      "question": "Muốn hỏi bạn nhìn thấy gì ở sở thú, dùng câu nào?",
+      "correct_answer": "What can you see at the zoo?",
+      "options": [
+        "What colour are you age?",
+        "Where are see can?",
+        "What can you see at the zoo?",
+        "How old can zoo?"
+      ],
+      "explanation": "What can you see hỏi điều nhìn thấy; at the zoo nêu địa điểm."
+    },
+    {
+      "question_id": "TA3_T2_U20_Q03",
+      "type": "mcq",
+      "skill": "grammar",
+      "question": "Em nhìn thấy một con voi. Câu nào đúng?",
+      "correct_answer": "I can see an elephant.",
+      "options": [
+        "I am can see elephant.",
+        "I can see an elephant.",
+        "I can sees an elephant.",
+        "I can see a elephant."
+      ],
+      "explanation": "Sau can dùng see nguyên dạng; elephant bắt đầu âm nguyên âm nên dùng an."
+    },
+    {
+      "question_id": "TA3_T2_U20_Q04",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Đọc cảnh mới: I can see a monkey. It's climbing a tree. Con vật đang làm gì?",
+      "correct_answer": "Leo cây.",
+      "options": [
+        "Leo cây.",
+        "Nhảy múa.",
+        "Đếm.",
+        "Ngủ."
+      ],
+      "explanation": "Climbing a tree nêu leo cây, không chỉ tên loài monkey."
+    },
+    {
+      "question_id": "TA3_T2_U20_Q05",
+      "type": "mcq",
+      "skill": "vocabulary",
+      "question": "Swinging trong cảnh con khỉ chỉ hoạt động nào?",
+      "correct_answer": "Đu đưa.",
+      "options": [
+        "Đếm số.",
+        "Chơi cờ.",
+        "Vẽ tranh.",
+        "Đu đưa."
+      ],
+      "explanation": "Swinging là đu đưa; phân biệt với climbing là leo, counting là đếm."
+    },
+    {
+      "question_id": "TA3_T2_U20_Q06",
+      "type": "mcq",
+      "skill": "grammar",
+      "question": "Hỏi con hổ đang làm gì, chọn câu đúng.",
+      "correct_answer": "What's the tiger doing?",
+      "options": [
+        "What're tiger doing?",
+        "What's the tiger colour doing?",
+        "What's the tiger doing?",
+        "What tiger do name?"
+      ],
+      "explanation": "The tiger là một con, dùng What is/What's rồi doing."
+    },
+    {
+      "question_id": "TA3_T2_U20_Q07",
+      "type": "mcq",
+      "skill": "writing",
+      "question": "Chọn cách viết đúng tên con khỉ.",
+      "correct_answer": "monkey",
+      "options": [
+        "munkey",
+        "monkey",
+        "monky",
+        "monkye"
+      ],
+      "explanation": "Monkey có e trước y; đọc lại từng phần khi soát chữ."
+    },
+    {
+      "question_id": "TA3_T2_U20_Q08",
+      "type": "mcq",
+      "skill": "pronunciation",
+      "question": "Chữ a trong parrot và dancing được luyện thế nào theo giọng Anh trong bài?",
+      "correct_answer": "Parrot thường /æ/, dancing thường /ɑː/; âm dancing có thể khác ở giọng Mỹ.",
+      "options": [
+        "Parrot thường /æ/, dancing thường /ɑː/; âm dancing có thể khác ở giọng Mỹ.",
+        "Cả hai luôn /eɪ/.",
+        "Cả hai a đều câm.",
+        "Parrot luôn /uː/."
+      ],
+      "explanation": "Parrot và dancing có cách đọc a khác trong giọng Anh; giọng Mỹ thường dùng /æ/ ở dancing."
+    },
+    {
+      "question_id": "TA3_T2_U20_Q09",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Đọc: I can see a horse and a peacock. It's a picture of a zoo. Đoạn nêu mấy loài?",
+      "correct_answer": "Hai loài.",
+      "options": [
+        "Một loài.",
+        "Ba loài.",
+        "Bốn loài.",
+        "Hai loài."
+      ],
+      "explanation": "Horse và peacock là hai loài được kể, zoo là địa điểm, không phải tên một con vật."
+    },
+    {
+      "question_id": "TA3_T2_U20_Q10",
+      "type": "mcq",
+      "skill": "writing",
+      "question": "Hoàn thành câu mô tả: The parrot is ___ trong tranh chú vẹt nói one, two.",
+      "correct_answer": "counting",
+      "options": [
+        "counts",
+        "counted",
+        "counting",
+        "count"
+      ],
+      "explanation": "Sau is dùng counting để nói hành động đang diễn trong tranh; đây là tình huống minh hoạ, không khẳng định mọi con vẹt đều đếm được."
+    },
+    {
+      "question_id": "TA3_T2_U20_Q11",
+      "type": "mcq",
+      "skill": "communication",
+      "question": "Bạn hỏi What can you see? Câu nào trực tiếp trả lời điều nhìn thấy?",
+      "correct_answer": "I can see a tiger.",
+      "options": [
+        "Yes, you can.",
+        "I can see a tiger.",
+        "It's climbing.",
+        "I'm nine."
+      ],
+      "explanation": "Câu đầu nêu con vật thấy được; It's climbing chỉ hoạt động khi chưa nêu rõ con gì."
+    },
+    {
+      "question_id": "TA3_T2_U20_Q12",
+      "type": "mcq",
+      "skill": "speaking",
+      "question": "Giới thiệu tranh sở thú tưởng tượng, em nên nói rõ điều nào?",
+      "correct_answer": "Loài nhìn thấy và hành động trong tranh, phân biệt chuyện minh hoạ với quan sát thật.",
+      "options": [
+        "Loài nhìn thấy và hành động trong tranh, phân biệt chuyện minh hoạ với quan sát thật.",
+        "Khẳng định mọi con vật biết vẽ và đếm.",
+        "Tự thêm loài không có trong tranh.",
+        "Chỉ nói tên mình."
+      ],
+      "explanation": "Bài luyện I can see và What's the animal doing; tình huống kể cần có dữ kiện rõ và giới hạn đúng ngữ cảnh."
+    }
+  ],
+  "games": [
+    {
+      "id": "TA3_T2_U20_GAME",
+      "title": "Kho báu tiếng Anh: Unit 20: At the zoo",
+      "mode": "treasure",
+      "objective": "Chọn từ và lời nói phù hợp để mở kho báu.",
+      "rules": [
+        "Mỗi lượt10 câu thuộc bài, không áp phân mức Toán.",
+        "Chọn đáp án rồi đọc giải thích. Trả lời đúng tiến thêm một bước.",
+        "Kết thúc, ôn câu sai và thử lại."
+      ],
+      "question_ids": [
+        "TA3_T2_U20_Q01",
+        "TA3_T2_U20_Q02",
+        "TA3_T2_U20_Q03",
+        "TA3_T2_U20_Q04",
+        "TA3_T2_U20_Q05",
+        "TA3_T2_U20_Q06",
+        "TA3_T2_U20_Q07",
+        "TA3_T2_U20_Q08",
+        "TA3_T2_U20_Q09",
+        "TA3_T2_U20_Q10",
+        "TA3_T2_U20_Q11",
+        "TA3_T2_U20_Q12"
+      ],
+      "answer_source": "practice.correct_answer",
+      "feedback_source": "practice.explanation",
+      "max_score": 100
+    }
+  ],
+  "assessment": {
+    "session_size": 10,
+    "scoring": "Mỗi câu đúng được tính điểm theo hệ thống; 8–10 câu đúng: nắm tốt, 5–7: đọc lại phần còn nhầm, dưới 5: đọc bài cùng người thân rồi thử lại. Nhiệm vụ nói/viết tự kiểm theo tiêu chí, không chấm bằng một đáp án duy nhất.",
+    "review_advice": "Xem lại câu sai theo nhóm từ, mẫu câu, phát âm; thực hiện cả nhiệm vụ nói và viết. Điểm trắc nghiệm không thay thế nhận xét phát âm."
+  },
+  "feedback": {
+    "correct": "Đúng rồi! Em đọc lại từ hoặc lời nói vừa chọn.",
+    "incorrect": "Đọc lời giải, chú ý tình huống rồi thử dùng mẫu câu.",
+    "teacher_note": "AI_CHECKED_AWAITING_TEACHER; phần nói và phát âm cần người lớn nghe và góp ý."
+  },
+  "verification": {
+    "ai_authored": true,
+    "structure_checked": true,
+    "answer_reviewed": true,
+    "source_reviewed": true,
+    "teacher_approved": false
+  },
+  "status": "AI_CHECKED_AWAITING_TEACHER",
+  "vocabulary": [
+    {
+      "word": "tiger",
+      "meaning_vi": "hổ",
+      "example": "I can see a tiger."
+    },
+    {
+      "word": "horse",
+      "meaning_vi": "ngựa",
+      "example": "I can see a horse."
+    },
+    {
+      "word": "monkey",
+      "meaning_vi": "khỉ",
+      "example": "I can see a monkey."
+    },
+    {
+      "word": "peacock",
+      "meaning_vi": "công",
+      "example": "I can see a peacock."
+    },
+    {
+      "word": "elephant",
+      "meaning_vi": "voi",
+      "example": "I can see an elephant."
+    },
+    {
+      "word": "parrot",
+      "meaning_vi": "vẹt",
+      "example": "I can see a parrot."
+    },
+    {
+      "word": "dancing",
+      "meaning_vi": "đang nhảy múa",
+      "example": "In the story, it's dancing."
+    },
+    {
+      "word": "counting",
+      "meaning_vi": "đang đếm",
+      "example": "In the picture, it's counting."
+    },
+    {
+      "word": "swinging",
+      "meaning_vi": "đang đu đưa",
+      "example": "The monkey is swinging."
+    },
+    {
+      "word": "climbing",
+      "meaning_vi": "đang leo",
+      "example": "The tiger is climbing."
+    },
+    {
+      "word": "zoo",
+      "meaning_vi": "sở thú",
+      "example": "I'm at the zoo."
+    }
+  ],
+  "patterns": [
+    "What can you see? — I can see a monkey/an elephant. → Bạn nhìn thấy gì?",
+    "What's the monkey doing? — It's climbing. → Con khỉ đang làm gì?",
+    "Sau can dùng see, không thêm s; một elephant dùng an. Con vật số ít trong mẫu dùng It is/It's.",
+    "Một số hành động trong tranh/chuyện là cách minh hoạ; chỉ nói điều có dữ kiện, không khẳng định mọi loài đều biết đếm hoặc vẽ."
+  ],
+  "pronunciation": [
+    "a trong parrot thường /æ/; a trong dancing thường /ɑː/ theo giọng Anh, giọng Mỹ thường /æ/.",
+    "Nghe cả parrot/dancing, chấp nhận biến thể giọng hợp lí; không suy mọi a có cùng âm."
+  ],
+  "skills": {
+    "reading": [
+      "Cảnh mới: I can see a monkey. It's climbing a tree. I can see a horse and a peacock, too.",
+      "Con khỉ đang làm gì? Đáp án: leo cây. Đoạn chưa nêu hành động của ngựa hoặc công."
+    ],
+    "writing": [
+      "Viết đoạn ba câu cho tranh sở thú tưởng tượng: I can see a monkey. It's swinging. I can see an elephant.",
+      "Thêm câu hỏi What's the monkey doing và câu đáp; chỉ gán hành động có trong tranh hoặc nói rõ đang kể chuyện."
+    ],
+    "speaking": [
+      "Chỉ tranh con vật, hỏi What can you see rồi hỏi hành động của nó; người đáp nêu tên trước, hành động sau.",
+      "Luyện bằng tranh tự vẽ, không cần đi sở thú; nếu nói quan sát thật, chỉ kể những gì đã thấy."
+    ],
+    "listening": [
+      "Nghe parrot/dancing qua giọng máy và đọc lại trong câu.",
+      "Nhờ bạn đọc tên và hành động con vật trên thẻ, em chọn đúng thẻ rồi đối chiếu."
+    ]
+  },
+  "audio": {
+    "type": "speechSynthesis",
+    "label": "Giọng máy tiếng Anh của thiết bị, không phải âm thanh sách. Có thể khác theo thiết bị; nếu không phát, đọc theo mẫu và nhờ người lớn hỗ trợ."
+  }
+}

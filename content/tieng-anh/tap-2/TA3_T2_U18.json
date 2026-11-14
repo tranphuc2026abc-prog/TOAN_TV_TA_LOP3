@@ -1,0 +1,373 @@
+{
+  "id": "TA3_T2_U18",
+  "subject": "ta",
+  "grade": 3,
+  "book": "Kết nối tri thức với cuộc sống",
+  "volume": 2,
+  "lesson_no": 18,
+  "title": "Unit 18: Playing and doing",
+  "topic": "English Global Success",
+  "source": {
+    "pdf": "03-sgk-tieng-anh-3-tap-2-global-success.pdf",
+    "printed_pages": [
+      52,
+      57
+    ],
+    "pdf_pages": [
+      53,
+      58
+    ],
+    "review": "Đã đọc trực quan đầy đủ trang nguồn PDF ảnh quét ngày14/11/2026. Biên soạn tình huống, ví dụ và câu hỏi mới; không đăng toàn văn hay sao chép hệ thống bài tập SGK; không có bản thu âm sách."
+  },
+  "objectives": [
+    "Hiểu và dùng đúng: Nói việc mình đang làm và hỏi What are you doing; phân biệt hành động hiện tại với thói quen.",
+    "Đọc, viết và thực hành nói theo tình huống mới.",
+    "Nhận biết trọng tâm phát âm và luyện nghe bằng giọng máy có ghi nhãn."
+  ],
+  "knowledge": {
+    "introduction": "Nói việc mình đang làm và hỏi What are you doing; phân biệt hành động hiện tại với thói quen.",
+    "rules": [
+      "What are you doing? — I'm reading. → Bạn đang làm gì? — Mình đang đọc.",
+      "I'm = I am; sau đó dùng writing/dancing/singing/... để nói đang làm.",
+      "I'm listening to music. I'm drawing a picture. Giữ to trong listening to, a trong a picture."
+    ],
+    "steps": [
+      "Đọc từ và nghĩa, quan sát tình huống trước khi chọn cách nói.",
+      "Nghe từ bằng giọng máy nếu thiết bị hỗ trợ, đọc lại chậm theo hướng dẫn phát âm.",
+      "Làm câu hỏi, xem giải thích rồi thực hành nói và viết theo nhiệm vụ."
+    ],
+    "common_errors": [
+      "Bỏ am trong I writing hoặc dùng I'm write.",
+      "Bỏ to của listening to music; trả lời vị trí mà thiếu hoạt động."
+    ]
+  },
+  "examples": [
+    {
+      "question": "Cụm listening to music có nghĩa gì?",
+      "steps": [
+        "Nhận diện yêu cầu: vocabulary",
+        "Listening to music là nghe nhạc, khác watching TV và reading.",
+        "Đáp án: Đang nghe nhạc."
+      ]
+    },
+    {
+      "question": "Chọn cách viết đúng của hoạt động write khi thêm ing.",
+      "steps": [
+        "Nhận diện yêu cầu: writing",
+        "Write bỏ e rồi thêm ing thành writing; không giữ e hay nhân đôi t.",
+        "Đáp án: writing"
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "title": "Thực hành theo cặp: Unit 18: Playing and doing",
+      "materials": [
+        "Giấy",
+        "Bút",
+        "Thẻ tự làm"
+      ],
+      "steps": [
+        "Tạo bốn thẻ hoạt động, mỗi lượt rút một thẻ và diễn bằng động tác nhẹ. Bạn hỏi đang làm gì, người diễn đáp và bạn ghi đúng hoạt động.",
+        "Đổi vai và nhờ bạn nhắc lại thông tin đã nghe.",
+        "Sửa một lỗi sau khi đọc phần giải thích trong bài."
+      ],
+      "check": [
+        "Đúng nội dung giao tiếp hoặc chữ/số yêu cầu.",
+        "Phát âm chậm, đủ nghe; nhờ người lớn hỗ trợ chỗ chưa chắc.",
+        "Viết đúng từ, tên riêng, dấu nháy và dấu câu."
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "question_id": "TA3_T2_U18_Q01",
+      "type": "mcq",
+      "skill": "vocabulary",
+      "question": "Cụm listening to music có nghĩa gì?",
+      "correct_answer": "Đang nghe nhạc.",
+      "options": [
+        "Đang vẽ.",
+        "Đang xem ti vi.",
+        "Đang đọc.",
+        "Đang nghe nhạc."
+      ],
+      "explanation": "Listening to music là nghe nhạc, khác watching TV và reading."
+    },
+    {
+      "question_id": "TA3_T2_U18_Q02",
+      "type": "mcq",
+      "skill": "grammar",
+      "question": "Em đang viết, chọn câu đúng diễn tả việc đang làm.",
+      "correct_answer": "I'm writing.",
+      "options": [
+        "I'm write.",
+        "I writes am.",
+        "I'm writing.",
+        "I writing."
+      ],
+      "explanation": "Mẫu hiện tại đang làm dùng I am/I'm cộng hoạt động có ing."
+    },
+    {
+      "question_id": "TA3_T2_U18_Q03",
+      "type": "mcq",
+      "skill": "communication",
+      "question": "Muốn hỏi bạn đang làm gì lúc này, em nói gì?",
+      "correct_answer": "What are you doing?",
+      "options": [
+        "How old your doing?",
+        "What are you doing?",
+        "What do your name?",
+        "What colour are doing?"
+      ],
+      "explanation": "What are you doing hỏi hành động hiện tại, không phải tên, tuổi hay màu."
+    },
+    {
+      "question_id": "TA3_T2_U18_Q04",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Đọc tin nhắn mới: I'm in the art room. I'm drawing a picture. Người nói đang làm gì?",
+      "correct_answer": "Vẽ tranh.",
+      "options": [
+        "Vẽ tranh.",
+        "Nghe nhạc.",
+        "Xem ti vi.",
+        "Đọc sách."
+      ],
+      "explanation": "Câu thứ hai nêu hành động drawing a picture; câu đầu chỉ nơi, không đủ để tự đoán việc."
+    },
+    {
+      "question_id": "TA3_T2_U18_Q05",
+      "type": "mcq",
+      "skill": "writing",
+      "question": "Chọn cách viết đúng của hoạt động write khi thêm ing.",
+      "correct_answer": "writing",
+      "options": [
+        "writeing",
+        "writting",
+        "writeng",
+        "writing"
+      ],
+      "explanation": "Write bỏ e rồi thêm ing thành writing; không giữ e hay nhân đôi t."
+    },
+    {
+      "question_id": "TA3_T2_U18_Q06",
+      "type": "mcq",
+      "skill": "vocabulary",
+      "question": "Watching TV và reading a book khác nhau ở hoạt động nào?",
+      "correct_answer": "Xem ti vi và đọc sách.",
+      "options": [
+        "Chơi bóng và hát.",
+        "Viết và nhảy.",
+        "Xem ti vi và đọc sách.",
+        "Cùng là nghe nhạc."
+      ],
+      "explanation": "Watch TV là xem ti vi, read a book là đọc sách; cần dùng cả cụm để hiểu đúng."
+    },
+    {
+      "question_id": "TA3_T2_U18_Q07",
+      "type": "mcq",
+      "skill": "grammar",
+      "question": "Câu nào diễn đạt em đang chơi bóng rổ lúc được hỏi?",
+      "correct_answer": "I'm playing basketball.",
+      "options": [
+        "I playing basketball am.",
+        "I'm playing basketball.",
+        "I play basketball every day.",
+        "I'm play basketball."
+      ],
+      "explanation": "I'm playing mô tả đang làm. I play every day nói thói quen, khác thời điểm lúc hỏi."
+    },
+    {
+      "question_id": "TA3_T2_U18_Q08",
+      "type": "mcq",
+      "skill": "pronunciation",
+      "question": "Âm n cuối listen khác ng cuối singing ở đâu?",
+      "correct_answer": "/n/ dùng đầu lưỡi, /ŋ/ dùng phần sau lưỡi.",
+      "options": [
+        "/n/ dùng đầu lưỡi, /ŋ/ dùng phần sau lưỡi.",
+        "Cả hai đều cần bật /g/ cuối.",
+        "/n/ luôn dùng hai môi.",
+        "Ng luôn đọc tên hai chữ N và G."
+      ],
+      "explanation": "Listen kết /n/, singing có /ŋ/ ở ng; không thêm /g/ riêng sau /ŋ/ trong mẫu này."
+    },
+    {
+      "question_id": "TA3_T2_U18_Q09",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Đọc: I'm singing. My friend is listening to music. Người kể đang nghe nhạc phải không?",
+      "correct_answer": "Không, người kể đang hát; người bạn nghe nhạc.",
+      "options": [
+        "Có, vì có từ music trong đoạn.",
+        "Cả hai đang nghe nhạc.",
+        "Không ai có hoạt động.",
+        "Không, người kể đang hát; người bạn nghe nhạc."
+      ],
+      "explanation": "Phân biệt I với my friend; thông tin của hai người không đổi cho nhau."
+    },
+    {
+      "question_id": "TA3_T2_U18_Q10",
+      "type": "mcq",
+      "skill": "writing",
+      "question": "Hoàn thành: I'm listening ___ music.",
+      "correct_answer": "to",
+      "options": [
+        "on",
+        "in",
+        "to",
+        "at"
+      ],
+      "explanation": "Cụm từ là listen to music; giữ to sau listening."
+    },
+    {
+      "question_id": "TA3_T2_U18_Q11",
+      "type": "mcq",
+      "skill": "communication",
+      "question": "Bạn hỏi What are you doing? nhưng em chỉ nói I'm in my room. Em cần thêm gì để trả lời đủ?",
+      "correct_answer": "Một câu nêu hành động đang làm, như I'm reading.",
+      "options": [
+        "Màu căn phòng.",
+        "Một câu nêu hành động đang làm, như I'm reading.",
+        "Chỉ tên phòng lần nữa.",
+        "Tuổi của người thân."
+      ],
+      "explanation": "In my room chỉ vị trí; câu hỏi What are you doing cần hoạt động."
+    },
+    {
+      "question_id": "TA3_T2_U18_Q12",
+      "type": "mcq",
+      "skill": "speaking",
+      "question": "Hai bạn chơi diễn tả hoạt động, cách luyện nào đúng Unit18?",
+      "correct_answer": "Một bạn làm động tác nhẹ, bạn hỏi What are you doing, người diễn đáp I'm + ing.",
+      "options": [
+        "Một bạn làm động tác nhẹ, bạn hỏi What are you doing, người diễn đáp I'm + ing.",
+        "Chỉ gọi tên đồ chơi.",
+        "Chỉ đếm số cửa sổ.",
+        "Hỏi tuổi rồi đáp tên màu."
+      ],
+      "explanation": "Tình huống nối câu hỏi với chính hành động đang diễn, rồi đổi vai để đều được nói."
+    }
+  ],
+  "games": [
+    {
+      "id": "TA3_T2_U18_GAME",
+      "title": "Kho báu tiếng Anh: Unit 18: Playing and doing",
+      "mode": "treasure",
+      "objective": "Chọn từ và lời nói phù hợp để mở kho báu.",
+      "rules": [
+        "Mỗi lượt10 câu thuộc bài, không áp phân mức Toán.",
+        "Chọn đáp án rồi đọc giải thích. Trả lời đúng tiến thêm một bước.",
+        "Kết thúc, ôn câu sai và thử lại."
+      ],
+      "question_ids": [
+        "TA3_T2_U18_Q01",
+        "TA3_T2_U18_Q02",
+        "TA3_T2_U18_Q03",
+        "TA3_T2_U18_Q04",
+        "TA3_T2_U18_Q05",
+        "TA3_T2_U18_Q06",
+        "TA3_T2_U18_Q07",
+        "TA3_T2_U18_Q08",
+        "TA3_T2_U18_Q09",
+        "TA3_T2_U18_Q10",
+        "TA3_T2_U18_Q11",
+        "TA3_T2_U18_Q12"
+      ],
+      "answer_source": "practice.correct_answer",
+      "feedback_source": "practice.explanation",
+      "max_score": 100
+    }
+  ],
+  "assessment": {
+    "session_size": 10,
+    "scoring": "Mỗi câu đúng được tính điểm theo hệ thống; 8–10 câu đúng: nắm tốt, 5–7: đọc lại phần còn nhầm, dưới 5: đọc bài cùng người thân rồi thử lại. Nhiệm vụ nói/viết tự kiểm theo tiêu chí, không chấm bằng một đáp án duy nhất.",
+    "review_advice": "Xem lại câu sai theo nhóm từ, mẫu câu, phát âm; thực hiện cả nhiệm vụ nói và viết. Điểm trắc nghiệm không thay thế nhận xét phát âm."
+  },
+  "feedback": {
+    "correct": "Đúng rồi! Em đọc lại từ hoặc lời nói vừa chọn.",
+    "incorrect": "Đọc lời giải, chú ý tình huống rồi thử dùng mẫu câu.",
+    "teacher_note": "AI_CHECKED_AWAITING_TEACHER; phần nói và phát âm cần người lớn nghe và góp ý."
+  },
+  "verification": {
+    "ai_authored": true,
+    "structure_checked": true,
+    "answer_reviewed": true,
+    "source_reviewed": true,
+    "teacher_approved": false
+  },
+  "status": "AI_CHECKED_AWAITING_TEACHER",
+  "vocabulary": [
+    {
+      "word": "writing",
+      "meaning_vi": "đang viết",
+      "example": "I'm writing."
+    },
+    {
+      "word": "dancing",
+      "meaning_vi": "đang nhảy múa",
+      "example": "I'm dancing."
+    },
+    {
+      "word": "singing",
+      "meaning_vi": "đang hát",
+      "example": "I'm singing."
+    },
+    {
+      "word": "reading",
+      "meaning_vi": "đang đọc",
+      "example": "I'm reading a book."
+    },
+    {
+      "word": "playing basketball",
+      "meaning_vi": "đang chơi bóng rổ",
+      "example": "I'm playing basketball."
+    },
+    {
+      "word": "drawing a picture",
+      "meaning_vi": "đang vẽ tranh",
+      "example": "I'm drawing a picture."
+    },
+    {
+      "word": "watching TV",
+      "meaning_vi": "đang xem ti vi",
+      "example": "I'm watching TV."
+    },
+    {
+      "word": "listening to music",
+      "meaning_vi": "đang nghe nhạc",
+      "example": "I'm listening to music."
+    }
+  ],
+  "patterns": [
+    "What are you doing? — I'm reading. → Bạn đang làm gì? — Mình đang đọc.",
+    "I'm = I am; sau đó dùng writing/dancing/singing/... để nói đang làm.",
+    "I'm listening to music. I'm drawing a picture. Giữ to trong listening to, a trong a picture."
+  ],
+  "pronunciation": [
+    "n cuối listen là /n/, dùng đầu lưỡi; t trong listen không phát âm.",
+    "ng trong singing là /ŋ/, dùng phần sau lưỡi; không thêm âm /g/ riêng ở cuối singing."
+  ],
+  "skills": {
+    "reading": [
+      "Tin nhắn mới: I'm in the art room. I'm drawing a picture. My friend is listening to music.",
+      "Người nói đang làm gì? Đáp án: vẽ tranh. Nghe nhạc là hành động của người bạn."
+    ],
+    "writing": [
+      "Viết hai tin nhắn ngắn gồm nơi và việc đang làm. Mẫu: I'm in my room. I'm reading a book.",
+      "Đổi hoạt động và kiểm writing bỏ e của write, dancing bỏ e của dance; dùng I'm trước hoạt động."
+    ],
+    "speaking": [
+      "Đóng vai gọi điện bằng đồ chơi giấy: hỏi What are you doing, đáp hành động đang diễn nhẹ tại chỗ.",
+      "Đổi vai và nói thêm nơi nếu muốn; không trả lời chỉ vị trí cho câu hỏi hành động."
+    ],
+    "listening": [
+      "Nghe listening to music/singing bằng giọng máy, chú ý n/ng rồi đọc lại.",
+      "Bạn đọc hoạt động trên một thẻ, em diễn động tác nhẹ và nói I'm cho việc đó."
+    ]
+  },
+  "audio": {
+    "type": "speechSynthesis",
+    "label": "Giọng máy tiếng Anh của thiết bị, không phải âm thanh sách. Có thể khác theo thiết bị; nếu không phát, đọc theo mẫu và nhờ người lớn hỗ trợ."
+  }
+}
