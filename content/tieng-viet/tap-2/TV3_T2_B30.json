@@ -1,0 +1,329 @@
+{
+  "id": "TV3_T2_B30",
+  "subject": "tv",
+  "grade": 3,
+  "book": "Kết nối tri thức với cuộc sống",
+  "volume": 2,
+  "lesson_no": 30,
+  "title": "Một mái nhà chung",
+  "topic": "Trái Đất của chúng mình",
+  "source": {
+    "pdf": "03-sgk-tieng-viet-3-tap-hai.pdf",
+    "printed_pages": [
+      130,
+      132
+    ],
+    "pdf_pages": [
+      131,
+      133
+    ],
+    "review": "Đã đọc trực quan toàn bộ trang nguồn từ PDF ảnh quét ngày 14/11/2026; học liệu diễn giải và câu hỏi được biên soạn mới, không đăng toàn văn sách."
+  },
+  "objectives": [
+    "Đọc và giải thích chi tiết của bài Một mái nhà chung.",
+    "Nhận xét nhân vật hoặc công việc dựa trên căn cứ.",
+    "Luyện từ, câu, chính tả và nói/viết theo bài."
+  ],
+  "reading": {
+    "summary": "Bài thơ gợi những mái nhà riêng của muôn loài và hai bạn nhỏ, rồi hướng tới bầu trời xanh như mái nhà chung. Lời mời ngước nhìn và cùng hát làm rõ sự gắn bó của các sự sống.",
+    "characters_or_images": [
+      "Chim, cá, dím, ốc",
+      "Hai bạn nhỏ",
+      "Bầu trời và cầu vồng"
+    ],
+    "message": "Trân trọng thiên nhiên, chung tay chăm sóc nơi sống của mình và muôn loài."
+  },
+  "knowledge": {
+    "introduction": "Bài thơ gợi những mái nhà riêng của muôn loài và hai bạn nhỏ, rồi hướng tới bầu trời xanh như mái nhà chung. Lời mời ngước nhìn và cùng hát làm rõ sự gắn bó của các sự sống.",
+    "rules": [
+      "Các mái nhà riêng khác nhau: cây lá, sóng nước, lòng đất, vỏ ốc; không đảo lẫn đặc điểm.",
+      "Giàn gấc và hoa giấy gợi mái nhà hai bạn; bầu trời là hình ảnh mái nhà chung trong bài.",
+      "Khi tả tranh, nói chi tiết em nhìn thấy, phân biệt hình ảnh với ý nghĩa em cảm nhận."
+    ],
+    "steps": [
+      "Đọc bài trong sách, đánh dấu chi tiết liên quan câu hỏi.",
+      "Nêu câu trả lời rồi giải thích bằng chi tiết, phân biệt suy luận với lời kể.",
+      "Làm nhiệm vụ nói/viết; kiểm tra đủ ý, xưng hô và dấu câu."
+    ],
+    "common_errors": [
+      "Coi mái nhà chung chỉ là mái ngói của một gia đình.",
+      "Tả tranh bằng lời khen chung mà thiếu hình ảnh, màu sắc."
+    ]
+  },
+  "language_practice": {
+    "vocabulary": [
+      "Từ nào thuộc nhóm dạng địa hình, khác với hành động bảo vệ môi trường? Đáp án: Núi. Núi gọi tên một dạng địa hình; ba lựa chọn còn lại là việc làm.",
+      "Rập rình gợi đặc điểm nào của sóng trong mái nhà của cá? Đáp án: Chuyển động nhấp nhô nhẹ nhàng. Từ gợi sự chuyển động của mặt nước, làm hình ảnh sinh động."
+    ],
+    "sentences": [
+      "Câu nào chuyển ý giữ nước sạch thành lời đề nghị lịch sự? Đáp án: Chúng mình cùng giữ nguồn nước sạch nhé! Lời đề nghị hướng đến việc cùng làm, có từ nhé thân thiện.",
+      "Câu nào bộc lộ cảm xúc trước vẻ đẹp bầu trời trong bài? Đáp án: Ôi, bầu trời xanh đẹp quá! Câu cảm dùng ôi và quá để thể hiện cảm xúc, kết bằng dấu chấm than."
+    ],
+    "spelling": [
+      "Tên đất nước trong phần luyện viết cần viết thế nào? Đáp án: Việt Nam. Việt Nam là tên riêng, viết hoa mỗi tiếng và giữ âm cuối t trong Việt.",
+      "Chọn cụm từ đúng để nói việc giữ gìn mái nhà chung. Đáp án: Bảo vệ môi trường. Bảo mang dấu hỏi, vệ dấu nặng, môi không có dấu thanh."
+    ],
+    "expression": [
+      "Tả tranh Trái Đất do em vẽ, phần nào giúp người nghe hình dung bức tranh? Đáp án: Nêu người vẽ, hình ảnh nổi bật, màu sắc và ý nghĩa em gửi gắm. Đoạn tả cần chi tiết nhìn thấy và cảm nghĩ gắn với tranh cụ thể.",
+      "Chọn lời nhắn nối mái nhà chung trong bài thơ với việc em làm. Đáp án: Mình cùng chăm cây, giữ sạch nước để muôn loài được sống yên. Thông điệp được thể hiện bằng hành động vừa sức, quan tâm cả môi trường sống chung."
+    ]
+  },
+  "examples": [
+    {
+      "question": "Hình ảnh nào nối những mái nhà riêng thành một mái nhà chung?",
+      "steps": [
+        "Trang 130, khổ bốn.",
+        "Bầu trời phủ trên muôn loài là hình ảnh chung của bài thơ.",
+        "Trả lời: Bầu trời xanh rộng lớn."
+      ]
+    },
+    {
+      "question": "Câu nào chuyển ý giữ nước sạch thành lời đề nghị lịch sự?",
+      "steps": [
+        "Xác định yêu cầu câu hỏi.",
+        "Lời đề nghị hướng đến việc cùng làm, có từ nhé thân thiện.",
+        "Trả lời: Chúng mình cùng giữ nguồn nước sạch nhé!"
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "title": "Nói và viết từ bài đọc",
+      "materials": [
+        "Sách",
+        "Vở",
+        "Bút"
+      ],
+      "steps": [
+        "Vẽ bức tranh mái nhà chung, viết đoạn ngắn giới thiệu người vẽ, hai hình ảnh nổi bật, màu sắc, thông điệp và cảm xúc. Đổi bài để bạn góp ý.",
+        "Đọc cho người thân nghe và sửa ít nhất một câu chưa rõ."
+      ],
+      "check": [
+        "Nội dung đúng bài hoặc trải nghiệm được nêu rõ.",
+        "Ý sắp xếp dễ theo dõi, có chi tiết cụ thể.",
+        "Viết hoa, dấu thanh và dấu kết câu phù hợp."
+      ]
+    }
+  ],
+  "practice": [
+    {
+      "question_id": "TV3_T2_B30_Q01",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Trong Một mái nhà chung, loài vật nào có mái nhà tròn và mang bên mình?",
+      "correct_answer": "Ốc.",
+      "options": [
+        "Chim.",
+        "Cá.",
+        "Dím.",
+        "Ốc."
+      ],
+      "explanation": "Hình ảnh vỏ ốc tròn được gợi như ngôi nhà đi cùng cơ thể.",
+      "evidence": "Trang 130, khổ hai."
+    },
+    {
+      "question_id": "TV3_T2_B30_Q02",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Cặp hình ảnh nào thuộc mái nhà riêng của hai bạn nhỏ trong bài?",
+      "correct_answer": "Giàn gấc đỏ và hoa giấy hồng.",
+      "options": [
+        "Cánh đồng lúa và tàu điện.",
+        "Tháp đá và sa mạc.",
+        "Giàn gấc đỏ và hoa giấy hồng.",
+        "Băng trắng và núi tuyết."
+      ],
+      "explanation": "Khổ ba dùng cây và hoa quanh nhà để gợi hai mái ấm khác nhau.",
+      "evidence": "Trang 130, khổ ba."
+    },
+    {
+      "question_id": "TV3_T2_B30_Q03",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Hình ảnh nào nối những mái nhà riêng thành một mái nhà chung?",
+      "correct_answer": "Bầu trời xanh rộng lớn.",
+      "options": [
+        "Một chiếc hộp kín.",
+        "Bầu trời xanh rộng lớn.",
+        "Một chiếc ô nhỏ.",
+        "Mái ngói một ngôi nhà."
+      ],
+      "explanation": "Bầu trời phủ trên muôn loài là hình ảnh chung của bài thơ.",
+      "evidence": "Trang 130, khổ bốn."
+    },
+    {
+      "question_id": "TV3_T2_B30_Q04",
+      "type": "mcq",
+      "skill": "reading",
+      "question": "Lời mời ngước mắt và cùng hát ở cuối bài gợi điều gì?",
+      "correct_answer": "Cùng cảm nhận sự gắn bó dưới mái nhà chung.",
+      "options": [
+        "Cùng cảm nhận sự gắn bó dưới mái nhà chung.",
+        "Thi xem ai hát to nhất.",
+        "Bỏ quên mọi mái nhà riêng.",
+        "Chỉ người cùng nhà mới được hát."
+      ],
+      "explanation": "Giọng mời gọi tạo cảm giác mọi người cùng chia sẻ và trân trọng thiên nhiên.",
+      "evidence": "Trang 130, khổ cuối."
+    },
+    {
+      "question_id": "TV3_T2_B30_Q05",
+      "type": "mcq",
+      "skill": "vocabulary",
+      "question": "Từ nào thuộc nhóm dạng địa hình, khác với hành động bảo vệ môi trường?",
+      "correct_answer": "Núi.",
+      "options": [
+        "Trồng cây.",
+        "Tiết kiệm điện.",
+        "Nhặt rác.",
+        "Núi."
+      ],
+      "explanation": "Núi gọi tên một dạng địa hình; ba lựa chọn còn lại là việc làm."
+    },
+    {
+      "question_id": "TV3_T2_B30_Q06",
+      "type": "mcq",
+      "skill": "vocabulary",
+      "question": "Rập rình gợi đặc điểm nào của sóng trong mái nhà của cá?",
+      "correct_answer": "Chuyển động nhấp nhô nhẹ nhàng.",
+      "options": [
+        "Khô nứt thành mảnh.",
+        "Cháy rực thành lửa.",
+        "Chuyển động nhấp nhô nhẹ nhàng.",
+        "Đứng yên như đá."
+      ],
+      "explanation": "Từ gợi sự chuyển động của mặt nước, làm hình ảnh sinh động."
+    },
+    {
+      "question_id": "TV3_T2_B30_Q07",
+      "type": "mcq",
+      "skill": "sentences",
+      "question": "Câu nào chuyển ý giữ nước sạch thành lời đề nghị lịch sự?",
+      "correct_answer": "Chúng mình cùng giữ nguồn nước sạch nhé!",
+      "options": [
+        "Hôm qua trời mưa.",
+        "Chúng mình cùng giữ nguồn nước sạch nhé!",
+        "Nguồn nước này sạch.",
+        "Nước chảy về đâu?"
+      ],
+      "explanation": "Lời đề nghị hướng đến việc cùng làm, có từ nhé thân thiện."
+    },
+    {
+      "question_id": "TV3_T2_B30_Q08",
+      "type": "mcq",
+      "skill": "sentences",
+      "question": "Câu nào bộc lộ cảm xúc trước vẻ đẹp bầu trời trong bài?",
+      "correct_answer": "Ôi, bầu trời xanh đẹp quá!",
+      "options": [
+        "Ôi, bầu trời xanh đẹp quá!",
+        "Bầu trời ở trên cao.",
+        "Bạn nhìn thấy gì?",
+        "Hãy cất vở vào túi."
+      ],
+      "explanation": "Câu cảm dùng ôi và quá để thể hiện cảm xúc, kết bằng dấu chấm than."
+    },
+    {
+      "question_id": "TV3_T2_B30_Q09",
+      "type": "mcq",
+      "skill": "spelling",
+      "question": "Tên đất nước trong phần luyện viết cần viết thế nào?",
+      "correct_answer": "Việt Nam.",
+      "options": [
+        "Việt nam.",
+        "việt Nam.",
+        "Việc Nam.",
+        "Việt Nam."
+      ],
+      "explanation": "Việt Nam là tên riêng, viết hoa mỗi tiếng và giữ âm cuối t trong Việt."
+    },
+    {
+      "question_id": "TV3_T2_B30_Q10",
+      "type": "mcq",
+      "skill": "spelling",
+      "question": "Chọn cụm từ đúng để nói việc giữ gìn mái nhà chung.",
+      "correct_answer": "Bảo vệ môi trường.",
+      "options": [
+        "Bảo vẹ môi trường.",
+        "Bảo vệ mồi trường.",
+        "Bảo vệ môi trường.",
+        "Bão vệ môi trường."
+      ],
+      "explanation": "Bảo mang dấu hỏi, vệ dấu nặng, môi không có dấu thanh."
+    },
+    {
+      "question_id": "TV3_T2_B30_Q11",
+      "type": "mcq",
+      "skill": "expression",
+      "question": "Tả tranh Trái Đất do em vẽ, phần nào giúp người nghe hình dung bức tranh?",
+      "correct_answer": "Nêu người vẽ, hình ảnh nổi bật, màu sắc và ý nghĩa em gửi gắm.",
+      "options": [
+        "Chép cả bài thơ thay phần tả.",
+        "Nêu người vẽ, hình ảnh nổi bật, màu sắc và ý nghĩa em gửi gắm.",
+        "Chỉ nói tranh rất đẹp nhiều lần.",
+        "Kể chuyện chuyến đi không có trong tranh."
+      ],
+      "explanation": "Đoạn tả cần chi tiết nhìn thấy và cảm nghĩ gắn với tranh cụ thể."
+    },
+    {
+      "question_id": "TV3_T2_B30_Q12",
+      "type": "mcq",
+      "skill": "expression",
+      "question": "Chọn lời nhắn nối mái nhà chung trong bài thơ với việc em làm.",
+      "correct_answer": "Mình cùng chăm cây, giữ sạch nước để muôn loài được sống yên.",
+      "options": [
+        "Mình cùng chăm cây, giữ sạch nước để muôn loài được sống yên.",
+        "Mình chỉ giữ sạch chỗ mình ngồi thôi.",
+        "Cây và cá không liên quan tới chúng ta.",
+        "Cứ vứt rác vì bầu trời rất rộng."
+      ],
+      "explanation": "Thông điệp được thể hiện bằng hành động vừa sức, quan tâm cả môi trường sống chung."
+    }
+  ],
+  "games": [
+    {
+      "id": "TV3_T2_B30_GAME",
+      "title": "Kho báu: Một mái nhà chung",
+      "mode": "treasure",
+      "objective": "Tìm kho báu bằng cách hiểu chi tiết và dùng tiếng Việt đúng theo bài.",
+      "rules": [
+        "Trả lời 10 câu được chọn từ chính bài này.",
+        "Mỗi đáp án đúng được 10 điểm; đọc phản hồi để hiểu và sửa câu sai.",
+        "Chơi lại để gặp một bộ câu khác."
+      ],
+      "question_ids": [
+        "TV3_T2_B30_Q01",
+        "TV3_T2_B30_Q02",
+        "TV3_T2_B30_Q03",
+        "TV3_T2_B30_Q04",
+        "TV3_T2_B30_Q05",
+        "TV3_T2_B30_Q06",
+        "TV3_T2_B30_Q07",
+        "TV3_T2_B30_Q08",
+        "TV3_T2_B30_Q09",
+        "TV3_T2_B30_Q10",
+        "TV3_T2_B30_Q11",
+        "TV3_T2_B30_Q12"
+      ],
+      "answer_source": "practice.correct_answer",
+      "feedback_source": "practice.explanation",
+      "max_score": 100
+    }
+  ],
+  "assessment": {
+    "session_size": 10,
+    "scoring": "Mỗi câu đúng được tính điểm theo hệ thống; 8–10 câu đúng: nắm tốt, 5–7: đọc lại phần còn nhầm, dưới 5: đọc bài cùng người thân rồi thử lại. Nhiệm vụ nói/viết tự kiểm theo tiêu chí, không chấm bằng một đáp án duy nhất.",
+    "review_advice": "Sau lượt luyện, chọn một câu sai để giải thích lại. Với nói/viết: đúng chi tiết hoặc trải nghiệm thật, đủ ý, câu rõ, chính tả đúng; sửa ít nhất một điểm trước khi hoàn tất."
+  },
+  "feedback": {
+    "correct": "Em đã chọn phù hợp. Đọc lời giải để nhắc lại căn cứ.",
+    "incorrect": "Đọc lại câu hỏi và chi tiết liên quan; xem lời giải để biết vì sao."
+  },
+  "verification": {
+    "ai_authored": true,
+    "structure_checked": true,
+    "answer_reviewed": true,
+    "source_reviewed": true,
+    "teacher_approved": false
+  },
+  "status": "AI_CHECKED_AWAITING_TEACHER"
+}

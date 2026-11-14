@@ -1706,24 +1706,24 @@
       "subject": "tv",
       "volume": "Tập 2",
       "title": "Bác sĩ Y-éc-xanh",
-      "path": null,
-      "markdown": null,
-      "question_count": null,
-      "game_count": null,
-      "status": "BAN_NHAP",
-      "note": "Có bài mẫu hoặc bản nháp tự động; chưa kiểm định từng bài."
+      "path": "content/tieng-viet/tap-2/TV3_T2_B29.json",
+      "markdown": "content/tieng-viet/tap-2/TV3_T2_B29.md",
+      "question_count": 12,
+      "game_count": 1,
+      "status": "CAN_RA_SOAT",
+      "note": "AI đã rà soát nguồn, đáp án; chờ giáo viên thẩm định."
     },
     {
       "id": "TV3_T2_B30",
       "subject": "tv",
       "volume": "Tập 2",
       "title": "Một mái nhà chung",
-      "path": null,
-      "markdown": null,
-      "question_count": null,
-      "game_count": null,
-      "status": "BAN_NHAP",
-      "note": "Có bài mẫu hoặc bản nháp tự động; chưa kiểm định từng bài."
+      "path": "content/tieng-viet/tap-2/TV3_T2_B30.json",
+      "markdown": "content/tieng-viet/tap-2/TV3_T2_B30.md",
+      "question_count": 12,
+      "game_count": 1,
+      "status": "CAN_RA_SOAT",
+      "note": "AI đã rà soát nguồn, đáp án; chờ giáo viên thẩm định."
     },
     {
       "id": "TA3_T1_START",

@@ -1,3 +1,11 @@
+# Batch 37 — hai bài cuối Tiếng Việt — 14/11/2026
+
+- Batch cuối môn gồm2 bài B29 Bác sĩ Y-éc-xanh và B30 Một mái nhà chung;24 câu mới,4 ví dụ có lời giải,2 trò chơi. Đã đọc trực quan toàn bộ PDF127–133/trang in126–132. Nhấn mạnh lòng yêu Tổ quốc cùng tinh thần giúp người của bác sĩ; mái nhà chung là bầu trời xanh trong bài thơ. Giữ trạng thái chờ giáo viên.
+- Tổng AI biên soạn143/168, AI kiểm tra143/168; Toán81/81,TV62/62,TA0/25;4016 câu,143 trò chơi. Giáo viên đã duyệt4,139 chờ duyệt; còn25 mục Tiếng Anh. Không coi các mục danh mục còn nháp là hoàn thành.
+- npm test exit0: validator, hồi quy toàn bộ và test_batch37.py, jsdom143 kho. Chromium hiện diện nhưng bị chặn socket()/ptrace, không có xác nhận bố cục trình duyệt.
+- Batch36 commit https://github.com/tranphuc2026abc-prog/TOAN_TV_TA_LOP3/commit/b5db45af76c84ddb2d985ed8f4f3c6d4761ebbb0 ; Actions43604908081 success, workflow riêng43604908471 failure tại deploy vì API chưa thấy artifact vừa upload; bước validate và upload success. Không báo cả hai workflow thành công. Sẽ đối chiếu Pages và deployment tiếp theo.
+- Nối tiếp: mở rộng renderer, validator và test cho từ vựng/mẫu câu/phát âm/kĩ năng Tiếng Anh; đọc nguồn Starter, Unit1–3 trước batch38.
+
 # Batch 36 — Tiếng Việt tập 2 B25–B28 — 14/11/2026
 
 - Đã biên soạn và AI kiểm tra 4 bài, 48 câu riêng, 8 ví dụ có lời giải và 4 trò chơi; giữ AI_CHECKED_AWAITING_TEACHER.
