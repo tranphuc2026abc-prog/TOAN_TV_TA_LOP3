@@ -448,14 +448,14 @@ function ofS(s){return L.filter(function(l){return l[1]==s})}
 function stars(n){return"⭐".repeat(n)+"☆".repeat(3-n)}
 function shuf(a){a=a.slice();for(var i=a.length-1;i>0;i--){var j=Math.floor(Math.random()*(i+1)),t=a[i];a[i]=a[j];a[j]=t}return a}
 function toast(t){var d=document.createElement("div");d.className="toast";d.textContent=t;document.body.appendChild(d);setTimeout(function(){d.remove()},3500)}
-function say(t){
+function say(t,lang){
  try{
   if(!("speechSynthesis" in window)||!("SpeechSynthesisUtterance" in window)){toast("Trình duyệt chưa hỗ trợ giọng đọc. Hãy mở bằng Chrome hoặc Safari.");return}
   var text=String(t).replace(/[→/]/g," ").trim();
   if(!text)return;
   var synth=window.speechSynthesis;
   var u=new SpeechSynthesisUtterance(text);
-  var isVi=/[ăâêôơưđ]/i.test(text);
+  var isVi=lang==="vi-VN";
   u.lang=isVi?"vi-VN":"en-US";
   var voices=synth.getVoices?synth.getVoices():[];
   var voice=voices.filter(function(v){return isVi?/^vi(-|$)/i.test(v.lang):/^en-US$/i.test(v.lang)})[0];
@@ -473,7 +473,7 @@ function award(){var n=[],t=Object.keys(P.les);function g(id,c){if(c&&P.bd.index
 g("first",t.length>0);g("star3",t.some(function(k){return P.les[k]==3}));g("xp100",P.xp>=100);
 ["toan","tv","ta"].forEach(function(s){g(s,CURRICULUM_COMPLETE[s]&&ofS(s).every(function(l){return P.les[l[0]]}))});
 n.forEach(function(b){toast("Huy hiệu mới: "+b)});save()}
-function go(x){v=x;draw()}
+function go(x){if(P&&x.p==="lesson"&&byId(x.id)){P.lastLesson=x.id;save();}v=x;draw()}
 function draw(){window.scrollTo(0,0);var hd=document.getElementById("hd");
 if(!P){hd.innerHTML="";return start()}
 hd.innerHTML='<span class="pill">👤 '+esc(P.name)+'</span> <span class="pill">✨ '+P.xp+' XP</span> <span class="pill">⭐ '+Object.keys(P.les).reduce(function(a,k){return a+P.les[k]},0)+'</span>';
@@ -487,7 +487,7 @@ A.innerHTML='<div class="card hero-card"><h2>Xin chào '+esc(P.name)+'! Hôm nay
 '</div><h2>Huy hiệu</h2><div class="card">'+BADGES.map(function(b){return'<div>'+(P.bd.indexOf(b[0])>=0?b[1]:'🔒 <span style="opacity:.5">'+b[1].replace(/^\S+ /,"")+'</span>')+'</div>'}).join("")+'</div><p><button class="ghost" onclick="go({p:\'prof\'})">⚙ Hồ sơ & tiến độ</button></p>'}
 function subj(){var d=S[v.s],q=v.q||"";A.innerHTML='<button class="ghost" onclick="go({p:\'home\'})">← Về trang chủ</button><h2>'+d.e+' '+d.n+' – '+d.t+'</h2><input class="s" type="text" id="sq" placeholder="🔍 Tìm bài học" value="'+esc(q)+'" oninput="v.q=this.value;list()"><div id="ls"></div>';list()}
 function list(){var q=(v.q||"").toLowerCase(),d=S[v.s];document.getElementById("ls").innerHTML=ofS(v.s).filter(function(l){return l[2].toLowerCase().indexOf(q)>=0}).map(function(l){return'<div class="card lesson row" style="--c:'+d.c+';margin:10px 0" onclick="go({p:\'lesson\',id:\''+l[0]+'\'})"><div><b>'+esc(l[2])+'</b><br><small>'+esc(l[4])+' · trang '+l[3][0]+'–'+l[3][1]+'</small></div><div>'+(P.les[l[0]]?stars(P.les[l[0]]):'🆕 Chưa học')+'</div></div>'}).join("")||'<p>Chưa tìm thấy bài nào. Thử từ khoá khác nhé!</p>'}
-function lesson(){var l=byId(v.id),d=S[l[1]],bank=practiceBank(l);A.innerHTML='<button class="ghost" onclick="go({p:\'subj\',s:\''+l[1]+'\'})">← '+d.n+'</button><div class="card"><h2 style="color:'+d.c+'">'+esc(l[2])+'</h2><small>'+esc(l[4])+' · SGK trang '+l[3][0]+'–'+l[3][1]+'</small><h3>1. Khám phá</h3><ul class="k">'+l[5].map(function(k){return'<li>'+esc(k)+'</li>'}).join("")+'</ul><button class="ghost" onclick="say(byId(\''+l[0]+'\')[5].slice(0,2).join(\'. \'))">🔊 Đọc to (giọng máy)</button>'+(l[1]=="ta"?'<div class="note">Chưa có tệp âm thanh gốc; nút “Đọc to” dùng giọng đọc của máy (nếu máy có cài).</div>':'')+(l[6]?'':'<div class="note">Bài này chưa có kho kiến thức chi tiết trong dữ liệu bàn giao.</div>')+'<h3>2. Luyện tập & trò chơi</h3><div class="note">Mỗi lượt có '+bank.length+' nhiệm vụ, gồm trắc nghiệm, đúng/sai và điền khuyết. Câu hỏi được xáo trộn; nội dung tự động tạo từ dữ liệu bài học hiện có và cần được giáo viên rà soát, nhất là câu hỏi đọc hiểu.</div><div class="grid"><div class="card"><h3>🎯 Luyện tập tổng hợp</h3><p>12 nhiệm vụ phối hợp cả ba dạng.</p><button class="big" onclick="startQ(\''+l[0]+'\',\'all\')">Bắt đầu</button></div><div class="card"><h3>🔵 Trắc nghiệm lựa chọn</h3><p>Chọn đáp án đúng trong các phương án.</p><button onclick="startQ(\''+l[0]+'\',\'mcq\')">Luyện 4 câu</button></div><div class="card"><h3>🟢 Đúng hay sai?</h3><p>Đọc nhận định và xác định đúng hoặc sai.</p><button onclick="startQ(\''+l[0]+'\',\'tf\')">Luyện 4 câu</button></div><div class="card"><h3>✍️ Điền khuyết</h3><p>Tự nhập đáp án, không có gợi ý lựa chọn.</p><button onclick="startQ(\''+l[0]+'\',\'fill\')">Luyện 4 câu</button></div><div class="card"><h3>🏆 Vượt ải bài học</h3><p>Hoàn thành trọn bộ câu hỏi để tích lũy sao và XP.</p><button class="big" onclick="startQ(\''+l[0]+'\',\'all\')">Chinh phục bài học</button></div></div></div>'}
+function lesson(){var l=byId(v.id),d=S[l[1]],bank=practiceBank(l);A.innerHTML='<button class="ghost" onclick="go({p:\'subj\',s:\''+l[1]+'\'})">← '+d.n+'</button><div class="card"><h2 style="color:'+d.c+'">'+esc(l[2])+'</h2><small>'+esc(l[4])+' · SGK trang '+l[3][0]+'–'+l[3][1]+'</small><h3>1. Khám phá</h3><ul class="k">'+l[5].map(function(k){return'<li>'+esc(k)+'</li>'}).join("")+'</ul><button class="ghost" onclick="say(byId(\''+l[0]+'\')[5].slice(0,2).join(\'. \'), \'vi-VN\')">🔊 Đọc to (giọng máy)</button>'+(l[1]=="ta"?'<div class="note">Chưa có tệp âm thanh gốc; nút “Đọc to” dùng giọng đọc của máy (nếu máy có cài).</div>':'')+(l[6]?'':'<div class="note">Bài này chưa có kho kiến thức chi tiết trong dữ liệu bàn giao.</div>')+'<h3>2. Luyện tập & trò chơi</h3><div class="note">Mỗi lượt có '+bank.length+' nhiệm vụ, gồm trắc nghiệm, đúng/sai và điền khuyết. Câu hỏi được xáo trộn; nội dung tự động tạo từ dữ liệu bài học hiện có và cần được giáo viên rà soát, nhất là câu hỏi đọc hiểu.</div><div class="grid"><div class="card"><h3>🎯 Luyện tập tổng hợp</h3><p>12 nhiệm vụ phối hợp cả ba dạng.</p><button class="big" onclick="startQ(\''+l[0]+'\',\'all\')">Bắt đầu</button></div><div class="card"><h3>🔵 Trắc nghiệm lựa chọn</h3><p>Chọn đáp án đúng trong các phương án.</p><button onclick="startQ(\''+l[0]+'\',\'mcq\')">Luyện 4 câu</button></div><div class="card"><h3>🟢 Đúng hay sai?</h3><p>Đọc nhận định và xác định đúng hoặc sai.</p><button onclick="startQ(\''+l[0]+'\',\'tf\')">Luyện 4 câu</button></div><div class="card"><h3>✍️ Điền khuyết</h3><p>Tự nhập đáp án, không có gợi ý lựa chọn.</p><button onclick="startQ(\''+l[0]+'\',\'fill\')">Luyện 4 câu</button></div><div class="card"><h3>🏆 Vượt ải bài học</h3><p>Hoàn thành trọn bộ câu hỏi để tích lũy sao và XP.</p><button class="big" onclick="startQ(\''+l[0]+'\',\'all\')">Chinh phục bài học</button></div></div></div>'}
 function englishPracticeBank(l){
  var e=ENGLISH_DATA[l[0]],raw=e&&e.v?e.v.split(/[;,]/):[],words=raw.map(function(w){return w.trim()}).filter(function(w){return w.length>1&&!/^(numbers|alphabet|and|the)\b/i.test(w)&&!/^review of/i.test(w)});
  if(!words.length){
@@ -539,7 +539,7 @@ function practiceBank(l){
 function startQ(id,qs){
  var l=id?byId(id):null,mode=typeof qs==="string"?qs:"all",raw;
  if(typeof qs==="string")raw=practiceBank(l).filter(function(q){return mode==="all"||q.type===mode;});
- else if(Array.isArray(qs))raw=qs.map(function(q){return {type:Array.isArray(q[2])?"mcq":"fill",prompt:String(q[0]),answer:String(q[1]),wrong:Array.isArray(q[2])?q[2].map(String):[],id:q[q.length-1]||id};});
+ else if(Array.isArray(qs))raw=qs.map(function(q){if(!Array.isArray(q))return q;return {type:Array.isArray(q[2])?"mcq":"fill",prompt:String(q[0]),answer:String(q[1]),wrong:Array.isArray(q[2])?q[2].map(String):[],id:q[q.length-1]||id};});
  else raw=practiceBank(l);
  go({p:"quiz",id:id,qs:shuf(raw),i:0,ok:0,t:0,done:0,fb:"",pick:null,opts:null});
 }
@@ -554,9 +554,10 @@ function quiz(){
  }else{
   h+='<input type="text" id="an" autocomplete="off" placeholder="Nhập đáp án của em..." '+(v.done?"disabled":"")+' onkeydown="if(event.key===\'Enter\')ans()"><button '+(v.done?"disabled":"")+' onclick="ans()">Kiểm tra</button>';
  }
- h+='<div class="fb">'+v.fb+'</div>'+(v.done?'<button class="big" onclick="nextQ()">'+(v.i+1<v.qs.length?"Câu tiếp ➜":"Xem kết quả 🎉")+'</button>':'')+'</div>';A.innerHTML=h;var e=document.getElementById("an");if(e&&!v.done)e.focus();
+ h+='<div class="fb" role="status">'+v.fb+'</div>'+(v.done?'<button class="big" onclick="nextQ()">'+(v.i+1<v.qs.length?"Câu tiếp ➜":"Xem kết quả 🎉")+'</button>':'')+'</div>';A.innerHTML=h;var e=document.getElementById("an");if(e&&!v.done)e.focus();
 }
 function ans(i){
+ if(v.done)return;
  var q=v.qs[v.i],ok=false;
  if(q.type==="mcq"){ok=String(v.opts[i])===String(q.answer);v.pick=i;}
  else if(q.type==="tf"){ok=Boolean(i)===Boolean(q.answer);}
@@ -745,9 +746,9 @@ function gameResult(){
 (function(){
  var legacyLesson=lesson;
  var subjectTheme={
-  toan:{color:"#477cf4",emoji:"🧮",deco:"🔢",tag:"TƯ DUY LOGIC",desc:"Khám phá những con số, hình học và thử thách tư duy."},
-  tv:{color:"#ed8b45",emoji:"📚",deco:"✍️",tag:"THẾ GIỚI NGÔN TỪ",desc:"Đọc những câu chuyện hay, khám phá tiếng Việt giàu đẹp."},
-  ta:{color:"#28a879",emoji:"🌍",deco:"🔤",tag:"ENGLISH ADVENTURE",desc:"Học từ mới, luyện giao tiếp và mở cánh cửa thế giới."}
+  toan:{color:"#284da7",emoji:"🧮",deco:"🔢",tag:"TƯ DUY LOGIC",desc:"Khám phá những con số, hình học và thử thách tư duy."},
+  tv:{color:"#187353",emoji:"📚",deco:"✍️",tag:"THẾ GIỚI NGÔN TỪ",desc:"Đọc những câu chuyện hay, khám phá tiếng Việt giàu đẹp."},
+  ta:{color:"#a54a16",emoji:"🌍",deco:"🔤",tag:"ENGLISH ADVENTURE",desc:"Học từ mới, luyện giao tiếp và mở cánh cửa thế giới."}
  };
  function completed(){return Object.keys(P.les||{}).filter(function(k){return P.les[k]>0}).length}
  function totalLessons(){return L.length}
@@ -755,17 +756,27 @@ function gameResult(){
  function subjectDone(s){return ofS(s).filter(function(l){return P.les[l[0]]>0}).length}
  function escText(x){return esc(String(x==null?"":x))}
  home=function(){
-  var nx=nextLesson(),done=completed(),total=totalLessons(),percent=total?Math.round(done/total*100):0;
-  var subjectCards=["toan","tv","ta"].map(function(s){
-   var d=S[s],t=subjectTheme[s],p=pct(s),count=subjectCount(s),finished=subjectDone(s);
-   return '<div class="card sub kw-subject" data-deco="'+t.deco+'" style="background:linear-gradient(145deg,'+t.color+','+t.color+'dd)" onclick="go({p:\'subj\',s:\''+s+'\'})"><div class="em">'+d.e+'</div><span class="kw-eyebrow">'+t.tag+'</span><h2>'+d.n+'</h2><div class="kw-desc">'+t.desc+'</div><div class="kw-progress"><span>'+finished+'/'+count+' bài hoàn thành</span><span>'+p+'%</span></div><div class="bar"><i style="width:'+p+'%"></i></div></div>';
+  var nx=nextLesson(),done=completed(),total=totalLessons();
+  var last=byId(P.lastLesson),resume=last&&(!P.les[last[0]]?last:ofS(last[1]).find(function(item){return !P.les[item[0]];}));
+  nx=resume||nx;
+  var names={toan:"Vương quốc Toán",tv:"Vườn Tiếng Việt",ta:"Đảo Tiếng Anh"};
+  var descriptions={toan:"Tính toán và khám phá hình học",tv:"Đọc chuyện, luyện từ và viết",ta:"Nghe, nói và học từ mới"};
+  var cards=["toan","tv","ta"].map(function(key){
+   var done=subjectDone(key),count=subjectCount(key);
+   return '<button type="button" class="adventure-world '+key+'" onclick="go({p:\'subj\',s:\''+key+'\'})">'+
+    '<span class="adventure-icon" aria-hidden="true">'+S[key].e+'</span>'+
+    '<strong>'+names[key]+'</strong><span>'+descriptions[key]+'</span>'+
+    '<span class="adventure-meter" aria-hidden="true"><i style="width:'+pct(key)+'%"></i></span>'+
+    '<small>'+done+' / '+count+' bài <span aria-hidden="true">→</span></small></button>';
   }).join("");
-  var badges=BADGES.map(function(b){var ok=P.bd.indexOf(b[0])>=0;return '<div class="kw-badge '+(ok?"":"locked")+'">'+(ok?b[1]:"🔒 "+escText(b[1].replace(/^\S+ /,"")))+'</div>'}).join("");
-  A.innerHTML='<section class="kw-welcome"><div><span class="kw-eyebrow">✨ KIDS LEARNING WORLD · LỚP 3</span><h2>Xin chào '+escText(P.name)+'! Sẵn sàng cho chuyến phiêu lưu hôm nay?</h2><p>Mỗi bài học là một vùng đất mới. Hãy khám phá, luyện tập và thu thập những ngôi sao tri thức nhé!</p><div class="kw-actions">'+(nx?'<button class="big" onclick="go({p:\'lesson\',id:\''+nx[0]+'\'})">🚀 Tiếp tục: '+escText(nx[2])+'</button>':'<button class="big" onclick="chal()">🏆 Ôn tập tổng hợp</button>')+'<button class="ghost" onclick="go({p:\'games\'})">🎮 Vào khu trò chơi</button></div></div></section>'+
-  '<section class="kw-stats"><div class="kw-stat"><strong>✨ '+P.xp+'</strong><span>ĐIỂM KINH NGHIỆM</span></div><div class="kw-stat"><strong>📘 '+done+'/'+total+'</strong><span>BÀI ĐÃ HOÀN THÀNH</span></div><div class="kw-stat"><strong>🌈 '+percent+'%</strong><span>HÀNH TRÌNH TRI THỨC</span></div></section>'+
-  '<div class="kw-section-head"><div><h2>🗺️ Chọn vùng đất khám phá</h2><p>Ba môn học – ba hành trình kỳ thú</p></div></div><div class="grid">'+subjectCards+'</div>'+
-  '<div class="kw-section-head"><div><h2>🏅 Bộ sưu tập huy hiệu</h2><p>Những dấu mốc đáng tự hào của em</p></div></div><div class="kw-badge-panel">'+badges+'</div>'+
-  '<p style="margin-top:22px"><button class="ghost" onclick="go({p:\'prof\'})">👤 Hồ sơ & sao lưu tiến độ</button></p>';
+  var unlocked=BADGES.filter(function(b){return P.bd.indexOf(b[0])>=0;});
+  A.innerHTML='<div class="adventure-home"><section class="adventure-hero"><div>'+
+   '<h1>Chào '+escText(P.name)+'!</h1><p>Hôm nay mình cùng học bài nào?</p>'+
+   (nx?'<button type="button" class="adventure-primary" onclick="go({p:\'lesson\',id:\''+nx[0]+'\'})">'+(last||done?'Học tiếp':'Bắt đầu học')+' <span aria-hidden="true">→</span></button><small class="adventure-next">'+escText(nx[2])+'</small>':'<button type="button" class="adventure-primary" onclick="chal()">Ôn tập tổng hợp</button>')+
+   '</div><div class="adventure-fox" aria-hidden="true">🦊</div></section>'+
+   '<section aria-labelledby="worlds-title"><div class="adventure-heading"><h2 id="worlds-title">Chọn môn học</h2><span>'+done+' / '+total+' bài đã học</span></div><div class="adventure-grid">'+cards+'</div></section>'+
+   '<section class="adventure-extra"><h2>Chơi và luyện tập</h2><button class="big" onclick="go({p:\'games\'})">🎮 Chọn trò chơi</button><button class="ghost" onclick="chal()">⚡ Thử thách nhanh</button></section>'+
+   (unlocked.length?'<section><h2>Huy hiệu của em</h2><div class="kw-badge-panel">'+unlocked.map(function(b){return '<div class="kw-badge">'+escText(b[1])+'</div>';}).join("")+'</div></section>':'')+'</div>';
  };
  subj=function(){
   var d=S[v.s],t=subjectTheme[v.s],q=v.q||"",p=pct(v.s);
@@ -778,7 +789,7 @@ function gameResult(){
   var html=Object.keys(groups).map(function(topic){
    return '<div class="kw-topic-title">'+escText(topic)+'</div>'+groups[topic].map(function(l,i){
     var score=P.les[l[0]]||0,status=score>=3?'<span class="kw-status done">✓ Hoàn thành</span>':score>0?'<span class="kw-status started">↗ Đang học</span>':'<span class="kw-status">Chưa học</span>';
-    return '<div class="kw-lesson" onclick="go({p:\'lesson\',id:\''+l[0]+'\'})"><div class="kw-number">'+(i+1)+'</div><div class="kw-main"><div class="kw-title">'+escText(l[2])+'</div><small>SGK trang '+l[3][0]+'–'+l[3][1]+'</small></div>'+status+'</div>';
+    return '<button type="button" class="kw-lesson" onclick="go({p:\'lesson\',id:\''+l[0]+'\'})"><div class="kw-number">'+(i+1)+'</div><div class="kw-main"><div class="kw-title">'+escText(l[2])+'</div><small>SGK trang '+l[3][0]+'–'+l[3][1]+'</small></div>'+status+'</button>';
    }).join("");
   }).join("");
   document.getElementById("ls").innerHTML=html||'<div class="card">Chưa tìm thấy bài học. Em thử từ khóa khác nhé! 🔎</div>';
@@ -899,6 +910,45 @@ function gameResult(){
 })();
 </script>
 
+
+<style>
+.adventure-home{color:#172c45}
+.adventure-hero{isolation:isolate;position:relative;overflow:hidden;display:grid;grid-template-columns:minmax(0,1fr) minmax(130px,32%);align-items:center;gap:24px;padding:clamp(23px,5vw,56px);border-radius:32px;background:#123d38;color:#fff9e9;box-shadow:0 8px 0 #c5ded0}
+.adventure-hero h1{margin:0;font-size:clamp(35px,6vw,66px);line-height:1.05;overflow-wrap:anywhere}
+.adventure-hero p{margin:14px 0 20px;color:#e0eee2}
+.adventure-fox{position:relative;display:grid;place-items:center;aspect-ratio:1;border-radius:50%;background:radial-gradient(circle at 34% 32%,#fef7bd,#ffcf70 70%);color:#192b2c;font-size:clamp(71px,14vw,150px);box-shadow:0 0 0 10px #ffffff15}
+.adventure-next{display:block;margin-top:8px;color:#e0eee2;overflow-wrap:anywhere}
+.adventure-primary{min-height:50px;margin:0;color:#282615;background:#ffd86d}
+.adventure-heading{display:flex;flex-wrap:wrap;align-items:baseline;justify-content:space-between;gap:6px;margin:28px 0 12px}
+.adventure-heading h2{margin:0;color:#172c45}
+.adventure-heading span{font-size:15px;color:#456076}
+.adventure-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}
+button.adventure-world{display:grid;justify-items:start;align-content:start;gap:8px;width:100%;margin:0;padding:20px;text-align:left;border:1px solid var(--edge);border-radius:24px;background:var(--surface);color:#172c45;box-shadow:0 5px 0 var(--edge)}
+.adventure-world.toan{--surface:#e7efff;--edge:#b9c9ef;--accent:#294dac}
+.adventure-world.tv{--surface:#e6f6e9;--edge:#aecfb7;--accent:#176945}
+.adventure-world.ta{--surface:#fff0dc;--edge:#e8c59d;--accent:#9b451b}
+.adventure-world strong{font-size:clamp(19px,2.5vw,27px);color:var(--accent)}
+.adventure-world>span:not(.adventure-icon){font-size:15px;font-weight:600}
+.adventure-icon{display:grid;place-items:center;width:61px;height:61px;border-radius:20px;background:#ffffffd9;font-size:34px}
+.adventure-meter{width:100%;height:8px;background:var(--edge);border-radius:8px;overflow:hidden}
+.adventure-meter i{display:block;height:100%;background:var(--accent)}
+.adventure-world small{display:flex;justify-content:space-between;width:100%;color:var(--accent)}
+.adventure-extra{margin:25px 0 0;padding:17px 20px;background:white;border:1px solid #d8e4ed;border-radius:22px}
+.adventure-extra h2{margin:0 0 7px}
+#ls button.kw-lesson{width:100%;text-align:left;color:#172c45}
+#app button:not(.kw-nav-btn){min-height:44px}
+#app .fb{overflow-wrap:anywhere}
+@media(max-width:680px){
+ .adventure-hero{grid-template-columns:minmax(0,1fr) 84px;gap:12px;border-radius:25px}
+ .adventure-fox{font-size:57px}
+ .adventure-grid{grid-template-columns:1fr;gap:12px}
+ button.adventure-world{grid-template-columns:54px minmax(0,1fr);gap:4px 12px;padding:13px}
+ .adventure-icon{grid-row:span 4;width:54px;height:54px;align-self:center}
+ .adventure-heading span{font-size:14px}
+ header>b{white-space:normal}
+ #hd .kw-nav-btn{min-height:44px}
+}
+</style>
 <script src="content/system/lesson-content.js"></script>
 </body></html>
 

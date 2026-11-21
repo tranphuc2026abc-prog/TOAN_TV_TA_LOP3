@@ -1,58 +1,30 @@
-# Tiến độ mới nhất — Batch 23 — 09/11/2026
+# Hành trình tri thức – Lớp 3
 
-**89/168 mục đã tích hợp: Toán 81/81, Tiếng Việt 8/62; 3.368 câu, 89 trò chơi.** Giáo viên đã duyệt 4 bài Toán đầu; 85 bài chờ duyệt. Còn 54 bài Tiếng Việt và 25 mục Tiếng Anh. Hai batch mới gồm TV1–4 và TV5–8, đọc trực quan nguồn, viết câu hỏi/hoạt động mới. npm test đạt trên 89 bài, giữ toàn bộ hồi quy Toán. Chưa kiểm thử Chromium thật. Xem [tiến độ](content/system/PROGRESS.md) và [kiểm tra](content/system/AUDIT_REPORT.md).
+Website tự học Toán, Tiếng Việt và Tiếng Anh cho học sinh lớp 3.
 
-## Lịch sử
+[Mở website](https://tranphuc2026abc-prog.github.io/TOAN_TV_TA_LOP3/) · [Lịch sử học liệu](content/system/PROGRESS.md)
 
-# Tiến độ mới nhất — Batch 22 — 09/11/2026
+| Môn | Mục học | Câu luyện tập | Trò chơi theo bài |
+| --- | ---: | ---: | ---: |
+| Toán | 81 | 3.240 | 81 |
+| Tiếng Việt | 62 | 776 | 62 |
+| Tiếng Anh | 25 | 300 | 25 |
+| Tổng | 168 | 4.316 | 168 |
 
-**85/168 mục đã tích hợp: đủ 81 bài Toán và 4 bài Tiếng Việt đầu tiên; 3.304 câu, 85 trò chơi.** Giáo viên đã duyệt Toán 1–4; 81 bài còn chờ duyệt. Còn 58 bài Tiếng Việt và 25 mục Tiếng Anh. Đã đọc trực quan nguồn TV1–4, biên soạn bài tập mới; không đăng toàn văn sách. npm test đạt trên 85 bài, giữ hồi quy Toán và bổ sung DOM ngôn ngữ. Chưa có kiểm thử Chromium thật. Chi tiết tại [tiến độ](content/system/PROGRESS.md) và [báo cáo kiểm tra](content/system/AUDIT_REPORT.md).
+Học liệu theo Toán và Tiếng Việt Kết nối tri thức với cuộc sống, Tiếng Anh Global Success. 25 mục Tiếng Anh gồm Starter, 20 Unit và 4 Review. Tiến độ lưu theo hồ sơ trên trình duyệt. Có thể xuất và nhập bản sao lưu trong mục Hồ sơ.
 
-## Lịch sử
+## Rà soát học liệu
 
-# Tiến độ mới nhất — 09/11/2026
+Đối chiếu ở mức danh mục với [Chương trình GDPT ban hành theo Thông tư 32/2018/TT-BGDĐT](https://moet.gov.vn/content/vanban/Lists/VBPQ/Attachments/1483/vbhn-ttu-322018-202021-132022-ttbgddt.pdf). [Thông tư 17/2025/TT-BGDĐT](https://vanban.chinhphu.vn/?docid=215347&pageid=27160) điều chỉnh nội dung ở các môn khác với phạm vi ba môn của dự án.
 
-**76/168 mục đã tích hợp: Toán 1–76, 3.040 câu và 76 trò chơi.** Batch 19 bổ sung Toán 73–76 về số liệu, khả năng xảy ra của sự kiện và ôn số đến 100 000, cùng 3 SVG mới. Giáo viên đã duyệt Toán 1–4; 72 bài chờ giáo viên duyệt. Còn 92 mục: Toán 77–81, Tiếng Việt 62 bài, Tiếng Anh 25 mục.
+| Môn | Mạch nội dung thể hiện trong danh mục và học liệu |
+| --- | --- |
+| Toán | Số và phép tính đến 100.000, hình học và đo lường, bảng số liệu và khả năng xảy ra của sự kiện |
+| Tiếng Việt | Đọc hiểu, luyện từ và câu, chính tả, viết, nói và nghe |
+| Tiếng Anh | Từ vựng, mẫu câu, phát âm và thực hành nghe, nói, đọc, viết theo chủ đề gần gũi |
 
-Bộ kiểm tra dữ liệu, hồi quy và DOM đạt; chưa kiểm thử Chromium thật. Xem [tiến độ](content/system/PROGRESS.md), [báo cáo kiểm tra](content/system/AUDIT_REPORT.md). Tiếp tục Toán → Tiếng Việt → Tiếng Anh.
+Kiểm tra trực tiếp 168 tệp JSON theo chỉ mục: mỗi câu có ID riêng, nội dung, đáp án và lời giải. Mỗi câu trắc nghiệm có đúng một lựa chọn khớp đáp án lưu trong dữ liệu. Tính lại 234 phép tính một bước có đề và đáp án xác định được bằng mẫu văn bản, tất cả khớp. Bốn bài Toán đầu đã được giáo viên duyệt, 164 mục còn chờ giáo viên duyệt theo [APPROVALS.json](content/system/APPROVALS.json). Việc đối chiếu từng yêu cầu cần đạt và kiểm định từng câu ngôn ngữ cần rà soát chuyên môn riêng.
 
----
+## Chạy kiểm thử
 
-# Tiến độ mới nhất — 08/11/2026
-
-**68/168 mục đã tích hợp: Toán 1–68, 2720 câu và 68 trò chơi.** Nhóm mới nhất Toán 65–68 có ôn cộng/trừ, đồng hồ, lịch, tiền Việt Nam; ba SVG tự dựng và hoạt động thực hành. Toán 1–4 đã được giáo viên duyệt, 64 bài mới chờ thẩm định. Còn 100 mục: Toán 69–81, Tiếng Việt 62 bài và Tiếng Anh 25 mục.
-
-Bộ kiểm tra dữ liệu, hồi quy và DOM đạt; chưa kiểm thử Chromium thật. Xem [tiến độ](content/system/PROGRESS.md), [báo cáo kiểm tra](content/system/AUDIT_REPORT.md). Tiếp tục Toán → Tiếng Việt → Tiếng Anh.
-
----
-
-# Tiến độ mới nhất — 08/11/2026
-
-**64/168 mục đã có học liệu riêng: Toán 1–64, 2560 câu và 64 trò chơi.** Toán 1–4 đã được thầy thẩm định; 60 bài mới chờ thầy thẩm định. Còn Toán 65–81, Tiếng Việt 62 bài và Tiếng Anh 25 mục. Nhóm mới nhất: Toán 61–64, làm tròn số và cộng/trừ trong phạm vi 100000. Bộ kiểm tra dữ liệu, hồi quy và DOM đạt; chưa kiểm thử Chromium thật.
-
-Xem [tiến độ chi tiết](content/system/PROGRESS.md) và [báo cáo kiểm tra](content/system/AUDIT_REPORT.md). Tiếp tục theo thứ tự Toán → Tiếng Việt → Tiếng Anh.
-
----
-
-# Cập nhật Batch 6 — 07/11/2026
-
-**24 bài Toán có học liệu riêng, 960 câu và 24 trò chơi**. Bổ sung Bài 21–24 và năm SVG mới. Toán 1–4 đã được thầy thẩm định; Toán 5–24 chờ thẩm định; còn 144 mục bản nháp. [Tiến độ chi tiết](content/system/PROGRESS.md).
-
----
-
-# Cập nhật Batch 5 — 07/11/2026
-
-**20 bài Toán có học liệu riêng, 800 câu và 20 trò chơi**. Thêm Bài 17–20, sáu SVG và lưới vẽ tương tác cho Bài 20. Bài 1–4 đã được giáo viên thẩm định; Bài 5–20 chờ thẩm định; còn 148 mục bản nháp. Chi tiết mới nhất: [PROGRESS.md](content/system/PROGRESS.md).
-
----
-
-# Tiến độ mới nhất — 07/11/2026
-
-**16 bài Toán có học liệu riêng, 640 câu và 16 trò chơi**. Bài 1–4 đã được thầy Nguyễn Thế Khanh thẩm định; Bài 5–16 chờ thẩm định. Còn 152 mục bản nháp. Đang tiếp tục theo thứ tự **Toán → Tiếng Việt → Tiếng Anh**. Xem [tiến độ](content/system/PROGRESS.md) và [báo cáo kiểm tra](content/system/AUDIT_REPORT.md).
-
----
-
-undefined
-## Cập nhật Batch 3 — 07/11/2026
-
-Đã có **12 bài Toán, 480 câu và 12 trò chơi**. Batch 3 bổ sung Bài 9–12 và bảng tra nhân/chia cho Bài 12. Bốn bài Batch 1 đã được giáo viên thẩm định; tám bài mới chờ thẩm định; 156 mục còn lại vẫn là bản nháp. Bộ kiểm thử DOM hiện hành: `scripts/test_content_dom.cjs`. Trạng thái đầy đủ nằm trong `content/system/PROGRESS.md`.
+Cài Node.js và Python 3, sau đó chạy `npm ci` và `npm test`. Bộ kiểm thử bao gồm kiểm tra dữ liệu, hồi quy và các luồng DOM. Website dùng HTML, CSS và JavaScript thuần.
