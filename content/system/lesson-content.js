@@ -13,11 +13,18 @@
         reference_table:q.reference_table?content[id].reference_table:null};
     });
   }
-  function sample(id) {
+  var lastPractice = Object.create(null);
+  function sample(id, previous) {
     var all=bankFor(id), out=[];
-    if(content[id].subject!=='toan')return shuf(all).slice(0,content[id].assessment.session_size);
+    function ordered(pool){
+      var shuffled=shuf(pool);
+      if(!previous)return shuffled;
+      return shuffled.filter(function(q){return !previous.has(q.question_id);})
+        .concat(shuffled.filter(function(q){return previous.has(q.question_id);}));
+    }
+    if(content[id].subject!=='toan')return ordered(all).slice(0,content[id].assessment.session_size);
     [['nhan_biet',3],['thong_hieu',3],['van_dung',4]].forEach(function(pair){
-      out=out.concat(shuf(all.filter(function(q){return q.difficulty===pair[0];})).slice(0,pair[1]));
+      out=out.concat(ordered(all.filter(function(q){return q.difficulty===pair[0];})).slice(0,pair[1]));
     });
     return shuf(out);
   }
@@ -25,8 +32,9 @@
   startQ=function(id, mode){
     if(content[id]&&mode==null)mode='all';
     if(!content[id]||typeof mode!=='string')return previousStart(id,mode);
-    var questions=mode==='all'?sample(id):shuf(bankFor(id).filter(function(q){return q.type===mode;})).slice(0,10);
+    var questions=mode==='all'?sample(id,lastPractice[id]):shuf(bankFor(id).filter(function(q){return q.type===mode;})).slice(0,10);
     if(!questions.length){toast('Bài này hiện có trắc nghiệm và điền đáp án.');return;}
+    if(mode==='all')lastPractice[id]=new Set(questions.map(function(q){return q.question_id;}));
     go({p:'quiz',id:id,qs:questions,i:0,ok:0,t:0,done:0,fb:'',pick:null,opts:null});
   };
   ans=function(i){
@@ -135,6 +143,13 @@
       '<button class="big" onclick="startLessonGame(\''+c.id+'\')">Bắt đầu trò chơi</button>'+
       '<h3>⭐ Tự đánh giá</h3><p>'+esc(c.assessment.scoring)+'</p><p>'+esc(c.assessment.review_advice)+'</p>';
     card.querySelectorAll('[data-english-audio]').forEach(function(button){button.addEventListener('click',function(){window.playLessonEnglish(Number(button.dataset.englishAudio));});});
+    var actions=document.createElement('nav');
+    actions.className='lesson-quick-actions';
+    actions.setAttribute('aria-label','Hoạt động trong bài');
+    actions.innerHTML='<button type="button" class="big">Luyện tập</button><button type="button" class="ghost">Chơi theo bài</button>';
+    actions.children[0].onclick=function(){startQ(c.id,'all');};
+    actions.children[1].onclick=function(){startLessonGame(c.id);};
+    card.insertBefore(actions,card.children[2]||null);
     if(c.drawing_practice)window.setGeometryMode('rectangle');
   };
   gameQuestions=function(){
