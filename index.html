@@ -448,14 +448,14 @@ function ofS(s){return L.filter(function(l){return l[1]==s})}
 function stars(n){return"⭐".repeat(n)+"☆".repeat(3-n)}
 function shuf(a){a=a.slice();for(var i=a.length-1;i>0;i--){var j=Math.floor(Math.random()*(i+1)),t=a[i];a[i]=a[j];a[j]=t}return a}
 function toast(t){var d=document.createElement("div");d.className="toast";d.textContent=t;document.body.appendChild(d);setTimeout(function(){d.remove()},3500)}
-function say(t){
+function say(t,lang){
  try{
   if(!("speechSynthesis" in window)||!("SpeechSynthesisUtterance" in window)){toast("Trình duyệt chưa hỗ trợ giọng đọc. Hãy mở bằng Chrome hoặc Safari.");return}
   var text=String(t).replace(/[→/]/g," ").trim();
   if(!text)return;
   var synth=window.speechSynthesis;
   var u=new SpeechSynthesisUtterance(text);
-  var isVi=/[ăâêôơưđ]/i.test(text);
+  var isVi=lang==="vi-VN";
   u.lang=isVi?"vi-VN":"en-US";
   var voices=synth.getVoices?synth.getVoices():[];
   var voice=voices.filter(function(v){return isVi?/^vi(-|$)/i.test(v.lang):/^en-US$/i.test(v.lang)})[0];
@@ -539,7 +539,7 @@ function practiceBank(l){
 function startQ(id,qs){
  var l=id?byId(id):null,mode=typeof qs==="string"?qs:"all",raw;
  if(typeof qs==="string")raw=practiceBank(l).filter(function(q){return mode==="all"||q.type===mode;});
- else if(Array.isArray(qs))raw=qs.map(function(q){return {type:Array.isArray(q[2])?"mcq":"fill",prompt:String(q[0]),answer:String(q[1]),wrong:Array.isArray(q[2])?q[2].map(String):[],id:q[q.length-1]||id};});
+ else if(Array.isArray(qs))raw=qs.map(function(q){if(!Array.isArray(q))return q;return {type:Array.isArray(q[2])?"mcq":"fill",prompt:String(q[0]),answer:String(q[1]),wrong:Array.isArray(q[2])?q[2].map(String):[],id:q[q.length-1]||id};});
  else raw=practiceBank(l);
  go({p:"quiz",id:id,qs:shuf(raw),i:0,ok:0,t:0,done:0,fb:"",pick:null,opts:null});
 }
@@ -554,9 +554,10 @@ function quiz(){
  }else{
   h+='<input type="text" id="an" autocomplete="off" placeholder="Nhập đáp án của em..." '+(v.done?"disabled":"")+' onkeydown="if(event.key===\'Enter\')ans()"><button '+(v.done?"disabled":"")+' onclick="ans()">Kiểm tra</button>';
  }
- h+='<div class="fb">'+v.fb+'</div>'+(v.done?'<button class="big" onclick="nextQ()">'+(v.i+1<v.qs.length?"Câu tiếp ➜":"Xem kết quả 🎉")+'</button>':'')+'</div>';A.innerHTML=h;var e=document.getElementById("an");if(e&&!v.done)e.focus();
+ h+='<div class="fb" role="status">'+v.fb+'</div>'+(v.done?'<button class="big" onclick="nextQ()">'+(v.i+1<v.qs.length?"Câu tiếp ➜":"Xem kết quả 🎉")+'</button>':'')+'</div>';A.innerHTML=h;var e=document.getElementById("an");if(e&&!v.done)e.focus();
 }
 function ans(i){
+ if(v.done)return;
  var q=v.qs[v.i],ok=false;
  if(q.type==="mcq"){ok=String(v.opts[i])===String(q.answer);v.pick=i;}
  else if(q.type==="tf"){ok=Boolean(i)===Boolean(q.answer);}
